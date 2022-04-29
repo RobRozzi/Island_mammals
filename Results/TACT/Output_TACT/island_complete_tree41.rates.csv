@@ -1,0 +1,1573 @@
+taxon,birth,death,ccp,source
+‘  TAXONOMY ROOT  ’,0.27358971280253874,0.18476385885652347,0.9999826236921613,computed
+Mammalia,0.27358971280253874,0.18476385885652347,0.9999826236921613,computed
+Afrosoricida,0.10465790977164353,0.05924319507407155,0.9981203007518797,computed
+Chrysochloridae,0.16761103990180565,0.06298485260146215,1.0,computed
+Amblysomus,0.16761103990180565,0.06298485260146215,0.0,from Chrysochloridae (not monophyletic)
+Calcochloris,0.16761103990180565,0.06298485260146215,1.0,from Chrysochloridae (cherry)
+Carpitalpa,0.16761103990180565,0.06298485260146215,0,from Chrysochloridae (singleton)
+Chlorotalpa,0.16761103990180565,0.06298485260146215,1.0,from Chrysochloridae (cherry)
+Chrysochloris,0.16761103990180565,0.06298485260146215,0.0,from Chrysochloridae (not monophyletic)
+Chrysospalax,0.16761103990180565,0.06298485260146215,1.0,from Chrysochloridae (cherry)
+Cryptochloris,0.16761103990180565,0.06298485260146215,1.0,from Chrysochloridae (cherry)
+Eremitalpa,0.16761103990180565,0.06298485260146215,0,from Chrysochloridae (singleton)
+Huetia,0.16761103990180565,0.06298485260146215,0,from Chrysochloridae (singleton)
+Neamblysomus,0.16761103990180565,0.06298485260146215,1.0,from Chrysochloridae (cherry)
+Incertae sedis in Afrosoricida,0.10465790977164353,0.05924319507407155,0.0,from Afrosoricida (unsampled)
+Plesiorycteropus,0.10465790977164353,0.05924319507407155,0.0,from Incertae sedis in Afrosoricida (unsampled)
+Tenrecidae,0.06143397618110698,0.00868058385701384,0.9983193277310924,computed
+Echinops,0.06143397618110698,0.00868058385701384,0,from Tenrecidae (singleton)
+Geogale,0.06143397618110698,0.00868058385701384,0,from Tenrecidae (singleton)
+Hemicentetes,0.06143397618110698,0.00868058385701384,1.0,from Tenrecidae (cherry)
+Limnogale,0.06143397618110698,0.00868058385701384,0,from Tenrecidae (singleton)
+Microgale,0.06143397618110698,0.00868058385701384,0.0,from Tenrecidae (not monophyletic)
+Micropotamogale,0.06143397618110698,0.00868058385701384,1.0,from Tenrecidae (cherry)
+Oryzorictes,0.06143397618110698,0.00868058385701384,1.0,from Tenrecidae (cherry)
+Potamogale,0.06143397618110698,0.00868058385701384,0,from Tenrecidae (singleton)
+Setifer,0.06143397618110698,0.00868058385701384,0,from Tenrecidae (singleton)
+Tenrec,0.06143397618110698,0.00868058385701384,0,from Tenrecidae (singleton)
+Carnivora,0.28029989100258845,0.13454521849580064,0.9994615695248351,computed
+Ailuridae,0.28029989100258845,0.13454521849580064,0,from Carnivora (singleton)
+Ailurus,0.28029989100258845,0.13454521849580064,0,from Ailuridae (singleton)
+Canidae,0.33984351562018916,0.0,0.9928443649373881,computed
+Atelocynus,0.33984351562018916,0.0,0,from Canidae (singleton)
+Canis,0.33984351562018916,0.0,0.0,from Canidae (not monophyletic)
+Cerdocyon,0.33984351562018916,0.0,0,from Canidae (singleton)
+Chrysocyon,0.33984351562018916,0.0,0,from Canidae (singleton)
+Cuon,0.33984351562018916,0.0,0.0,from Canidae (crown capture probability)
+Cynotherium,0.33984351562018916,0.0,0.0,from Canidae (unsampled)
+Dusicyon,0.33984351562018916,0.0,1.0,from Canidae (cherry)
+Lycaon,0.33984351562018916,0.0,0,from Canidae (singleton)
+Nyctereutes,0.33984351562018916,0.0,0,from Canidae (singleton)
+Otocyon,0.33984351562018916,0.0,0,from Canidae (singleton)
+Pseudalopex,0.33984351562018916,0.0,0.0,from Canidae (not monophyletic)
+Speothos,0.33984351562018916,0.0,0,from Canidae (singleton)
+Urocyon,0.33984351562018916,0.0,1.0,from Canidae (cherry)
+Vulpes,0.33984351562018916,0.0,0.0,from Canidae (not monophyletic)
+Xenocyon,0.33984351562018916,0.0,0.0,from Canidae (unsampled)
+Eupleridae,0.18305623315812775,0.07407037526983615,0.9669421487603306,computed
+Cryptoprocta,0.18305623315812775,0.07407037526983615,0.6666666666666667,from Eupleridae (crown capture probability)
+Eupleres,0.18305623315812775,0.07407037526983615,0.0,from Eupleridae (cherry)
+Fossa,0.18305623315812775,0.07407037526983615,0,from Eupleridae (singleton)
+Galidia,0.18305623315812775,0.07407037526983615,0,from Eupleridae (singleton)
+Galidictis,0.18305623315812775,0.07407037526983615,1.0,from Eupleridae (cherry)
+Mungotictis,0.18305623315812775,0.07407037526983615,0,from Eupleridae (singleton)
+Salanoia,0.18305623315812775,0.07407037526983615,1.0,from Eupleridae (cherry)
+Felidae,0.36043677440567695,0.0,0.9966777408637874,computed
+Acinonyx,0.36043677440567695,0.0,0,from Felidae (singleton)
+Caracal,0.36043677440567695,0.0,1.0,from Felidae (cherry)
+Catopuma,0.36043677440567695,0.0,0.0,from Felidae (not monophyletic)
+Felis,0.4692265558794084,0.0,1.0,computed
+Hemimachairodus,0.36043677440567695,0.0,0.0,from Felidae (unsampled)
+Herpailurus,0.36043677440567695,0.0,0,from Felidae (singleton)
+Homotherium,0.36043677440567695,0.0,0,from Felidae (singleton)
+Leopardus,0.4386256459633887,0.0,1.0,computed
+Leptailurus,0.36043677440567695,0.0,0,from Felidae (singleton)
+Lynx,0.25176747273554073,0.0,1.0,computed
+Miracinonyx,0.36043677440567695,0.0,0,from Felidae (singleton)
+Neofelis,0.36043677440567695,0.0,0.6666666666666667,from Felidae (crown capture probability)
+Otocolobus,0.36043677440567695,0.0,0,from Felidae (singleton)
+Panthera,0.2842137675744474,0.0,0.9333333333333333,computed
+Pardofelis,0.36043677440567695,0.0,0,from Felidae (singleton)
+Prionailurus,0.1814801856674548,0.0,1.0,computed
+Puma,0.36043677440567695,0.0,0,from Felidae (singleton)
+Smilodon,0.36043677440567695,0.0,0,from Felidae (singleton)
+Herpestidae,0.23772272132001587,0.0,1.0,computed
+Atilax,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Bdeogale,0.31118496420521014,0.0,1.0,computed
+Crossarchus,0.19641257328644646,0.0,1.0,computed
+Cynictis,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Dologale,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Helogale,0.23772272132001587,0.0,1.0,from Herpestidae (cherry)
+Herpestes,0.23772272132001587,0.0,0.0,from Herpestidae (not monophyletic)
+Ichneumia,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Liberiictis,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Mungos,0.23772272132001587,0.0,1.0,from Herpestidae (cherry)
+Paracynictis,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Rhynchogale,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Suricata,0.23772272132001587,0.0,0,from Herpestidae (singleton)
+Hyaenidae,0.13723414228289438,0.0,0.9,computed
+Chasmaporthetes,0.13723414228289438,0.0,0.0,from Hyaenidae (unsampled)
+Crocuta,0.13723414228289438,0.0,0,from Hyaenidae (singleton)
+Hyaena,0.13723414228289438,0.0,1.0,from Hyaenidae (cherry)
+Proteles,0.13723414228289438,0.0,0,from Hyaenidae (singleton)
+Mephitidae,0.2074285797141659,0.1741013788207272,1.0,computed
+Conepatus,0.1353417577431584,0.0,1.0,computed
+Mephitis,0.2074285797141659,0.1741013788207272,1.0,from Mephitidae (cherry)
+Mydaus,0.2074285797141659,0.1741013788207272,1.0,from Mephitidae (cherry)
+Spilogale,0.3802115078517155,0.38008562438664456,1.0,computed
+Mustelidae,0.2200130468539439,0.0,0.99408014571949,computed
+Algarolutra,0.2200130468539439,0.0,0.0,from Mustelidae (unsampled)
+Aonyx,0.2200130468539439,0.0,0.0,from Mustelidae (not monophyletic)
+Arctonyx,0.2200130468539439,0.0,0.0,from Mustelidae (cherry)
+Eira,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Enhydra,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Enhydrictis,0.2200130468539439,0.0,0.0,from Mustelidae (unsampled)
+Galictis,0.2200130468539439,0.0,0.0,from Mustelidae (not monophyletic)
+Gulo,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Ictonyx,0.2200130468539439,0.0,0.0,from Mustelidae (not monophyletic)
+Lontra,0.49488824880517607,0.4940075961034604,1.0,computed
+Lutra,0.2200130468539439,0.0,0.0,from Mustelidae (not monophyletic)
+Lutrogale,0.2200130468539439,0.0,0.0,from Mustelidae (cherry)
+Lyncodon,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Martes,0.2200130468539439,0.0,0.0,from Mustelidae (not monophyletic)
+Megalenhydris,0.2200130468539439,0.0,0.0,from Mustelidae (unsampled)
+Meles,0.1150435568017889,0.0,1.0,computed
+Mellivora,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Melogale,0.1405400686660215,0.0,1.0,computed
+Mustela,0.2200130468539439,0.0,0.0,from Mustelidae (not monophyletic)
+Mustelercta,0.2200130468539439,0.0,0.0,from Mustelidae (unsampled)
+Neovison,0.2200130468539439,0.0,1.0,from Mustelidae (cherry)
+Oriensictis,0.2200130468539439,0.0,0.0,from Mustelidae (unsampled)
+Pannonictis,0.2200130468539439,0.0,0.0,from Mustelidae (unsampled)
+Poecilogale,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Pteronura,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Sardolutra,0.2200130468539439,0.0,0.0,from Mustelidae (unsampled)
+Taxidea,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Vormela,0.2200130468539439,0.0,0,from Mustelidae (singleton)
+Nandiniidae,0.28029989100258845,0.13454521849580064,0,from Carnivora (singleton)
+Nandinia,0.28029989100258845,0.13454521849580064,0,from Nandiniidae (singleton)
+Odobenidae,0.28029989100258845,0.13454521849580064,0,from Carnivora (singleton)
+Odobenus,0.28029989100258845,0.13454521849580064,0,from Odobenidae (singleton)
+Otariidae,0.43482450739689227,0.13082984181442964,1.0,computed
+Arctocephalus,0.43482450739689227,0.13082984181442964,0.0,from Otariidae (not monophyletic)
+Callorhinus,0.43482450739689227,0.13082984181442964,0,from Otariidae (singleton)
+Eumetopias,0.43482450739689227,0.13082984181442964,0,from Otariidae (singleton)
+Neophoca,0.43482450739689227,0.13082984181442964,0,from Otariidae (singleton)
+Otaria,0.43482450739689227,0.13082984181442964,0,from Otariidae (singleton)
+Phocarctos,0.43482450739689227,0.13082984181442964,0,from Otariidae (singleton)
+Zalophus,1.5585929063948532,0.0,1.0,computed
+Phocidae,0.2627635438254911,0.0,1.0,computed
+Cystophora,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Erignathus,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Halichoerus,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Histriophoca,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Hydrurga,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Leptonychotes,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Lobodon,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Mirounga,0.2627635438254911,0.0,1.0,from Phocidae (cherry)
+Monachus,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Neomonachus,0.2627635438254911,0.0,0.0,from Phocidae (not monophyletic)
+Ommatophoca,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Pagophilus,0.2627635438254911,0.0,0,from Phocidae (singleton)
+Phoca,0.2627635438254911,0.0,1.0,from Phocidae (cherry)
+Pusa,0.2627635438254911,0.0,0.0,from Phocidae (not monophyletic)
+Prionodontidae,0.28029989100258845,0.13454521849580064,1.0,from Carnivora (cherry)
+Prionodon,0.28029989100258845,0.13454521849580064,1.0,from Prionodontidae (cherry)
+Procyonidae,0.20783739260266043,0.15208501527948645,1.0,computed
+Bassaricyon,0.3474306709366399,0.3402861324705938,1.0,computed
+Bassariscus,0.20783739260266043,0.15208501527948645,1.0,from Procyonidae (cherry)
+Nasua,0.20783739260266043,0.15208501527948645,0.0,from Procyonidae (not monophyletic)
+Nasuella,0.20783739260266043,0.15208501527948645,1.0,from Procyonidae (cherry)
+Potos,0.20783739260266043,0.15208501527948645,0,from Procyonidae (singleton)
+Procyon,0.1906999407709967,0.0,1.0,computed
+Ursidae,0.17884633381668688,0.0910862658762703,1.0,computed
+Ailuropoda,0.17884633381668688,0.0910862658762703,0,from Ursidae (singleton)
+Arctodus,0.17884633381668688,0.0910862658762703,0,from Ursidae (singleton)
+Helarctos,0.17884633381668688,0.0910862658762703,0,from Ursidae (singleton)
+Melursus,0.17884633381668688,0.0910862658762703,0,from Ursidae (singleton)
+Tremarctos,0.17884633381668688,0.0910862658762703,0,from Ursidae (singleton)
+Ursus,0.17884633381668688,0.0910862658762703,0.0,from Ursidae (not monophyletic)
+Viverridae,0.35089686462493297,0.24127036146218916,0.9983193277310924,computed
+Arctictis,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Arctogalidia,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Chrotogale,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Civettictis,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Cynogale,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Diplogale,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Genetta,0.35089686462493297,0.24127036146218916,0.0,from Viverridae (not monophyletic)
+Hemigalus,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Macrogalidia,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Paguma,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Paradoxurus,0.4772477445014941,0.47718348107330866,1.0,computed
+Poiana,0.35089686462493297,0.24127036146218916,1.0,from Viverridae (cherry)
+Viverra,1.0000000282819324,1.0000000272819323,1.0,computed
+Viverricula,0.35089686462493297,0.24127036146218916,0,from Viverridae (singleton)
+Cetartiodactyla,0.351799380403044,0.23121026285105906,0.9991194353204277,computed
+Antilocapridae,0.351799380403044,0.23121026285105906,0,from Cetartiodactyla (singleton)
+Antilocapra,0.351799380403044,0.23121026285105906,0,from Antilocapridae (singleton)
+Balaenidae,0.351799380403044,0.23121026285105906,0.0,from Cetartiodactyla (not monophyletic)
+Balaena,0.351799380403044,0.23121026285105906,0,from Balaenidae (singleton)
+Eubalaena,0.351799380403044,0.23121026285105906,0.0,from Balaenidae (not monophyletic)
+Balaenopteridae,0.351799380403044,0.23121026285105906,0.0,from Cetartiodactyla (not monophyletic)
+Balaenoptera,0.351799380403044,0.23121026285105906,0.0,from Balaenopteridae (not monophyletic)
+Megaptera,0.351799380403044,0.23121026285105906,0,from Balaenopteridae (singleton)
+Bovidae,0.25444996462679315,0.0,0.9980490088965195,computed
+Addax,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Aepyceros,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Alcelaphus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Ammodorcas,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Ammotragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Antidorcas,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Antilope,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Arabitragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Beatragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Bibos,0.25444996462679315,0.0,0.0,from Bovidae (unsampled)
+Bison,0.25444996462679315,0.0,0.0,from Bovidae (not monophyletic)
+Bos,0.25444996462679315,0.0,0.0,from Bovidae (not monophyletic)
+Boselaphus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Bubalus,0.25444996462679315,0.0,0.7333333333333334,from Bovidae (crown capture probability)
+Budorcas,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Capra,0.25444996462679315,0.0,0.0,from Bovidae (not monophyletic)
+Capricornis,0.36459066312189353,0.0,0.9183673469387755,computed
+Cephalophus,0.25444996462679315,0.0,0.0,from Bovidae (not monophyletic)
+Connochaetes,0.25444996462679315,0.0,1.0,from Bovidae (cherry)
+Damaliscus,0.25444996462679315,0.0,1.0,from Bovidae (cherry)
+Dorcatragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Duboisia,0.25444996462679315,0.0,0.0,from Bovidae (unsampled)
+Epileptobos,0.25444996462679315,0.0,0.0,from Bovidae (unsampled)
+Eudorcas,0.32416321179051716,0.1298595849951778,1.0,computed
+Gazella,0.5990762968440274,0.0,1.0,computed
+Hemitragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Hippotragus,0.0760766258065702,0.0,1.0,computed
+Kobus,0.21433731752901164,0.0,1.0,computed
+Litocranius,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Madoqua,0.15053616711126144,0.08813689021903257,1.0,computed
+Myotragus,0.25444996462679315,0.0,0.0,from Bovidae (crown capture probability)
+Naemorhedus,0.156641456671898,0.0,1.0,computed
+Nanger,0.16501493052519534,0.0,1.0,computed
+Neotragus,0.25444996462679315,0.0,0.0,from Bovidae (not monophyletic)
+Nesogoral,0.25444996462679315,0.0,0.0,from Bovidae (unsampled)
+Nesotragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Nilgiritragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Oreamnos,0.25444996462679315,0.0,1.0,from Bovidae (cherry)
+Oreotragus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Oryx,0.36252557542134883,0.0,1.0,computed
+Ourebia,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Ovibos,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Ovis,0.3476727387403917,0.051085582701823645,1.0,computed
+Pantholops,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Pelea,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Philantomba,0.1221338141220789,0.0,1.0,computed
+Procapra,0.2003671262977341,0.199969703517059,1.0,computed
+Pseudois,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Pseudoryx,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Raphicerus,0.06284776128617352,0.0,1.0,computed
+Redunca,0.08440894286059193,0.0,1.0,computed
+Rupicapra,0.25444996462679315,0.0,1.0,from Bovidae (cherry)
+Saiga,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Sylvicapra,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Syncerus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Tetracerus,0.25444996462679315,0.0,0,from Bovidae (singleton)
+Tragelaphus,0.19258996756183408,0.0,1.0,computed
+Camelidae,0.33140475932728036,0.33140438299967084,1.0,computed
+Camelus,0.2164838470572883,0.21647976378576428,1.0,computed
+Lama,0.33140475932728036,0.33140438299967084,1.0,from Camelidae (cherry)
+Vicugna,0.33140475932728036,0.33140438299967084,0.0,from Camelidae (not monophyletic)
+Cervidae,0.44802269317182053,0.14463253120872366,0.9909255898366606,computed
+Alces,0.44802269317182053,0.14463253120872366,1.0,from Cervidae (cherry)
+Axis,0.4396272509451437,0.43948439006114065,0.9,computed
+Blastocerus,0.44802269317182053,0.14463253120872366,0,from Cervidae (singleton)
+Candiacervus,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (unsampled)
+Capreolus,0.44802269317182053,0.14463253120872366,0.6666666666666667,from Cervidae (crown capture probability)
+Cervus,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (not monophyletic)
+Dama,0.44802269317182053,0.14463253120872366,0.6666666666666667,from Cervidae (crown capture probability)
+Elaphodus,0.44802269317182053,0.14463253120872366,0,from Cervidae (singleton)
+Elaphurus,0.44802269317182053,0.14463253120872366,0,from Cervidae (singleton)
+Hippocamelus,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (not monophyletic)
+Hydropotes,0.44802269317182053,0.14463253120872366,0,from Cervidae (singleton)
+Mazama,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (not monophyletic)
+Megaloceros,0.44802269317182053,0.14463253120872366,0,from Cervidae (singleton)
+Muntiacini,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (unsampled)
+Muntiacus,0.5738620200929412,0.03387413720570303,1.0,computed
+Odocoileus,0.44802269317182053,0.14463253120872366,1.0,from Cervidae (cherry)
+Ozotoceros,0.44802269317182053,0.14463253120872366,0,from Cervidae (singleton)
+Praemegaceros,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (unsampled)
+Pudu,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (not monophyletic)
+Rangifer,0.44802269317182053,0.14463253120872366,0,from Cervidae (singleton)
+Rucervus,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (not monophyletic)
+Rusa,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (not monophyletic)
+Sinomegaceros,0.44802269317182053,0.14463253120872366,0.0,from Cervidae (unsampled)
+Delphinidae,0.351799380403044,0.23121026285105906,0.0,from Cetartiodactyla (not monophyletic)
+Cephalorhynchus,0.41506651425881247,0.0,1.0,computed
+Delphinus,0.351799380403044,0.23121026285105906,1.0,from Delphinidae (cherry)
+Feresa,0.351799380403044,0.23121026285105906,0,from Delphinidae (singleton)
+Globicephala,0.351799380403044,0.23121026285105906,1.0,from Delphinidae (cherry)
+Grampus,0.351799380403044,0.23121026285105906,0,from Delphinidae (singleton)
+Lagenodelphis,0.351799380403044,0.23121026285105906,0,from Delphinidae (singleton)
+Lagenorhynchus,0.351799380403044,0.23121026285105906,0.0,from Delphinidae (not monophyletic)
+Lissodelphis,0.351799380403044,0.23121026285105906,1.0,from Delphinidae (cherry)
+Orcaella,0.351799380403044,0.23121026285105906,1.0,from Delphinidae (cherry)
+Orcinus,0.351799380403044,0.23121026285105906,0,from Delphinidae (singleton)
+Peponocephala,0.351799380403044,0.23121026285105906,0,from Delphinidae (singleton)
+Pseudorca,0.351799380403044,0.23121026285105906,0,from Delphinidae (singleton)
+Sotalia,0.351799380403044,0.23121026285105906,1.0,from Delphinidae (cherry)
+Sousa,1.0000000282819324,1.0000000272819323,1.0,computed
+Stenella,0.351799380403044,0.23121026285105906,0.0,from Delphinidae (not monophyletic)
+Steno,0.351799380403044,0.23121026285105906,0,from Delphinidae (singleton)
+Tursiops,0.351799380403044,0.23121026285105906,0.0,from Delphinidae (not monophyletic)
+Eschrichtiidae,0.351799380403044,0.23121026285105906,0,from Cetartiodactyla (singleton)
+Eschrichtius,0.351799380403044,0.23121026285105906,0,from Eschrichtiidae (singleton)
+Giraffidae,0.351799380403044,0.23121026285105906,1.0,from Cetartiodactyla (cherry)
+Giraffa,0.351799380403044,0.23121026285105906,0,from Giraffidae (singleton)
+Okapia,0.351799380403044,0.23121026285105906,0,from Giraffidae (singleton)
+Hippopotamidae,0.351799380403044,0.23121026285105906,0.75,from Cetartiodactyla (crown capture probability)
+Choeropsis,0.351799380403044,0.23121026285105906,0,from Hippopotamidae (singleton)
+Hippopotamus,0.351799380403044,0.23121026285105906,0.6428571428571428,from Hippopotamidae (crown capture probability)
+Hoplitomerycidae,0.351799380403044,0.23121026285105906,0.0,from Cetartiodactyla (unsampled)
+Hoplitomeryx,0.351799380403044,0.23121026285105906,0.0,from Hoplitomerycidae (unsampled)
+Scontromeryx,0.351799380403044,0.23121026285105906,0.0,from Hoplitomerycidae (unsampled)
+Iniidae,0.08842985162850706,0.0636915732905795,1.0,computed
+Inia,0.44063165010719496,0.0,1.0,computed
+Lipotes,0.08842985162850706,0.0636915732905795,0,from Iniidae (singleton)
+Pontoporia,0.08842985162850706,0.0636915732905795,0,from Iniidae (singleton)
+Monodontidae,0.351799380403044,0.23121026285105906,1.0,from Cetartiodactyla (cherry)
+Delphinapterus,0.351799380403044,0.23121026285105906,0,from Monodontidae (singleton)
+Monodon,0.351799380403044,0.23121026285105906,0,from Monodontidae (singleton)
+Moschidae,0.40263215439741484,0.27298952254818554,1.0,computed
+Moschus,0.40263215439741484,0.27298952254818554,1.0,computed
+Neobalaenidae,0.351799380403044,0.23121026285105906,0,from Cetartiodactyla (singleton)
+Caperea,0.351799380403044,0.23121026285105906,0,from Neobalaenidae (singleton)
+Phocoenidae,0.38852589445185515,0.19510855846385033,1.0,computed
+Neophocaena,0.38852589445185515,0.19510855846385033,1.0,from Phocoenidae (cherry)
+Phocoena,0.38852589445185515,0.19510855846385033,0.0,from Phocoenidae (not monophyletic)
+Phocoenoides,0.38852589445185515,0.19510855846385033,0,from Phocoenidae (singleton)
+Physeteridae,0.053512196973763075,0.03261872612697327,1.0,computed
+Kogia,0.053512196973763075,0.03261872612697327,1.0,from Physeteridae (cherry)
+Physeter,0.053512196973763075,0.03261872612697327,0,from Physeteridae (singleton)
+Platanistidae,0.351799380403044,0.23121026285105906,0,from Cetartiodactyla (singleton)
+Platanista,0.351799380403044,0.23121026285105906,0,from Platanistidae (singleton)
+Suidae,0.5249507841840069,0.2668365805726024,0.9799498746867168,computed
+Babyrousa,0.24609734599585562,0.24607377554082438,1.0,computed
+Celebochoerus,0.5249507841840069,0.2668365805726024,0.0,from Suidae (unsampled)
+Hylochoerus,0.5249507841840069,0.2668365805726024,0,from Suidae (singleton)
+Phacochoerus,0.5249507841840069,0.2668365805726024,0.0,from Suidae (not monophyletic)
+Porcula,0.5249507841840069,0.2668365805726024,0,from Suidae (singleton)
+Potamochoerus,0.5249507841840069,0.2668365805726024,1.0,from Suidae (cherry)
+Sus,0.9450892186104984,0.0,0.96,computed
+Tayassuidae,0.06669970492888715,0.0,1.0,computed
+Catagonus,0.06669970492888715,0.0,0,from Tayassuidae (singleton)
+Pecari,0.06669970492888715,0.0,0,from Tayassuidae (singleton)
+Tayassu,0.06669970492888715,0.0,0,from Tayassuidae (singleton)
+Tragulidae,0.15911341918358787,0.14593320185764966,1.0,computed
+Hyemoschus,0.15911341918358787,0.14593320185764966,0,from Tragulidae (singleton)
+Moschiola,0.1156615453290194,0.0,1.0,computed
+Tragulus,0.14287168947851578,0.0,1.0,computed
+Ziphiidae,0.351799380403044,0.23121026285105906,0.0,from Cetartiodactyla (not monophyletic)
+Berardius,0.351799380403044,0.23121026285105906,1.0,from Ziphiidae (cherry)
+Hyperoodon,0.351799380403044,0.23121026285105906,1.0,from Ziphiidae (cherry)
+Indopacetus,0.351799380403044,0.23121026285105906,0,from Ziphiidae (singleton)
+Mesoplodon,0.351799380403044,0.23121026285105906,0.0,from Ziphiidae (not monophyletic)
+Tasmacetus,0.351799380403044,0.23121026285105906,0,from Ziphiidae (singleton)
+Ziphius,0.351799380403044,0.23121026285105906,0,from Ziphiidae (singleton)
+Chiroptera,0.22574261650604577,0.10742822247625314,0.9999820969058679,computed
+Craseonycteridae,0.22574261650604577,0.10742822247625314,0,from Chiroptera (singleton)
+Craseonycteris,0.22574261650604577,0.10742822247625314,0,from Craseonycteridae (singleton)
+Emballonuridae,0.09589430048152389,0.0,1.0,computed
+Balantiopteryx,0.03266671638635453,0.0,1.0,computed
+Centronycteris,0.09589430048152389,0.0,1.0,from Emballonuridae (cherry)
+Coleura,0.11492154808546398,0.0,1.0,computed
+Cormura,0.09589430048152389,0.0,0,from Emballonuridae (singleton)
+Cyttarops,0.09589430048152389,0.0,0,from Emballonuridae (singleton)
+Diclidurus,0.08543165537490625,0.0,1.0,computed
+Emballonura,0.09589430048152389,0.0,0.0,from Emballonuridae (not monophyletic)
+Mosia,0.09589430048152389,0.0,0,from Emballonuridae (singleton)
+Peropteryx,0.09589430048152389,0.0,0.0,from Emballonuridae (not monophyletic)
+Rhynchonycteris,0.09589430048152389,0.0,0,from Emballonuridae (singleton)
+Saccolaimus,0.20857746107245417,0.2085424400108301,1.0,computed
+Saccopteryx,0.06467728741933752,0.0,1.0,computed
+Taphozous,0.21609787860093302,0.12470504968684512,1.0,computed
+Furipteridae,0.22574261650604577,0.10742822247625314,1.0,from Chiroptera (cherry)
+Amorphochilus,0.22574261650604577,0.10742822247625314,0,from Furipteridae (singleton)
+Furipterus,0.22574261650604577,0.10742822247625314,0,from Furipteridae (singleton)
+Hipposideridae,0.15436418222305584,0.013274753624862514,1.0,computed
+Anthops,0.15436418222305584,0.013274753624862514,0,from Hipposideridae (singleton)
+Asellia,0.12252987682777783,0.0,1.0,computed
+Aselliscus,0.15436418222305584,0.013274753624862514,0.0,from Hipposideridae (not monophyletic)
+Cloeotis,0.15436418222305584,0.013274753624862514,0,from Hipposideridae (singleton)
+Coelops,0.22494774105988102,0.2249447875361736,1.0,computed
+Hipposideros,0.15436418222305584,0.013274753624862514,0.0,from Hipposideridae (not monophyletic)
+Paracoelops,0.15436418222305584,0.013274753624862514,0,from Hipposideridae (singleton)
+Paratriaenops,0.46358809284317387,0.45988066972014086,1.0,computed
+Rhinonicteris,0.15436418222305584,0.013274753624862514,0,from Hipposideridae (singleton)
+Triaenops,0.24515758632427723,0.0,1.0,computed
+Megadermatidae,0.03327138582437086,0.0,1.0,computed
+Cardioderma,0.03327138582437086,0.0,0,from Megadermatidae (singleton)
+Lavia,0.03327138582437086,0.0,0,from Megadermatidae (singleton)
+Macroderma,0.03327138582437086,0.0,0,from Megadermatidae (singleton)
+Megaderma,0.03327138582437086,0.0,0.0,from Megadermatidae (not monophyletic)
+Molossidae,0.23184043689263398,0.016961453570518457,1.0,computed
+Chaerephon,0.23184043689263398,0.016961453570518457,0.0,from Molossidae (not monophyletic)
+Cheiromeles,0.23184043689263398,0.016961453570518457,1.0,from Molossidae (cherry)
+Cynomops,0.5693370383443735,0.5688885306275103,1.0,computed
+Eumops,0.29505171504558975,0.1250770582676411,1.0,computed
+Molossops,0.23184043689263398,0.016961453570518457,0.0,from Molossidae (not monophyletic)
+Molossus,0.23184043689263398,0.016961453570518457,0.0,from Molossidae (not monophyletic)
+Mops,0.23184043689263398,0.016961453570518457,0.0,from Molossidae (not monophyletic)
+Mormopterus,0.23184043689263398,0.016961453570518457,0.0,from Molossidae (not monophyletic)
+Myopterus,0.23184043689263398,0.016961453570518457,1.0,from Molossidae (cherry)
+Nyctinomops,0.1780074470928693,0.0,1.0,computed
+Otomops,0.3836606621696976,0.30400392865105835,1.0,computed
+Platymops,0.23184043689263398,0.016961453570518457,0,from Molossidae (singleton)
+Promops,0.23184043689263398,0.016961453570518457,1.0,from Molossidae (cherry)
+Sauromys,0.23184043689263398,0.016961453570518457,0,from Molossidae (singleton)
+Tadarida,0.23184043689263398,0.016961453570518457,0.0,from Molossidae (not monophyletic)
+Tomopeas,0.23184043689263398,0.016961453570518457,0,from Molossidae (singleton)
+Mormoopidae,0.22574261650604577,0.10742822247625314,0.0,from Chiroptera (not monophyletic)
+Mormoops,0.22574261650604577,0.10742822247625314,0.6666666666666667,from Mormoopidae (crown capture probability)
+Pteronotus,0.09023238750791467,0.01923086127433944,0.9375,computed
+Mystacinidae,0.22574261650604577,0.10742822247625314,0.5555555555555556,from Chiroptera (crown capture probability)
+Mystacina,0.22574261650604577,0.10742822247625314,0.6666666666666667,from Mystacinidae (crown capture probability)
+Vulcanops,0.22574261650604577,0.10742822247625314,0.0,from Mystacinidae (unsampled)
+Myzopodidae,0.22574261650604577,0.10742822247625314,1.0,from Chiroptera (cherry)
+Myzopoda,0.22574261650604577,0.10742822247625314,1.0,from Myzopodidae (cherry)
+Natalidae,0.32627754361571815,0.31115790611723926,1.0,computed
+Chilonatalus,0.32627754361571815,0.31115790611723926,1.0,from Natalidae (cherry)
+Natalus,0.437848690338523,0.0,1.0,computed
+Nyctiellus,0.32627754361571815,0.31115790611723926,0,from Natalidae (singleton)
+Noctilionidae,0.22574261650604577,0.10742822247625314,1.0,from Chiroptera (cherry)
+Noctilio,0.22574261650604577,0.10742822247625314,1.0,from Noctilionidae (cherry)
+Nycteridae,0.34448152095840145,0.3165794974235828,1.0,computed
+Nycteris,0.34448152095840145,0.3165794974235828,1.0,computed
+Phyllostomidae,0.16183139575111224,0.007466426686655293,0.9997677335439216,computed
+Ametrida,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Anoura,0.09615463642442187,0.0,1.0,computed
+Ardops,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Ariteus,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Artibeus,0.2844238480164906,0.0,0.9818181818181818,computed
+Brachyphylla,0.16183139575111224,0.007466426686655293,1.0,from Phyllostomidae (cherry)
+Carollia,0.21944105612386344,0.0,1.0,computed
+Centurio,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Chiroderma,0.22728430872224895,0.10900305820165794,1.0,computed
+Choeroniscus,0.4421987212024377,0.0,1.0,computed
+Choeronycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Chrotopterus,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Dermanura,0.28919917037660436,0.0,1.0,computed
+Desmodus,0.16183139575111224,0.007466426686655293,0.6666666666666667,from Phyllostomidae (crown capture probability)
+Diaemus,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Diphylla,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Dryadonycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Ectophylla,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Enchisthenes,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Erophylla,0.16183139575111224,0.007466426686655293,1.0,from Phyllostomidae (cherry)
+Glossophaga,0.10925854567267375,0.0,1.0,computed
+Glyphonycteris,0.03735259770846931,0.0,1.0,computed
+Hsunycteris,0.06487121729048767,0.0,1.0,computed
+Hylonycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Lampronycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Leptonycteris,0.17032385138681166,0.17032321792664135,1.0,computed
+Lichonycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Lionycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Lonchophylla,0.16183139575111224,0.007466426686655293,0.0,from Phyllostomidae (not monophyletic)
+Lonchorhina,0.16183139575111224,0.007466426686655293,0.0,from Phyllostomidae (not monophyletic)
+Lophostoma,0.16372718985372312,0.0,1.0,computed
+Macrophyllum,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Macrotus,0.16183139575111224,0.007466426686655293,1.0,from Phyllostomidae (cherry)
+Mesophylla,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Micronycteris,0.1589144010393873,0.0,1.0,computed
+Mimon,0.16183139575111224,0.007466426686655293,0.0,from Phyllostomidae (not monophyletic)
+Monophyllus,0.16183139575111224,0.007466426686655293,1.0,from Phyllostomidae (cherry)
+Musonycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Neonycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Phylloderma,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Phyllonycteris,0.16183139575111224,0.007466426686655293,0.6666666666666667,from Phyllostomidae (crown capture probability)
+Phyllops,0.16183139575111224,0.007466426686655293,0.0,from Phyllostomidae (crown capture probability)
+Phyllostomus,0.16183139575111224,0.007466426686655293,0.0,from Phyllostomidae (not monophyletic)
+Platalina,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Platyrrhinus,0.35490429671344387,0.0,1.0,computed
+Pygoderma,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Rhinophylla,0.03155286410604644,0.0,1.0,computed
+Scleronycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Sphaeronycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Stenoderma,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Sturnira,0.2914892738492644,0.0,1.0,computed
+Tonatia,0.16183139575111224,0.007466426686655293,1.0,from Phyllostomidae (cherry)
+Trachops,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Trinycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Uroderma,0.2587389472903547,0.2587374999567658,1.0,computed
+Vampyressa,0.16183139575111224,0.007466426686655293,0.0,from Phyllostomidae (not monophyletic)
+Vampyrodes,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Vampyrum,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Xeronycteris,0.16183139575111224,0.007466426686655293,0,from Phyllostomidae (singleton)
+Pteropodidae,0.3174728063943828,0.2177026577377083,0.9998430141287284,computed
+Acerodon,0.42946574321137226,0.42940615247010855,0.9333333333333333,computed
+Aethalops,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Alionycteris,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Aproteles,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Balionycteris,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Casinycteris,0.1015280415916559,0.0,1.0,computed
+Chironax,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Cynopterus,0.23540864442287496,0.0,1.0,computed
+Desmalopex,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Dobsonia,0.562129362422631,0.5620281520551091,1.0,computed
+Dyacopterus,1.7095417790391425,1.7093776773117975,1.0,computed
+Eidolon,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Eonycteris,0.0565801373459344,0.0,1.0,computed
+Epomophorus,0.3174728063943828,0.2177026577377083,0.0,from Pteropodidae (not monophyletic)
+Epomops,0.2193529290434079,0.21931449247292567,1.0,computed
+Haplonycteris,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Harpyionycteris,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Hypsignathus,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Latidens,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Macroglossus,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Megaerops,0.09395348527891147,0.0,1.0,computed
+Megaloglossus,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Melonycteris,0.06452083070815169,0.06452070303426119,1.0,computed
+Micropteropus,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Mirimiri,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Myonycteris,0.17098539216851316,0.0,1.0,computed
+Nanonycteris,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Neopteryx,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Notopteris,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Nyctimene,0.22913043541011857,0.0,1.0,computed
+Otopteropus,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Paranyctimene,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Penthetor,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Plerotes,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Ptenochirus,0.3174728063943828,0.2177026577377083,0.0,from Pteropodidae (not monophyletic)
+Pteralopex,0.3624527337965026,0.36201087617747885,1.0,computed
+Pteropus,0.6552408679188534,0.28973670899702453,0.9990532544378699,computed
+Rousettus,0.3174728063943828,0.2177026577377083,0.0,from Pteropodidae (not monophyletic)
+Scotonycteris,0.11197439192762124,0.0,1.0,computed
+Sphaerias,0.3174728063943828,0.2177026577377083,0,from Pteropodidae (singleton)
+Styloctenium,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Syconycteris,0.12825318489496823,0.12825297769111849,1.0,computed
+Thoopterus,0.3174728063943828,0.2177026577377083,1.0,from Pteropodidae (cherry)
+Rhinolophidae,0.2895278103591839,0.03538175968971503,1.0,computed
+Rhinolophus,0.2895278103591839,0.03538175968971503,1.0,computed
+Rhinopomatidae,0.10457331883552559,0.06933034864041016,1.0,computed
+Rhinopoma,0.10457331883552559,0.06933034864041016,1.0,computed
+Thyropteridae,0.310093779805483,0.30989646851860164,1.0,computed
+Thyroptera,0.310093779805483,0.30989646851860164,1.0,computed
+Vespertilionidae,0.20562939876138933,0.025144484266444306,0.9999828538850953,computed
+Antrozous,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Arielulus,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Barbastella,0.0345235585653372,0.0,1.0,computed
+Bauerus,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Chalinolobus,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Cistugo,0.20562939876138933,0.025144484266444306,1.0,from Vespertilionidae (cherry)
+Corynorhinus,0.10102089932040628,0.10102057850968862,1.0,computed
+Eptesicus,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Euderma,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Eudiscoderma,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Eudiscopus,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Falsistrellus,0.4933270206502523,0.4931653092131055,1.0,computed
+Glauconycteris,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Glischropus,0.8789064581297531,0.0,1.0,computed
+Harpiocephalus,0.20562939876138933,0.025144484266444306,1.0,from Vespertilionidae (cherry)
+Harpiola,0.20562939876138933,0.025144484266444306,1.0,from Vespertilionidae (cherry)
+Hesperoptenus,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Histiotus,0.671568370140009,0.6714608917981884,1.0,computed
+Hypsugo,0.24291820170282397,0.0,1.0,computed
+Ia,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Idionycteris,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Kerivoula,0.13864443188142866,0.0,1.0,computed
+Laephotis,0.446920761360557,0.0,1.0,computed
+Lasionycteris,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Lasiurus,0.17862794509648208,0.0,1.0,computed
+Mimetillus,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Miniopterus,0.27726722209795834,0.0,1.0,computed
+Murina,0.1735275209047246,0.0,1.0,computed
+Myotis,0.22424530906396456,0.0,0.9998474446987032,computed
+Neoromicia,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Nyctalus,0.20103329645653503,0.06723884134574665,1.0,computed
+Nycticeinops,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Nycticeius,0.30852761990889327,0.0,1.0,computed
+Nyctophilus,0.3643672728053751,0.0,1.0,computed
+Otonycteris,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Parastrellus,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Pharotis,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Philetor,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Phoniscus,1.2150900482163063,0.0,1.0,computed
+Pipistrellus,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Plecotus,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (not monophyletic)
+Rhogeessa,0.3075938928590023,0.18132911116160205,1.0,computed
+Scoteanax,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Scotoecus,0.05271083961790473,0.0,1.0,computed
+Scotomanes,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Scotophilus,0.24707827035035376,0.025807716080008074,1.0,computed
+Scotorepens,0.9244851226320606,0.3397233679453974,1.0,computed
+Scotozous,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Submyotodon,0.20562939876138933,0.025144484266444306,0,from Vespertilionidae (singleton)
+Synemporion,0.20562939876138933,0.025144484266444306,0.0,from Vespertilionidae (unsampled)
+Tylonycteris,0.16274154890787482,0.16274078519759883,1.0,computed
+Vespadelus,0.2560766148703581,0.0,1.0,computed
+Vespertilio,0.20562939876138933,0.025144484266444306,1.0,from Vespertilionidae (cherry)
+Cingulata,0.1602968103950126,0.14463455956304447,1.0,computed
+Dasypodidae,0.1602968103950126,0.14463455956304447,1.0,computed
+Cabassous,0.1353931192559741,0.1353759903197324,1.0,computed
+Calyptophractus,0.1602968103950126,0.14463455956304447,0,from Dasypodidae (singleton)
+Chaetophractus,0.150842357185061,0.15084149663944058,1.0,computed
+Chlamyphorus,0.1602968103950126,0.14463455956304447,0,from Dasypodidae (singleton)
+Dasypus,0.5066201491835723,0.5065671778541173,1.0,computed
+Euphractus,0.1602968103950126,0.14463455956304447,0,from Dasypodidae (singleton)
+Priodontes,0.1602968103950126,0.14463455956304447,0,from Dasypodidae (singleton)
+Tolypeutes,0.1602968103950126,0.14463455956304447,1.0,from Dasypodidae (cherry)
+Zaedyus,0.1602968103950126,0.14463455956304447,0,from Dasypodidae (singleton)
+Dasyuromorphia,0.27358971280253874,0.18476385885652347,0.0,from Mammalia (not monophyletic)
+Dasyuridae,0.27358971280253874,0.18476385885652347,0.0,from Dasyuromorphia (not monophyletic)
+Antechinomys,0.27358971280253874,0.18476385885652347,0,from Dasyuridae (singleton)
+Antechinus,0.16914453485485648,0.0,1.0,computed
+Dasycercus,0.27358971280253874,0.18476385885652347,1.0,from Dasyuridae (cherry)
+Dasykaluta,0.27358971280253874,0.18476385885652347,0,from Dasyuridae (singleton)
+Dasyuroides,0.27358971280253874,0.18476385885652347,0,from Dasyuridae (singleton)
+Dasyurus,0.27358971280253874,0.18476385885652347,0.0,from Dasyuridae (not monophyletic)
+Murexia,0.07906578149149529,0.0,1.0,computed
+Myoictis,0.1788456273435147,0.17814866336473426,1.0,computed
+Neophascogale,0.27358971280253874,0.18476385885652347,0,from Dasyuridae (singleton)
+Ningaui,0.034942847221600785,0.0,1.0,computed
+Parantechinus,0.27358971280253874,0.18476385885652347,0,from Dasyuridae (singleton)
+Phascogale,0.08755869092504052,0.08755844059767705,1.0,computed
+Phascolosorex,0.27358971280253874,0.18476385885652347,1.0,from Dasyuridae (cherry)
+Planigale,0.10719245215439556,0.0,1.0,computed
+Pseudantechinus,0.27358971280253874,0.18476385885652347,0.0,from Dasyuridae (not monophyletic)
+Sarcophilus,0.27358971280253874,0.18476385885652347,0,from Dasyuridae (singleton)
+Sminthopsis,0.27358971280253874,0.18476385885652347,0.0,from Dasyuridae (not monophyletic)
+Myrmecobiidae,0.27358971280253874,0.18476385885652347,0,from Dasyuromorphia (singleton)
+Myrmecobius,0.27358971280253874,0.18476385885652347,0,from Myrmecobiidae (singleton)
+Thylacinidae,0.27358971280253874,0.18476385885652347,0,from Dasyuromorphia (singleton)
+Thylacinus,0.27358971280253874,0.18476385885652347,0,from Thylacinidae (singleton)
+Dermoptera,0.27358971280253874,0.18476385885652347,1.0,from Mammalia (cherry)
+Cynocephalidae,0.27358971280253874,0.18476385885652347,1.0,from Dermoptera (cherry)
+Cynocephalus,0.27358971280253874,0.18476385885652347,0,from Cynocephalidae (singleton)
+Galeopterus,0.27358971280253874,0.18476385885652347,0,from Cynocephalidae (singleton)
+Didelphimorphia,0.15936768357911804,0.05899450481926742,1.0,computed
+Didelphidae,0.15936768357911804,0.05899450481926742,1.0,computed
+Caluromys,0.053973110085625324,0.0,1.0,computed
+Caluromysiops,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Chacodelphys,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Chironectes,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Cryptonanus,0.4292299733168187,0.42915830985183145,1.0,computed
+Didelphis,0.30030447107258956,0.0,1.0,computed
+Glironia,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Gracilinanus,0.08555370868283459,0.0,1.0,computed
+Hyladelphys,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Lestodelphys,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Lutreolina,0.15936768357911804,0.05899450481926742,1.0,from Didelphidae (cherry)
+Marmosa,0.12282319578119213,0.0,1.0,computed
+Marmosops,0.19250408988809076,0.14023313405217486,1.0,computed
+Metachirus,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Monodelphis,0.1624394841784757,0.0,1.0,computed
+Philander,0.4413940265855549,0.35857049770149757,1.0,computed
+Thylamys,0.1981219488395934,0.0,1.0,computed
+Tlacuatzin,0.15936768357911804,0.05899450481926742,0,from Didelphidae (singleton)
+Diprotodontia,0.20281781313138086,0.11837675344183468,0.9992886043306212,computed
+Acrobatidae,0.20281781313138086,0.11837675344183468,1.0,from Diprotodontia (cherry)
+Acrobates,0.20281781313138086,0.11837675344183468,0,from Acrobatidae (singleton)
+Distoechurus,0.20281781313138086,0.11837675344183468,0,from Acrobatidae (singleton)
+Burramyidae,0.03833931564081663,0.0,1.0,computed
+Burramys,0.03833931564081663,0.0,0,from Burramyidae (singleton)
+Cercartetus,0.046470458450867544,0.0,1.0,computed
+Diprotodontidae,0.20281781313138086,0.11837675344183468,0.0,from Diprotodontia (unsampled)
+Hulitherium,0.20281781313138086,0.11837675344183468,0.0,from Diprotodontidae (unsampled)
+Maokopia,0.20281781313138086,0.11837675344183468,0.0,from Diprotodontidae (unsampled)
+Nototherium,0.20281781313138086,0.11837675344183468,0.0,from Diprotodontidae (unsampled)
+Hypsiprymnodontidae,0.20281781313138086,0.11837675344183468,0,from Diprotodontia (singleton)
+Hypsiprymnodon,0.20281781313138086,0.11837675344183468,0,from Hypsiprymnodontidae (singleton)
+Macropodidae,0.2644973005278957,0.0,0.9983193277310924,computed
+Dendrolagus,0.2644973005278957,0.0,0.0,from Macropodidae (not monophyletic)
+Dorcopsis,0.2644973005278957,0.0,0.0,from Macropodidae (not monophyletic)
+Dorcopsulus,0.2644973005278957,0.0,1.0,from Macropodidae (cherry)
+Lagorchestes,0.12409791700823779,0.0,1.0,computed
+Lagostrophus,0.2644973005278957,0.0,0,from Macropodidae (singleton)
+Macropus,0.2644973005278957,0.0,0.0,from Macropodidae (not monophyletic)
+Onychogalea,0.2644973005278957,0.0,0.0,from Macropodidae (not monophyletic)
+Petrogale,0.34636026345259274,0.0,1.0,computed
+Protemnodon,0.2644973005278957,0.0,0.0,from Macropodidae (unsampled)
+Setonix,0.2644973005278957,0.0,0,from Macropodidae (singleton)
+Thylogale,0.23571504889491798,0.0,0.9642857142857143,computed
+Wallabia,0.2644973005278957,0.0,0,from Macropodidae (singleton)
+Petauridae,0.19897462331393398,0.18540692538472336,0.9848484848484849,computed
+Dactylonax,0.19897462331393398,0.18540692538472336,0,from Petauridae (singleton)
+Dactylopsila,0.09624640633238334,0.09624588213056016,0.8333333333333334,computed
+Gymnobelideus,0.19897462331393398,0.18540692538472336,0,from Petauridae (singleton)
+Petaurus,0.41859837498700264,0.41856421401574595,1.0,computed
+Phalangeridae,0.1774549974875457,0.0,1.0,computed
+Ailurops,0.1774549974875457,0.0,1.0,from Phalangeridae (cherry)
+Phalanger,0.23405086953647283,0.0,1.0,computed
+Spilocuscus,0.19893261792409236,0.0,1.0,computed
+Strigocuscus,0.1774549974875457,0.0,0.0,from Phalangeridae (not monophyletic)
+Trichosurus,0.13513799688481587,0.0,1.0,computed
+Wyulda,0.1774549974875457,0.0,0,from Phalangeridae (singleton)
+Phascolarctidae,0.20281781313138086,0.11837675344183468,0,from Diprotodontia (singleton)
+Phascolarctos,0.20281781313138086,0.11837675344183468,0,from Phascolarctidae (singleton)
+Potoroidae,0.1333947100258704,0.0,1.0,computed
+Aepyprymnus,0.1333947100258704,0.0,0,from Potoroidae (singleton)
+Bettongia,0.2002803168661149,0.13506861801888717,1.0,computed
+Caloprymnus,0.1333947100258704,0.0,0,from Potoroidae (singleton)
+Potorous,0.0746370585389057,0.0,1.0,computed
+Pseudocheiridae,0.10217814791608636,0.0,1.0,computed
+Hemibelideus,0.10217814791608636,0.0,0,from Pseudocheiridae (singleton)
+Petauroides,0.10217814791608636,0.0,0,from Pseudocheiridae (singleton)
+Petropseudes,0.10217814791608636,0.0,0,from Pseudocheiridae (singleton)
+Pseudocheirus,0.10217814791608636,0.0,1.0,from Pseudocheiridae (cherry)
+Pseudochirops,0.10217814791608636,0.0,0.0,from Pseudocheiridae (not monophyletic)
+Pseudochirulus,0.15979194424587218,0.0,1.0,computed
+Tarsipedidae,0.20281781313138086,0.11837675344183468,0,from Diprotodontia (singleton)
+Tarsipes,0.20281781313138086,0.11837675344183468,0,from Tarsipedidae (singleton)
+Vombatidae,0.11601588694996061,0.11601400421256422,1.0,computed
+Lasiorhinus,0.11601588694996061,0.11601400421256422,1.0,from Vombatidae (cherry)
+Vombatus,0.11601588694996061,0.11601400421256422,0,from Vombatidae (singleton)
+Eulipotyphla,0.30105383876975356,0.22264137271418435,0.9998636968618206,computed
+Erinaceidae,0.16594361407641486,0.14375824440643953,0.9936,computed
+Atelerix,0.1208890676736282,0.0,1.0,computed
+Deinogalerix,0.16594361407641486,0.14375824440643953,0.0,from Erinaceidae (unsampled)
+Echinosorex,0.16594361407641486,0.14375824440643953,0,from Erinaceidae (singleton)
+Erinaceus,0.1455411192548278,0.0,1.0,computed
+Hemiechinus,0.16594361407641486,0.14375824440643953,1.0,from Erinaceidae (cherry)
+Hylomys,0.16594361407641486,0.14375824440643953,0.0,from Erinaceidae (not monophyletic)
+Mesechinus,0.16594361407641486,0.14375824440643953,1.0,from Erinaceidae (cherry)
+Neohylomys,0.16594361407641486,0.14375824440643953,0,from Erinaceidae (singleton)
+Neotetracus,0.16594361407641486,0.14375824440643953,0,from Erinaceidae (singleton)
+Paraechinus,0.1988207109584175,0.19881904978980403,1.0,computed
+Podogymnura,0.16594361407641486,0.14375824440643953,1.0,from Erinaceidae (cherry)
+Nesophontidae,0.186319803271697,0.0,0.9523809523809523,computed
+Nesophontes,0.186319803271697,0.0,0.9523809523809523,computed
+Solenodontidae,0.5077076456514639,0.5075880708547451,0.8333333333333334,computed
+Solenodon,0.5077076456514639,0.5075880708547451,0.8333333333333334,computed
+Soricidae,0.3055951812203702,0.17671165038706313,0.9998639262934089,computed
+Anourosorex,0.4744270600415722,0.0,1.0,computed
+Asoriculus,0.3055951812203702,0.17671165038706313,0.0,from Soricidae (unsampled)
+Blarina,0.07794908955102696,0.0,1.0,computed
+Blarinella,0.10301619947625798,0.10301518141079817,1.0,computed
+Chimarrogale,0.11797901570622533,0.0,1.0,computed
+Chodsigoa,0.1552509594675141,0.0,1.0,computed
+Congosorex,0.02040974232874092,0.0,1.0,computed
+Crocidura,0.3055951812203702,0.17671165038706313,0.0,from Soricidae (not monophyletic)
+Cryptotis,0.3055951812203702,0.17671165038706313,0.0,from Soricidae (not monophyletic)
+Diplomesodon,0.3055951812203702,0.17671165038706313,0,from Soricidae (singleton)
+Episoriculus,0.3055951812203702,0.17671165038706313,0.0,from Soricidae (not monophyletic)
+Feroculus,0.3055951812203702,0.17671165038706313,0,from Soricidae (singleton)
+Megasorex,0.3055951812203702,0.17671165038706313,0,from Soricidae (singleton)
+Myosorex,0.4799403010386478,0.441681613924543,1.0,computed
+Nectogale,0.3055951812203702,0.17671165038706313,0,from Soricidae (singleton)
+Neomys,0.062401650937137065,0.06240079335392738,1.0,computed
+Nesiotites,0.3055951812203702,0.17671165038706313,0.0,from Soricidae (unsampled)
+Notiosorex,0.12413801890486735,0.0,1.0,computed
+Paracrocidura,0.09179254240626418,0.0,1.0,computed
+Ruwenzorisorex,0.3055951812203702,0.17671165038706313,0,from Soricidae (singleton)
+Scutisorex,0.3055951812203702,0.17671165038706313,1.0,from Soricidae (cherry)
+Solisorex,0.3055951812203702,0.17671165038706313,0,from Soricidae (singleton)
+Sorex,0.33944330805359163,0.13512551634929132,1.0,computed
+Soriculus,0.3055951812203702,0.17671165038706313,0,from Soricidae (singleton)
+Suncus,0.3055951812203702,0.17671165038706313,0.0,from Soricidae (not monophyletic)
+Surdisorex,1.0490543071813374,0.0,1.0,computed
+Sylvisorex,0.3055951812203702,0.17671165038706313,0.0,from Soricidae (not monophyletic)
+Talpidae,0.30105383876975356,0.22264137271418435,0.0,from Eulipotyphla (not monophyletic)
+Condylura,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Desmana,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Dymecodon,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Euroscaptor,0.30105383876975356,0.22264137271418435,0.0,from Talpidae (not monophyletic)
+Galemys,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Mogera,0.3480370047458781,0.0,1.0,computed
+Neurotrichus,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Parascalops,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Parascaptor,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Scalopus,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Scapanulus,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Scapanus,0.12692403011836648,0.12692354494764918,1.0,computed
+Scaptochirus,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Scaptonyx,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Talpa,0.18171104541373073,0.0,0.9777777777777777,computed
+Uropsilus,0.09759447823087272,0.0,1.0,computed
+Urotrichus,0.30105383876975356,0.22264137271418435,0,from Talpidae (singleton)
+Hyracoidea,0.1580529731549179,0.0,1.0,computed
+Procaviidae,0.1580529731549179,0.0,1.0,computed
+Dendrohyrax,0.14217870268593627,0.0,1.0,computed
+Heterohyrax,0.1580529731549179,0.0,0,from Procaviidae (singleton)
+Procavia,0.1580529731549179,0.0,0,from Procaviidae (singleton)
+Lagomorpha,0.36463389087864906,0.28430027700362154,0.9984311967727476,computed
+Leporidae,0.36463389087864906,0.28430027700362154,0.0,from Lagomorpha (not monophyletic)
+Brachylagus,0.36463389087864906,0.28430027700362154,0,from Leporidae (singleton)
+Bunolagus,0.36463389087864906,0.28430027700362154,0,from Leporidae (singleton)
+Caprolagus,0.36463389087864906,0.28430027700362154,0,from Leporidae (singleton)
+Hypolagus,0.36463389087864906,0.28430027700362154,0.0,from Leporidae (unsampled)
+Lepus,0.36463389087864906,0.28430027700362154,0.0,from Leporidae (not monophyletic)
+Nesolagus,0.36463389087864906,0.28430027700362154,1.0,from Leporidae (cherry)
+Nuralagus,0.36463389087864906,0.28430027700362154,0.0,from Leporidae (unsampled)
+Oryctolagus,0.36463389087864906,0.28430027700362154,0,from Leporidae (singleton)
+Pentalagus,0.36463389087864906,0.28430027700362154,0,from Leporidae (singleton)
+Poelagus,0.36463389087864906,0.28430027700362154,0,from Leporidae (singleton)
+Pronolagus,0.07728968280901026,0.0,1.0,computed
+Romerolagus,0.36463389087864906,0.28430027700362154,0,from Leporidae (singleton)
+Sardolagus,0.36463389087864906,0.28430027700362154,0.0,from Leporidae (unsampled)
+Sylvilagus,0.4159002334311637,0.09514323546985091,1.0,computed
+Ochotonidae,0.257222362105134,0.1386356202039976,0.0,from Rodentia (unsampled)
+Gymnesicolagus,0.2209660795242761,0.0,0.0,from Ochotonidae (unsampled)
+Ochotona,0.21653177172304547,0.0,1.0,computed
+Prolagidae,0.36463389087864906,0.28430027700362154,0.0,from Lagomorpha (crown capture probability)
+Prolagus,0.257222362105134,0.1386356202039976,0.0,from Ochotonidae (unsampled)
+Macroscelidea,0.06641525219453495,0.03759113241668231,1.0,computed
+Macroscelididae,0.06641525219453495,0.03759113241668231,1.0,computed
+Elephantulus,0.06641525219453495,0.03759113241668231,0.0,from Macroscelididae (not monophyletic)
+Macroscelides,0.031935321245022505,0.0319335146302433,1.0,computed
+Petrodromus,0.06641525219453495,0.03759113241668231,0,from Macroscelididae (singleton)
+Rhynchocyon,0.1675522451395726,0.0,1.0,computed
+Microbiotheria,0.27358971280253874,0.18476385885652347,0,from Mammalia (singleton)
+Microbiotheriidae,0.27358971280253874,0.18476385885652347,0,from Microbiotheria (singleton)
+Dromiciops,0.27358971280253874,0.18476385885652347,0,from Microbiotheriidae (singleton)
+Monotremata,0.021314846432161857,0.007029157706152408,1.0,computed
+Ornithorhynchidae,0.021314846432161857,0.007029157706152408,0,from Monotremata (singleton)
+Ornithorhynchus,0.021314846432161857,0.007029157706152408,0,from Ornithorhynchidae (singleton)
+Tachyglossidae,0.029124392305993015,0.027134281342764324,1.0,computed
+Tachyglossus,0.029124392305993015,0.027134281342764324,0,from Tachyglossidae (singleton)
+Zaglossus,0.027668912670124217,0.0,1.0,computed
+Notoryctemorphia,0.27358971280253874,0.18476385885652347,1.0,from Mammalia (cherry)
+Notoryctidae,0.27358971280253874,0.18476385885652347,1.0,from Notoryctemorphia (cherry)
+Notoryctes,0.27358971280253874,0.18476385885652347,1.0,from Notoryctidae (cherry)
+Paucituberculata,0.07739653816310162,0.0,1.0,computed
+Caenolestidae,0.07739653816310162,0.0,1.0,computed
+Caenolestes,0.08967910972083873,0.0,1.0,computed
+Lestoros,0.07739653816310162,0.0,0,from Caenolestidae (singleton)
+Rhyncholestes,0.07739653816310162,0.0,0,from Caenolestidae (singleton)
+Peramelemorphia,0.27358971280253874,0.18476385885652347,0.0,from Mammalia (not monophyletic)
+Chaeropodidae,0.27358971280253874,0.18476385885652347,0,from Peramelemorphia (singleton)
+Chaeropus,0.27358971280253874,0.18476385885652347,0,from Chaeropodidae (singleton)
+Peramelidae,0.15211131128764227,0.0,1.0,computed
+Echymipera,0.11737563892921082,0.0,1.0,computed
+Isoodon,0.16653444769469886,0.0,1.0,computed
+Microperoryctes,0.16942071251569235,0.0,1.0,computed
+Perameles,0.16540146434446953,0.1653983799494345,1.0,computed
+Peroryctes,0.15211131128764227,0.0,1.0,from Peramelidae (cherry)
+Rhynchomeles,0.15211131128764227,0.0,0,from Peramelidae (singleton)
+Thylacomyidae,0.27358971280253874,0.18476385885652347,1.0,from Peramelemorphia (cherry)
+Macrotis,0.27358971280253874,0.18476385885652347,1.0,from Thylacomyidae (cherry)
+Perissodactyla,0.23320864246667675,0.21965063216895553,0.9936,computed
+Equidae,0.27317448003324124,0.15046400286706707,1.0,computed
+Equus,0.24574951036303244,0.0,1.0,computed
+Hippidion,0.27317448003324124,0.15046400286706707,1.0,from Equidae (cherry)
+Rhinocerotidae,0.0822859931276734,0.0,0.9183673469387755,computed
+Ceratotherium,0.0822859931276734,0.0,0,from Rhinocerotidae (singleton)
+Coelodonta,0.0822859931276734,0.0,0,from Rhinocerotidae (singleton)
+Dicerorhinus,0.0822859931276734,0.0,0,from Rhinocerotidae (singleton)
+Diceros,0.0822859931276734,0.0,0,from Rhinocerotidae (singleton)
+Nesorhinus,0.0822859931276734,0.0,0.0,from Rhinocerotidae (unsampled)
+Rhinoceros,0.0822859931276734,0.0,1.0,from Rhinocerotidae (cherry)
+Tapiridae,0.25037079755164016,0.2503683875301622,1.0,computed
+Tapirus,0.25037079755164016,0.2503683875301622,1.0,computed
+Pholidota,0.11813426961410656,0.11079615105123959,0.9722222222222222,computed
+Manidae,0.11813426961410656,0.11079615105123959,0.9722222222222222,computed
+Manis,0.24488702125472564,0.24487759866756298,0.9,computed
+Phataginus,0.11813426961410656,0.11079615105123959,1.0,from Manidae (cherry)
+Smutsia,0.11813426961410656,0.11079615105123959,1.0,from Manidae (cherry)
+Pilosa,0.08991488936889881,0.07045890899293399,0.9166666666666666,computed
+Bradypodidae,0.0816448425102605,0.08164453842782782,1.0,computed
+Bradypus,0.0816448425102605,0.08164453842782782,1.0,computed
+Cyclopedidae,0.08991488936889881,0.07045890899293399,0,from Pilosa (singleton)
+Cyclopes,0.08991488936889881,0.07045890899293399,0,from Cyclopedidae (singleton)
+Megalocnidae,0.08991488936889881,0.07045890899293399,0.0,from Pilosa (unsampled)
+Acratocnus,0.08991488936889881,0.07045890899293399,0.0,from Megalocnidae (unsampled)
+Megalocnus,0.08991488936889881,0.07045890899293399,0.0,from Megalocnidae (unsampled)
+Neocnus,0.08991488936889881,0.07045890899293399,0.0,from Megalocnidae (unsampled)
+Parocnus,0.08991488936889881,0.07045890899293399,0.0,from Megalocnidae (unsampled)
+Paulocnus,0.08991488936889881,0.07045890899293399,0.0,from Megalocnidae (unsampled)
+Megalonychidae,0.08991488936889881,0.07045890899293399,1.0,from Pilosa (cherry)
+Choloepus,0.08991488936889881,0.07045890899293399,1.0,from Megalonychidae (cherry)
+Mylodontidae,0.08991488936889881,0.07045890899293399,0,from Pilosa (singleton)
+Mylodon,0.08991488936889881,0.07045890899293399,0,from Mylodontidae (singleton)
+Myrmecophagidae,0.02386111594352783,0.0,1.0,computed
+Myrmecophaga,0.02386111594352783,0.0,0,from Myrmecophagidae (singleton)
+Tamandua,0.02386111594352783,0.0,1.0,from Myrmecophagidae (cherry)
+Nothrotheriidae,0.08991488936889881,0.07045890899293399,0,from Pilosa (singleton)
+Nothrotheriops,0.08991488936889881,0.07045890899293399,0,from Nothrotheriidae (singleton)
+Primates,0.476665286971784,0.39237710370880435,0.9997315832561635,computed
+Aotidae,0.5408990943926215,0.5271555109827204,0.9848484848484849,computed
+Aotus,0.49582508685306714,0.4820821201953158,1.0,computed
+Insulacebus,0.5408990943926215,0.5271555109827204,0.0,from Aotidae (unsampled)
+Archaeolemuridae,0.476665286971784,0.39237710370880435,0.6666666666666667,from Primates (crown capture probability)
+Archaeolemur,0.476665286971784,0.39237710370880435,1.0,from Archaeolemuridae (cherry)
+Hadropithecus,0.476665286971784,0.39237710370880435,0.0,from Archaeolemuridae (unsampled)
+Atelidae,0.5428063126660909,0.4127119345645864,0.9975369458128078,computed
+Alouatta,0.3891460262236908,0.17435092375343503,0.9904761904761905,computed
+Ateles,0.4651962937106716,0.0,1.0,computed
+Brachyteles,0.5428063126660909,0.4127119345645864,1.0,from Atelidae (cherry)
+Lagothrix,0.6766107487431177,0.6763143029967789,1.0,computed
+Oreonax,0.5428063126660909,0.4127119345645864,0,from Atelidae (singleton)
+Callitrichidae,0.5410981762662435,0.3358622063651786,1.0,computed
+Callibella,0.5410981762662435,0.3358622063651786,0,from Callitrichidae (singleton)
+Callimico,0.5410981762662435,0.3358622063651786,0,from Callitrichidae (singleton)
+Callithrix,0.5410981762662435,0.3358622063651786,0.0,from Callitrichidae (not monophyletic)
+Cebuella,0.5410981762662435,0.3358622063651786,0,from Callitrichidae (singleton)
+Leontocebus,0.49047900644837117,0.0,1.0,computed
+Leontopithecus,1.0842329612775279,0.0,1.0,computed
+Mico,0.5410981762662435,0.3358622063651786,0.0,from Callitrichidae (not monophyletic)
+Saguinus,0.2923460466267217,0.0,1.0,computed
+Cebidae,1.0000000282819324,1.0000000272819323,0.9934640522875817,computed
+Cebus,0.40332011889708513,0.0,0.9,computed
+Saimiri,0.532886664937037,0.0,1.0,computed
+Sapajus,0.9301427920678738,0.0,1.0,computed
+Cercopithecidae,0.3387700370464494,0.0,0.9991518235793045,computed
+Allenopithecus,0.3387700370464494,0.0,0,from Cercopithecidae (singleton)
+Cercocebus,0.3387700370464494,0.0,0.0,from Cercopithecidae (not monophyletic)
+Cercopithecus,0.3387700370464494,0.0,0.0,from Cercopithecidae (not monophyletic)
+Chlorocebus,0.3387700370464494,0.0,0.0,from Cercopithecidae (not monophyletic)
+Colobus,0.23816531793483342,0.0,0.9333333333333333,computed
+Erythrocebus,0.3387700370464494,0.0,0,from Cercopithecidae (singleton)
+Lophocebus,0.3387700370464494,0.0,0.0,from Cercopithecidae (not monophyletic)
+Macaca,0.3666736185718475,0.0,0.9930555555555556,computed
+Mandrillus,0.3387700370464494,0.0,0.6666666666666667,from Cercopithecidae (crown capture probability)
+Miopithecus,0.3387700370464494,0.0,1.0,from Cercopithecidae (cherry)
+Nasalis,0.3387700370464494,0.0,0,from Cercopithecidae (singleton)
+Papio,0.3387700370464494,0.0,0.0,from Cercopithecidae (not monophyletic)
+Presbytis,0.35207885766442354,0.0,0.9848484848484849,computed
+Procolobus,0.39856132783210974,0.39849367369111127,1.0,computed
+Pygathrix,0.11710603303553085,0.0,1.0,computed
+Rhinopithecus,0.6382806002115383,0.0,1.0,computed
+Rungwecebus,0.3387700370464494,0.0,0,from Cercopithecidae (singleton)
+Semnopithecus,0.3387700370464494,0.0,0.0,from Cercopithecidae (not monophyletic)
+Simias,0.3387700370464494,0.0,0,from Cercopithecidae (singleton)
+Theropithecus,0.3387700370464494,0.0,0,from Cercopithecidae (singleton)
+Trachypithecus,0.3387700370464494,0.0,0.0,from Cercopithecidae (not monophyletic)
+Cheirogaleidae,0.476665286971784,0.39237710370880435,0.0,from Primates (not monophyletic)
+Allocebus,0.476665286971784,0.39237710370880435,0,from Cheirogaleidae (singleton)
+Cheirogaleus,0.10883156137589918,0.0,1.0,computed
+Microcebus,0.3240783022468249,0.0,1.0,computed
+Mirza,0.476665286971784,0.39237710370880435,1.0,from Cheirogaleidae (cherry)
+Phaner,1.0000000282819324,1.0000000272819323,1.0,computed
+Daubentoniidae,0.476665286971784,0.39237710370880435,0.0,from Primates (cherry)
+Daubentonia,0.476665286971784,0.39237710370880435,0.0,from Daubentoniidae (cherry)
+Galagidae,0.372558663997986,0.2971624633037904,0.9857142857142858,computed
+Euoticus,0.372558663997986,0.2971624633037904,0.6666666666666667,from Galagidae (crown capture probability)
+Galago,1.0000000282819324,1.0000000272819323,1.0,computed
+Galagoides,0.372558663997986,0.2971624633037904,0.0,from Galagidae (not monophyletic)
+Otolemur,0.372558663997986,0.2971624633037904,0.6666666666666667,from Galagidae (crown capture probability)
+Sciurocheirus,1.0000000282819324,1.0000000272819323,0.8333333333333334,computed
+Hominidae,0.4412508543433768,0.44117225924258524,0.9818181818181818,computed
+Gorilla,0.4412508543433768,0.44117225924258524,1.0,from Hominidae (cherry)
+Homo,0.8147779257931421,0.0,0.9,computed
+Pan,0.4412508543433768,0.44117225924258524,1.0,from Hominidae (cherry)
+Pongo,0.4412508543433768,0.44117225924258524,1.0,from Hominidae (cherry)
+Hylobatidae,0.3175239684271823,0.0,1.0,computed
+Hoolock,0.3175239684271823,0.0,1.0,from Hylobatidae (cherry)
+Hylobates,0.35174691022468946,0.0,1.0,computed
+Nomascus,0.40202154041288696,0.0,1.0,computed
+Symphalangus,0.3175239684271823,0.0,0,from Hylobatidae (singleton)
+Indriidae,0.5285195091359703,0.47748791521312606,1.0,computed
+Avahi,0.45642505980162335,0.17857657803545532,1.0,computed
+Indri,0.5285195091359703,0.47748791521312606,0,from Indriidae (singleton)
+Propithecus,0.44019479336921713,0.31119312185333703,1.0,computed
+Lemuridae,0.48255134301886227,0.4027364189816826,0.9917355371900827,computed
+Eulemur,0.39246715844466007,0.0,1.0,computed
+Hapalemur,1.0000000282819324,1.0000000272819323,1.0,computed
+Lemur,0.48255134301886227,0.4027364189816826,0,from Lemuridae (singleton)
+Pachylemur,0.48255134301886227,0.4027364189816826,0.0,from Lemuridae (unsampled)
+Prolemur,0.48255134301886227,0.4027364189816826,0,from Lemuridae (singleton)
+Varecia,0.48255134301886227,0.4027364189816826,1.0,from Lemuridae (cherry)
+Lepilemuridae,0.3472786521963213,0.035397670013851815,1.0,computed
+Lepilemur,0.3472786521963213,0.035397670013851815,1.0,computed
+Lorisidae,0.476665286971784,0.39237710370880435,0.0,from Primates (not monophyletic)
+Arctocebus,0.476665286971784,0.39237710370880435,1.0,from Lorisidae (cherry)
+Loris,0.476665286971784,0.39237710370880435,1.0,from Lorisidae (cherry)
+Nycticebus,0.35883914937929223,0.22808677017102633,1.0,computed
+Perodicticus,0.476665286971784,0.39237710370880435,0,from Lorisidae (singleton)
+Megaladapidae,0.476665286971784,0.39237710370880435,0.0,from Primates (crown capture probability)
+Megaladapis ,0.476665286971784,0.39237710370880435,0.0,from Megaladapidae (unsampled)
+Megaladapis,0.476665286971784,0.39237710370880435,0,from Megaladapidae (singleton)
+Palaeopropithecidae,0.476665286971784,0.39237710370880435,0.0,from Primates (crown capture probability)
+Archaeoindris,0.476665286971784,0.39237710370880435,0.0,from Palaeopropithecidae (unsampled)
+Babakotia,0.476665286971784,0.39237710370880435,0.0,from Palaeopropithecidae (unsampled)
+Mesopropithecus,0.476665286971784,0.39237710370880435,0.0,from Palaeopropithecidae (unsampled)
+Palaeopropithecus,0.476665286971784,0.39237710370880435,0.0,from Palaeopropithecidae (crown capture probability)
+Pitheciidae,0.363311188969122,0.15221855874761184,0.9983050847457627,computed
+Antillothrix,0.363311188969122,0.15221855874761184,0.0,from Pitheciidae (unsampled)
+Cacajao,0.4259559208640544,0.4258593148951889,1.0,computed
+Callicebus,0.38368626208188245,0.1349231037385436,1.0,computed
+Chiropotes,0.4033831576368238,0.4033526971589995,1.0,computed
+Paralouatta,0.363311188969122,0.15221855874761184,0.0,from Pitheciidae (unsampled)
+Pithecia,1.0000000282819324,1.0000000272819323,1.0,computed
+Xenothrix,0.363311188969122,0.15221855874761184,0,from Pitheciidae (singleton)
+Tarsiidae,0.08905831602893684,0.0,1.0,computed
+Tarsius,0.08905831602893684,0.0,1.0,computed
+Proboscidea,0.27358971280253874,0.18476385885652347,0.7983870967741935,from Mammalia (crown capture probability)
+Elephantidae,0.27358971280253874,0.18476385885652347,0.0,from Proboscidea (not monophyletic)
+Elephas,0.27358971280253874,0.18476385885652347,0.75,from Elephantidae (crown capture probability)
+Loxodonta,0.27358971280253874,0.18476385885652347,0,from Elephantidae (singleton)
+Mammuthus,0.27358971280253874,0.18476385885652347,0,from Mammutidae (singleton)
+Palaeoloxodon,0.27358971280253874,0.18476385885652347,0.0,from Elephantidae (unsampled)
+Mammutidae,0.27358971280253874,0.18476385885652347,0.0,from Proboscidea (not monophyletic)
+Mammut,0.27358971280253874,0.18476385885652347,0,from Mammutidae (singleton)
+Stegodontidae,0.27358971280253874,0.18476385885652347,0.0,from Proboscidea (unsampled)
+Stegodon,0.27358971280253874,0.18476385885652347,0.0,from Stegodontidae (unsampled)
+Rodentia,0.257222362105134,0.1386356202039976,0.9999632407797433,computed
+Abrocomidae,0.19539287625719115,0.19537238904520682,1.0,computed
+Abrocoma,0.19539287625719115,0.19537238904520682,0.0,from Abrocomidae (not monophyletic)
+Cuscomys,0.19539287625719115,0.19537238904520682,1.0,from Abrocomidae (cherry)
+Anomaluridae,0.10513162903451072,0.06017852267674675,1.0,computed
+Anomalurus,1.0000000282819324,1.0000000272819323,1.0,computed
+Idiurus,0.10513162903451072,0.06017852267674675,1.0,from Anomaluridae (cherry)
+Zenkerella,0.10513162903451072,0.06017852267674675,0,from Anomaluridae (singleton)
+Aplodontiidae,0.257222362105134,0.1386356202039976,0,from Rodentia (singleton)
+Aplodontia,0.257222362105134,0.1386356202039976,0,from Aplodontiidae (singleton)
+Bathyergidae,0.32878152751899004,0.25963187626473144,1.0,computed
+Bathyergus,0.32878152751899004,0.25963187626473144,1.0,from Bathyergidae (cherry)
+Cryptomys,0.32878152751899004,0.25963187626473144,0,from Bathyergidae (singleton)
+Fukomys,0.40950526120619735,0.0,1.0,computed
+Georychus,0.32878152751899004,0.25963187626473144,0,from Bathyergidae (singleton)
+Heliophobius,0.32878152751899004,0.25963187626473144,0,from Bathyergidae (singleton)
+Calomyscidae,0.1483884132347983,0.14838817278968933,1.0,computed
+Calomyscus,0.1483884132347983,0.14838817278968933,1.0,computed
+Capromyidae,0.257222362105134,0.1386356202039976,0.0,from Rodentia (not monophyletic)
+Capromys,0.257222362105134,0.1386356202039976,0.0,from Capromyidae (crown capture probability)
+Geocapromys,0.257222362105134,0.1386356202039976,0.7714285714285715,from Capromyidae (crown capture probability)
+Hexolobodon,0.257222362105134,0.1386356202039976,0.0,from Capromyidae (cherry)
+Hyperplagiodontia,0.257222362105134,0.1386356202039976,0.0,from Capromyidae (unsampled)
+Isolobodon,0.257222362105134,0.1386356202039976,0.6666666666666667,from Capromyidae (crown capture probability)
+Macrocapromys,0.257222362105134,0.1386356202039976,0.0,from Capromyidae (unsampled)
+Mesocapromys,0.766842689085407,0.5454295803456256,0.8571428571428572,computed
+Mysateles,0.4842300808564691,0.04801333874814737,1.0,computed
+Plagiodontia,0.257222362105134,0.1386356202039976,0.5555555555555556,from Capromyidae (crown capture probability)
+Rhizoplagiodontia,0.257222362105134,0.1386356202039976,0.0,from Capromyidae (unsampled)
+Caribeomydae,0.257222362105134,0.1386356202039976,0.0,from Rodentia (unsampled)
+Caribeomys,0.257222362105134,0.1386356202039976,0.0,from Caribeomydae (unsampled)
+Castoridae,0.257222362105134,0.1386356202039976,1.0,from Rodentia (cherry)
+Castor,0.257222362105134,0.1386356202039976,1.0,from Castoridae (cherry)
+Caviidae,0.1045986021404293,0.0,0.9952380952380953,computed
+Cavia,0.24447368488204763,0.03811032653474032,1.0,computed
+Caviida incertae sedis,0.1045986021404293,0.0,0.0,from Caviidae (unsampled)
+Dolichotis,0.1045986021404293,0.0,1.0,from Caviidae (cherry)
+Galea,0.06310533692513459,0.0,1.0,computed
+Hydrochoerus,0.1045986021404293,0.0,1.0,from Caviidae (cherry)
+Kerodon,0.1045986021404293,0.0,1.0,from Caviidae (cherry)
+Microcavia,0.032827797889970665,0.0,1.0,computed
+Chinchillidae,0.11883908808519573,0.11021999664681015,1.0,computed
+Chinchilla,0.11883908808519573,0.11021999664681015,1.0,from Chinchillidae (cherry)
+Lagidium,0.15983529447043965,0.0,1.0,computed
+Lagostomus,0.11883908808519573,0.11021999664681015,1.0,from Chinchillidae (cherry)
+Cricetidae,0.21311865064922042,0.0,0.9998664197236693,computed
+Abrawayaomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Abrothrix,0.28400494173938967,0.0,1.0,computed
+Aegialomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Aepeomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Agathaeromys,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Akodon,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Allocricetulus,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Alticola,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Amphinectomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Andalgalomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Andinomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Anotomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Antillomys,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Apocricetus,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Arborimus,0.3168768907379733,0.0,1.0,computed
+Arvicola,0.28921987161003543,0.28887303200041126,1.0,computed
+Auliscomys,0.11952456494232418,0.11946817447567144,1.0,computed
+Baiomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Bibimys,2.2438809199486167,0.0,1.0,computed
+Blanfordimys,0.07040277112850281,0.0,1.0,computed
+Blarinomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Brucepattersonius,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Calassomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Calomys,0.38942941904636724,0.2827727899856683,1.0,computed
+Cansumys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Caryomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Cerradomys,0.25124956381538427,0.0,1.0,computed
+Chelemys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Chibchanomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Chilomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Chinchillula,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Chionomys,0.05199175952466818,0.0,1.0,computed
+Cordimus,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Cricetulus,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Cricetus,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Delomys,0.15823341972788216,0.0,1.0,computed
+Deltamys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Dicrostonyx,0.5449755626649118,0.0,1.0,computed
+Dinaromys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Drymoreomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Dushimys,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Ekbletomys,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Eligmodontia,0.2235020772643507,0.0,1.0,computed
+Ellobius,0.12590825571941042,0.0,1.0,computed
+Eolagurus,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Eothenomys,0.25774911571426967,0.0,1.0,computed
+Eremoryzomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Euneomys,0.17651864844458492,0.17651810169281015,1.0,computed
+Euryoryzomys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Galenomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Geoxus,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Graomys,0.32844907202029633,0.32834887470543045,1.0,computed
+Habromys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Handleyomys,0.1784810630958971,0.04922215269641559,1.0,computed
+Hattomys,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Hodomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Holochilus,0.21561016499435512,0.21553770373007558,1.0,computed
+Hylaeamys,0.1684018133579328,0.006269186382260161,1.0,computed
+Hyperacrius,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Ichthyomys,1.0000000282819324,1.0000000272819323,1.0,computed
+Irenomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Isthmomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Juliomys,0.06337917123471776,0.0,1.0,computed
+Juscelinomys,0.16290026469226895,0.16290014412655962,1.0,computed
+Kunsia,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Lagurus,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Lasiopodomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Lemmiscus,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Lemmus,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Lenoxus,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Loxodontomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Lundomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Megadontomys,0.11980481839336977,0.0,1.0,computed
+Megalomys,0.21311865064922042,0.0,0.4666666666666667,from Cricetidae (crown capture probability)
+Megaoryzomys,0.21311865064922042,0.0,0.0,from Cricetidae (cherry)
+Melanomys,0.5337872636291191,0.5331029034575046,1.0,computed
+Mesocricetus,0.21302203779967047,0.0,0.9,computed
+Microakodontomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Microryzomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Microtus,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Mindomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Myodes,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Myopus,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Neacomys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Necromys,0.3195536145016286,0.1736226453260841,1.0,computed
+Nectomys,0.27204141235935236,0.0,1.0,computed
+Nelsonia,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Neodon,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Neofiber,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Neotoma,0.2614591407674467,0.0,0.9891304347826086,computed
+Neotomodon,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Neotomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Nephelomys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Nesoryzomys,0.3129180504308127,0.0,0.8333333333333334,computed
+Neusticomys,1.0000000282819324,1.0000000272819323,1.0,computed
+Noronhomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Notiomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Nyctomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Ochrotomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Oecomys,0.21067704289455352,0.0,1.0,computed
+Oligoryzomys,0.27404059051049356,0.0,1.0,computed
+Ondatra,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Onychomys,0.08584630537566638,0.0,1.0,computed
+Oreoryzomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Oryzomyini,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Oryzomys,0.347092108202864,0.08723024709139926,1.0,computed
+Osgoodomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Otonyctomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Ototylomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Oxymycterus,0.4748039352519644,0.0,1.0,computed
+Paralomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Pearsonomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Pennatomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Peromyscus,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Phaenomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Phenacomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Phodopus,0.07267222310201578,0.07267185772107077,1.0,computed
+Phyllotis,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Podomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Podoxymys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Proedromys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Prometheomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Pseudoryzomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Punomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Reithrodon,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Reithrodontomys,0.19901929377830765,0.0,1.0,computed
+Rhagomys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Rheomys,0.1581704262353536,0.0,1.0,computed
+Rhipidomys,0.21683102635797685,0.0,1.0,computed
+Salinomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Scapteromys,0.2415778618351047,0.0,1.0,computed
+Scolomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Scotinomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Sigmodon,0.1679124787155652,0.0,1.0,computed
+Sigmodontomys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Sooretamys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Synaptomys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Tapecomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Thalpomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Thaptomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Thomasomys,0.24937312360186556,0.008462740729812747,1.0,computed
+Tragomys,0.21311865064922042,0.0,0.0,from Cricetidae (unsampled)
+Transandinomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Tscherskia,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Tylomys,0.29865423599590607,0.222122089418926,1.0,computed
+Volemys,0.21311865064922042,0.0,0.0,from Cricetidae (not monophyletic)
+Wiedomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Wilfredomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Xenomys,0.21311865064922042,0.0,0,from Cricetidae (singleton)
+Zygodontomys,0.21311865064922042,0.0,1.0,from Cricetidae (cherry)
+Ctenodactylidae,0.15035283783134182,0.1499414744386356,0.9333333333333333,computed
+Ctenodactylus,0.15035283783134182,0.1499414744386356,1.0,from Ctenodactylidae (cherry)
+Felovia,0.15035283783134182,0.1499414744386356,0,from Ctenodactylidae (singleton)
+Massoutiera,0.15035283783134182,0.1499414744386356,0,from Ctenodactylidae (singleton)
+Pectinator,0.15035283783134182,0.1499414744386356,0,from Ctenodactylidae (singleton)
+Pellegrinia,0.15035283783134182,0.1499414744386356,0.0,from Ctenodactylidae (unsampled)
+Ctenomyidae,0.5857733860237733,0.0,1.0,computed
+Ctenomys,0.5857733860237733,0.0,1.0,computed
+Cuniculidae,0.257222362105134,0.1386356202039976,1.0,from Rodentia (cherry)
+Cuniculus,0.257222362105134,0.1386356202039976,1.0,from Cuniculidae (cherry)
+Dasyproctidae,0.21863488689831914,0.0,1.0,computed
+Dasyprocta,0.27685282824627183,0.0,1.0,computed
+Myoprocta,0.21863488689831914,0.0,1.0,from Dasyproctidae (cherry)
+Diatomyidae,0.257222362105134,0.1386356202039976,0,from Rodentia (singleton)
+Laonastes,0.257222362105134,0.1386356202039976,0,from Diatomyidae (singleton)
+Dinomyidae,0.257222362105134,0.1386356202039976,0,from Rodentia (singleton)
+Dinomys,0.257222362105134,0.1386356202039976,0,from Dinomyidae (singleton)
+Dipodidae,0.22370375695420266,0.14302316534570614,1.0,computed
+Allactaga,0.22370375695420266,0.14302316534570614,0.0,from Dipodidae (not monophyletic)
+Allactodipus,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Cardiocranius,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Dipus,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Eozapus,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Eremodipus,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Euchoreutes,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Jaculus,0.14755321176078348,0.0,1.0,computed
+Napaeozapus,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Paradipus,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Pygeretmus,0.28909024408516243,0.0,1.0,computed
+Salpingotulus,0.22370375695420266,0.14302316534570614,0,from Dipodidae (singleton)
+Salpingotus,0.050376634772744504,0.0,1.0,computed
+Sicista,0.4147690165542591,0.1730568617622508,1.0,computed
+Stylodipus,0.207276047220671,0.20696814106554048,1.0,computed
+Zapus,0.14198057850247398,0.1419803713770494,1.0,computed
+Echimyidae,0.257222362105134,0.1386356202039976,0.0,from Rodentia (not monophyletic)
+Boromys,0.257222362105134,0.1386356202039976,1.0,from Echimyidae (cherry)
+Brotomys,0.257222362105134,0.1386356202039976,0.0,from Echimyidae (cherry)
+Callistomys,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Carterodon,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Clyomys,0.257222362105134,0.1386356202039976,1.0,from Echimyidae (cherry)
+Dactylomys,0.08874705064479825,0.0,1.0,computed
+Diplomys,0.257222362105134,0.1386356202039976,1.0,from Echimyidae (cherry)
+Echimys,0.09038295029303207,0.09038218320612415,1.0,computed
+Euryzygomatomys,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Heteropsomys,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Hoplomys,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Isothrix,0.1728353590448497,0.08472223205445753,1.0,computed
+Kannabateomys,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Lonchothrix,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Makalata,0.06740117440834105,0.0,1.0,computed
+Mesomys,0.11742896708845663,0.0,1.0,computed
+Olallamys,0.257222362105134,0.1386356202039976,1.0,from Echimyidae (cherry)
+Pattonomys,0.257222362105134,0.1386356202039976,1.0,from Echimyidae (cherry)
+Phyllomys,0.2667937359701886,0.0,1.0,computed
+Proechimys,0.2846615689683918,0.07382617017468185,1.0,computed
+Puertoricomys,0.257222362105134,0.1386356202039976,0.0,from Echimyidae (unsampled)
+Santamartamys,0.257222362105134,0.1386356202039976,0,from Echimyidae (singleton)
+Thrichomys,0.257222362105134,0.1386356202039976,0.0,from Echimyidae (not monophyletic)
+Toromys,0.257222362105134,0.1386356202039976,1.0,from Echimyidae (cherry)
+Trinomys,0.257222362105134,0.1386356202039976,0.0,from Echimyidae (not monophyletic)
+Erethizontidae,0.46703699987278063,0.46691008663167155,1.0,computed
+Chaetomys,0.46703699987278063,0.46691008663167155,0,from Erethizontidae (singleton)
+Coendou,0.4861521076985616,0.0,1.0,computed
+Erethizon,0.46703699987278063,0.46691008663167155,0,from Erethizontidae (singleton)
+Geomyidae,0.2698298576615545,0.0,1.0,computed
+Cratogeomys,0.23392220179441967,0.0,1.0,computed
+Geomys,0.2767285350952395,0.0,1.0,computed
+Orthogeomys,0.2698298576615545,0.0,0.0,from Geomyidae (not monophyletic)
+Pappogeomys,0.2698298576615545,0.0,1.0,from Geomyidae (cherry)
+Thomomys,0.19814819379666324,0.0,1.0,computed
+Zygogeomys,0.2698298576615545,0.0,0,from Geomyidae (singleton)
+Gliridae,0.5213865697354281,0.5074717596118069,0.98,computed
+Chaetocauda,0.5213865697354281,0.5074717596118069,0,from Gliridae (singleton)
+Dryomys,0.26777993508275827,0.26765504382040983,1.0,computed
+Eliomys,0.15323406914209942,0.0,1.0,computed
+Glirulus,0.5213865697354281,0.5074717596118069,0,from Gliridae (singleton)
+Glis,0.5213865697354281,0.5074717596118069,0,from Gliridae (singleton)
+Graphiurus,0.4665955915284807,0.4334629653363985,1.0,computed
+Hypnomys,0.5213865697354281,0.5074717596118069,0.0,from Gliridae (unsampled)
+Leithia,0.5213865697354281,0.5074717596118069,0.0,from Gliridae (unsampled)
+Maltamys,0.5213865697354281,0.5074717596118069,0.0,from Gliridae (unsampled)
+Muscardinus,0.5213865697354281,0.5074717596118069,0.0,from Gliridae (crown capture probability)
+Myomimus,0.1709889470085499,0.0,1.0,computed
+Selevinia,0.5213865697354281,0.5074717596118069,0,from Gliridae (singleton)
+Stertomys,0.5213865697354281,0.5074717596118069,0.0,from Gliridae (unsampled)
+Heptaxodontidae,0.257222362105134,0.1386356202039976,0.0,from Rodentia (unsampled)
+Amblyrhiza,0.257222362105134,0.1386356202039976,0.0,from Heptaxodontidae (unsampled)
+Clidomys,0.257222362105134,0.1386356202039976,0.0,from Heptaxodontidae (unsampled)
+Elasmodontomys,0.257222362105134,0.1386356202039976,0.0,from Heptaxodontidae (unsampled)
+Quemisia,0.257222362105134,0.1386356202039976,0.0,from Heptaxodontidae (unsampled)
+Xaymaca,0.257222362105134,0.1386356202039976,0.0,from Heptaxodontidae (unsampled)
+Heterocephalidae,0.257222362105134,0.1386356202039976,0,from Rodentia (singleton)
+Heterocephalus,0.257222362105134,0.1386356202039976,0,from Heterocephalidae (singleton)
+Heteromyidae,0.257222362105134,0.1386356202039976,0.0,from Rodentia (not monophyletic)
+Chaetodipus,0.1719601441728663,0.0,1.0,computed
+Dipodomys,0.2143430794775602,0.0,1.0,computed
+Heteromys,0.2653683948672431,0.0,1.0,computed
+Liomys,0.257222362105134,0.1386356202039976,0.0,from Heteromyidae (not monophyletic)
+Microdipodops,0.257222362105134,0.1386356202039976,1.0,from Heteromyidae (cherry)
+Perognathus,0.1465186834761083,0.0,1.0,computed
+Hystricidae,1.0000000282819324,1.0000000272819323,1.0,computed
+Atherurus,1.0000000282819324,1.0000000272819323,0.0,from Hystricidae (not monophyletic)
+Hystrix,1.0000000282819324,1.0000000272819323,1.0,computed
+Trichys,1.0000000282819324,1.0000000272819323,0,from Hystricidae (singleton)
+Incertae sedis in Rodentia,0.257222362105134,0.1386356202039976,0.0,from Rodentia (unsampled)
+Tainiotherium,0.257222362105134,0.1386356202039976,0.0,from Incertae sedis in Rodentia (unsampled)
+Muridae,0.2539147315345505,0.10301919328902241,0.9999078575286754,computed
+Abditomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Abeomelomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Acomys,0.3071482872620471,0.2757709360821471,1.0,computed
+Aethomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Ammodillus,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Anisomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Anonymomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Apodemus,0.12540589086701465,0.0,0.9952380952380953,computed
+Apomys,0.2786459912819522,0.0,0.9947368421052631,computed
+Archboldomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Arvicanthis,0.2186544301226919,0.14244158362413287,1.0,computed
+Baiyankamys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Bandicota,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Batomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Berylmys,0.1949566583545917,0.19495661689931207,1.0,computed
+Brachiones,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Bullimus,0.08587860123773369,0.0,1.0,computed
+Bunomys,0.26840990215666677,0.0,1.0,computed
+Canariomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Carpomys,0.2539147315345505,0.10301919328902241,0.6666666666666667,from Muridae (crown capture probability)
+Chiromyscus,0.08668139914514537,0.08668039283473324,1.0,computed
+Chiropodomys,0.45789248695044005,0.0,1.0,computed
+Chiruromys,0.09145549718914116,0.0,1.0,computed
+Chrotomys,0.3137765655133408,0.31371875865000576,1.0,computed
+Coccymys,0.1630231908176274,0.13356367161898033,1.0,computed
+Colomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Conilurus,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Coryphomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (cherry)
+Crateromys,0.332171832497978,0.307555233275391,0.9,computed
+Cremnomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Crossomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Crunomys,0.32612251028868494,0.09167945461476765,1.0,computed
+Dacnomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Dasymys,1.0000000282819324,1.0000000272819323,1.0,computed
+Deomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Dephomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Desmodilliscus,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Desmodillus,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Desmomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Diomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Diplothrix,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Echiothrix,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Eropeplus,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Genus A,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Gerbilliscus,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Gerbillurus,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Gerbillus,0.46595994542683405,0.18734732798970316,1.0,computed
+Golunda,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Grammomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Hadromys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Haeromys,0.10715133879386254,0.1071513033245326,1.0,computed
+Halmaheramys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Hapalomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Heimyscus,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Hooijeromys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Hybomys,0.23921123446823625,0.23916113430374586,1.0,computed
+Hydromys,0.5797912189609566,0.4665080106437856,1.0,computed
+Hylomyscus,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Hyomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Kadarsanomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Komodomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Kritimys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Lamottemys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Leggadina,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Leimacomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Lemniscomys,0.2318949208432293,0.06724623432636676,1.0,computed
+Lenomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Lenothrix,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Leopoldamys,0.13516597574901434,0.0,1.0,computed
+Leporillus,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Leptomys,0.13293890425317217,0.13293874186000043,1.0,computed
+Limnomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Lophiomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Lophuromys,0.3962670027029662,0.39125340654481694,1.0,computed
+Lorentzimys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Macruromys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Madromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Malacomys,0.033434361271373676,0.0,1.0,computed
+Mallomys,0.38228256652179754,0.38225872443377623,1.0,computed
+Malpaisomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Mammelomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Margaretamys,0.13864557130458519,0.13864547650979117,1.0,computed
+Mastacomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Mastomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Maxomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Melasmothrix,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Melomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Meriones,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Mesembriomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Microdillus,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Microhydromys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Micromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Mikrotia,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Milimonggamys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Millardia,1.0000000282819324,1.0000000272819323,1.0,computed
+Mirzamys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Muriculus,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Mus,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Musseromys,1.0000000282819324,1.0000000272819323,1.0,computed
+Mylomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Myomyscus,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Nesokia,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Nesoromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Nilopegamys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Niviventer,0.2089632562970155,0.0,1.0,computed
+Notomys,0.7908204804866531,0.0,1.0,computed
+Oenomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Otomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Pachyuromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Palawanomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Papagomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (cherry)
+Paraethomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Parahydromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Paraleptomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Paramelomys,0.28843997625432183,0.1268353390659361,1.0,computed
+Parotomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Paruromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Paucidentomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Paulamys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Pelomys,0.24890679631735638,0.2485995671530073,1.0,computed
+Phloeomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Pithecheir,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Pithecheirops,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Pogonomelomys,0.06754205632194343,0.0,1.0,computed
+Pogonomys,0.13030970050655336,0.08123329911348297,1.0,computed
+Praomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Protochromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Psammomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Pseudohydromys,0.2617058824042294,0.0,1.0,computed
+Pseudomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Raksasamys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Rattus,0.2539147315345505,0.10301919328902241,0.0,from Muridae (not monophyletic)
+Rhabdomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Rhagamys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Rhombomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Rhynchomys,0.6284419720505426,0.0,1.0,computed
+Saxatilomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Sekeetamys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Solomys,0.21466418268892073,0.0,0.9,computed
+Sommeromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Soricomys,0.12511398814131344,0.0,1.0,computed
+Spelaeomys,0.2539147315345505,0.10301919328902241,0.0,from Muridae (unsampled)
+Srilankamys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Stenocephalemys,0.31554124685502366,0.0,1.0,computed
+Stochomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Sundamys,1.0000000282819324,1.0000000272819323,1.0,computed
+Taeromys,0.2112726407780598,0.0,1.0,computed
+Tarsomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Tateomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Tatera,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Taterillus,0.2865275841655832,0.21863458124973945,1.0,computed
+Thallomys,0.258209085495079,0.23887175313920492,1.0,computed
+Thamnomys,0.15262611421778424,0.06035505771201569,1.0,computed
+Tokudaia,0.08122202754485582,0.08122121247295311,1.0,computed
+Tonkinomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Tryphomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Uranomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Uromys,1.0000000282819324,1.0000000272819323,0.9818181818181818,computed
+Vandeleuria,1.4307957026812599,0.0,1.0,computed
+Vernaya,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Waiomys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Xenuromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Xeromys,0.2539147315345505,0.10301919328902241,0,from Muridae (singleton)
+Zelotomys,0.2539147315345505,0.10301919328902241,1.0,from Muridae (cherry)
+Zyzomys,0.40496431579074343,0.0,1.0,computed
+Myocastoridae,0.257222362105134,0.1386356202039976,0,from Rodentia (singleton)
+Myocastor,0.257222362105134,0.1386356202039976,0,from Myocastoridae (singleton)
+Nesomyidae,0.07924260054729813,0.010308503847371505,0.9985576923076923,computed
+Beamys,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Brachytarsomys ,0.07924260054729813,0.010308503847371505,0.0,from Nesomyidae (unsampled)
+Brachytarsomys,0.07924260054729813,0.010308503847371505,1.0,from Nesomyidae (cherry)
+Brachyuromys,0.07924260054729813,0.010308503847371505,1.0,from Nesomyidae (cherry)
+Cricetomys,0.07924260054729813,0.010308503847371505,1.0,from Nesomyidae (cherry)
+Delanymys,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Dendromus,0.07924260054729813,0.010308503847371505,0.0,from Nesomyidae (not monophyletic)
+Dendroprionomys,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Eliurus,0.07924260054729813,0.010308503847371505,0.0,from Nesomyidae (not monophyletic)
+Gymnuromys,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Hypogeomys,0.07924260054729813,0.010308503847371505,0.0,from Nesomyidae (cherry)
+Macrotarsomys,0.07924260054729813,0.010308503847371505,0.0,from Nesomyidae (not monophyletic)
+Malacothrix,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Megadendromus,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Monticolomys,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Mystromys,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Nesomys,0.07061249740825695,0.0,0.8333333333333334,computed
+Petromyscus,0.07924260054729813,0.010308503847371505,0.0,from Nesomyidae (not monophyletic)
+Prionomys,0.07924260054729813,0.010308503847371505,0,from Nesomyidae (singleton)
+Saccostomus,0.07924260054729813,0.010308503847371505,1.0,from Nesomyidae (cherry)
+Steatomys,0.14015512176547046,0.09900450835457623,1.0,computed
+Voalavo,0.07924260054729813,0.010308503847371505,1.0,from Nesomyidae (cherry)
+Octodontidae,0.21356708280374861,0.020935230410559676,1.0,computed
+Aconaemys,0.20463035085368114,0.20462919800264082,1.0,computed
+Octodon,0.3659452450376558,0.36501119183331204,1.0,computed
+Octodontomys,0.21356708280374861,0.020935230410559676,0,from Octodontidae (singleton)
+Octomys,0.21356708280374861,0.020935230410559676,0,from Octodontidae (singleton)
+Pipanacoctomys,0.21356708280374861,0.020935230410559676,0,from Octodontidae (singleton)
+Spalacopus,0.21356708280374861,0.020935230410559676,0,from Octodontidae (singleton)
+Tympanoctomys,0.24595532189011476,0.2455932509212635,1.0,computed
+Pedetidae,0.257222362105134,0.1386356202039976,1.0,from Rodentia (cherry)
+Pedetes,0.257222362105134,0.1386356202039976,1.0,from Pedetidae (cherry)
+Petromuridae,0.257222362105134,0.1386356202039976,0,from Rodentia (singleton)
+Petromus,0.257222362105134,0.1386356202039976,0,from Petromuridae (singleton)
+Platacanthomyidae,0.257222362105134,0.1386356202039976,1.0,from Rodentia (cherry)
+Platacanthomys,0.257222362105134,0.1386356202039976,0,from Platacanthomyidae (singleton)
+Typhlomys,0.257222362105134,0.1386356202039976,0,from Platacanthomyidae (singleton)
+Sciuridae,0.2698409112277495,0.13080517290068197,1.0,computed
+Aeretes,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Aeromys,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Ammospermophilus,0.37782164574523,0.2774055133611194,1.0,computed
+Atlantoxerus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Belomys,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Biswamoyopterus,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Callosciurus,0.22409451003629718,0.0,1.0,computed
+Callospermophilus,0.2267175063982166,0.0,1.0,computed
+Cynomys,0.6895537128439535,0.4868694323452214,1.0,computed
+Dremomys,0.11822575872077909,0.0,1.0,computed
+Eoglaucomys,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Epixerus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Eupetaurus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Exilisciurus,0.11411555616018829,0.11411510437506918,1.0,computed
+Funambulus,0.10877585402221567,0.03678697255004079,1.0,computed
+Funisciurus,0.2698409112277495,0.13080517290068197,0.0,from Sciuridae (not monophyletic)
+Glaucomys,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Glyphotes,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Heliosciurus,0.25018746949130466,0.2501752889223424,1.0,computed
+Hylopetes,0.2698409112277495,0.13080517290068197,0.0,from Sciuridae (not monophyletic)
+Hyosciurus,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Ictidomys,0.22564422849293903,0.22544883110117211,1.0,computed
+Iomys,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Lariscus,0.3945966335412016,0.28889838698401,1.0,computed
+Marmota,0.37083584896506505,0.0,1.0,computed
+Menetes,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Microsciurus,0.2698409112277495,0.13080517290068197,0.0,from Sciuridae (not monophyletic)
+Myosciurus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Nannosciurus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Notocitellus,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Otospermophilus,0.10880591661213172,0.0,1.0,computed
+Paraxerus,0.2698409112277495,0.13080517290068197,0.0,from Sciuridae (not monophyletic)
+Petaurillus,0.14453121877303302,0.0,1.0,computed
+Petaurista,0.2199586125505846,0.0,1.0,computed
+Petinomys,0.5318058210650483,0.020790376634093326,1.0,computed
+Poliocitellus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Prosciurillus,0.6531535412244452,0.5589790266503979,1.0,computed
+Protoxerus,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Pteromys,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Pteromyscus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Ratufa,0.07941848168679057,0.0,1.0,computed
+Rheithrosciurus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Rhinosciurus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Rubrisciurus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Sciurillus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Sciurotamias,0.2698409112277495,0.13080517290068197,1.0,from Sciuridae (cherry)
+Sciurus,0.2698409112277495,0.13080517290068197,0.0,from Sciuridae (not monophyletic)
+Spermophilopsis,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Spermophilus,0.5094206584110708,0.3126549184850592,1.0,computed
+Sundasciurus,0.17789808967958776,0.007123441993250856,1.0,computed
+Syntheosciurus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Tamias,0.36424099693080386,0.0,1.0,computed
+Tamiasciurus,0.6585931465806922,0.0,1.0,computed
+Tamiops,0.07306491378187244,0.0,1.0,computed
+Trogopterus,0.2698409112277495,0.13080517290068197,0,from Sciuridae (singleton)
+Urocitellus,0.2967101882892791,0.0,1.0,computed
+Xerospermophilus,0.28379782036814305,0.26008675936830655,1.0,computed
+Xerus,0.2698409112277495,0.13080517290068197,0.0,from Sciuridae (not monophyletic)
+Spalacidae,0.10811627283525332,0.030863331116357386,1.0,computed
+Cannomys,0.10811627283525332,0.030863331116357386,0,from Spalacidae (singleton)
+Eospalax,0.06332152813023392,0.0,1.0,computed
+Myospalax,0.057313632336521834,0.057312378007561594,1.0,computed
+Rhizomys,0.07101523793121231,0.0,1.0,computed
+Spalax,0.12592335135889537,0.0,1.0,computed
+Tachyoryctes,0.10811627283525332,0.030863331116357386,1.0,from Spalacidae (cherry)
+Thryonomyidae,0.257222362105134,0.1386356202039976,1.0,from Rodentia (cherry)
+Thryonomys,0.257222362105134,0.1386356202039976,1.0,from Thryonomyidae (cherry)
+Scandentia,0.14101024959293557,0.13921706793831679,1.0,computed
+Ptilocercidae,0.14101024959293557,0.13921706793831679,0,from Scandentia (singleton)
+Ptilocercus,0.14101024959293557,0.13921706793831679,0,from Ptilocercidae (singleton)
+Tupaiidae,0.09063629996883359,0.037915490271885316,1.0,computed
+Anathana,0.09063629996883359,0.037915490271885316,0,from Tupaiidae (singleton)
+Dendrogale,0.09063629996883359,0.037915490271885316,0.0,from Tupaiidae (not monophyletic)
+Tupaia,0.09063629996883359,0.037915490271885316,0.0,from Tupaiidae (not monophyletic)
+Urogale,0.09063629996883359,0.037915490271885316,0,from Tupaiidae (singleton)
+Sirenia,0.09270670454705782,0.09270641455416358,1.0,computed
+Dugongidae,0.09270670454705782,0.09270641455416358,0.0,from Sirenia (not monophyletic)
+Dugong,0.09270670454705782,0.09270641455416358,0,from Dugongidae (singleton)
+Hydrodamalis,0.09270670454705782,0.09270641455416358,0,from Dugongidae (singleton)
+Trichechidae,0.23088372519866937,0.0,1.0,computed
+Trichechus,0.23088372519866937,0.0,1.0,computed
+Tubulidentata,0.27358971280253874,0.18476385885652347,0,from Mammalia (singleton)
+Orycteropodidae,0.27358971280253874,0.18476385885652347,0,from Tubulidentata (singleton)
+Orycteropus,0.27358971280253874,0.18476385885652347,0,from Orycteropodidae (singleton)
