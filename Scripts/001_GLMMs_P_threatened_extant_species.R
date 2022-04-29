@@ -11,7 +11,6 @@ library(forcats)
 library(lme4)
 library(sjPlot)
 library(car)
-library(DHARMa)
 library(RColorBrewer)
 library(ggeffects)
 library(visreg)
@@ -72,17 +71,6 @@ glmer6 <- glmer(Pr_threatened ~ Magnitude_body_size_change * Direction_body_size
 
 #Visualize results and save table as doc file
 tab_model(null, glmer1, glmer2, glmer3, glmer4, glmer5, glmer6, show.aicc = TRUE, file = "Results/GLMMs/Table_models_threatened.doc")
-
-#Check VIF
-vif(glmer3)
-vif(glmer4)
-vif(glmer5)
-vif(glmer6)
-
-#Perform model diagnostics with DHARMa (best model)
-glmer.sim <- simulateResiduals(glmer3, integerResponse = TRUE, n = 250)
-plot(glmer.sim)
-testDispersion(glmer.sim) 
 
 ##############################################################
 # Plot models                                             ####
@@ -208,7 +196,6 @@ ggsave(Body_size_classes_vs_P_threatened, filename = "Body_size_classes_vs_P_thr
 # run GLMMs again with species that experienced no substantial body size change included         ####
 #####################################################################################################
 
-
 island_species_extant_no_change_included <- read.csv('Data/Extant_mammals_species.csv')
 
 island_species_extant_no_change_included <- filter(island_species_extant_no_change_included, Size_ratio != "")
@@ -231,7 +218,6 @@ island_species_extant_no_change_included <- island_species_extant_no_change_incl
                                 VU = "threatened",
                                 NT = "nonthreatened",
                                 LC = "nonthreatened"))
-
 
 #Reorder threatened vs nonthreatened column from low to high extinction risk
 island_species_extant_no_change_included <- island_species_extant_no_change_included %>%
@@ -261,17 +247,5 @@ glmer6_b <- glmer(Pr_threatened ~ Magnitude_body_size_change * Direction_body_si
 #Results
 
 tab_model(null_b, glmer1_b, glmer2_b, glmer3_b, glmer4_b, glmer5_b, glmer6_b, show.aicc = TRUE, file = "Results/GLMMs/Table_models_threatened_no_change_included.doc")
-
-#VIFs 
-
-vif(glmer3_b) 
-vif(glmer4_b)
-vif(glmer5_b) 
-vif(glmer6_b) 
-
-#Model diagnostics (best model)
-glmer.sim <- simulateResiduals(glmer3_b, integerResponse = TRUE, n = 250)
-plot(glmer.sim)
-testDispersion(glmer.sim)
 
 #End of script
