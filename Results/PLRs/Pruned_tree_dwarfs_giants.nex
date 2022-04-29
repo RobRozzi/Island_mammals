@@ -1,0 +1,1667 @@
+#NEXUS
+[R-package APE, Wed Apr 20 15:07:59 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 827;
+	TAXLABELS
+		Ornithorhynchus_anatinus
+		Tlacuatzin_canescens
+		Marmosa_robinsoni
+		Marmosa_murina
+		Didelphis_virginiana
+		Didelphis_marsupialis
+		Dromiciops_gliroides
+		Isoodon_obesulus
+		Isoodon_auratus
+		Perameles_gunnii
+		Perameles_bougainville
+		Rhynchomeles_prattorum
+		Echymipera_davidi
+		Planigale_novaeguineae
+		Sminthopsis_leucopus
+		Sminthopsis_aitkeni
+		Parantechinus_apicalis
+		Cercartetus_concinnus
+		Ailurops_melanotis
+		Spilocuscus_wilsoni
+		Spilocuscus_rufoniger
+		Spilocuscus_papuensis
+		Spilocuscus_kraemeri
+		Phalanger_lullulae
+		Dactylopsila_tatei
+		Petaurus_abidi
+		Petaurus_biacensis
+		Petaurus_norfolcensis
+		Pseudocheirus_peregrinus
+		Bettongia_lesueur
+		Setonix_brachyurus
+		Macropus_fuliginosus
+		Macropus_giganteus
+		Macropus_robustus
+		Macropus_rufogriseus
+		Macropus_eugenii
+		Dorcopsis_atrata
+		Thylogale_brunii
+		Thylogale_calabyi
+		Thylogale_lanatus
+		Thylogale_browni
+		Petrogale_rothschildi
+		Petrogale_lateralis
+		Bradypus_pygmaeus
+		Bradypus_variegatus
+		Palaeoloxodon_sp_Rhodes
+		Palaeoloxodon_aff_P_creutzburgi
+		Palaeoloxodon_lomolinoi
+		Palaeoloxodon_antiquus_leonardi
+		Palaeoloxodon_falconeri
+		Palaeoloxodon_xylophagou
+		Palaeoloxodon_cypriotes
+		Palaeoloxodon_creutzburgi
+		Palaeoloxodon_tiliensis
+		Palaeoloxodon_ex_gr_P_mnaidriensis
+		Mammuthus_lamarmorai
+		Mammuthus_exilis
+		Mammuthus_creticus
+		Elephas_sp_Luzon_Visayan
+		Elephas_maximus
+		Stegodon_sompoensis
+		Stegodon_trigonocephalus
+		Stegodon_luzonensis
+		Stegodon_sumbaensis
+		Stegodon_sp_B_Sulawesi
+		Stegodon_sondaari
+		Stegodon_florensis_insularis
+		Stegodon_florensis_florensis
+		Stegodon_aurorae
+		Stegodon_timorensis
+		Solenodon_cubanus
+		Talpa_tyrrhenica
+		Mogera_insularis
+		Mogera_tokudae
+		Mogera_imaizumii
+		Mogera_wogura
+		Mogera_uchidai
+		Echinosorex_gymnura
+		Podogymnura_truei
+		Podogymnura_aureospinula
+		Neohylomys_hainanensis
+		Hylomys_suillus
+		Hylomys_parvus
+		Erinaceus_roumanicus
+		Erinaceus_europaeus
+		Atelerix_algirus
+		Paraechinus_hypomelas
+		Deinogalerix_brevirostris
+		Deinogalerix_koenigswaldi
+		Anourosorex_yamashinai
+		Episoriculus_fumidus
+		Chimarrogale_phaeura
+		Chimarrogale_platycephalus
+		Blarina_brevicauda
+		Crocidura_sicula_esuae
+		Sorex_trowbridgii
+		Sorex_ornatus
+		Sorex_monticolus
+		Sorex_palustris
+		Sorex_cinereus
+		Sorex_pribilofensis
+		Sorex_jacksoni
+		Sorex_arcticus
+		Sorex_araneus
+		Sorex_caecutiens
+		Sorex_shinto
+		Sorex_hosonoi
+		Sorex_minutus
+		Myosorex_eisentrauti
+		Suncus_zeylanicus
+		Crocidura_umbra
+		Suncus_fellowesgordoni
+		Suncus_murinus
+		Crocidura_russula
+		Crocidura_trichura
+		Nesiotites_hidalgo
+		Nesiotites_ponsi
+		Nesiotites_aff_N_ponsi
+		Nesiotites_rafelinensis
+		Nesiotites_meloussae
+		Asoriculus_corsicanus
+		Asoriculus_similis
+		Asoriculus_burgioi
+		Crocidura_sicula_sicula_FOSSIL
+		Crocidura_thomensis
+		Crocidura_leucodon
+		Crocidura_canariensis
+		Crocidura_sicula
+		Crocidura_zimmermanni
+		Crocidura_levicula
+		Crocidura_rhoditis
+		Crocidura_elongata
+		Crocidura_lea
+		Crocidura_shantungensis
+		Crocidura_suaveolens
+		Crocidura_baluensis
+		Crocidura_hikmiya
+		Crocidura_miya
+		Crocidura_attenuata
+		Crocidura_dsinezumi
+		Crocidura_fuliginosa
+		Crocidura_malayana
+		Crocidura_brunnea
+		Crocidura_orientalis
+		Crocidura_lepidura
+		Crocidura_zimmermanni_FOSSIL
+		Crocidura_foetida
+		Crocidura_palawanensis
+		Crocidura_beatus
+		Crocidura_grayi
+		Crocidura_negrina
+		Manis_javanica
+		Manis_pentadactyla
+		Manis_culionensis
+		Prionodon_linsang
+		Neofelis_diardi_borneensis
+		Panthera_tigris
+		Lynx_canadensis
+		Pardofelis_marmorata
+		Catopuma_badia
+		Puma_concolor
+		Felis_silvestris
+		Prionailurus_viverrinus
+		Prionailurus_bengalensis
+		Prionailurus_planiceps
+		Leopardus_guigna
+		Cynogale_bennettii
+		Hemigalus_derbyanus
+		Diplogale_hosei
+		Arctogalidia_trivirgata
+		Arctictis_binturong
+		Paguma_larvata
+		Paradoxurus_hermaphroditus
+		Viverricula_indica
+		Viverra_tangalunga
+		Chasmaporthetes_melei
+		Atilax_paludinosus
+		Herpestes_brachyurus
+		Herpestes_urva
+		Herpestes_semitorquatus
+		Herpestes_javanicus
+		Herpestes_smithii
+		Herpestes_sanguineus
+		Bdeogale_crassicauda
+		Urocyon_littoralis
+		Urocyon_cinereoargenteus
+		Vulpes_lagopus
+		Vulpes_vulpes
+		Cynotherium_sardous
+		Cynotherium_malatestai
+		Pseudalopex_fulvipes
+		Xenocyon_trinilensis
+		Xenocyon_merriami
+		Dusicyon_australis
+		Canis_latrans
+		Canis_aureus
+		Canis_lupus
+		Ursus_arctos
+		Helarctos_malayanus
+		Ursus_americanus
+		Mydaus_marchei
+		Mydaus_javanensis
+		Spilogale_gracilis
+		Spilogale_putorius
+		Potos_flavus
+		Bassariscus_astutus
+		Procyon_pygmaeus
+		Procyon_lotor
+		Nasua_narica
+		Enhydrictis_praegalictoides
+		Enhydrictis_galictoides
+		Arctonyx_hoevenii
+		Meles_meles
+		Meles_anakuma
+		Lutra_castiglionis
+		Eira_barbara
+		Gulo_gulo
+		Martes_flavigula
+		Mustelercta_arzilla
+		Martes_foina
+		Pannonictis_baroniensis
+		Martes_americana
+		Martes_martes
+		Melogale_orientalis
+		Melogale_moschata
+		Melogale_everetti
+		Mustela_lutreolina
+		Neovison_vison
+		Mustela_nudipes
+		Lutra_trinacriae
+		Oriensictis_nipponica
+		Algarolutra_majori
+		Mustela_erminea
+		Mustela_nivalis
+		Megalenhydris_barbaricina
+		Mustela_itatsi
+		Mustela_sibirica
+		Mustela_putorius
+		Sardolutra_ichnusae
+		Lontra_canadensis
+		Lontra_felina
+		Lutra_sumatrana
+		Lutra_lutra
+		Aonyx_cinerea
+		Lutrogale_cretensis
+		Lutrogale_perspicillata
+		Nesorhinus_hayasakai
+		Nesorhinus_philippinensis
+		Babyrousa_togeanensis
+		Sus_ahoenobarbus
+		Sus_oliveri
+		Sus_celebensis
+		Sus_verrucosus
+		Sus_sondaari
+		Sus_barbatus
+		Sus_cebifrons
+		Sus_philippensis
+		Hippopotamus_pentlandi
+		Hippopotamus_madagascariensis
+		Hippopotamus_minor
+		Hippopotamus_lemerlei
+		Hippopotamus_creutzburgi
+		Hippopotamus_melitensis
+		Moschiola_meminna
+		Moschiola_kathygre
+		Tragulus_kanchil
+		Tragulus_napu
+		Tragulus_nigricans
+		Capreolus_miyakoensis
+		Rangifer_tarandus
+		Mazama_gouazoubira
+		Praemegaceros_cazioti
+		Praemegaceros_sardus
+		Odocoileus_virginianus
+		Odocoileus_hemionus
+		Cervus_elaphus_FOSSIL
+		Cervus_elaphus_siciliae
+		Muntiacus_muntjak
+		Muntiacus_atherodes
+		Axis_kuhlii
+		Axis_calamianensis
+		Candiacervus_sp_II
+		Candiacervus_major
+		Candiacervus_ropalophorus
+		Candiacervus_rethymnensis
+		Candiacervus_dorothensis
+		Candiacervus_cretensis
+		Candiacervus_cerigensis
+		Dama_carburangelensis
+		Rusa_alfredi
+		Muntiacini_gen_et_sp_indet
+		Cervus_elaphus
+		Rusa_marianna
+		Cervus_nippon
+		Rusa_timorensis
+		Rusa_unicolor
+		Duboisia_santeng
+		Bos_javanicus
+		Epileptobos_groeneveldtii
+		Bubalus_sp_Luzon
+		Bubalus_cebuensis
+		Bubalus_quarlesi
+		Bubalus_depressicornis
+		Bubalus_sp_Taiwan
+		Bubalus_sp_Hondo
+		Bubalus_mindorensis
+		Bubalus_grovesi
+		Bubalus_palaeokerabau
+		Bos_sp_Malta
+		Nesogoral_cenisae
+		Nesogoral_melonii
+		Nesogoral_sp_2
+		Bos_primigenius_siciliae
+		Bos_primigenius_bubaloides
+		Bibos_palaesondaicus
+		Bison_priscus_siciliae
+		Bison_sp_Hondo
+		Capricornis_sumatraensis_FOSSIL
+		Capricornis_sp_Hondo
+		Capricornis_crispus
+		Capricornis_swinhoei
+		Myotragus_antiquus
+		Myotragus_pepgonellae
+		Myotragus_balearicus
+		Myotragus_binigausensis
+		Myotragus_batei
+		Myotragus_palomboi
+		Myotragus_kopperi
+		Megaderma_spasma
+		Rhinolophus_inops
+		Rhinolophus_hipposideros
+		Rhinolophus_blasii
+		Rhinolophus_euryale
+		Rhinolophus_rufus
+		Rhinolophus_formosae
+		Rhinolophus_trifoliatus
+		Rhinolophus_affinis
+		Rhinolophus_creaghi
+		Rhinolophus_arcuatus
+		Rhinolophus_cognatus
+		Rhinolophus_pusillus
+		Rhinolophus_celebensis
+		Rhinolophus_virgo
+		Triaenops_rufus
+		Hipposideros_commersoni
+		Aselliscus_tricuspidatus
+		Hipposideros_obscurus
+		Hipposideros_larvatus
+		Hipposideros_diadema
+		Hipposideros_demissus
+		Hipposideros_pygmaeus
+		Hipposideros_galeritus
+		Hipposideros_cervinus
+		Hipposideros_pomona
+		Megaerops_kusnotoi
+		Cynopterus_brachyotis
+		Cynopterus_horsfieldii
+		Cynopterus_titthaecheilus
+		Cynopterus_minutus
+		Cynopterus_luzoniensis
+		Cynopterus_nusatenggara
+		Dyacopterus_spadiceus
+		Aethalops_alecto
+		Eonycteris_spelaea
+		Eonycteris_robusta
+		Rousettus_amplexicaudatus
+		Rousettus_leschenaultii
+		Rousettus_obliviosus
+		Rousettus_madagascariensis
+		Myonycteris_angolensis
+		Myonycteris_brachycephala
+		Macroglossus_minimus
+		Syconycteris_carolinae
+		Syconycteris_australis
+		Harpyionycteris_whiteheadi
+		Dobsonia_viridis
+		Dobsonia_exoleta
+		Dobsonia_chapmani
+		Dobsonia_inermis
+		Dobsonia_moluccensis
+		Dobsonia_peronii
+		Dobsonia_crenulata
+		Nyctimene_keasti
+		Nyctimene_albiventer
+		Nyctimene_major
+		Nyctimene_cephalotes
+		Nyctimene_rabori
+		Acerodon_humilis
+		Acerodon_jubatus_lucifer
+		Acerodon_celebensis
+		Acerodon_jubatus
+		Acerodon_mackloti
+		Acerodon_leucotis
+		Pteropus_faunulus
+		Pteropus_pselaphon
+		Pteropus_macrotis
+		Pteropus_gilliardorum
+		Pteropus_melanopogon
+		Pteropus_woodfordi
+		Pteropus_tokudae
+		Pteropus_pelagicus
+		Pteropus_voeltzkowi
+		Pteropus_livingstonii
+		Pteropus_dasymallus
+		Pteropus_pumilus
+		Pteropus_rodricensis
+		Pteropus_vampyrus
+		Pteropus_niger
+		Pteropus_aldabrensis
+		Pteropus_seychellensis
+		Pteropus_rufus
+		Pteropus_tuberculatus
+		Pteropus_neohibernicus
+		Pteropus_hypomelanus
+		Pteropus_alecto
+		Pteropus_tonganus
+		Pteropus_pelewensis
+		Vulcanops_jennyworthyae
+		Mystacina_robusta
+		Mystacina_miocenalis
+		Mormoops_blainvillei
+		Sturnira_paulsoni
+		Sturnira_angeli
+		Dermanura_watsoni
+		Nycteris_javanica
+		Taphozous_melanopogon
+		Coleura_seychellensis
+		Emballonura_serii
+		Emballonura_monticola
+		Emballonura_alecto
+		Emballonura_semicaudata
+		Cheiromeles_parvidens
+		Chaerephon_solomonis
+		Chaerephon_bregullae
+		Mops_leucostigma
+		Tadarida_kuboriensis
+		Otomops_madagascariensis
+		Mormopterus_minutus
+		Miniopterus_schreibersii
+		Miniopterus_tristis
+		Miniopterus_macrocneme
+		Miniopterus_australis
+		Miniopterus_robustior
+		Harpiola_isodon
+		Murina_ryukyuana
+		Murina_puta
+		Murina_tenebrosa
+		Myotis_nyctor
+		Myotis_nigricans
+		Myotis_dominicensis
+		Myotis_martiniquensis
+		Myotis_goudoti
+		Myotis_muricola
+		Myotis_macrotarsus
+		Myotis_capaccinii
+		Myotis_gomantongensis
+		Myotis_pruinosus
+		Myotis_yanbarensis
+		Myotis_blythii
+		Myotis_myotis
+		Nycticeius_cubanus
+		Scotophilus_marovaza
+		Plecotus_sacrimontis
+		Plecotus_sardus
+		Plecotus_taivanus
+		Plecotus_teneriffae
+		Arielulus_torquatus
+		Lasiurus_degelidus
+		Lasiurus_cinereus
+		Lasiurus_pfeifferi
+		Lasiurus_minor
+		Lasiurus_insularis
+		Chalinolobus_neocaledonicus
+		Eptesicus_serotinus
+		Pipistrellus_pipistrellus
+		Pipistrellus_maderensis
+		Nyctalus_azoreum
+		Neoromicia_matroka
+		Neoromicia_malagasyensis
+		Chalinolobus_tuberculatus
+		Eptesicus_japonensis
+		Eptesicus_guadeloupensis
+		Pipistrellus_savii
+		Nyctophilus_sherrini
+		Nyctophilus_howensis
+		Nyctophilus_nebulosus
+		Galeopterus_variegatus
+		Cynocephalus_volans
+		Ptilocercus_lowii
+		Tupaia_glis
+		Tupaia_longipes
+		Tupaia_belangeri
+		Tupaia_chrysogaster
+		Tupaia_nicobarica
+		Urogale_everetti
+		Tupaia_gracilis
+		Tupaia_minor
+		Tupaia_palawanensis
+		Tupaia_splendidula
+		Tupaia_tana
+		Loris_tardigradus
+		Loris_lydekkerianus
+		Nycticebus_menagensis
+		Nycticebus_coucang
+		Nycticebus_javanicus
+		Euoticus_pallidus_pallidus
+		Galagoides_demidovii
+		Galagoides_zanzibaricus
+		Otolemur_garnettii_garnettii
+		Sciurocheirus_alleni_alleni
+		Eulemur_mongoz
+		Eulemur_fulvus
+		Tarsius_syrichta
+		Tarsius_sangirensis
+		Tarsius_pelengensis
+		Tarsius_bancanus
+		Pongo_pygmaeus
+		Homo_floresiensis
+		Hylobates_lar
+		Hylobates_albibarbis
+		Hylobates_muelleri
+		Hylobates_moloch
+		Hylobates_klossii
+		Nomascus_hainanus
+		Nomascus_concolor
+		Colobus_satanas_satanas
+		Procolobus_pennantii
+		Procolobus_kirkii
+		Simias_concolor
+		Presbytis_siberu
+		Presbytis_femoralis
+		Presbytis_potenziani
+		Presbytis_melalophos
+		Presbytis_natunae
+		Trachypithecus_vetulus
+		Cercopithecus_pogonias_pogonias
+		Trachypithecus_cristatus
+		Trachypithecus_auratus
+		Trachypithecus_obscurus
+		Cercopithecus_nictitans
+		Cercopithecus_erythrotis
+		Cercopithecus_preussi_insularis
+		Chlorocebus_pygerythrus
+		Mandrillus_leucophaeus_poensis
+		Macaca_siberu
+		Macaca_nemestrina
+		Macaca_pagensis
+		Macaca_majori
+		Macaca_sinica
+		Macaca_nigrescens
+		Macaca_ochreata
+		Macaca_tonkeana
+		Macaca_hecki
+		Macaca_maura
+		Macaca_fascicularis_philippensis
+		Macaca_fascicularis
+		Macaca_cyclopis
+		Macaca_mulatta
+		Macaca_fuscata
+		Macaca_nigra
+		Xenothrix_mcgregori
+		Alouatta_seniculus
+		Alouatta_palliata_coibensis
+		Alouatta_belzebul
+		Cebus_capucinus_curtus
+		Gymnesicolagus_gelaberti
+		Prolagus_imperialis
+		Prolagus_figaro
+		Prolagus_sardus
+		Nuralagus_rex
+		Hypolagus_balearicus
+		Hypolagus_peregrinus
+		Sylvilagus_bachmani
+		Sylvilagus_brasiliensis
+		Sylvilagus_graysoni
+		Sylvilagus_mansuetus
+		Lepus_insularis
+		Lepus_californicus
+		Lepus_sinensis
+		Lepus_hainanus
+		Lepus_europaeus
+		Lepus_corsicanus
+		Lepus_arcticus
+		Elasmodontomys_obliquus
+		Pellegrinia_panormensis
+		Hystrix_brachyura
+		Hystrix_crassispinis
+		Hystrix_javanica
+		Hystrix_sumatrae
+		Hystrix_pumila
+		Dasyprocta_punctata
+		Dasyprocta_coibae
+		Dasyprocta_ruatanica
+		Cavia_intermedia
+		Octodon_pacificus
+		Plagiodontia_spelaeum
+		Plagiodontia_velozi
+		Plagiodontia_aedium
+		Boromys_torrei
+		Geocapromys_columbianus
+		Geocapromys_thoracatus
+		Geocapromys_ingrahami_FOSSIL
+		Geocapromys_ingrahami_irrectus
+		Geocapromys_ingrahami_abaconis
+		Geocapromys_ingrahami
+		Geocapromys_caymanensis
+		Geocapromys_brownii
+		Capromys_pilorides
+		Capromys_pilorides_lewisi
+		Capromys_pilorides_FOSSIL
+		Brotomys_contractus
+		Brotomys_voratus
+		Mysateles_prehensilis
+		Mesocapromys_gracilis
+		Mesocapromys_melanurus
+		Mesocapromys_kraglievichi
+		Mesocapromys_nanus
+		Mesocapromys_sanfelipensis
+		Mesocapromys_angelcabrerai
+		Mesocapromys_minimus
+		Mesocapromys_auritus
+		Prolagus_apricenicus
+		Proechimys_semispinosus
+		Hyperplagiodontia_araeum
+		Makalata_didelphoides
+		Phyllomys_thomasi
+		Leithia_melitensis
+		Leithia_cartei
+		Hypnomys_mahonensis
+		Hypnomys_eliomyoides
+		Hypnomys_morpheus
+		Hypnomys_waldreni
+		Hypnomys_onicensis
+		Muscardinus_cyclopeus
+		Maltamys_gollcheri
+		Maltamys_wiedincitensis
+		Stertomys_laticrestatus
+		Ratufa_affinis
+		Ratufa_bicolor
+		Tamiasciurus_hudsonicus
+		Sciurus_lis
+		Sciurus_granatensis
+		Glaucomys_sabrinus
+		Iomys_sipora
+		Iomys_horsfieldii
+		Hylopetes_nigripes
+		Hylopetes_spadiceus
+		Hylopetes_sipora
+		Petinomys_lugens
+		Petinomys_setosus
+		Petinomys_crinitus
+		Pteromys_momonga
+		Petaurista_leucogenys
+		Petaurista_petaurista
+		Petaurista_hainana
+		Funambulus_layardi
+		Exilisciurus_concinnus
+		Lariscus_obscurus
+		Lariscus_insignis
+		Lariscus_hosei
+		Nannosciurus_melanotis
+		Tamiops_swinhoei
+		Dremomys_everetti
+		Callosciurus_notatus
+		Callosciurus_prevostii
+		Callosciurus_erythraeus
+		Callosciurus_finlaysonii
+		Callosciurus_caniceps
+		Sundasciurus_fraterculus
+		Sundasciurus_lowii
+		Sundasciurus_brookei
+		Sundasciurus_jentinki
+		Sundasciurus_tenuis
+		Sundasciurus_samarensis
+		Sundasciurus_philippinensis
+		Sundasciurus_steerii
+		Sundasciurus_hoogstraali
+		Sundasciurus_juvencus
+		Sundasciurus_moellendorffi
+		Ammospermophilus_leucurus
+		Otospermophilus_beecheyi
+		Marmota_vancouverensis
+		Marmota_caligata
+		Urocitellus_parryii
+		Castor_canadensis
+		Dipodomys_merriami
+		Amblyrhiza_inundata
+		Chaetodipus_baileyi
+		Chaetodipus_arenarius
+		Chaetodipus_spinatus
+		Chaetodipus_intermedius
+		Chaetodipus_penicillatus
+		Tscherskia_triton
+		Dicrostonyx_groenlandicus
+		Lemmus_trimucronatus
+		Myodes_rex
+		Myodes_gapperi
+		Myodes_rutilus
+		Myodes_glareolus
+		Microtus_miguelensis
+		Microtus_montebelli
+		Microtus_oeconomus
+		Microtus_kikuchii
+		Microtus_breweri
+		Microtus_sachalinensis
+		Microtus_abbreviatus
+		Microtus_longicaudus
+		Microtus_Tyrrhenicola_henseli
+		Microtus_townsendii
+		Microtus_pennsylvanicus
+		Microtus_Terricola_ex_gr_Microtus_savii
+		Microtus_agrestis
+		Neotoma_bryanti
+		Neotoma_bryanti_bunkeri
+		Neotoma_bryanti_anthonyi
+		Neotoma_bryanti_martinensis
+		Neotoma_albigula
+		Reithrodontomys_spectabilis
+		Reithrodontomys_megalotis
+		Peromyscus_eremicus
+		Peromyscus_leucopus
+		Peromyscus_gossypinus
+		Peromyscus_sejugis
+		Peromyscus_nesodytes
+		Peromyscus_polionotus
+		Peromyscus_keeni
+		Peromyscus_maniculatus
+		Peromyscus_stirtoni
+		Peromyscus_slevini
+		Peromyscus_merriami
+		Peromyscus_caniceps
+		Peromyscus_guardia
+		Microtus_Terricola_melitensis
+		Peromyscus_pseudocrinitus
+		Peromyscus_dickeyi
+		Peromyscus_madrensis
+		Peromyscus_eva
+		Peromyscus_stephani
+		Peromyscus_interparietalis
+		Microtus_nebrodensis
+		Agathaeromys_praeuniversitatis
+		Antillomys_rayi
+		Cordimus_debuisonjei
+		Cordimus_raton
+		Cordimus_hooijeri
+		Zygodontomys_brevicauda
+		Hattomys_gargantua
+		Megaoryzomys_curioi
+		Pennatomys_nivalis
+		Megalomys_luciae
+		Megalomys_audreyae
+		Megalomys_curazensis
+		Megalomys_desmarestii
+		Megalomys_camerhogne
+		Megalomys_georginae
+		Oryzomys_couesi
+		Aegialomys_galapagoensis
+		Mus_lopadusae
+		Micromys_minutus
+		Maxomys_surifer
+		Maxomys_bartelsii
+		Maxomys_panglima
+		Maxomys_rajah
+		Maxomys_pagensis
+		Maxomys_hellwaldii
+		Maxomys_musschenbroekii
+		Maxomys_whiteheadi
+		Vandeleuria_nolthenii
+		Leopoldamys_siporanus
+		Leopoldamys_sabanus
+		Niviventer_rapit
+		Niviventer_cremoriventer
+		Niviventer_culturatus
+		Niviventer_confucianus
+		Niviventer_coninga
+		Srilankamys_ohiensis
+		Rattus_simalurensis
+		Sundamys_muelleri
+		Rattus_burrus
+		Rattus_mindorensis
+		Kritimys_catreus
+		Rattus_elaphinus
+		Canariomys_bravoi
+		Canariomys_tamarani
+		Rattus_lugens
+		Rattus_tanezumi
+		Rattus_losea
+		Rattus_baluensis
+		Rattus_tiomanicus
+		Rattus_palmarum
+		Rattus_fuscipes
+		Rattus_annandalei
+		Chiropodomys_major
+		Chiropodomys_karlkoopmani
+		Rhagamys_orthodon
+		Leporillus_conditor
+		Uromys_neobritannicus
+		Uromys_porculus
+		Uromys_rex
+		Uromys_imperator
+		Uromys_emmae
+		Uromys_vika
+		Uromys_boeadii
+		Melomys_aerosus
+		Melomys_bannisteri
+		Melomys_caurinus
+		Solomys_ponceleti
+		Solomys_salebrosus
+		Melomys_obiensis
+		Melomys_fraterculus
+		Melomys_matambuai
+		Melomys_talaudium
+		Hybomys_basilii
+		Apodemus_speciosus
+		Apodemus_semotus
+		Apodemus_agrarius
+		Apodemus_argenteus
+		Apodemus_mystacinus
+		Apodemus_sylvaticus
+		Apodemus_flavicollis
+		Malpaisomys_insularis
+		Mus_minotaurus
+		Mus_cypriacus
+		Mikrotia_maiuscola
+		Mikrotia_parva
+		Mikrotia_magna
+		Mastomys_natalensis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Ornithorhynchus_anatinus,
+		2	Tlacuatzin_canescens,
+		3	Marmosa_robinsoni,
+		4	Marmosa_murina,
+		5	Didelphis_virginiana,
+		6	Didelphis_marsupialis,
+		7	Dromiciops_gliroides,
+		8	Isoodon_obesulus,
+		9	Isoodon_auratus,
+		10	Perameles_gunnii,
+		11	Perameles_bougainville,
+		12	Rhynchomeles_prattorum,
+		13	Echymipera_davidi,
+		14	Planigale_novaeguineae,
+		15	Sminthopsis_leucopus,
+		16	Sminthopsis_aitkeni,
+		17	Parantechinus_apicalis,
+		18	Cercartetus_concinnus,
+		19	Ailurops_melanotis,
+		20	Spilocuscus_wilsoni,
+		21	Spilocuscus_rufoniger,
+		22	Spilocuscus_papuensis,
+		23	Spilocuscus_kraemeri,
+		24	Phalanger_lullulae,
+		25	Dactylopsila_tatei,
+		26	Petaurus_abidi,
+		27	Petaurus_biacensis,
+		28	Petaurus_norfolcensis,
+		29	Pseudocheirus_peregrinus,
+		30	Bettongia_lesueur,
+		31	Setonix_brachyurus,
+		32	Macropus_fuliginosus,
+		33	Macropus_giganteus,
+		34	Macropus_robustus,
+		35	Macropus_rufogriseus,
+		36	Macropus_eugenii,
+		37	Dorcopsis_atrata,
+		38	Thylogale_brunii,
+		39	Thylogale_calabyi,
+		40	Thylogale_lanatus,
+		41	Thylogale_browni,
+		42	Petrogale_rothschildi,
+		43	Petrogale_lateralis,
+		44	Bradypus_pygmaeus,
+		45	Bradypus_variegatus,
+		46	Palaeoloxodon_sp_Rhodes,
+		47	Palaeoloxodon_aff_P_creutzburgi,
+		48	Palaeoloxodon_lomolinoi,
+		49	Palaeoloxodon_antiquus_leonardi,
+		50	Palaeoloxodon_falconeri,
+		51	Palaeoloxodon_xylophagou,
+		52	Palaeoloxodon_cypriotes,
+		53	Palaeoloxodon_creutzburgi,
+		54	Palaeoloxodon_tiliensis,
+		55	Palaeoloxodon_ex_gr_P_mnaidriensis,
+		56	Mammuthus_lamarmorai,
+		57	Mammuthus_exilis,
+		58	Mammuthus_creticus,
+		59	Elephas_sp_Luzon_Visayan,
+		60	Elephas_maximus,
+		61	Stegodon_sompoensis,
+		62	Stegodon_trigonocephalus,
+		63	Stegodon_luzonensis,
+		64	Stegodon_sumbaensis,
+		65	Stegodon_sp_B_Sulawesi,
+		66	Stegodon_sondaari,
+		67	Stegodon_florensis_insularis,
+		68	Stegodon_florensis_florensis,
+		69	Stegodon_aurorae,
+		70	Stegodon_timorensis,
+		71	Solenodon_cubanus,
+		72	Talpa_tyrrhenica,
+		73	Mogera_insularis,
+		74	Mogera_tokudae,
+		75	Mogera_imaizumii,
+		76	Mogera_wogura,
+		77	Mogera_uchidai,
+		78	Echinosorex_gymnura,
+		79	Podogymnura_truei,
+		80	Podogymnura_aureospinula,
+		81	Neohylomys_hainanensis,
+		82	Hylomys_suillus,
+		83	Hylomys_parvus,
+		84	Erinaceus_roumanicus,
+		85	Erinaceus_europaeus,
+		86	Atelerix_algirus,
+		87	Paraechinus_hypomelas,
+		88	Deinogalerix_brevirostris,
+		89	Deinogalerix_koenigswaldi,
+		90	Anourosorex_yamashinai,
+		91	Episoriculus_fumidus,
+		92	Chimarrogale_phaeura,
+		93	Chimarrogale_platycephalus,
+		94	Blarina_brevicauda,
+		95	Crocidura_sicula_esuae,
+		96	Sorex_trowbridgii,
+		97	Sorex_ornatus,
+		98	Sorex_monticolus,
+		99	Sorex_palustris,
+		100	Sorex_cinereus,
+		101	Sorex_pribilofensis,
+		102	Sorex_jacksoni,
+		103	Sorex_arcticus,
+		104	Sorex_araneus,
+		105	Sorex_caecutiens,
+		106	Sorex_shinto,
+		107	Sorex_hosonoi,
+		108	Sorex_minutus,
+		109	Myosorex_eisentrauti,
+		110	Suncus_zeylanicus,
+		111	Crocidura_umbra,
+		112	Suncus_fellowesgordoni,
+		113	Suncus_murinus,
+		114	Crocidura_russula,
+		115	Crocidura_trichura,
+		116	Nesiotites_hidalgo,
+		117	Nesiotites_ponsi,
+		118	Nesiotites_aff_N_ponsi,
+		119	Nesiotites_rafelinensis,
+		120	Nesiotites_meloussae,
+		121	Asoriculus_corsicanus,
+		122	Asoriculus_similis,
+		123	Asoriculus_burgioi,
+		124	Crocidura_sicula_sicula_FOSSIL,
+		125	Crocidura_thomensis,
+		126	Crocidura_leucodon,
+		127	Crocidura_canariensis,
+		128	Crocidura_sicula,
+		129	Crocidura_zimmermanni,
+		130	Crocidura_levicula,
+		131	Crocidura_rhoditis,
+		132	Crocidura_elongata,
+		133	Crocidura_lea,
+		134	Crocidura_shantungensis,
+		135	Crocidura_suaveolens,
+		136	Crocidura_baluensis,
+		137	Crocidura_hikmiya,
+		138	Crocidura_miya,
+		139	Crocidura_attenuata,
+		140	Crocidura_dsinezumi,
+		141	Crocidura_fuliginosa,
+		142	Crocidura_malayana,
+		143	Crocidura_brunnea,
+		144	Crocidura_orientalis,
+		145	Crocidura_lepidura,
+		146	Crocidura_zimmermanni_FOSSIL,
+		147	Crocidura_foetida,
+		148	Crocidura_palawanensis,
+		149	Crocidura_beatus,
+		150	Crocidura_grayi,
+		151	Crocidura_negrina,
+		152	Manis_javanica,
+		153	Manis_pentadactyla,
+		154	Manis_culionensis,
+		155	Prionodon_linsang,
+		156	Neofelis_diardi_borneensis,
+		157	Panthera_tigris,
+		158	Lynx_canadensis,
+		159	Pardofelis_marmorata,
+		160	Catopuma_badia,
+		161	Puma_concolor,
+		162	Felis_silvestris,
+		163	Prionailurus_viverrinus,
+		164	Prionailurus_bengalensis,
+		165	Prionailurus_planiceps,
+		166	Leopardus_guigna,
+		167	Cynogale_bennettii,
+		168	Hemigalus_derbyanus,
+		169	Diplogale_hosei,
+		170	Arctogalidia_trivirgata,
+		171	Arctictis_binturong,
+		172	Paguma_larvata,
+		173	Paradoxurus_hermaphroditus,
+		174	Viverricula_indica,
+		175	Viverra_tangalunga,
+		176	Chasmaporthetes_melei,
+		177	Atilax_paludinosus,
+		178	Herpestes_brachyurus,
+		179	Herpestes_urva,
+		180	Herpestes_semitorquatus,
+		181	Herpestes_javanicus,
+		182	Herpestes_smithii,
+		183	Herpestes_sanguineus,
+		184	Bdeogale_crassicauda,
+		185	Urocyon_littoralis,
+		186	Urocyon_cinereoargenteus,
+		187	Vulpes_lagopus,
+		188	Vulpes_vulpes,
+		189	Cynotherium_sardous,
+		190	Cynotherium_malatestai,
+		191	Pseudalopex_fulvipes,
+		192	Xenocyon_trinilensis,
+		193	Xenocyon_merriami,
+		194	Dusicyon_australis,
+		195	Canis_latrans,
+		196	Canis_aureus,
+		197	Canis_lupus,
+		198	Ursus_arctos,
+		199	Helarctos_malayanus,
+		200	Ursus_americanus,
+		201	Mydaus_marchei,
+		202	Mydaus_javanensis,
+		203	Spilogale_gracilis,
+		204	Spilogale_putorius,
+		205	Potos_flavus,
+		206	Bassariscus_astutus,
+		207	Procyon_pygmaeus,
+		208	Procyon_lotor,
+		209	Nasua_narica,
+		210	Enhydrictis_praegalictoides,
+		211	Enhydrictis_galictoides,
+		212	Arctonyx_hoevenii,
+		213	Meles_meles,
+		214	Meles_anakuma,
+		215	Lutra_castiglionis,
+		216	Eira_barbara,
+		217	Gulo_gulo,
+		218	Martes_flavigula,
+		219	Mustelercta_arzilla,
+		220	Martes_foina,
+		221	Pannonictis_baroniensis,
+		222	Martes_americana,
+		223	Martes_martes,
+		224	Melogale_orientalis,
+		225	Melogale_moschata,
+		226	Melogale_everetti,
+		227	Mustela_lutreolina,
+		228	Neovison_vison,
+		229	Mustela_nudipes,
+		230	Lutra_trinacriae,
+		231	Oriensictis_nipponica,
+		232	Algarolutra_majori,
+		233	Mustela_erminea,
+		234	Mustela_nivalis,
+		235	Megalenhydris_barbaricina,
+		236	Mustela_itatsi,
+		237	Mustela_sibirica,
+		238	Mustela_putorius,
+		239	Sardolutra_ichnusae,
+		240	Lontra_canadensis,
+		241	Lontra_felina,
+		242	Lutra_sumatrana,
+		243	Lutra_lutra,
+		244	Aonyx_cinerea,
+		245	Lutrogale_cretensis,
+		246	Lutrogale_perspicillata,
+		247	Nesorhinus_hayasakai,
+		248	Nesorhinus_philippinensis,
+		249	Babyrousa_togeanensis,
+		250	Sus_ahoenobarbus,
+		251	Sus_oliveri,
+		252	Sus_celebensis,
+		253	Sus_verrucosus,
+		254	Sus_sondaari,
+		255	Sus_barbatus,
+		256	Sus_cebifrons,
+		257	Sus_philippensis,
+		258	Hippopotamus_pentlandi,
+		259	Hippopotamus_madagascariensis,
+		260	Hippopotamus_minor,
+		261	Hippopotamus_lemerlei,
+		262	Hippopotamus_creutzburgi,
+		263	Hippopotamus_melitensis,
+		264	Moschiola_meminna,
+		265	Moschiola_kathygre,
+		266	Tragulus_kanchil,
+		267	Tragulus_napu,
+		268	Tragulus_nigricans,
+		269	Capreolus_miyakoensis,
+		270	Rangifer_tarandus,
+		271	Mazama_gouazoubira,
+		272	Praemegaceros_cazioti,
+		273	Praemegaceros_sardus,
+		274	Odocoileus_virginianus,
+		275	Odocoileus_hemionus,
+		276	Cervus_elaphus_FOSSIL,
+		277	Cervus_elaphus_siciliae,
+		278	Muntiacus_muntjak,
+		279	Muntiacus_atherodes,
+		280	Axis_kuhlii,
+		281	Axis_calamianensis,
+		282	Candiacervus_sp_II,
+		283	Candiacervus_major,
+		284	Candiacervus_ropalophorus,
+		285	Candiacervus_rethymnensis,
+		286	Candiacervus_dorothensis,
+		287	Candiacervus_cretensis,
+		288	Candiacervus_cerigensis,
+		289	Dama_carburangelensis,
+		290	Rusa_alfredi,
+		291	Muntiacini_gen_et_sp_indet,
+		292	Cervus_elaphus,
+		293	Rusa_marianna,
+		294	Cervus_nippon,
+		295	Rusa_timorensis,
+		296	Rusa_unicolor,
+		297	Duboisia_santeng,
+		298	Bos_javanicus,
+		299	Epileptobos_groeneveldtii,
+		300	Bubalus_sp_Luzon,
+		301	Bubalus_cebuensis,
+		302	Bubalus_quarlesi,
+		303	Bubalus_depressicornis,
+		304	Bubalus_sp_Taiwan,
+		305	Bubalus_sp_Hondo,
+		306	Bubalus_mindorensis,
+		307	Bubalus_grovesi,
+		308	Bubalus_palaeokerabau,
+		309	Bos_sp_Malta,
+		310	Nesogoral_cenisae,
+		311	Nesogoral_melonii,
+		312	Nesogoral_sp_2,
+		313	Bos_primigenius_siciliae,
+		314	Bos_primigenius_bubaloides,
+		315	Bibos_palaesondaicus,
+		316	Bison_priscus_siciliae,
+		317	Bison_sp_Hondo,
+		318	Capricornis_sumatraensis_FOSSIL,
+		319	Capricornis_sp_Hondo,
+		320	Capricornis_crispus,
+		321	Capricornis_swinhoei,
+		322	Myotragus_antiquus,
+		323	Myotragus_pepgonellae,
+		324	Myotragus_balearicus,
+		325	Myotragus_binigausensis,
+		326	Myotragus_batei,
+		327	Myotragus_palomboi,
+		328	Myotragus_kopperi,
+		329	Megaderma_spasma,
+		330	Rhinolophus_inops,
+		331	Rhinolophus_hipposideros,
+		332	Rhinolophus_blasii,
+		333	Rhinolophus_euryale,
+		334	Rhinolophus_rufus,
+		335	Rhinolophus_formosae,
+		336	Rhinolophus_trifoliatus,
+		337	Rhinolophus_affinis,
+		338	Rhinolophus_creaghi,
+		339	Rhinolophus_arcuatus,
+		340	Rhinolophus_cognatus,
+		341	Rhinolophus_pusillus,
+		342	Rhinolophus_celebensis,
+		343	Rhinolophus_virgo,
+		344	Triaenops_rufus,
+		345	Hipposideros_commersoni,
+		346	Aselliscus_tricuspidatus,
+		347	Hipposideros_obscurus,
+		348	Hipposideros_larvatus,
+		349	Hipposideros_diadema,
+		350	Hipposideros_demissus,
+		351	Hipposideros_pygmaeus,
+		352	Hipposideros_galeritus,
+		353	Hipposideros_cervinus,
+		354	Hipposideros_pomona,
+		355	Megaerops_kusnotoi,
+		356	Cynopterus_brachyotis,
+		357	Cynopterus_horsfieldii,
+		358	Cynopterus_titthaecheilus,
+		359	Cynopterus_minutus,
+		360	Cynopterus_luzoniensis,
+		361	Cynopterus_nusatenggara,
+		362	Dyacopterus_spadiceus,
+		363	Aethalops_alecto,
+		364	Eonycteris_spelaea,
+		365	Eonycteris_robusta,
+		366	Rousettus_amplexicaudatus,
+		367	Rousettus_leschenaultii,
+		368	Rousettus_obliviosus,
+		369	Rousettus_madagascariensis,
+		370	Myonycteris_angolensis,
+		371	Myonycteris_brachycephala,
+		372	Macroglossus_minimus,
+		373	Syconycteris_carolinae,
+		374	Syconycteris_australis,
+		375	Harpyionycteris_whiteheadi,
+		376	Dobsonia_viridis,
+		377	Dobsonia_exoleta,
+		378	Dobsonia_chapmani,
+		379	Dobsonia_inermis,
+		380	Dobsonia_moluccensis,
+		381	Dobsonia_peronii,
+		382	Dobsonia_crenulata,
+		383	Nyctimene_keasti,
+		384	Nyctimene_albiventer,
+		385	Nyctimene_major,
+		386	Nyctimene_cephalotes,
+		387	Nyctimene_rabori,
+		388	Acerodon_humilis,
+		389	Acerodon_jubatus_lucifer,
+		390	Acerodon_celebensis,
+		391	Acerodon_jubatus,
+		392	Acerodon_mackloti,
+		393	Acerodon_leucotis,
+		394	Pteropus_faunulus,
+		395	Pteropus_pselaphon,
+		396	Pteropus_macrotis,
+		397	Pteropus_gilliardorum,
+		398	Pteropus_melanopogon,
+		399	Pteropus_woodfordi,
+		400	Pteropus_tokudae,
+		401	Pteropus_pelagicus,
+		402	Pteropus_voeltzkowi,
+		403	Pteropus_livingstonii,
+		404	Pteropus_dasymallus,
+		405	Pteropus_pumilus,
+		406	Pteropus_rodricensis,
+		407	Pteropus_vampyrus,
+		408	Pteropus_niger,
+		409	Pteropus_aldabrensis,
+		410	Pteropus_seychellensis,
+		411	Pteropus_rufus,
+		412	Pteropus_tuberculatus,
+		413	Pteropus_neohibernicus,
+		414	Pteropus_hypomelanus,
+		415	Pteropus_alecto,
+		416	Pteropus_tonganus,
+		417	Pteropus_pelewensis,
+		418	Vulcanops_jennyworthyae,
+		419	Mystacina_robusta,
+		420	Mystacina_miocenalis,
+		421	Mormoops_blainvillei,
+		422	Sturnira_paulsoni,
+		423	Sturnira_angeli,
+		424	Dermanura_watsoni,
+		425	Nycteris_javanica,
+		426	Taphozous_melanopogon,
+		427	Coleura_seychellensis,
+		428	Emballonura_serii,
+		429	Emballonura_monticola,
+		430	Emballonura_alecto,
+		431	Emballonura_semicaudata,
+		432	Cheiromeles_parvidens,
+		433	Chaerephon_solomonis,
+		434	Chaerephon_bregullae,
+		435	Mops_leucostigma,
+		436	Tadarida_kuboriensis,
+		437	Otomops_madagascariensis,
+		438	Mormopterus_minutus,
+		439	Miniopterus_schreibersii,
+		440	Miniopterus_tristis,
+		441	Miniopterus_macrocneme,
+		442	Miniopterus_australis,
+		443	Miniopterus_robustior,
+		444	Harpiola_isodon,
+		445	Murina_ryukyuana,
+		446	Murina_puta,
+		447	Murina_tenebrosa,
+		448	Myotis_nyctor,
+		449	Myotis_nigricans,
+		450	Myotis_dominicensis,
+		451	Myotis_martiniquensis,
+		452	Myotis_goudoti,
+		453	Myotis_muricola,
+		454	Myotis_macrotarsus,
+		455	Myotis_capaccinii,
+		456	Myotis_gomantongensis,
+		457	Myotis_pruinosus,
+		458	Myotis_yanbarensis,
+		459	Myotis_blythii,
+		460	Myotis_myotis,
+		461	Nycticeius_cubanus,
+		462	Scotophilus_marovaza,
+		463	Plecotus_sacrimontis,
+		464	Plecotus_sardus,
+		465	Plecotus_taivanus,
+		466	Plecotus_teneriffae,
+		467	Arielulus_torquatus,
+		468	Lasiurus_degelidus,
+		469	Lasiurus_cinereus,
+		470	Lasiurus_pfeifferi,
+		471	Lasiurus_minor,
+		472	Lasiurus_insularis,
+		473	Chalinolobus_neocaledonicus,
+		474	Eptesicus_serotinus,
+		475	Pipistrellus_pipistrellus,
+		476	Pipistrellus_maderensis,
+		477	Nyctalus_azoreum,
+		478	Neoromicia_matroka,
+		479	Neoromicia_malagasyensis,
+		480	Chalinolobus_tuberculatus,
+		481	Eptesicus_japonensis,
+		482	Eptesicus_guadeloupensis,
+		483	Pipistrellus_savii,
+		484	Nyctophilus_sherrini,
+		485	Nyctophilus_howensis,
+		486	Nyctophilus_nebulosus,
+		487	Galeopterus_variegatus,
+		488	Cynocephalus_volans,
+		489	Ptilocercus_lowii,
+		490	Tupaia_glis,
+		491	Tupaia_longipes,
+		492	Tupaia_belangeri,
+		493	Tupaia_chrysogaster,
+		494	Tupaia_nicobarica,
+		495	Urogale_everetti,
+		496	Tupaia_gracilis,
+		497	Tupaia_minor,
+		498	Tupaia_palawanensis,
+		499	Tupaia_splendidula,
+		500	Tupaia_tana,
+		501	Loris_tardigradus,
+		502	Loris_lydekkerianus,
+		503	Nycticebus_menagensis,
+		504	Nycticebus_coucang,
+		505	Nycticebus_javanicus,
+		506	Euoticus_pallidus_pallidus,
+		507	Galagoides_demidovii,
+		508	Galagoides_zanzibaricus,
+		509	Otolemur_garnettii_garnettii,
+		510	Sciurocheirus_alleni_alleni,
+		511	Eulemur_mongoz,
+		512	Eulemur_fulvus,
+		513	Tarsius_syrichta,
+		514	Tarsius_sangirensis,
+		515	Tarsius_pelengensis,
+		516	Tarsius_bancanus,
+		517	Pongo_pygmaeus,
+		518	Homo_floresiensis,
+		519	Hylobates_lar,
+		520	Hylobates_albibarbis,
+		521	Hylobates_muelleri,
+		522	Hylobates_moloch,
+		523	Hylobates_klossii,
+		524	Nomascus_hainanus,
+		525	Nomascus_concolor,
+		526	Colobus_satanas_satanas,
+		527	Procolobus_pennantii,
+		528	Procolobus_kirkii,
+		529	Simias_concolor,
+		530	Presbytis_siberu,
+		531	Presbytis_femoralis,
+		532	Presbytis_potenziani,
+		533	Presbytis_melalophos,
+		534	Presbytis_natunae,
+		535	Trachypithecus_vetulus,
+		536	Cercopithecus_pogonias_pogonias,
+		537	Trachypithecus_cristatus,
+		538	Trachypithecus_auratus,
+		539	Trachypithecus_obscurus,
+		540	Cercopithecus_nictitans,
+		541	Cercopithecus_erythrotis,
+		542	Cercopithecus_preussi_insularis,
+		543	Chlorocebus_pygerythrus,
+		544	Mandrillus_leucophaeus_poensis,
+		545	Macaca_siberu,
+		546	Macaca_nemestrina,
+		547	Macaca_pagensis,
+		548	Macaca_majori,
+		549	Macaca_sinica,
+		550	Macaca_nigrescens,
+		551	Macaca_ochreata,
+		552	Macaca_tonkeana,
+		553	Macaca_hecki,
+		554	Macaca_maura,
+		555	Macaca_fascicularis_philippensis,
+		556	Macaca_fascicularis,
+		557	Macaca_cyclopis,
+		558	Macaca_mulatta,
+		559	Macaca_fuscata,
+		560	Macaca_nigra,
+		561	Xenothrix_mcgregori,
+		562	Alouatta_seniculus,
+		563	Alouatta_palliata_coibensis,
+		564	Alouatta_belzebul,
+		565	Cebus_capucinus_curtus,
+		566	Gymnesicolagus_gelaberti,
+		567	Prolagus_imperialis,
+		568	Prolagus_figaro,
+		569	Prolagus_sardus,
+		570	Nuralagus_rex,
+		571	Hypolagus_balearicus,
+		572	Hypolagus_peregrinus,
+		573	Sylvilagus_bachmani,
+		574	Sylvilagus_brasiliensis,
+		575	Sylvilagus_graysoni,
+		576	Sylvilagus_mansuetus,
+		577	Lepus_insularis,
+		578	Lepus_californicus,
+		579	Lepus_sinensis,
+		580	Lepus_hainanus,
+		581	Lepus_europaeus,
+		582	Lepus_corsicanus,
+		583	Lepus_arcticus,
+		584	Elasmodontomys_obliquus,
+		585	Pellegrinia_panormensis,
+		586	Hystrix_brachyura,
+		587	Hystrix_crassispinis,
+		588	Hystrix_javanica,
+		589	Hystrix_sumatrae,
+		590	Hystrix_pumila,
+		591	Dasyprocta_punctata,
+		592	Dasyprocta_coibae,
+		593	Dasyprocta_ruatanica,
+		594	Cavia_intermedia,
+		595	Octodon_pacificus,
+		596	Plagiodontia_spelaeum,
+		597	Plagiodontia_velozi,
+		598	Plagiodontia_aedium,
+		599	Boromys_torrei,
+		600	Geocapromys_columbianus,
+		601	Geocapromys_thoracatus,
+		602	Geocapromys_ingrahami_FOSSIL,
+		603	Geocapromys_ingrahami_irrectus,
+		604	Geocapromys_ingrahami_abaconis,
+		605	Geocapromys_ingrahami,
+		606	Geocapromys_caymanensis,
+		607	Geocapromys_brownii,
+		608	Capromys_pilorides,
+		609	Capromys_pilorides_lewisi,
+		610	Capromys_pilorides_FOSSIL,
+		611	Brotomys_contractus,
+		612	Brotomys_voratus,
+		613	Mysateles_prehensilis,
+		614	Mesocapromys_gracilis,
+		615	Mesocapromys_melanurus,
+		616	Mesocapromys_kraglievichi,
+		617	Mesocapromys_nanus,
+		618	Mesocapromys_sanfelipensis,
+		619	Mesocapromys_angelcabrerai,
+		620	Mesocapromys_minimus,
+		621	Mesocapromys_auritus,
+		622	Prolagus_apricenicus,
+		623	Proechimys_semispinosus,
+		624	Hyperplagiodontia_araeum,
+		625	Makalata_didelphoides,
+		626	Phyllomys_thomasi,
+		627	Leithia_melitensis,
+		628	Leithia_cartei,
+		629	Hypnomys_mahonensis,
+		630	Hypnomys_eliomyoides,
+		631	Hypnomys_morpheus,
+		632	Hypnomys_waldreni,
+		633	Hypnomys_onicensis,
+		634	Muscardinus_cyclopeus,
+		635	Maltamys_gollcheri,
+		636	Maltamys_wiedincitensis,
+		637	Stertomys_laticrestatus,
+		638	Ratufa_affinis,
+		639	Ratufa_bicolor,
+		640	Tamiasciurus_hudsonicus,
+		641	Sciurus_lis,
+		642	Sciurus_granatensis,
+		643	Glaucomys_sabrinus,
+		644	Iomys_sipora,
+		645	Iomys_horsfieldii,
+		646	Hylopetes_nigripes,
+		647	Hylopetes_spadiceus,
+		648	Hylopetes_sipora,
+		649	Petinomys_lugens,
+		650	Petinomys_setosus,
+		651	Petinomys_crinitus,
+		652	Pteromys_momonga,
+		653	Petaurista_leucogenys,
+		654	Petaurista_petaurista,
+		655	Petaurista_hainana,
+		656	Funambulus_layardi,
+		657	Exilisciurus_concinnus,
+		658	Lariscus_obscurus,
+		659	Lariscus_insignis,
+		660	Lariscus_hosei,
+		661	Nannosciurus_melanotis,
+		662	Tamiops_swinhoei,
+		663	Dremomys_everetti,
+		664	Callosciurus_notatus,
+		665	Callosciurus_prevostii,
+		666	Callosciurus_erythraeus,
+		667	Callosciurus_finlaysonii,
+		668	Callosciurus_caniceps,
+		669	Sundasciurus_fraterculus,
+		670	Sundasciurus_lowii,
+		671	Sundasciurus_brookei,
+		672	Sundasciurus_jentinki,
+		673	Sundasciurus_tenuis,
+		674	Sundasciurus_samarensis,
+		675	Sundasciurus_philippinensis,
+		676	Sundasciurus_steerii,
+		677	Sundasciurus_hoogstraali,
+		678	Sundasciurus_juvencus,
+		679	Sundasciurus_moellendorffi,
+		680	Ammospermophilus_leucurus,
+		681	Otospermophilus_beecheyi,
+		682	Marmota_vancouverensis,
+		683	Marmota_caligata,
+		684	Urocitellus_parryii,
+		685	Castor_canadensis,
+		686	Dipodomys_merriami,
+		687	Amblyrhiza_inundata,
+		688	Chaetodipus_baileyi,
+		689	Chaetodipus_arenarius,
+		690	Chaetodipus_spinatus,
+		691	Chaetodipus_intermedius,
+		692	Chaetodipus_penicillatus,
+		693	Tscherskia_triton,
+		694	Dicrostonyx_groenlandicus,
+		695	Lemmus_trimucronatus,
+		696	Myodes_rex,
+		697	Myodes_gapperi,
+		698	Myodes_rutilus,
+		699	Myodes_glareolus,
+		700	Microtus_miguelensis,
+		701	Microtus_montebelli,
+		702	Microtus_oeconomus,
+		703	Microtus_kikuchii,
+		704	Microtus_breweri,
+		705	Microtus_sachalinensis,
+		706	Microtus_abbreviatus,
+		707	Microtus_longicaudus,
+		708	Microtus_Tyrrhenicola_henseli,
+		709	Microtus_townsendii,
+		710	Microtus_pennsylvanicus,
+		711	Microtus_Terricola_ex_gr_Microtus_savii,
+		712	Microtus_agrestis,
+		713	Neotoma_bryanti,
+		714	Neotoma_bryanti_bunkeri,
+		715	Neotoma_bryanti_anthonyi,
+		716	Neotoma_bryanti_martinensis,
+		717	Neotoma_albigula,
+		718	Reithrodontomys_spectabilis,
+		719	Reithrodontomys_megalotis,
+		720	Peromyscus_eremicus,
+		721	Peromyscus_leucopus,
+		722	Peromyscus_gossypinus,
+		723	Peromyscus_sejugis,
+		724	Peromyscus_nesodytes,
+		725	Peromyscus_polionotus,
+		726	Peromyscus_keeni,
+		727	Peromyscus_maniculatus,
+		728	Peromyscus_stirtoni,
+		729	Peromyscus_slevini,
+		730	Peromyscus_merriami,
+		731	Peromyscus_caniceps,
+		732	Peromyscus_guardia,
+		733	Microtus_Terricola_melitensis,
+		734	Peromyscus_pseudocrinitus,
+		735	Peromyscus_dickeyi,
+		736	Peromyscus_madrensis,
+		737	Peromyscus_eva,
+		738	Peromyscus_stephani,
+		739	Peromyscus_interparietalis,
+		740	Microtus_nebrodensis,
+		741	Agathaeromys_praeuniversitatis,
+		742	Antillomys_rayi,
+		743	Cordimus_debuisonjei,
+		744	Cordimus_raton,
+		745	Cordimus_hooijeri,
+		746	Zygodontomys_brevicauda,
+		747	Hattomys_gargantua,
+		748	Megaoryzomys_curioi,
+		749	Pennatomys_nivalis,
+		750	Megalomys_luciae,
+		751	Megalomys_audreyae,
+		752	Megalomys_curazensis,
+		753	Megalomys_desmarestii,
+		754	Megalomys_camerhogne,
+		755	Megalomys_georginae,
+		756	Oryzomys_couesi,
+		757	Aegialomys_galapagoensis,
+		758	Mus_lopadusae,
+		759	Micromys_minutus,
+		760	Maxomys_surifer,
+		761	Maxomys_bartelsii,
+		762	Maxomys_panglima,
+		763	Maxomys_rajah,
+		764	Maxomys_pagensis,
+		765	Maxomys_hellwaldii,
+		766	Maxomys_musschenbroekii,
+		767	Maxomys_whiteheadi,
+		768	Vandeleuria_nolthenii,
+		769	Leopoldamys_siporanus,
+		770	Leopoldamys_sabanus,
+		771	Niviventer_rapit,
+		772	Niviventer_cremoriventer,
+		773	Niviventer_culturatus,
+		774	Niviventer_confucianus,
+		775	Niviventer_coninga,
+		776	Srilankamys_ohiensis,
+		777	Rattus_simalurensis,
+		778	Sundamys_muelleri,
+		779	Rattus_burrus,
+		780	Rattus_mindorensis,
+		781	Kritimys_catreus,
+		782	Rattus_elaphinus,
+		783	Canariomys_bravoi,
+		784	Canariomys_tamarani,
+		785	Rattus_lugens,
+		786	Rattus_tanezumi,
+		787	Rattus_losea,
+		788	Rattus_baluensis,
+		789	Rattus_tiomanicus,
+		790	Rattus_palmarum,
+		791	Rattus_fuscipes,
+		792	Rattus_annandalei,
+		793	Chiropodomys_major,
+		794	Chiropodomys_karlkoopmani,
+		795	Rhagamys_orthodon,
+		796	Leporillus_conditor,
+		797	Uromys_neobritannicus,
+		798	Uromys_porculus,
+		799	Uromys_rex,
+		800	Uromys_imperator,
+		801	Uromys_emmae,
+		802	Uromys_vika,
+		803	Uromys_boeadii,
+		804	Melomys_aerosus,
+		805	Melomys_bannisteri,
+		806	Melomys_caurinus,
+		807	Solomys_ponceleti,
+		808	Solomys_salebrosus,
+		809	Melomys_obiensis,
+		810	Melomys_fraterculus,
+		811	Melomys_matambuai,
+		812	Melomys_talaudium,
+		813	Hybomys_basilii,
+		814	Apodemus_speciosus,
+		815	Apodemus_semotus,
+		816	Apodemus_agrarius,
+		817	Apodemus_argenteus,
+		818	Apodemus_mystacinus,
+		819	Apodemus_sylvaticus,
+		820	Apodemus_flavicollis,
+		821	Malpaisomys_insularis,
+		822	Mus_minotaurus,
+		823	Mus_cypriacus,
+		824	Mikrotia_maiuscola,
+		825	Mikrotia_parva,
+		826	Mikrotia_magna,
+		827	Mastomys_natalensis
+	;
+	TREE * UNTITLED = [&R] (1:193.4055627,((((2:27.59812067,(3:19.43657749,4:19.43657749):8.161543182):6.055349988,(5:5.917462099,6:5.917462099):27.73600856):48.11998786,(7:72.59649156,(((((8:3.547834253,9:3.547834253):8.124109219,(10:10.95623891,11:10.95623891):0.7157045602):8.15001015,(12:18.02956829,13:18.0295683):1.792385324):48.84331314,((14:23.66147308,(15:14.57801517,16:14.57801517):9.083457908):8.806976896,17:32.46844998):36.19681678):1.58976963,((18:44.21702191,(19:15.39263037,((20:7.533169969,(21:3.294554353,(22:0.6994116345,23:0.6994116345):2.595142718):4.238615616):5.900510795,24:13.43368076):1.958949606):28.82439154):3.8190554,(((25:27.86070709,(26:6.075624698,(27:3.781734641,28:3.781734641):2.293890057):21.78508239):6.733729342,29:34.59443644):11.51524751,(30:18.97266014,((31:10.91822497,((32:4.249404357,33:4.249404357):5.187032559,(34:8.452182585,(35:5.853771359,36:5.853771358):2.598411227):0.9842543303):1.481788055):1.095931547,(37:11.4756886,((38:1.746745829,(39:1.269352685,(40:0.8695276368,41:0.8695276368):0.3998250479):0.4773931441):8.784651649,(42:4.953514992,43:4.953514992):5.577882486):0.9442911191):0.5384679207):6.95850362):27.1370238):1.926393374):22.21895908):2.341455174):9.176966952):80.38359809,(((44:3.312618632,45:3.312618632):82.48119714,((((46:1.829483308,47:1.829483308):2.725416557,(48:3.164784773,(49:0.3761224835,50:0.3761224835):2.788662289):1.390115092):1.007212979,((51:2.652520643,52:2.652520643):0.803162904,(53:0.6640257913,(54:0.1518223809,55:0.1518223809):0.5122034103):2.791657756):2.106429296):8.082167447,(((56:1.413732675,(57:1.127296287,58:1.127296287):0.2864363889):4.084536413,(59:3.575111437,60:3.575111437):1.923157651):2.626032233,((61:2.75852609,(62:0.7721067752,63:0.7721067752):1.986419314):0.9409912041,((64:1.238960406,65:1.238960406):2.272047702,((66:0.3093019807,67:0.3093019807):0.8813381437,(68:0.6591918911,(69:0.0799026235,70:0.0799026235):0.5792892676):0.5314482333):2.320367983):0.1885091859):4.424784028):5.519978965):72.14953548):11.0046257,(((71:83.53914342,((72:13.04904055,(73:6.551955935,((74:2.347809346,75:2.347809346):3.762146308,(76:0.3026858277,77:0.3026858277):5.807269827):0.4420002797):6.497084613):68.03180881,((((78:3.159241007,(79:2.42762235,80:2.42762235):0.7316186575):30.26385214,(81:22.62160201,(82:7.210348209,83:7.210348209):15.41125381):10.80149114):16.98008644,((84:6.063600664,85:6.063600665):7.929950223,(86:12.09645408,(87:9.875083459,(88:3.539370869,89:3.539370869):6.335712591):2.221370625):1.897096803):36.4096287):27.32817803,(((90:32.0646627,(91:17.72174395,(92:6.104092458,93:6.104092458):11.61765149):14.34291875):4.982435819,((94:11.9613989,95:11.9613989):21.03938825,((96:12.91058027,((97:3.848409831,(98:2.04668221,99:2.04668221):1.80172762):3.828068456,(100:3.17588575,(101:0.3600029254,102:0.3600029254):2.815882824):4.500592538):5.234101986):9.170935353,((103:4.263234255,104:4.263234255):2.534459628,((105:3.914226945,106:3.914226945):2.489860429,(107:5.453681325,108:5.453681324):0.9504060492):0.3936065089):15.28382175):10.91927153):4.046311362):14.87188341,(109:42.51208476,((110:16.53523024,111:16.53523024):4.546253692,(112:17.47172763,(113:16.65908427,(((114:4.264232875,115:4.264232875):8.034857025,((((116:1.439913607,117:1.439913607):2.033249535,(118:1.314063208,(119:0.7941802949,120:0.7941802949):0.5198829127):2.159099934):0.1594891187,(121:2.160439224,(122:0.01678323591,123:0.01678323591):2.143655988):1.472213036):7.504394316,(124:10.48825794,125:10.48825794):0.6487886332):1.162043324):1.57376989,((126:10.69882126,((127:5.450713507,128:5.450713507):4.791450919,129:10.24216443):0.4566568346):2.791872317,((130:5.880139866,(131:4.860530307,(132:3.087313844,133:3.087313844):1.773216463):1.019609559):6.601886427,((134:3.535929596,135:3.535929595):7.644371772,((136:7.936973361,(137:4.010672079,138:4.010672078):3.926301282):2.548525959,((139:6.659770181,(140:6.019245666,141:6.019245667):0.640524514):2.260891719,(142:5.165128682,(((143:1.561866534,144:1.561866534):0.6934920714,145:2.255358606):2.649362279,(146:4.60136241,(147:2.67646403,(148:2.142758258,(149:1.776528181,(150:1.643065273,151:1.643065272):0.1334629085):0.366230077):0.5337057723):1.924898379):0.3033584754):0.2604077974):3.755533218):1.56483742):0.6948020474):1.301724926):1.008667285):0.3821662119):2.786224485):0.8126433591):3.609756296):21.43060083):9.40689717):25.81237569):3.349491741):2.458294057):0.9939953578,(((((152:0.07741369922,153:0.07741369922):5.597469183,154:5.674882883):63.42424747,(((155:22.93754048,((156:4.835347262,157:4.835347261):3.181790839,((158:5.316405917,((159:0.3639307444,160:0.3639307444):4.750446556,161:5.114377301):0.2020286164):0.2328034829,(162:5.04846003,(((163:1.378129001,164:1.378129001):1.700770515,165:3.078899516):1.475939931,166:4.554839446):0.4936205834):0.5007493699):2.4679287):14.92040238):4.373657423,((((167:10.61363037,(168:7.801828133,169:7.801828133):2.811802242):4.79671928,(170:13.00838773,(171:9.589820854,(172:5.13253716,173:5.132537159):4.457283694):3.418566879):2.401961921):2.106341641,(174:7.735501207,175:7.735501207):9.781190088):7.698533866,(176:20.0797374,((177:5.934621676,((178:3.680677402,(179:2.207400158,180:2.207400158):1.473277244):1.678406366,(181:2.877680031,182:2.877680031):2.481403737):0.5755379074):0.8530691631,(183:5.845152352,184:5.845152353):0.9425384865):13.29204656):5.13548776):2.095972742):18.70505655,((((185:0.3664047745,186:0.3664047745):6.571012602,(187:4.97826808,(188:3.111203312,(189:0.6789113629,190:0.6789113629):2.432291949):1.867064768):1.959149297):3.25322045,(191:4.965916789,(((192:0.6068760644,193:0.6068760644):0.3643790331,194:0.9712550975):3.323964757,(195:1.553650302,(196:1.24214455,197:1.24214455):0.3115057517):2.741569553):0.6706969337):5.224721038):30.01470435,((198:3.766287724,(199:2.572945116,200:2.572945116):1.193342607):29.37273583,(((201:5.606448595,202:5.606448595):14.26304617,(203:4.389278826,204:4.389278826):15.48021594):9.258839981,((205:20.28743498,((206:7.019411198,(207:6.412539729,208:6.412539729):0.6068714686):10.45097004,209:17.47038124):2.817053741):4.964935293,((210:0.3708818224,211:0.3708818224):16.96275589,((212:4.523685662,(213:2.853874321,214:2.853874321):1.669811341):10.35190674,(((215:2.525756658,216:2.525756658):7.759323312,(217:8.207261545,(218:7.113582613,((219:3.743478829,220:3.743478829):0.03681768779,((221:2.633715955,222:2.633715955):0.5830114503,223:3.216727405):0.5635691117):3.333286096):1.093678932):2.077818423):3.730518959,((224:3.340876064,(225:1.510984963,226:1.510984963):1.829891101):10.07926724,(((227:6.089252215,228:6.089252216):2.01008313,(229:7.764854926,((230:2.666038361,(231:1.444387023,(232:0.8196655091,233:0.8196655091):0.6247215138):1.221651338):2.53217093,((234:3.31873737,235:3.31873737):0.2226833999,(236:1.358487016,(237:1.271980675,238:1.271980675):0.08650634112):2.182933754):1.65678852):2.566645637):0.3344804191):4.337901601,(239:12.3659574,((240:1.991104408,241:1.991104408):6.183288928,((242:2.163242363,243:2.163242363):2.191582861,(244:2.047329988,(245:0.9583742797,246:0.9583742797):1.088955708):2.307495236):3.819568111):4.191564059):0.07127955068):0.9829063559):0.5954556243):0.8599934806):2.458045302):7.918732568):3.875964469):4.010688802):7.06631863):5.810912277):23.08287589):0.6653564846,((247:0.8053672811,248:0.8053672811):62.60796328,((249:7.97956335,(250:2.45103317,((251:1.107016821,252:1.107016821):1.180536164,((253:0.2917420989,(254:0.03366172472,255:0.03366172472):0.2580803742):1.461084049,(256:1.368834041,257:1.368834041):0.3839921076):0.5347268364):0.1634801851):5.528530182):48.37569253,(((258:0.8090353929,259:0.8090353929):2.656314224,(260:3.037127034,(261:1.968125517,(262:1.224711032,263:1.224711032):0.7434144856):1.069001517):0.4282225831):47.17008209,(((264:1.299714075,265:1.299714075):23.10434256,(266:5.853885557,(267:2.553668786,268:2.553668787):3.300216771):18.55017109):15.10852733,(((269:7.643554864,(270:6.686803681,(271:6.239691351,((272:1.495246492,273:1.495246492):3.054831765,((274:0.6482032213,275:0.6482032213):1.974969093,(276:1.972701246,277:1.972701246):0.6504710689):1.926905942):1.689613094):0.4471123303):0.9567511818):1.139772206,((278:4.255715531,279:4.25571553):3.578506428,(((280:1.710763312,281:1.710763312):1.955652579,((282:0.9397566759,283:0.9397566759):0.3781984432,(284:0.5684840223,(285:0.5528295942,(286:0.2879689492,(287:0.2711824886,288:0.2711824886):0.01678646056):0.264860645):0.01565442803):0.7494710969):2.348460772):2.859128763,(289:4.100644971,((290:2.516618327,291:2.516618326):0.3521030083,((292:1.805023196,(293:0.8517858101,294:0.8517858101):0.9532373857):0.6586210694,(295:1.319514494,296:1.319514494):1.144129771):0.4050770702):1.231923636):2.424899683):1.308677304):0.9491051107):8.663597919,(((297:3.618956732,298:3.618956732):5.122452961,(299:4.080631754,(300:3.560607177,(301:3.167264818,(((302:0.3087732219,303:0.3087732219):1.535839648,304:1.84461287):0.8346709084,(305:2.284391074,(306:2.22979333,(307:0.6712282185,308:0.6712282185):1.558565112):0.05459774321):0.3948927047):0.48798104):0.3933423592):0.520024577):4.66077794):6.934261411,(309:15.12852815,((310:0.4063238419,(311:0.1365528504,312:0.1365528504):0.2697709915):13.56808789,(((313:3.433581764,314:3.433581765):3.615127095,315:7.048708859):6.170361397,((316:10.13090128,317:10.13090127):1.074219459,((318:2.895214106,((319:0.2354741762,320:0.2354741762):1.23663938,321:1.472113556):1.42310055):5.579638839,((322:4.778146408,(323:4.747953124,324:4.747953124):0.03019328409):1.465645961,(325:1.949147866,(326:1.575738595,(327:0.4600552551,328:0.4600552551):1.11568334):0.3734092705):4.294644504):2.231060576):2.73026779):2.013949521):0.755341477):1.154116414):0.5471429575):1.771253883):22.06565898):11.12284774):5.719824166):7.058074684):6.351156274):7.117103165,(((329:41.41061829,((330:11.70149741,(331:11.28710796,((332:6.531711639,(333:6.153917215,334:6.153917215):0.3777944243):4.525543825,((335:5.441860207,336:5.441860207):5.151745992,((337:5.05102805,(338:2.302115064,339:2.302115065):2.748912985):2.818499249,((340:2.022819538,341:2.022819538):2.435452383,(342:2.130047154,343:2.130047154):2.328224767):3.411255377):2.724078901):0.4636492657):0.2298524913):0.4143894505):18.06423395,(344:26.38473053,(345:19.75505288,(346:18.8011678,(347:11.90086749,((348:8.028232354,(349:1.943141622,350:1.943141622):6.085090732):3.373426376,((351:9.477862026,(352:9.186908874,353:9.186908874):0.2909531517):1.619883025,354:11.09774505):0.3039136803):0.499208754):6.900300317):0.9538850791):6.629677651):3.381000828):11.64488694):5.689466633,(((355:5.73997263,((356:3.76812903,(357:2.655970341,358:2.655970341):1.112158689):0.373290974,(359:2.774659832,(360:2.174775718,361:2.174775719):0.5998841139):1.366760172):1.598552626):15.37972688,(362:19.27409918,363:19.27409918):1.845600326):1.235920102,(((364:4.977365087,365:4.977365087):9.377875548,((366:9.194280714,(367:2.113810649,(368:1.623403426,369:1.623403426):0.4904072233):7.080470065):3.719663686,(370:2.536509059,371:2.53650906):10.37743534):1.441296235):6.137276822,(((372:13.35438725,(373:0.1099614255,374:0.1099614255):13.24442582):5.198012046,(375:13.21602655,(((376:1.879823919,377:1.87982392):1.549434002,378:3.429257921):2.900599879,(379:3.417789222,(380:2.752169453,(381:0.1433953751,382:0.1433953751):2.608774077):0.6656197693):2.912068578):6.886168749):5.33637274):1.800402252,((((383:0.2086715824,384:0.2086715824):3.444657562,385:3.653329144):0.8737932799,(386:4.009549986,387:4.009549985):0.5175724383):13.34793476,((388:8.056396657,((389:0.991723271,390:0.991723271):4.584641235,(391:5.004251425,(392:0.1839032706,393:0.1839032706):4.820348154):0.5721130811):2.480032151):2.05951724,((394:6.838496193,((395:0.4108922879,396:0.4108922879):2.622162081,((397:1.83921652,(398:0.1580308305,399:0.1580308305):1.68118569):0.6163689774,(400:1.32919453,401:1.32919453):1.126390968):0.5774688709):3.805441824):1.540759851,(((402:0.8741983098,403:0.8741983098):1.975164703,((404:1.044885773,405:1.044885773):0.8299610981,((406:1.262951645,407:1.262951645):0.07498903954,(408:0.5928604432,(409:0.3566283658,(410:0.2985622313,411:0.2985622313):0.05806613452):0.2362320774):0.7450802412):0.5369061867):0.9745161414):1.712050023,(412:4.351988749,(413:1.680023542,((414:0.9197444484,415:0.9197444483):0.6140194763,(416:0.7709661017,417:0.7709661017):0.7627978231):0.146259617):2.671965208):0.2094242865):3.817843008):1.736657854):7.759143288):2.477744357):0.139715916):1.86310215):24.74446532):11.13463235,(((418:7.24035972,(419:1.019540588,420:1.019540588):6.220819132):38.96553583,(421:34.3929897,((422:0.9005669661,423:0.9005669661):16.11731741,424:17.01788438):17.37510532):11.81290585):7.248257148,((425:39.95690003,(426:33.81757044,(427:26.43714317,(428:19.23989579,((429:1.810183432,430:1.810183432):13.65521201,431:15.46539545):3.77450034):7.197247384):7.38042727):6.139329594):8.674617608,((432:13.03074707,((433:5.168807355,(434:4.870199505,435:4.870199505):0.2986078499):6.858416516,(436:10.83596542,(437:10.60311082,438:10.60311082):0.2328545969):1.191258456):1.003523199):23.97664269,((439:7.08717512,(440:3.73155036,(441:2.332659378,(442:0.734301483,443:0.7343014831):1.598357895):1.398890982):3.355624759):28.45823719,(((444:13.20976227,(445:11.77147039,(446:8.005785007,447:8.005785007):3.765685386):1.43829188):6.044776595,((448:6.256659133,(449:5.303481616,(450:2.495424355,451:2.495424355):2.808057261):0.9531775173):5.760479769,(452:10.48879401,(453:9.994617617,((454:8.365689707,455:8.365689707):1.296038857,((456:7.207990719,(457:5.706013736,458:5.706013736):1.501976983):2.324307629,(459:1.646690977,460:1.646690977):7.885607372):0.129430215):0.3328890536):0.4941763966):1.528344888):7.237399966):6.732603423,(461:24.61629644,(462:24.11576374,((((463:1.899932635,464:1.899932635):10.95021361,(465:4.715986941,466:4.715986941):8.134159307):8.009173499,(467:18.96329717,((468:1.299515877,469:1.299515878):10.46271559,(470:8.775320278,(471:0.5044229008,472:0.5044229008):8.270897376):2.986911191):7.201065699):1.896022581):1.329607666,((473:3.742212767,474:3.742212767):15.4637524,(((475:9.556945465,476:9.556945464):1.667771667,477:11.22471713):4.748089989,((478:3.255717858,479:3.255717858):9.40262502,((480:2.377803779,481:2.377803779):8.890346119,(482:5.44220101,(483:4.928157335,(484:3.950482654,(485:1.06616115,486:1.06616115):2.884321504):0.9776746822):0.5140436744):5.825948886):1.39019298):3.314464243):3.233158043):2.98296225):1.926836327):0.5005326998):1.37084585):9.558270022):1.461977448):11.62412788):4.822635053):4.78056458):18.64687272):7.651548775):3.070392056,((((487:6.277442322,488:6.277442322):49.09659304,(489:46.15874755,(((490:3.60765568,491:3.60765568):3.265769558,(492:2.456061403,(493:0.09890955546,494:0.09890955546):2.357151848):4.417363835):1.721077891,(495:6.416069807,(496:5.774279576,(497:2.981515827,(498:2.348237025,(499:1.885910365,500:1.885910365):0.4623266604):0.6332788019):2.79276375):0.6417902309):2.178433322):37.56424441):9.215287815):19.23684908,(((((501:1.422579947,502:1.422579947):11.46091209,(503:1.799651686,(504:1.062854941,505:1.062854941):0.7367967451):11.08384035):10.64133675,(506:14.43521587,(507:11.81313756,(508:6.596780944,(509:3.889030576,510:3.889030576):2.707750368):5.216356616):2.622078308):9.089612914):30.75869494,(511:1.918276918,512:1.918276918):52.3652468):19.80748178,((513:7.588111406,(514:1.707159969,(515:1.32697437,516:1.32697437):0.3801855988):5.880951437):64.56655265,((((517:11.12360685,518:11.12360685):2.501282682,((519:1.916615065,(520:1.232294588,(521:1.155676479,(522:0.5712935489,523:0.5712935489):0.5843829297):0.07661810935):0.6843204773):3.753098408,(524:2.757164993,525:2.757164993):2.91254848):7.955176058):8.799631088,(((526:7.981126678,(527:1.475997052,528:1.475997052):6.505129626):2.133547669,(529:8.711889249,((530:4.228954674,(531:3.6943596,(532:2.277702818,(533:2.050202831,534:2.050202831):0.2274999877):1.416656781):0.5345950748):3.415871439,(535:6.324742042,(536:4.549315751,((537:2.007131371,538:2.007131371):2.008505864,539:4.015637236):0.5336785152):1.775426291):1.320084072):1.067063136):1.402785099):4.362173203,(((540:5.187584762,541:5.187584762):1.018297991,(542:3.136447945,543:3.136447945):3.069434807):3.713079846,(544:7.311642052,(((545:1.558264234,(546:1.285440608,547:1.285440608):0.272823626):2.427728985,((548:0.5722602524,549:0.5722602524):2.575143147,(550:2.924634219,(551:2.115844791,(552:1.891351574,(553:1.513299539,554:1.513299539):0.3780520354):0.2244932163):0.8087894281):0.2227691803):0.8385898205):0.7461407074,(555:3.695624974,(556:3.070145136,(557:1.60529082,(558:1.210989162,(559:1.00396932,560:1.00396932):0.2070198425):0.3943016579):1.464854316):0.6254798377):1.036508953):2.579508125):2.607320547):4.557884953):7.947673069):11.34404713,(561:17.07624958,((562:5.598849044,(563:4.771864883,564:4.771864883):0.8269841611):11.0951847,565:16.69403375):0.3822158364):16.69231817):38.38609631):1.936341451):0.519878937):9.418626702,((566:50.2334805,((567:2.120211943,(568:0.4018272462,569:0.4018272462):1.718384697):15.53003685,(((570:0.1569288656,(571:0.03564883482,572:0.03564883482):0.1212800308):12.15399391,(573:6.203612367,(574:2.855557533,(575:0.9519275938,576:0.9519275938):1.90362994):3.348054834):6.107310405):1.382682979,((577:0.7011800785,578:0.7011800785):3.831727753,((579:3.33872639,(580:2.750976785,581:2.750976785):0.5877496048):0.06372580902,(582:1.497294671,583:1.49729467):1.905157528):1.130455633):9.16069792):3.956643037):32.58323171):26.30823427,((((584:39.30200079,585:39.3020008):22.72729898,(((586:0.009849506168,587:0.009849506168):3.759327328,(588:3.689822891,(589:1.390944232,590:1.390944233):2.298878659):0.07935394273):40.80318356,(((591:4.096104616,(592:3.475977137,593:3.475977137):0.6201274794):21.12703049,594:25.2231351):11.77500078,(595:20.99226177,(((596:5.440864944,(597:1.96428843,598:1.96428843):3.476576514):6.184172484,((599:6.37405555,(600:2.9100185,((601:2.194032492,(602:1.300512855,603:1.300512855):0.893519636):0.7081829715,(604:1.225068531,(605:1.135136326,(606:0.6681862937,607:0.6681862937):0.4669500323):0.08993220511):1.677146932):0.007803036807):3.46403705):0.9591570707,((608:2.005039483,(609:1.343388966,610:1.343388966):0.6616505169):1.583736797,(((611:1.803494512,612:1.803494512):0.7245882624,613:2.528082774):0.140851654,((614:0.5536795524,615:0.5536795524):1.10440053,((616:0.05840966918,617:0.05840966918):0.82852019,((618:0.2807236072,619:0.2807236072):0.5285394776,(620:0.7267799522,621:0.7267799522):0.08248313261):0.07766677439):0.7711502225):1.010854346):0.9198418517):3.744436341):4.291824807):6.484832613,(622:16.10771541,(623:15.27891689,(624:13.6090339,(625:10.13751605,626:10.13751605):3.471517846):1.669882997):0.8287985137):2.002154633):2.882391727):16.00587411):7.574224504):17.45693939):0.437769149,((((627:1.062111083,628:1.062111083):0.5883501236,(629:0.7007653933,((630:0.1076075979,631:0.1076075979):0.2392624491,(632:0.02538231449,633:0.02538231449):0.3214877325):0.3538953463):0.949695813):25.24869815,(634:18.81941423,((635:0.1634441077,636:0.1634441077):7.902377957,637:8.065822066):10.75359217):8.079745118):20.56237451,((638:7.59307363,639:7.59307363):22.45848675,(((640:11.61666553,(641:9.365115185,642:9.365115184):2.25155034):10.51802167,((643:13.75869747,((644:4.867178263,645:4.867178263):4.385368343,((646:5.498011745,647:5.498011745):3.388722249,(648:5.295017219,(649:2.01415324,(650:1.828386864,651:1.828386864):0.1857663762):3.280863979):3.591716776):0.3658126113):4.506150864):5.655573575,(652:17.19374068,(653:9.277647979,(654:8.3848175,655:8.3848175):0.8928304791):7.916092703):2.220530362):2.72041615):4.480422564,((656:17.53349534,(657:15.09399446,(((658:8.875517679,659:8.875517679):1.445328418,660:10.3208461):3.788931865,((661:11.29609545,(662:8.743430677,663:8.743430677):2.552664781):0.9464986023,(((664:8.253253133,665:8.253253133):0.9202769387,((666:3.93727449,667:3.93727449):4.325974771,668:8.263249262):0.9102808097):2.061015466,((669:6.852585417,670:6.852585416):3.835751435,((671:7.726592132,(672:4.300759183,673:4.300759183):3.425832949):2.404782863,((674:1.877849091,675:1.877849091):7.633480823,(676:0.7100058695,(677:0.4485471225,(678:0.2750505551,679:0.2750505551):0.1734965674):0.261458747):8.801324045):0.6200450804):0.5569618563):0.5462086863):1.008048523):1.867183902):0.9842164988):2.439500877):8.571850079,(680:11.86429051,((681:6.845082904,(682:0.7444126223,683:0.7444126223):6.100670282):1.492159141,684:8.337242045):3.527048466):14.24105491):0.5097643421):3.436450618):17.40997348):15.00553507):3.673851497,((685:51.31398087,(686:26.12477974,(687:19.20860582,(688:11.93859548,(689:7.554902541,(690:4.921950655,(691:2.789294122,692:2.789294122):2.132656533):2.632951886):4.38369294):7.270010334):6.916173925):25.18920113):11.38535843,(((693:35.60666192,(694:14.34806151,(695:14.07585083,((696:7.4856355,(697:5.615471996,(698:5.242575792,699:5.242575792):0.3728962042):1.870163504):6.231394548,((700:9.72017231,((701:5.097610127,(702:3.703611424,703:3.703611424):1.393998703):0.3761877223,(704:4.781852505,705:4.781852505):0.6919453445):4.24637446):0.3076311043,((706:8.137149494,(707:6.593880422,((708:0.3910615533,709:0.3910615533):4.378522639,710:4.769584193):1.824296229):1.543269073):1.056735114,(711:1.861105795,712:1.861105795):7.332778813):0.8339188045):3.689226635):0.3588207798):0.2722106857):21.2586004):2.361822142,(((713:9.720870305,(714:7.259289957,(715:4.725573703,(716:0.6769591976,717:0.6769591976):4.048614505):2.533716254):2.461580349):17.91099702,((718:12.110601,719:12.110601):6.61643333,(720:12.26419859,(((721:1.404290427,722:1.404290426):3.401612684,((723:0.09970114353,724:0.09970114353):1.317747059,(725:1.271534396,(726:1.15923525,727:1.15923525):0.1122991462):0.1459138064):3.388454908):6.586986677,((728:6.740782515,729:6.740782516):3.110586571,((730:7.204314458,((731:0.6355366363,732:0.6355366363):1.845399322,733:2.480935958):4.723378501):1.611608941,(734:6.780470808,(735:4.271576498,(736:1.655690697,(737:1.269690577,(738:1.153671462,739:1.153671462):0.1160191148):0.3860001205):2.615885801):2.50889431):2.035452592):1.035445687):1.541520701):0.871308801):6.462835742):8.904832989):9.803231369,(((740:12.01779297,741:12.01779297):1.757356323,(742:1.899951083,(743:0.1528049194,(744:0.01752901054,745:0.01752901054):0.1352759089):1.747146164):11.87519821):6.992325452,(746:18.78896825,(747:14.96460991,(748:13.02640259,(749:11.93030678,(((750:2.195810574,(751:1.305423228,752:1.305423228):0.890387346):0.1744431382,(753:0.952873461,(754:0.8995149917,755:0.8995149917):0.05335846931):1.417380251):8.067505201,(756:9.102661232,757:9.102661232):1.335097681):1.492547872):1.096095807):1.938207314):3.824358338):1.978506503):16.66762394):0.5333853735):10.86680047,(758:47.71006875,((759:25.17864988,(((760:11.13803808,761:11.13803808):1.492930597,((762:8.493565084,(763:2.414321046,764:2.414321046):6.079244038):3.29446612,(765:8.250678933,(766:4.39912593,767:4.39912593):3.851553003):3.53735227):0.8429374734):5.699471203,(768:15.88159947,(((769:3.359737374,770:3.359737373):8.022517541,((771:6.081557166,772:6.081557166):2.599091446,(773:6.190501027,(774:3.012419799,775:3.012419799):3.178081228):2.490147585):2.701606302):3.800558317,(776:10.95662635,(((777:3.045113614,778:3.045113614):4.305295459,779:7.350409073):1.013875935,((780:7.778778013,781:7.778778013):0.2292533601,((782:6.894006217,((783:3.384464224,784:3.384464224):1.172313307,((785:2.901152627,786:2.901152628):1.599158703,(787:2.616376992,(788:2.117660254,789:2.117660254):0.498716738):1.883934338):0.05646620059):2.337228686):0.530478562,(790:7.254482242,(791:3.955606794,792:3.955606794):3.298875448):0.1700025368):0.5835465944):0.3562536357):2.592341338):4.226186883):0.6987862384):2.448840412):6.848209995):2.661576723,(((793:12.07273912,794:12.07273912):10.3019516,(795:12.39887122,(796:11.42811035,((797:8.944362962,(798:6.872659542,((799:1.493702301,800:1.493702301):1.415262331,(801:1.641161741,(802:0.1563353762,803:0.1563353762):1.484826365):1.26780289):3.96369491):2.07170342):1.779075965,((804:2.580981425,805:2.580981425):1.166885238,((806:2.594143962,(807:1.430642003,808:1.430642004):1.163501959):0.8825566116,((809:0.1091257453,810:0.1091257453):3.043879357,(811:2.499743317,812:2.499743318):0.6532617844):0.3236954718):0.2711660889):6.975572264):0.7046714218):0.9707608737):9.975819496):4.53971672,(813:25.88264592,(((814:12.20784753,(815:10.87092332,816:10.87092332):1.336924203):3.489488357,(817:15.3177275,(818:12.56998735,(819:4.773488634,820:4.773488634):7.79649872):2.747740142):0.3796083876):9.12625703,((821:13.28401514,(822:6.485191553,823:6.485191552):6.798823592):10.287156,((824:4.376332226,(825:1.726403421,826:1.72640342):2.649928805):9.174886072,827:13.5512183):10.01995285):1.252421769):1.059053008):1.031761516):0.92581916):19.86984215):1.12521579):13.86405477):3.441581116):10.40079435):7.487796379):3.57401968):9.194910635):65.35861514):31.24850608);
+END;
