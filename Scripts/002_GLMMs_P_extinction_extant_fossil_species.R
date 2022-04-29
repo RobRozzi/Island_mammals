@@ -11,7 +11,6 @@ library(forcats)
 library(lme4)
 library(sjPlot)
 library(car)
-library(DHARMa)
 library(RColorBrewer)
 library(ggeffects)
 library(visreg)
@@ -87,7 +86,6 @@ extrafont::loadfonts(device = "win")
 
 theme_set(theme_light(base_size = 12, base_family = "Arial"))
 
-
 ##############################################################
 # Plot species for each Order based on IUCN colours       ####
 ##############################################################
@@ -125,17 +123,6 @@ glmer6 <- glmer(Pr_extinction ~ Magnitude_body_size_change * Direction_body_size
 #Visualize results and save table as doc file
 
 tab_model(null, glmer1, glmer2, glmer3, glmer4, glmer5, glmer6, show.aicc = TRUE, file = "Results/GLMMs/Table_models_extinct.doc")
-
-#Check VIF
-vif(glmer3) 
-vif(glmer4) 
-vif(glmer5) 
-vif(glmer6) 
-
-#Perform model diagnostics with DHARMa (best model)
-glmer.sim <- simulateResiduals(glmer6, integerResponse = TRUE, n = 250)
-plot(glmer.sim)
-testDispersion(glmer.sim)
 
 ##############################################################
 # Plot models                                             ####
