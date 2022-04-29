@@ -1,0 +1,1232 @@
+Order,Latin_binomial,Island,Ancestor_or_closest_mainland_relative,Size_ratio,Body_mass_mainland_taxon,Body_mass_island_taxon,Log_Size_ratio,Magnitude_body_size_change,Direction_body_size_change,IUCN_Category,Source_Body_mass_and_size_ratio,Source_Ancestor_or_closest_mainland_relative,Endemism,Notes
+Rodentia,Abeomelomys_sevia,New Guinea,,,,52,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Acerodon_celebensis,Sulawesi: Butan: Talenge: Mangole: Sanana: Siau: Sangihe: Selayar,Acerodon_mackloti,0.82925792,470.3,390,-0.081310372,0.081310372,dwarfism,VU,Faurby et al. 2020,Musser et al. 1982,yes,
+Chiroptera,Acerodon_humilis,,,0.400058318,1075,430.0626914,-0.397876696,0.397876696,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Acerodon_jubatus,,,1.25603222,1075,1350.234637,0.09900078,0.09900078,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Acerodon_leucotis,Palawan: Basuanga: Balabac: Bat,Acerodon_mackloti,1.091218371,470.3,513.2,0.037911669,0.037911669,gigantism,VU,Faurby et al. 2020,Musser et al. 1982,yes,
+Chiroptera,Acerodon_mackloti,Lombok: Sumbawa: Sumba: Flores: Timor: Alor: Moyo,,1.145687268,390,446.8180346,0.059066087,0.059066087,gigantism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Aegialomys_galapagoensis,Sante Fe: San Cristobal,Aegialomys_xanthaeolus,1.447368421,79.8,115.5,0.160579093,0.160579093,gigantism,VU,Faurby et al. 2020,Weksler et al. 2006,yes,
+Chiroptera,Lasiurus_cinereus,,,0.566282024,29.43333333,16.66756757,-0.246967224,0.246967224,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Aeromys_thomasi,Borneo,,,,1435,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Aethalops_aequalis,Borneo,,,,11.6,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Aethalops_alecto,,,0.965,15,14.475,-0.015472687,0.015472687,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Ailurops_melanotis,Sangihe: Salebabu ,Ailurops_ursinus,0.67,10000,6669,-0.173925197,0.173925197,dwarfism,CR,Faurby et al. 2020,Repi et al. 2019,yes,
+Diprotodontia,Ailurops_ursinus,Sulawesi: Butung: Peleng: Togian: Muna,,,,10000,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Microtus_oeconomus,,,0.8775,33.1,29.04525,-0.056752875,0.056752875,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Alionycteris_paucidentata,Mindanao,,,,16.2,,,,LC,Faurby et al. 2020,,yes,
+Primates,Allocebus_trichotis,Madagascar,,,,77.5,,,,EN,Faurby et al. 2020,,yes,
+Primates,Cercopithecus_preussi_insularis,,,0.717184416,7639,5478.571758,-0.144369156,0.144369156,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Alouatta_belzebul,,,0.886191956,7300,6469.201278,-0.052472196,0.052472196,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Alouatta_palliata_coibensis,,,0.761653851,7150,5445.825037,-0.118242358,0.118242358,dwarfism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Alouatta_seniculus,,,0.670638114,6850,4593.871078,-0.173511768,0.173511768,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Ammospermophilus_leucurus,,,1.23,125,153.75,0.089905111,0.089905111,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Anisomys_imitator,New Guinea,,,,510.5,,,,LC,Faurby et al. 2020,,yes,
+Eulipotyphla,Anourosorex_yamashinai,,,0.571,20,11.42,-0.243363892,0.243363892,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Aonyx_cinerea,,,1.1705,3530,4131.865,0.068371418,0.068371418,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Apodemus_agrarius,,,1.53,21.1,32.283,0.184691431,0.184691431,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Apodemus_argenteus,,,1.033,21,24.549,0.014100322,0.014100322,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Apodemus_flavicollis,,,0.986366272,31.6,34.2544,-0.005961787,0.005961787,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Apodemus_mystacinus,,,0.951,43.9,41.7489,-0.021819483,0.021819483,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Apodemus_semotus,Taiwan,Apodemus_draco,1.291479821,22.3,28.8,0.111087625,0.111087625,gigantism,LC,Faurby et al. 2020,Kaneko 2011,yes,
+Rodentia,Apodemus_speciosus,,,1.24,43.7,50.69167373,0.093421685,0.093421685,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Apodemus_sylvaticus,,,1.071,21.9,23.4549,0.029789471,0.029789471,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Apomys_abrae,Luzon,,,,75,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_aurorae,Luzon,,,,85,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_banahao,Luzon,,,,85,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_camiguinensis,Camiguin ,,,,38,,,,VU,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Apomys_datae,Luzon,,,,95,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_gracilirostris,Mindoro,,,,106,,,,LC,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Apomys_hylocoetes,Mindanao,,,,37,,,,LC,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Apomys_insignis,Mindanao: Dinagat ,,,,38,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_iridensis,Luzon,,,,95,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_lubangensis,Lubang,,,,109.2,,,,LC,Heaney et al. 2014,,yes,
+Rodentia,Apomys_magnus,Luzon,,,,110,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_microdon,Luzon,,,,38,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_minganensis,Luzon,,,,85,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_musculus,Luzon,,,,22,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_sacobianus,Luzon,,,,95,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_sierrae,Luzon,,,,100,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Apomys_zambalensis,Luzon,,,,110,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Chiroptera,Aproteles_bulmerae,New Guinea,,,,600,,,,CR,Faurby et al. 2020,,yes,
+Rodentia,Archboldomys_luzonensis,Luzon,,,,35,,,,VU,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Carnivora,Arctictis_binturong,,,0.758409218,13000,9859.319832,-0.120096397,0.120096397,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Arctogalidia_trivirgata,,,0.785,2320,1821.2,-0.105130343,0.105130343,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Arctonyx_hoevenii,Sumatra,Arctonyx_collaris,0.545454545,11000,6000,-0.263241435,0.263241435,dwarfism,LC,Hunter 2018,Helgen et al. 2008,yes,
+Chiroptera,Ardops_nichollsi,St Eustatius: St Kitts: Nevis: Montserrat: Dominica: Guadeloupe Islands: Martinique: St Lucia: St Vincent,,,,17.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Arielulus_cuprosus,Borneo,,,,5.5,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Arielulus_torquatus,Taiwan,Arielulus_aureocollaris,0.9,,6.3,-0.045757491,0.045757491,dwarfism,LC,Faurby et al. 2020,Csorba & Lee 1999,yes,
+Chiroptera,Ariteus_flavescens,Jamaica,,,,11.9,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Aselliscus_tricuspidatus,Morotai: Halmahera: Bacan: Buru: Ambon: Seram: Kai: Biak: Yapen: New Guinea: Bismarck Archipelago: Trobriand Islands: D'Entrecasteaux: Louisiade Archipelago: Bougainville: Buka: Solomon Islands: Vanuatu Archipelago,Aselliscus_stoliczkanus,0.981967213,6.1,5.99,-0.007903013,0.007903013,dwarfism,LC,Tu et al. 2015,Tu et al. 2015,yes,
+Eulipotyphla,Atelerix_algirus,,,0.815450802,750,611.5881015,-0.088602236,0.088602236,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Atilax_paludinosus,,,0.803,3600,2890.8,-0.095284455,0.095284455,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Tadarida_kuboriensis,New Guinea,Austronomus_australis,0.814465409,31.8,25.9,-0.089127356,0.089127356,dwarfism,LC,Faurby et al. 2020,Gregorin & Cirranello 2016,yes,
+Primates,Avahi_betsileo,Madagascar,,,,1050,,,,EN,Faurby et al. 2020,,yes,
+Primates,Avahi_cleesei,Madagascar,,,,830,,,,CR,Faurby et al. 2020,,yes,
+Primates,Avahi_laniger,Madagascar,,,,1300,,,,VU,Faurby et al. 2020,,yes,
+Primates,Avahi_meridionalis,Madagascar,,,,1060,,,,EN,Faurby et al. 2020,,yes,
+Primates,Avahi_mooreorum,Madagascar,,,,920,,,,EN,Faurby et al. 2020,,yes,
+Primates,Avahi_occidentalis,Madagascar,,,,850,,,,VU,Faurby et al. 2020,,yes,
+Primates,Avahi_peyrierasi,Madagascar,,,,920,,,,VU,Faurby et al. 2020,,yes,
+Primates,Avahi_ramanantsoavanai,Madagascar,,,,980,,,,VU,Faurby et al. 2020,,yes,
+Primates,Avahi_unicolor,Madagascar,,,,850,,,,CR,Faurby et al. 2020,,yes,
+Artiodactyla,Axis_calamianensis,,,0.469130784,52753.47496,24748.27906,-0.328706068,0.328706068,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Artiodactyla,Axis_kuhlii,,,0.544300934,52753.47496,28713.76569,-0.26416092,0.26416092,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Artiodactyla,Babyrousa_babyrussa,Mangole: Taliabu: Buru,,,,100000,,,,VU,Faurby et al. 2020,,yes,
+Artiodactyla,Babyrousa_celebensis,Sulawesi,,,,84327.5,,,,VU,Faurby et al. 2020,,yes,
+Artiodactyla,Babyrousa_togeanensis,,,1.007,91700,92341.9,0.003029471,0.003029471,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Baiyankamys_shawmayeri,Madagascar,,,,78.4,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Bassariscus_astutus,,,1.0295,1020,1050.09,0.012626351,0.012626351,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Batomys_granti,Luzon,,,,210,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Batomys_russatus,Dinagat,,,,115,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Batomys_salomonseni,Dinagat: Mindanao: Leyte: Biliran,,,,178,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Batomys_uragon,Luzon,,,,180,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Carnivora,Bdeogale_crassicauda,,,0.895,1720,1539.4,-0.048176965,0.048176965,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Bettongia_lesueur,,,0.536,1500,804,-0.27083521,0.27083521,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Blarina_brevicauda,,,1.04,18.4,19.136,0.017033339,0.017033339,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Bos_javanicus,,,0.819260835,707945.7844,579992.2542,-0.086577806,0.086577806,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Brachyphylla_cavernarum,Puerto Rico: Virgin Islands: St Martin: Anguilla: St Kitts: Montserrat: Antigua: Barbuda: Basse-Terre: Grande-Terre: Marie-Galante: Dominica: Martinique: St Lucia: St Vincent: Barbados,,,,46.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Brachyphylla_nana,Cuba: Hispaniola: Gr: Cayman Islands: Middle Caicos,,,,35.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Brachytarsomys_albicauda,Madagascar,,,,200,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Brachytarsomys_villosa,Madagascar,,,,220,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Brachyuromys_betsileoensis,Madagascar,,,,92.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Brachyuromys_ramirohitra,Madagascar,,,,90,,,,LC,Faurby et al. 2020,,yes,
+Pilosa,Bradypus_pygmaeus,,,0.598555212,4845,2900,-0.222895783,0.222895783,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Pilosa,Bradypus_variegatus,,,0.823,3860,3176.78,-0.084600165,0.084600165,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Bubalus_depressicornis,Sulawesi,Bubalus_arnee,0.082089552,1072000,88000,-1.085712113,1.085712113,dwarfism,EN,Rozzi 2018,Rozzi 2018,yes,
+Artiodactyla,Bubalus_mindorensis,Mindoro,Bubalus_arnee,0.208955224,1072000,224000,-0.679946767,0.679946767,dwarfism,CR,Rozzi 2018,Rozzi 2018,yes,
+Artiodactyla,Bubalus_quarlesi,Sulawesi,Bubalus_arnee,0.070895522,1072000,76000,-1.149381193,1.149381193,dwarfism,EN,Rozzi 2018,Rozzi 2018,yes,
+Rodentia,Bullimus_bagobus,Bucas Grande: Bohol: Dinagat: Leyte: Maripipi: Mindanao: Samar: Siargao,,,,635,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Bullimus_gamay,Camiguin ,,,,368,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Bullimus_luzonicus,Luzon,,,,480,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Bunomys_andrewsi,Sulawesi: Buton,,,,154.6,,,,LC,Fabre et al. 2017,,yes,
+Rodentia,Bunomys_chrysocomus,Sulawesi,,,,93.3,,,,LC,Fabre et al. 2017,,yes,
+Rodentia,Bunomys_coelestis,Sulawesi,,,,120,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Bunomys_fratrorum,Sulawesi,,,,135,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Bunomys_penitus,Sulawesi,,,,133.3,,,,LC,Fabre et al. 2017,,yes,
+Rodentia,Bunomys_prolatus,Sulawesi,,,,131,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Callosciurus_adamsi,Borneo,,,,150,,,,NT,Nguyen et al. 2018,,yes,
+Rodentia,Callosciurus_baluensis,Borneo,,,,370.5,,,,LC,Nguyen et al. 2018,,yes,
+Rodentia,Callosciurus_caniceps,,,0.981,265,259.965,-0.008330993,0.008330993,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Callosciurus_erythraeus,,,1.297,274,356.917,0.112939976,0.112939976,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Callosciurus_finlaysonii,,,0.521,300,156.3,-0.283162277,0.283162277,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Callosciurus_melanogaster,Siberut: Sipura: North Pagai: South Pagai,,,,292.3,,,,VU,Nguyen et al. 2018,,yes,
+Rodentia,Callosciurus_notatus,,,1.023,210,223.23,0.009875634,0.009875634,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Callosciurus_orestes,Borneo,,,,278,,,,LC,Nguyen et al. 2018,,yes,
+Rodentia,Callosciurus_prevostii,,,0.83,400,332,-0.080921908,0.080921908,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Canis_aureus,,,0.741,9680,7172.88,-0.130181792,0.130181792,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Canis_latrans,,,0.961,12000,13260,-0.017276612,0.017276612,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Canis_lupus,,,0.94,35000,32900,-0.026872146,0.026872146,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Capricornis_crispus,Honshu: Shikoku: Kyushu,Capricornis_sumatraensis,0.51,104140,53111.4,-0.292429824,0.292429824,dwarfism,LC,Rozzi 2018,Rozzi 2018,yes,
+Artiodactyla,Capricornis_swinhoei,Taiwan,Capricornis_sumatraensis,0.32,104140,33324.8,-0.494850022,0.494850022,dwarfism,LC,Rozzi 2018,Rozzi 2018,yes,
+Rodentia,Capromys_pilorides,Cuba: Isla de la Juventud: Archipiélago de las Doce Laqunas,mean_body_mass_of_South_American_echimyids,9.65625,320,3090,0.984808501,0.984808501,gigantism,LC,Faurby et al. 2020,Woods et al. 2021,yes,
+Primates,Tarsius_syrichta,,,0.947275702,263.3729726,249.4868174,-0.023523603,0.023523603,dwarfism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Carpomys_phaeurus,Luzon,,,,123,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Castor_canadensis,,,0.885,20000,17700,-0.053056729,0.053056729,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Catopuma_badia,Borneo,Catopuma_temminckii,0.217391304,11500,2500,-0.662757832,0.662757832,dwarfism,EN,Faurby et al. 2020,Patel et al. 2016,yes,
+Rodentia,Cavia_intermedia,,Cavia_magna,1.291987501,448.05,578.875,0.111258312,0.111258312,gigantism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Cebus_capucinus_curtus,,,0.264310468,3500,925.0866395,-0.577885636,0.577885636,dwarfism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Tarsius_bancanus,,,0.954039408,129.7142857,123.5981312,-0.020433686,0.020433686,dwarfism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Diprotodontia,Cercartetus_concinnus,,,0.743,14.1,10.4763,-0.129011186,0.129011186,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Cercopithecus_erythrotis,,,0.463082699,8000,3704.661592,-0.334341444,0.334341444,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Cercopithecus_nictitans,,,0.839648849,5373.394737,4511.764706,-0.075902303,0.075902303,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Cercopithecus_pogonias_pogonias,,,1.163880446,2820,3282.142857,0.065908372,0.065908372,gigantism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Artiodactyla,Cervus_elaphus,,,0.843,232500,197745,-0.074172425,0.074172425,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Cervus_nippon,,,0.90127183,38415.7595,40105.06738,-0.045144203,0.045144203,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Chaerephon_bregullae,Taveuni: Vanua Levu: Espiritu Santo: Malo,Chaerephon_jobensis,1.177514793,16.9,19.9,0.070966372,0.070966372,gigantism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Tadarida_jobimena,Madagascar,,,,14.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Chaerephon_solomonis,Choiseul: Santa Isabel,Chaerephon_jobensis,0.727810651,16.9,12.3,-0.137981593,0.137981593,dwarfism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Chaerephon_tomensis,Sao Tome,Chaerephon_gallagheri,,,7.1,,,,EN,Faurby et al. 2020,Juste & Ibáñez 1993,yes,
+Rodentia,Chaetodipus_arenarius,,,0.947,25,22,-0.023650021,0.023650021,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Chaetodipus_baileyi,,,0.99,35,34.65,-0.004364805,0.004364805,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Chaetodipus_fallax,,,1,25,25,0,0,no_change,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Chaetodipus_intermedius,,,0.764,16.5,12.606,-0.116906641,0.116906641,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Chaetodipus_penicillatus,,,0.768,15,11.52,-0.11463878,0.11463878,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Chaetodipus_spinatus,,,0.7025,30,18.75,-0.153353671,0.153353671,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Chalinolobus_neocaledonicus,Grande-Terre,Chalinolobus_gouldii ,0.820689655,14.5,11.9,-0.085821041,0.085821041,dwarfism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Chalinolobus_tuberculatus,New Zeal:,Chalinolobus_nigrogriseus,0.965909091,8.8,8.5,-0.015063746,0.015063746,dwarfism,VU,Faurby et al. 2020,Upham et al. 2019,yes,
+Primates,Cheirogaleus_crossleyi,Madagascar,,,,375,,,,VU,Faurby et al. 2020,,yes,
+Primates,Cheirogaleus_major,Madagascar,,,,450,,,,VU,Faurby et al. 2020,,yes,
+Primates,Cheirogaleus_medius,Madagascar,,,,181,,,,VU,Faurby et al. 2020,,yes,
+Primates,Cheirogaleus_sibreei,Madagascar,,,,285.5,,,,CR,Faurby et al. 2020,,yes,
+Chiroptera,Cheiromeles_parvidens,Buton: Sanana: Sulawesi: Sulu Archipelago: Mindoro: Mindanao: Negros: Tawi Tawi,Cheiromeles_torquatus,0.700917431,163.5,114.6,-0.154333139,0.154333139,dwarfism,LC,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Chilonatalus_micropus,Jamaica: Hispaniola: San:rés: Providencia ,,,,3.5,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Chilonatalus_tumidifrons,Abaco:ros: San Salvador,,,,3.3,,,,NT,Faurby et al. 2020,,yes,
+Eulipotyphla,Chimarrogale_phaeura,Borneo,Chimarrogale_hantu,0.581818182,55,32,-0.235212711,0.235212711,dwarfism,EN,Faurby et al. 2020,Upham et al. 2019,yes,
+Eulipotyphla,Chimarrogale_platycephalus,Honshu: Kyushu,Chimarrogale_himalayica,0.91954023,34.8,32,-0.036429266,0.036429266,dwarfism,LC,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Chiroderma_improvisum,Guadeloupe Islands: Montserrat,,,,35,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Chiropodomys_karlkoopmani,Pagai: Siberut ,Chiropodomys_gliroides,1.353488372,21.5,29.1,0.131454529,0.131454529,gigantism,VU,Faurby et al. 2020,Upham et al. 2019,yes,
+Rodentia,Chiropodomys_major,Borneo,Chiropodomys_gliroides,1.344186047,21.5,28.9,0.128459383,0.128459383,gigantism,LC,Jones et al. 2009,Upham et al. 2019,yes,
+Rodentia,Chiruromys_forbesi,New Guinea: Fergusson: Goodenough: Normanby,,,,105.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Chiruromys_lamia,New Guinea,,,,47.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Chiruromys_vates,New Guinea,,,,45.6,,,,LC,Faurby et al. 2020,,yes,
+Primates,Chlorocebus_pygerythrus,,,0.916114675,5500,5038.630715,-0.03805016,0.03805016,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Chrotomys_gonzalesi,Luzon,,,,170,,,,NT,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Chrotomys_mindorensis,Luzon: Mindoro,,,,185,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Chrotomys_silaceus,Luzon,,,,145,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Chrotomys_whiteheadi,Luzon,,,,180,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Coccymys_ruemmleri,New Guinea,,,,29.7,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Coleura_seychellensis,Silhouette: Mahé: Praslin,Coleura_afra,0.990654206,10.7,10.6,-0.004077912,0.004077912,dwarfism,CR,Faurby et al. 2020,Ruedi et al. 2012,yes,
+Primates,Colobus_satanas_satanas,,,0.902439024,10250,9250,-0.044582133,0.044582133,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Crateromys_heaneyi,Panay,,,,986,,,,EN,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Crateromys_schadenbergi,Luzon,,,,1450,,,,EN,L. R. Heaney: based on specimens and data in FMNH Division of Mammals,,yes,
+Eulipotyphla,Crocidura_andamanensis,South Andaman,,,,22.8,,,,CR,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_attenuata,,,0.648,9,5.832,-0.188424994,0.188424994,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Crocidura_baluensis,Borneo,Crocidura_fuliginosa,1.291666667,12,15.5,0.111150452,0.111150452,gigantism,LC,Faurby et al. 2020,Ruedi 1995,yes,
+Eulipotyphla,Crocidura_beatus,Biliran: Bohol: Camiguin: Leyte: Maripipi: Mindanao,Crocidura_nigripes,0.803030303,13.2,10.6,-0.095268066,0.095268066,dwarfism,LC,Faurby et al. 2020,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_beccarii,Sumatra,,,,7,,,,LC,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_brunnea,Java,Crocidura_fuliginosa,1.241666667,12,14.9,0.094005022,0.094005022,gigantism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Eulipotyphla,Crocidura_canariensis,Lanzarote: Fuerteventura: Lobos: Montaña Clara,Crocidura_russula,0.652173913,11.5,7.5,-0.185636577,0.185636577,dwarfism,EN,Faurby et al. 2020,Vogel et al. 2003,yes,
+Eulipotyphla,Crocidura_dsinezumi,,,1.054,9,9.486,0.022840611,0.022840611,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Crocidura_elongata,Sulawesi,Crocidura_maxi,3.068965517,5.8,17.8,0.486992009,0.486992009,gigantism,LC,Faurby et al. 2020,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_foetida,Borneo,Crocidura_fuliginosa,0.775,12,9.3,-0.110698297,0.110698297,dwarfism,LC,Faurby et al. 2020,Ruedi 1995,yes,
+Eulipotyphla,Crocidura_fuliginosa,,,0.804233109,21.61228095,17.38131191,-0.094618051,0.094618051,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Crocidura_grayi,Catanduanes: Luzon: Mindoro,Crocidura_nigripes,0.78030303,13.2,10.3,-0.107736707,0.107736707,dwarfism,LC,Faurby et al. 2020,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_hikmiya,Sri Lanka,Crocidura_attenuata,0.538461538,14.3,7.7,-0.268845312,0.268845312,dwarfism,EN,Faurby et al. 2020,Meegaskumbura et al. 2007,yes,
+Eulipotyphla,Crocidura_hispida,Andaman: Nicobar,,,,10.9,,,,VU,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_hutanis,Sumatra,,,,11,,,,LC,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_jenkinsi,South Andaman,,,,12.6,,,,CR,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_lea,Sulawesi,Crocidura_maxi,1.137931034,5.8,6.6,0.056115942,0.056115942,gigantism,LC,Faurby et al. 2020,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_lepidura,Sumatra,Crocidura_fuliginosa,1.541666667,12,18.5,0.187990482,0.187990482,gigantism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Eulipotyphla,Crocidura_leucodon,,,1.0233,10,10.233,0.010002974,0.010002974,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Crocidura_levicula,Sulawesi,Crocidura_maxi,0.310344828,5.8,1.8,-0.508155488,0.508155488,dwarfism,LC,Faurby et al. 2020,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_malayana,,,0.849,8.9,7.5561,-0.07109231,0.07109231,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Crocidura_maxi,Java,,,,5.8,,,,LC,Demos et al. 2017,,yes,
+Eulipotyphla,Crocidura_miya,Sri Lanka,Crocidura_attenuata,0.713286713,14.3,10.2,-0.146735866,0.146735866,dwarfism,EN,Faurby et al. 2020,Meegaskumbura et al. 2007,yes,
+Eulipotyphla,Crocidura_monticola,Java,,,,4.2,,,,LC,Demos et al. 2017,,no,
+Eulipotyphla,Crocidura_negrina,Negros,Crocidura_nigripes,1.015151515,13.2,13.4,0.006530867,0.006530867,gigantism,EN,Faurby et al. 2020,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_nicobarica,Great Nicobar,,,,28.9,,,,CR,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_nigripes,Sulawesi,,,,13.2,,,,LC,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_orientalis,Java,Crocidura_fuliginosa,0.941666667,12,11.3,-0.026102803,0.026102803,dwarfism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Eulipotyphla,Crocidura_orii,Amami Oshima: Tokunoshima: Kakeromajima ,,,,14.4,,,,EN,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_palawanensis,Palawan,Crocidura_nigripes,1.037878788,13.2,13.7,0.016146636,0.016146636,gigantism,LC,Hutterer et al. 2018,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_paradoxura,Sumatra,,,,8.2,,,,LC,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_rhoditis,Sulawesi,Crocidura_maxi,2.413793103,5.8,14,0.382700042,0.382700042,gigantism,LC,Faurby et al. 2020,Esselstyn et al. 2019,yes,
+Eulipotyphla,Crocidura_russula,,,1.123,9.46,10.62358,0.050379756,0.050379756,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Crocidura_shantungensis,,,1.307,7.28,9.51496,0.116275588,0.116275588,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Crocidura_sicula,,,0.811764706,8.5,6.9,-0.090569835,0.090569835,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Crocidura_suaveolens,,,0.96445553,10.56594299,10.69817003,-0.015717792,0.015717792,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Crocidura_tanakae,Taiwan,,,,10.5,,,,LC,Faurby et al. 2020,,no,
+Eulipotyphla,Crocidura_thomensis,,,1.545861664,22.151855,34.24370344,0.189170627,0.189170627,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Crocidura_trichura,Christmas,Crocidura_attenuata,0.370629371,14.3,5.3,-0.431060168,0.431060168,dwarfism,CR,Faurby et al. 2020,Schulz 2004,yes,
+Eulipotyphla,Crocidura_umbra,Java,Crocidura_monticola,1.454761905,4.2,6.11,0.16279192,0.16279192,gigantism,NT,Demos et al. 2017,Demos et al. 2017,yes,
+Eulipotyphla,Crocidura_watasei,Amami Oshima: Okinawa ,,,,5.5,,,,LC,Faurby et al. 2020,,yes,
+Eulipotyphla,Crocidura_zimmermanni,Crete,Crocidura_kornfeldi,0.882352941,8.5,7.5,-0.054357662,0.054357662,dwarfism,EN,Faurby et al. 2020,Moncunill-Solé et al 2016c,yes,
+Rodentia,Crossomys_moncktoni,New Guinea,,,,165,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Crunomys_melanius,Camiguin: Leyte: Mindanao,,,,61,,,,LC,Van den Hoek Ostende et al. 2017,,yes,
+Carnivora,Cryptoprocta_ferox,Madagascar,,,,9500,,,,VU,Faurby et al. 2020,,yes,
+Dermoptera,Cynocephalus_volans,,,0.838155693,1250,1047.694616,-0.076675301,0.076675301,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Cynogale_bennettii,,,0.788497791,4466.835922,3522.090258,-0.103199519,0.103199519,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Cynopterus_brachyotis,,,1.03344134,31.8,32.86343462,0.01428583,0.01428583,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Cynopterus_horsfieldii,,,1.318031687,109.7042952,144.5937373,0.119925851,0.119925851,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Cynopterus_luzoniensis,Sulawesi: Philippines,Cynopterus_sphinx,0.800915332,43.7,35,-0.096413393,0.096413393,dwarfism,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,Upham et al. 2019,yes,
+Chiroptera,Cynopterus_minutus,Sumatra: Nias: Java: Borneo: Sulawesi,Cynopterus_sphinx,0.590389016,43.7,25.8,-0.228861731,0.228861731,dwarfism,LC,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Cynopterus_nusatenggara,Bali: Lombok: Moyo: Sumbawa: Sangeang: Komodo: Flores: Sumba: Adonara: Lembata: Pantar: Alor: Timor: Wetar,Cynopterus_sphinx,0.832951945,43.7,36.4,-0.079380053,0.079380053,dwarfism,LC,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Cynopterus_titthaecheilus,,,1.0645,60.4,64.2958,0.027145666,0.027145666,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Diprotodontia,Dactylonax_palpator,New Guinea,,,,398,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Dactylopsila_megalura,New Guinea,,,,387.5,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Dactylopsila_tatei,Fergusson,Dactylopsila_trivirgata,0.609431681,413.5,252,-0.215074973,0.215074973,dwarfism,EN,Faurby et al. 2020,Wilson & Reeder 2005,yes,
+Rodentia,Dasyprocta_coibae,,,0.65,3500,2275,-0.187086643,0.187086643,dwarfism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Dasyprocta_punctata,,,0.595,3500,2082.5,-0.225483034,0.225483034,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Dasyprocta_ruatanica,Roatán ,Dasyprocta_punctata,0.620523364,2675,1659.9,-0.207241861,0.207241861,dwarfism,EN,Faurby et al. 2020,Lee et al. 2006,yes,
+Chiroptera,Lasiurus_insularis,Cuba,Dasypterus_intermedius,1.373913043,23,31.6,0.137959247,0.137959247,gigantism,VU,Faurby et al. 2020,Baird et al. 2017,yes,
+Dasyuromorphia,Dasyurus_albopunctatus,New Guinea,,,,637,,,,NT,Faurby et al. 2020,,yes,
+Dasyuromorphia,Dasyurus_spartacus,New Guinea,,,,1212.6,,,,NT,Faurby et al. 2020,,yes,
+Primates,Daubentonia_madagascariensis,Madagascar,,,,2500,,,,EN,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_dorianus,New Guinea,,,,10068.3,,,,VU,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_goodfellowi,New Guinea,,,,8025,,,,EN,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_inustus,New Guinea,,,,13031.3,,,,VU,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_matschiei,New Guinea,,,,6960,,,,EN,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_mayri,New Guinea,,,,9250,,,,CR,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_mbaiso,New Guinea,,,,8750,,,,EN,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_notatus,New Guinea,,,,6250,,,,EN,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_pulcherrimus,New Guinea,,,,6536.8,,,,CR,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_scottae,New Guinea,,,,10375,,,,CR,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_spadix,New Guinea,,,,9100,,,,VU,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_stellarum,New Guinea,,,,8666.7,,,,VU,Faurby et al. 2020,,yes,
+Diprotodontia,Dendrolagus_ursinus,New Guinea,,,,13250,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Dermanura_watsoni,,,1.19,10.9,13,0.075546961,0.075546961,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Desmalopex_leucopterus,Luzon: Catanduanes: Dinagat,,,,380,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Chiroptera,Desmalopex_microleucopterus,Mindoro,,,,143.3,,,,EN,Esselstyn et al. 2008,,yes,
+Rodentia,Dicrostonyx_groenlandicus,,,1.24,58.7,72.788,0.093421685,0.093421685,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Didelphimorphia,Didelphis_marsupialis,,,0.86,4500,3870,-0.065501549,0.065501549,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Didelphimorphia,Didelphis_virginiana,,,1.242,2470,3067.74,0.094121596,0.094121596,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Diplogale_hosei,Borneo,Hemigalus_derbyanus,0.559741658,2322.5,1300,-0.25201237,0.25201237,dwarfism,VU,Faurby et al. 2020,Wilting & Fickel 2012,yes,
+Rodentia,Diplothrix_legata,Okinawa: Kume: Ie,,,,581,,,,EN,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Dipodomys_merriami,,,0.895,45,40.275,-0.048176965,0.048176965,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Distoechurus_pennatus,New Guinea,,,,44.1,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Dobsonia_anderseni,Bismarck Archipelago: Admiralty Islands,,,,204.1,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Dobsonia_beauforti,Batanta: Gebe: Salawati: Gag: Waigeo: Biak: Supiori ,,,,159,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Dobsonia_chapmani,,,1.265126228,188.7,238.7293191,0.102133859,0.102133859,gigantism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Dobsonia_crenulata,,,1.287852508,188.7,243.0177682,0.109866128,0.109866128,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Dobsonia_emersa,Numfoor: Biak: Supiori: Owi,,,,195.5,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Dobsonia_exoleta,,,0.448114713,381,170.7317055,-0.348610797,0.348610797,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Dobsonia_inermis,,,0.785683471,188.7,148.258471,-0.104752383,0.104752383,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Dobsonia_minor,New Guinea,,,,78.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Dobsonia_moluccensis,,,0.621858056,381,236.9279194,-0.206308735,0.206308735,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Dobsonia_pannietensis,Fergusson: Goodenough: Normanby: Misima: Panaeati: Rossel: Sudest: Kiriwina: Woodlark,,,,267.7,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Dobsonia_peronii,,,0.394288004,381,150.2237296,-0.404186436,0.404186436,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Dobsonia_praedatrix,Bismarck Archipelago,,,,188.7,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Dobsonia_viridis,,,0.949376952,188.7,179.1474308,-0.022561316,0.022561316,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Diprotodontia,Dorcopsis_atrata,Goodenough,Dorcopsis_luctuosa,0.931438917,6352,5916.5,-0.030845621,0.030845621,dwarfism,CR,Faurby et al. 2020,Van Deusen 1957,yes,
+Diprotodontia,Dorcopsis_hageni,New Guinea,,,,5500,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Dorcopsis_luctuosa,New Guinea,,,,6352,,,,VU,Faurby et al. 2020,,yes,
+Diprotodontia,Dorcopsis_muelleri,New Guinea: Misool: Salawati: Yapen,,,,5500,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Dorcopsulus_macleayi,New Guinea,,,,2988,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Dorcopsulus_vanheurni,New Guinea,,,,1785.8,,,,NT,Faurby et al. 2020,,yes,
+Rodentia,Dremomys_everetti,Borneo,Sundasciurus_hippurus,0.363032242,406.3,147.5,-0.440054802,0.440054802,dwarfism,LC,Faurby et al. 2020,Hawkins et al. 2016,yes,
+Microbiotheria,Dromiciops_gliroides,,,0.91393022,30.59736842,27.96385965,-0.039086962,0.039086962,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Dyacopterus_brooksi,Sumatra: Borneo,,,,88.5,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Dyacopterus_spadiceus,,,1.026010274,77.62471166,79.64375167,0.01115171,0.01115171,gigantism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Dymecodon_pilirostris,Honshu: Shikoku: Kyushu,,,,16.2,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Echinops_telfairi,Madagascar,,,,180,,,,LC,Faurby et al. 2020,,yes,
+Eulipotyphla,Echinosorex_gymnura,,,1.024505598,818,838.045579,0.010514336,0.010514336,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Echiothrix_centrosa,Sulawesi,,,,260.9,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Echiothrix_leucura,Sulawesi,,,,267.3,,,,EN,Faurby et al. 2020,,yes,
+Peramelemorphia,Echymipera_clara,New Guinea,,,,1236.5,,,,LC,Faurby et al. 2020,,yes,
+Peramelemorphia,Echymipera_davidi,Kiriwina,Echymipera_clara,0.768297614,1236.5,950,-0.114470515,0.114470515,dwarfism,EN,Faurby et al. 2020,Upham et al. 2019,yes,
+Peramelemorphia,Echymipera_kalubu,New Guinea: Bismarck Archipelago: Misool: Salawati: Batanta: Waisai: Waigeo: Gam: Yapen: Biak: Supiori,,,,782.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Eidolon_dupreanum,Madagascar,,,,283.8,,,,VU,Faurby et al. 2020,,yes,
+Carnivora,Eira_barbara,,,0.836,4140,3461.04,-0.077793723,0.077793723,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Proboscidea,Elephas_maximus,,,0.682563408,2691534.804,1837143.169,-0.165856998,0.165856998,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Eliurus_carletoni,Madagascar,,,,80.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_danieli,Madagascar,,,,95.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_grandidieri,Madagascar,,,,51,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_majori,Madagascar,,,,100,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_minor,Madagascar,,,,35,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_myoxinus,Madagascar,,,,62.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_penicillatus,Madagascar,,,,100,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_petteri,Madagascar,,,,75,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_tanala,Madagascar,,,,82.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Eliurus_webbi,Madagascar,,,,72.5,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Emballonura_alecto,Borneo: Philippines: Sulawesi: Sula Islands: Seram: Tanimbar Islands: Aru Islands,Emballonura_monticola,0.929824561,5.7,5.3,-0.031598986,0.031598986,dwarfism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Emballonura_beccarii,Kai: Yapen: Biak: New Guinea: New Ireland: Bougainville: Woodlark: Kiriwina: Alcester,,,,4.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Emballonura_dianae,New Guinea: Solomon Islands,,,,8,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Emballonura_furax,New Guinea,,,,11.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Emballonura_monticola,,,1.04,5.35,5.564,0.017033339,0.017033339,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Emballonura_raffrayana,Halmahera: Ambon: Seram: Gebe: Yapen: Biak: Numfor: Supiori: New Guinea: New Ireland: Lihir: Tabar: Bougainville: Buka: Guadalcanal: Malaita: New Georgia: Santa Isabel,,,,5.6,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Emballonura_semicaudata,Samoa Islands: American Samoa Islands: Fiji Islands: Palau: Tonga Islands: Aguijan: Chuuk Islands: Pohnpei: Palau,Emballonura_alecto,1.188679245,5.3,6.3,0.07506468,0.07506468,gigantism,EN,Faurby et al. 2020,Ruedi et al. 2012,yes,
+Chiroptera,Emballonura_serii,Manus: Los Negros: Mussau: New Ireland: Yapen,Emballonura_beccarii,2.095238095,4.2,8.8,0.321233382,0.321233382,gigantism,VU,Faurby et al. 2020,Ruedi et al. 2012,yes,
+Chiroptera,Eonycteris_robusta,Biliran: Bohol: Catanduanes: Leyte: Lubang: Luzon: Marinduque: Maripipi: Mindanao: Negros: Polillo: Samar: Siargo,Eonycteris_spelaea,1.333907057,58.1,77.5,0.12512557,0.12512557,gigantism,NT,Faurby et al. 2020,Almeida et al. 2020,yes,
+Chiroptera,Eonycteris_spelaea,,,0.9775,58.7,57.37925,-0.009883234,0.009883234,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Episoriculus_fumidus,Taiwan,Chodsigoa_parca,0.603603604,11.1,6.7,-0.219248176,0.219248176,dwarfism,LC,Faurby et al. 2020,He et al. 2010,yes,
+Chiroptera,Eptesicus_guadeloupensis,Basse-Terre,Eptesicus_fuscus,0.948571429,17.5,16.6,-0.022929961,0.022929961,dwarfism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Eptesicus_japonensis,Honshu,Eptesicus_nilssonii,0.971153846,10.4,10.1,-0.012711966,0.012711966,dwarfism,VU,Faurby et al. 2020,Rydell 1993,yes,
+Chiroptera,Eptesicus_serotinus,,,1.0505,23.1,24.26655,0.021396057,0.021396057,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Erinaceus_europaeus,,,0.895,750,671.25,-0.048176965,0.048176965,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Erinaceus_roumanicus,,,0.789272901,800,652,-0.102772808,0.102772808,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Eropeplus_canus,Sulawesi,,,,235,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Erophylla_bombifrons,Hispaniola: Puerto Rico,,,,14.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Erophylla_sezekorni,Cuba: Jamaica: Bahamas Islands: Cayman Islands,,,,15.8,,,,LC,Faurby et al. 2020,,yes,
+Primates,Eulemur_albifrons,Madagascar,,,,2300,,,,VU,Faurby et al. 2020,,yes,
+Primates,Eulemur_cinereiceps,Madagascar,,,,1920,,,,CR,Faurby et al. 2020,,yes,
+Primates,Eulemur_collaris,Madagascar,,,,2375,,,,EN,Faurby et al. 2020,,yes,
+Primates,Eulemur_coronatus,Madagascar,,,,1650,,,,EN,Faurby et al. 2020,,yes,
+Primates,Eulemur_flavifrons,Madagascar,,,,1850,,,,CR,Faurby et al. 2020,,yes,
+Primates,Eulemur_fulvus,,,1.032,2390,2466.48,0.013679697,0.013679697,gigantism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Eulemur_macaco,Madagascar,,,,1900,,,,EN,Faurby et al. 2020,,yes,
+Primates,Eulemur_mongoz,,,1.046,1770,1851.42,0.019531685,0.019531685,gigantism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Eulemur_rubriventer,Madagascar,,,,2000,,,,VU,Faurby et al. 2020,,yes,
+Primates,Eulemur_rufifrons,Madagascar,,,,1820,,,,VU,Faurby et al. 2020,,yes,
+Primates,Eulemur_rufus,Madagascar,,,,2375,,,,VU,Faurby et al. 2020,,yes,
+Primates,Eulemur_sanfordi,Madagascar,,,,2250,,,,EN,Faurby et al. 2020,,yes,
+Primates,Euoticus_pallidus_pallidus,,,1.241787122,253.6666667,315,0.094047152,0.094047152,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Eupleres_goudotii,Madagascar,,,,3000,,,,VU,Faurby et al. 2020,,yes,
+Carnivora,Eupleres_major,Madagascar,,,,2712.1,,,,EN,Faurby et al. 2020,,yes,
+Eulipotyphla,Euroscaptor_mizura,Honshu,,,,35.5,,,,LC,Faurby et al. 2020,Kawada 2016,yes,
+Rodentia,Exilisciurus_concinnus,,,1.594710672,15,23.92066008,0.202681901,0.202681901,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Exilisciurus_whiteheadi,Borneo,,,,20,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Felis_silvestris,,,0.926859375,5011.872336,4645.300861,-0.032986153,0.032986153,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Fossa_fossana,Madagascar,,,,1500,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Funambulus_layardi,Sri Lanka,Funambulus_sublineatus,2.369534556,70.9,168,0.374663047,0.374663047,gigantism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Primates,Galagoides_demidovii,,,1.279813411,67,85.74749854,0.107146657,0.107146657,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Dermoptera,Galeopterus_variegatus,,,0.8415,1110,934.065,-0.07494588,0.07494588,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Herpestes_sanguineus,,,0.715,517,369.655,-0.145693958,0.145693958,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Galidia_elegans,Madagascar,,,,800,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Galidictis_fasciata,Madagascar,,,,550,,,,VU,Faurby et al. 2020,,yes,
+Carnivora,Galidictis_grandidieri,Madagascar,,,,1400,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Geocapromys_brownii,Jamaica,mean_body_mass_of_South_American_echimyids,4.6875,320,1500,0.670941281,0.670941281,gigantism,EN,Faurby et al. 2020,Woods et al. 2021,yes,
+Rodentia,Geocapromys_ingrahami,East Plana Keys,mean_body_mass_of_South_American_echimyids,2.22,320,710,0.346352974,0.346352974,gigantism,VU,Turvey et al. 2021,Woods et al. 2021,yes,
+Afrosoricida,Geogale_aurita,Madagascar,,,,7,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Glaucomys_sabrinus,,,0.98,100,98,-0.008773924,0.008773924,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Glirulus_japonicus,Honshu: Shikoku: Kyushu: Dogo,,,,27,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Gulo_gulo,,,0.967,12800,12377.6,-0.014573526,0.014573526,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Gymnuromys_roberti,Madagascar,,,,97.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Haeromys_minahassae,Sulawesi,,,,14.7,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Haeromys_pusillus,Borneo: Palawan: Calawit,,,,10.4,,,,VU,Faurby et al. 2020,,yes,
+Primates,Hapalemur_alaotrensis,Madagascar,,,,1240,,,,CR,Faurby et al. 2020,,yes,
+Primates,Hapalemur_aureus,Madagascar,,,,1450,,,,CR,Faurby et al. 2020,,yes,
+Primates,Hapalemur_griseus,Madagascar,,,,900,,,,VU,Faurby et al. 2020,,yes,
+Primates,Hapalemur_meridionalis,Madagascar,,,,900,,,,VU,Faurby et al. 2020,,yes,
+Primates,Hapalemur_occidentalis,Madagascar,,,,850,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Haplonycteris_fischeri,Biliran: Bohol: Catanduanes: Cebu: Dinagat: Leyte: Luzon: Marinduque: Mindanao: Mindoro: Negros: Panay: Palaui: Samar,,,,20,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Chiroptera,Harpiola_isodon,Taiwan,Harpiola_grisea,1.142857143,5.6,6.4,0.057991947,0.057991947,gigantism,LC,Faurby et al. 2020,Kuo et al. 2006,yes,
+Chiroptera,Harpyionycteris_celebensis,Sulawesi: Buton,,,,104,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Harpyionycteris_whiteheadi,Biliran: Camiguin: Cebu: Leyte: Luzon: Maripipi: Masbate: Mindanao: Mindoro: Negros: Samar,Harpyionycteris_celebensis,1.153846154,104,120,0.062147907,0.062147907,gigantism,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,Giannini et al. 2006,yes,
+Carnivora,Helarctos_malayanus,,,0.54887543,45708.81896,25088.44767,-0.26052621,0.26052621,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Afrosoricida,Hemicentetes_nigriceps,Madagascar,,,,113,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Hemicentetes_semispinosus,Madagascar,,,,137.8,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Hemigalus_derbyanus,,,0.862252746,1270,1095.060988,-0.064365414,0.064365414,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Hipposideros_calcaratus,Yapen: New Guinea: Bismarck Archipelago: Trobriand Islands: D'Entrecasteaux: Louisade Archipelago, Bougainville: Solomon Islands,,,,11.4,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_cervinus,,,1.019,8.47,8.63093,0.008174184,0.008174184,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Hipposideros_commersoni,Madagascar,Hipposideros_vittatus,0.774824081,127.9,99.1,-0.11079689,0.11079689,dwarfism,NT,Faurby et al. 2020,Foley et al. 2017,yes,
+Chiroptera,Hipposideros_corynophyllus,New Guinea,,,,14.5,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_coxi,Borneo,,,,9.3,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_demissus,Makira,Hipposideros_diadema,0.568493151,43.8,24.9,-0.245274763,0.245274763,dwarfism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Hipposideros_diadema,,,1.068493151,36.5,39,0.028771743,0.028771743,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Hipposideros_edwardshilli,New Guinea,,,,11.3,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_galeritus,,,0.972223161,6.166074608,5.994800544,-0.012234037,0.012234037,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Hipposideros_larvatus,,,1.016,19.9,20.2184,0.006893708,0.006893708,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Hipposideros_madurae,Java: Madura,,,,13.9,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_maggietaylorae,New Guinea: Bismarck Archipelago,,,,18.5,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_muscinus,New Guinea,,,,8.6,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_obscurus,Bohol: Catanduanes: Cebu: Dinagat: Luzon: Leyte: Mindoro: Maripipi: Mindanao: Mindoro: Negros: Pollilo: Siquijor,Hipposideros_boeadii,1.233766234,7.7,9.5,0.09123288,0.09123288,gigantism,LC,Faurby et al. 2020,Murray et al. 2012,yes,
+Chiroptera,Hipposideros_papua,New Guinea: Halmahera: Bacan: Gebe: Biak: Supiori: Numfoor,,,,10.1,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_pelingensis,Sulawesi,,,,56.2,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_pomona,,,0.940751298,12.15435434,11.43422462,-0.026525174,0.026525174,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Hipposideros_pygmaeus,Mindanao: Bohol: Cebu: Luzon: Marinduque: Mindoro: Negros: Panay: Pollilo: Samar: Siquijor ,Hipposideros_bicolor,0.460526316,7.6,3.5,-0.336745548,0.336745548,dwarfism,LC,Faurby et al. 2020,Heaney et al. 2016,yes,
+Chiroptera,Hipposideros_sorenseni,Java,,,,20.2,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_sumbae,Sumba: Rote: Sumbawa: Flores: Semau: Savu ,,,,13.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_thomensis,Sao Tome,,,,67,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Hipposideros_wollastoni,New Guinea,,,,6.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Hybomys_basilii,Bioko,Hybomys_univittatus,1.121848739,47.6,53.4,0.049934304,0.049934304,gigantism,EN,Faurby et al. 2020,Missoup et al. 2018,yes,
+Primates,Hylobates_albibarbis,,,1.131116139,5623.413252,6360.733485,0.053507199,0.053507199,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Hylobates_klossii,,,0.876744672,6653.4,5833.333,-0.057126865,0.057126865,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Hylobates_lar,,,1.042,5630,5866.46,0.017867719,0.017867719,gigantism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Hylobates_moloch,Java,Hylobates_agilis,1.150442478,5650,6500,0.060864909,0.060864909,gigantism,EN,Faurby et al. 2020,Whittaker et al. 2007,yes,
+Primates,Hylobates_muelleri,Borneo,Hylobates_lar,1.226492232,4892,6000,0.088664802,0.088664802,gigantism,EN,Faurby et al. 2020,Whittaker et al. 2007,yes,
+Eulipotyphla,Hylomys_parvus,Sumatra,Hylomys_suillus,0.582066869,65.8,38.3,-0.23502712,0.23502712,dwarfism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Eulipotyphla,Hylomys_suillus,,,0.937653529,64.5654229,60.53999663,-0.027957608,0.027957608,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Hylopetes_nigripes,Palawan: Bancalan ,Hylopetes_alboniger,2.090837901,255.4,534,0.320320364,0.320320364,gigantism,NT,Faurby et al. 2020,Corbet & Hill 1992,yes,
+Rodentia,Hylopetes_sipora,Sipura,Hylopetes_platyurus,1.506756757,59.2,89.2,0.178043148,0.178043148,gigantism,EN,Faurby et al. 2020,Upham et al. 2019,yes,
+Rodentia,Hylopetes_spadiceus,,,1.111,118,131.098,0.045714059,0.045714059,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Hyomys_goliath,New Guinea,,,,817.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Hyosciurus_heinrichi,Sulawesi,,,,296,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Hyosciurus_ileile,Sulawesi,,,,315,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Hypogeomys_antimena,Madagascar,,,,1250,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pipistrellus_savii,,,0.894,6.27,5.60538,-0.048662481,0.048662481,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Hystrix_brachyura,,,0.928,8000,7424,-0.032452024,0.032452024,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Hystrix_crassispinis,Borneo,Hystrix_brachyura,0.644378698,8450,5445,-0.190858825,0.190858825,dwarfism,LC,Faurby et al. 2020,Van Weers 2005,yes,
+Rodentia,Hystrix_javanica,Java: Bali: Sumbawa: Flores: Lombok: Madura: Tonahdjampea,Hystrix_brachyura,2.723597633,8450,23014.4,0.435142948,0.435142948,gigantism,LC,Faurby et al. 2020,Van Weers 2005,yes,
+Rodentia,Hystrix_pumila,Palawan: Busuanga,Hystrix_brachyura,0.324260355,8450,2740,-0.489106146,0.489106146,dwarfism,VU,Faurby et al. 2020,Van Weers 2005,yes,
+Rodentia,Hystrix_sumatrae,Sumatra,Hystrix_brachyura,0.385798817,8450,3260,-0.413639109,0.413639109,dwarfism,LC,Faurby et al. 2020,Van Weers 2005,yes,
+Primates,Indri_indri,Madagascar,,,,8000,,,,CR,Faurby et al. 2020,,yes,
+Rodentia,Iomys_horsfieldii,,,1.032812204,120.2264435,124.171338,0.014021361,0.014021361,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Iomys_sipora,Sipura: North Pagai,Iomys_horsfieldii,1.032542373,147.5,152.3,0.013907883,0.013907883,gigantism,EN,Faurby et al. 2020,Chasen 1940,yes,
+Peramelemorphia,Isoodon_auratus,,,0.554618897,569.4,315.8,-0.256005337,0.256005337,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Peramelemorphia,Isoodon_obesulus,,,1.355198009,736.9501934,970.872261,0.132002755,0.132002755,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Kadarsanomys_sodyi,Java,,,,199.5,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Kerivoula_muscina,New Guinea,,,,5.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Komodomys_rintjanus,Rintja: Padar: Lomblen: Pantar,,,,150,,,,VU,Veatch et al. 2019,,yes,
+Rodentia,Lariscus_hosei,Borneo,Lariscus_insignis,0.975428571,175,170.7,-0.010804528,0.010804528,dwarfism,LC,Faurby et al. 2020,Chasen 1940,yes,
+Rodentia,Lariscus_insignis,,,0.84811242,199.5262315,169.2206751,-0.071546577,0.071546577,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Lariscus_obscurus,Siberut: Sipora: North: South Pagai,Lariscus_insignis,1.076,175,188.3,0.031812271,0.031812271,gigantism,NT,Faurby et al. 2020,Chasen 1940,yes,
+Chiroptera,Lasiurus_degelidus,Jamaica,Lasiurus_seminolus,1.292929293,9.9,12.8,0.111574775,0.111574775,gigantism,VU,Faurby et al. 2020,Baker et al. 1988,yes,
+Chiroptera,Lasiurus_minor,Bahamas Islands: Hispaniola: Puerto Rico,Lasiurus_seminolus,0.949494949,9.9,9.4,-0.022507341,0.022507341,dwarfism,VU,Faurby et al. 2020,Morales & Bickham 1995,yes,
+Chiroptera,Lasiurus_pfeifferi,Cuba,Lasiurus_seminolus,1.121212121,9.9,11.1,0.049687784,0.049687784,gigantism,NT,Faurby et al. 2020,Baird et al. 2017,yes,
+Rodentia,Lemmus_trimucronatus,,,1.08,75,81,0.033423755,0.033423755,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Lemur_catta,Madagascar,,,,2900,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Lenomys_meyeri,Sulawesi,,,,480,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Leopardus_guigna,,,0.969,2500,2422.5,-0.013676223,0.013676223,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Leopoldamys_sabanus,,,0.9375,351,329.0625,-0.028028724,0.028028724,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Leopoldamys_siporanus,North Pagai: South Pagai: Sipora: Siberut,Leopoldamys_sabanus,1.702630801,338.3,576,0.231120486,0.231120486,gigantism,VU,Faurby et al. 2020,Balakirev et al. 2013,yes,
+Primates,Lepilemur_aeeclis,Madagascar,,,,867.5,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_ahmansonorum,Madagascar,,,,610,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_ankaranensis,Madagascar,,,,750,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_betsileo,Madagascar,,,,1150,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_dorsalis,Madagascar,,,,855,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_edwardsi,Madagascar,,,,877.5,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_fleuretae,Madagascar,,,,980,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_grewcockorum,Madagascar,,,,780,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_hollandorum,Madagascar,,,,1000,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_hubbardorum,Madagascar,,,,990,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_jamesorum,Madagascar,,,,780,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_leucopus,Madagascar,,,,525,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_microdon,Madagascar,,,,900,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_milanoii,Madagascar,,,,720,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_mittermeieri,Madagascar,,,,822.3,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_mustelinus,Madagascar,,,,1000,,,,VU,Faurby et al. 2020,,yes,
+Primates,Lepilemur_otto,Madagascar,,,,938,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_petteri,Madagascar,,,,630,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_randrianasoloi,Madagascar,,,,780,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_ruficaudatus,Madagascar,,,,750,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_sahamalazensis,Madagascar,,,,789.5,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_scottorum,Madagascar,,,,880,,,,EN,Faurby et al. 2020,,yes,
+Primates,Lepilemur_seali,Madagascar,,,,950,,,,VU,Faurby et al. 2020,,yes,
+Primates,Lepilemur_septentrionalis,Madagascar,,,,750,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_tymerlachsoni,Madagascar,,,,880,,,,CR,Faurby et al. 2020,,yes,
+Primates,Lepilemur_wrightae,Madagascar,,,,950,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Leporillus_conditor,,,1.498,329,492.842,0.175511813,0.175511813,gigantism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Leptomys_elegans,New Guinea,,,,84.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Leptomys_ernstmayri,New Guinea,,,,42.9,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Leptomys_signatus,New Guinea,,,,54.4,,,,LC,Faurby et al. 2020,,yes,
+Lagomorpha,Lepus_arcticus,,,0.98,4300,4214,-0.008773924,0.008773924,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Lagomorpha,Lepus_brachyurus,Honshu: Shikoku: Kyushu: Sado: Dogo: Nishinoshima: Awaji: Shodo: Fukue: Nakadori: Shimojima: Shimokoshiki,,,,2350,,,,LC,Faurby et al. 2020,,yes,
+Lagomorpha,Lepus_californicus,,,1.15,2300,2645,0.06069784,0.06069784,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Lagomorpha,Lepus_corsicanus,,,0.74,4200,3108,-0.13076828,0.13076828,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Lagomorpha,Lepus_europaeus,,,0.8,4200,3360,-0.096910013,0.096910013,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Lagomorpha,Lepus_hainanus,Hainan,Lepus_peguensis,0.950118765,2105,2000,-0.022222105,0.022222105,dwarfism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Lagomorpha,Lepus_insularis,Espiritu Santo,Lepus_californicus,1.093250774,2422.5,2648.4,0.038719793,0.038719793,gigantism,NT,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Lagomorpha,Lepus_sinensis,,,0.898,1610,1445.78,-0.046723663,0.046723663,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Afrosoricida,Limnogale_mergulus,Madagascar,,,,78.6,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Limnomys_bryophilus,Mindanao,,,,64.1,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Limnomys_sibuanus,Mindanao,,,,60,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Lontra_canadensis,,,1.0545,8090,8530.905,0.023046584,0.023046584,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Lontra_felina,,,0.833,8090,6738.97,-0.079354999,0.079354999,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Lorentzimys_nouhuysi,New Guinea,,,,14.2,,,,LC,Faurby et al. 2020,,yes,
+Primates,Loris_lydekkerianus,,,0.935963168,265,248.0302394,-0.028741241,0.028741241,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Loris_tardigradus,,,0.584042553,235,137.25,-0.233555509,0.233555509,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Lutra_lutra,,,0.916913601,8860,8123.854504,-0.037671585,0.037671585,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Lutra_sumatrana,,,1.095239663,5495.408739,6018.789613,0.039509163,0.039509163,gigantism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Lutrogale_perspicillata,,,1.083515089,9000,9751.635803,0.034834964,0.034834964,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Pseudalopex_fulvipes,,,0.88,3500,3080,-0.055517328,0.055517328,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Lynx_canadensis,,,0.968344141,8511.380382,8331.246439,-0.013970271,0.013970271,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Macaca_cyclopis,,,1.080463766,8500,9183.942012,0.033610207,0.033610207,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Macaca_fascicularis,,,0.891916844,4590,4093.898313,-0.049675634,0.049675634,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Macaca_fascicularis_philippensis,,,1.031891755,4590,4736.383155,0.013634142,0.013634142,gigantism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Macaca_fuscata,,,0.889443909,9675,9145.578148,-0.050881434,0.050881434,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Macaca_hecki,Sulawesi,Macaca_nemestrina,1.429365521,6296.5,9000,0.155143302,0.155143302,gigantism,VU,Faurby et al. 2020,Evans et al. 1999,yes,
+Primates,Macaca_maura,Sulawesi,Macaca_nemestrina,1.159374256,6296.5,7300,0.064223652,0.064223652,gigantism,EN,Faurby et al. 2020,Evans et al. 1999,yes,
+Primates,Macaca_mulatta,,,0.779,6450,5024.55,-0.108462542,0.108462542,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Macaca_nemestrina,,,0.911951462,7870,7177.058007,-0.040028276,0.040028276,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Macaca_nigra,,,0.713379109,9900,7062.453174,-0.146679613,0.146679613,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Macaca_nigrescens,Sulawesi,Macaca_nemestrina,1.508774716,6296.5,9500,0.178624398,0.178624398,gigantism,VU,Faurby et al. 2020,Evans et al. 1999,yes,
+Primates,Macaca_ochreata,,,1.089609675,10000,10896.09675,0.037270951,0.037270951,gigantism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Macaca_pagensis,,,0.651388614,7500,4885.414608,-0.186159837,0.186159837,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Macaca_siberu,Siberut,Macaca_nemestrina,0.718923211,6296.5,4526.7,-0.143317494,0.143317494,dwarfism,EN,Faurby et al. 2020,Kitchener & Groves 2002,yes,
+Primates,Macaca_sinica,,,0.821920055,6250,5137.000342,-0.085170423,0.085170423,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Macaca_tonkeana,Sulawesi,Macaca_nemestrina,1.429365521,6296.5,9000,0.155143302,0.155143302,gigantism,VU,Faurby et al. 2020,Evans et al. 1999,yes,
+Carnivora,Macrogalidia_musschenbroekii,Sulawesi,,,,4000,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Macroglossus_minimus,,,0.819921462,16.3,16.42087558,-0.086227745,0.086227745,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Macropus_fuliginosus,,,0.856866964,25667.82,21993.907,-0.067086601,0.067086601,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Macropus_giganteus,,,1.188426656,23251.62,27632.845,0.074972384,0.074972384,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Macrotarsomys_bastardi,Madagascar,,,,29.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Macrotarsomys_ingens,Madagascar,,,,63.5,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Macruromys_major,New Guinea,,,,350,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Makalata_didelphoides,,,0.839,400,335.6,-0.076238039,0.076238039,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Mallomys_aroaensis,New Guinea,,,,1664,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Mallomys_gunung,New Guinea,,,,2000,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Mallomys_istapantap,New Guinea,,,,1950,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Mallomys_rothschildi,New Guinea,,,,1157.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Mammelomys_lanosus,New Guinea,,,,117.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Mammelomys_rattoides,New Guinea,,,,209.5,,,,LC,Faurby et al. 2020,,yes,
+Primates,Mandrillus_leucophaeus_poensis,,,0.588764045,22250,13100,-0.23005872,0.23005872,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Pholidota,Manis_culionensis,Palawan: Calamian Islands: Batas,Manis_javanica,1.019417476,5150,5250,0.008352074,0.008352074,gigantism,CR,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Pholidota,Manis_javanica,,,0.727214349,7500,5454.107621,-0.13833756,0.13833756,dwarfism,CR,Island populations dataset in this study,,no,Median values from population dataset
+Pholidota,Manis_pentadactyla,,,1.384,2350,3252.4,0.14113609,0.14113609,gigantism,CR,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Margaretamys_elegans,Sulawesi,,,,121,,,,NT,Faurby et al. 2020,,yes,
+Didelphimorphia,Marmosa_murina,,,1.45,85,123.25,0.161368002,0.161368002,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Didelphimorphia,Marmosa_robinsoni,,,1.3,61.7,80.21,0.113943352,0.113943352,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Marmota_caligata,,,0.92,5900,5428,-0.036212173,0.036212173,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Marmota_vancouverensis,,,0.62,5900,3658,-0.207608311,0.207608311,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Martes_americana,,,1.004,882,896.994,0.001733713,0.001733713,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Martes_flavigula,,,0.810041248,2511.886432,2034.731621,-0.091492866,0.091492866,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Martes_foina,,,1.012,1670,1690.04,0.005180513,0.005180513,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Martes_martes,,,0.988,1300,1284.4,-0.005243055,0.005243055,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Martes_melampus,,,1,1000,1000,0,0,no_change,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Mastomys_natalensis,,,0.8725,62.1,54.18225,-0.059234564,0.059234564,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Maxomys_alticola,Borneo,,,,90,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Maxomys_bartelsii,Java,Maxomys_surifer,0.678191489,150.4,102,-0.168647664,0.168647664,dwarfism,LC,Faurby et al. 2020,Achmadi et al. 2013,yes,
+Rodentia,Maxomys_hellwaldii,Sulawesi,Maxomys_surifer,1.349734043,150.4,203,0.130248202,0.130248202,gigantism,LC,Faurby et al. 2020,Achmadi et al. 2013,yes,
+Rodentia,Maxomys_inflatus,Sumatra,,,,152,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Maxomys_musschenbroekii,Sulawesi,Maxomys_whiteheadi,1.514285714,56,84.8,0.180207825,0.180207825,gigantism,LC,Faurby et al. 2020,Achmadi et al. 2013,yes,
+Rodentia,Maxomys_pagensis,South Pagai: North Pagai: Sipora: Siberut,Maxomys_rajah,1.30405855,150.3,196,0.115297091,0.115297091,gigantism,VU,Faurby et al. 2020,Achmadi et al. 2013,yes,
+Rodentia,Maxomys_panglima,Balabac: Palawan: Busuanga: Calauit: Culion,Maxomys_surifer,1.256648936,150.4,189,0.099213968,0.099213968,gigantism,LC,Faurby et al. 2020,Achmadi et al. 2013,yes,
+Rodentia,Maxomys_rajah,,,1.101199578,150,165.1799367,0.041866036,0.041866036,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Maxomys_surifer,,,1.011,150,151.65,0.004751156,0.004751156,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Maxomys_wattsi,Sulawesi,,,,147,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Maxomys_whiteheadi,,,1.148,59.2,67.9616,0.059941888,0.059941888,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Mazama_gouazoubira,,,0.87,19000,16530,-0.060480747,0.060480747,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Megaderma_spasma,,,0.9225,24.7,22.78575,-0.035033625,0.035033625,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Megaerops_kusnotoi,Java,Megaerops_ecaudatus,0.813765182,24.7,20.1,-0.089500896,0.089500896,dwarfism,VU,Faurby et al. 2020,Almeida et al. 2009,yes,
+Carnivora,Meles_anakuma,,,0.92,11481.53621,10563.01332,-0.036212173,0.036212173,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Meles_meles,,,0.935441352,11481.53621,10740.30376,-0.028983436,0.028983436,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Melogale_everetti,,,0.718696538,1995.262315,1433.988118,-0.143454447,0.143454447,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Melogale_moschata,,,0.938683882,812.8305162,762.9909039,-0.02748064,0.02748064,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Melogale_orientalis,Java: Bali,Melogale_personata,1.174743025,1702.5,2000,0.069942875,0.069942875,gigantism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Rodentia,Melomys_aerosus,Seram,Melomys_cervinipes,1.247435897,78,97.3,0.096018238,0.096018238,gigantism,EN,Faurby et al. 2020,Menzies 1996,yes,
+Rodentia,Melomys_bannisteri,Kai Besar,Melomys_cervinipes,0.676923077,78,52.8,-0.16946068,0.16946068,dwarfism,EN,Faurby et al. 2020,Fabre et al. 2018,yes,
+Rodentia,Melomys_caurinus,Karakelang: Salebabu,Melomys_leucogaster,1.364976959,108.5,148.1,0.13512532,0.13512532,gigantism,EN,Faurby et al. 2020,Fabre et al. 2018,yes,
+Rodentia,Melomys_dollmani,New Guinea,,,,77.7,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Melomys_fraterculus,Seram,Melomys_cervinipes,0.612820513,78,47.8,-0.212666706,0.212666706,dwarfism,EN,Faurby et al. 2020,Fabre et al. 2018,yes,
+Rodentia,Melomys_frigicola,New Guinea,,,,71,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Melomys_leucogaster,New Guinea,,,,108.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Melomys_lutillus,New Guinea,,,,37.4,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Melomys_matambuai,Manus,Melomys_rufescens,2.412645591,60.1,145,0.38249353,0.38249353,gigantism,EN,Faurby et al. 2020,Menzies 1996,yes,
+Rodentia,Melomys_obiensis,Obi: Bisa,Melomys_cervinipes,0.91025641,78,71,-0.040836254,0.040836254,dwarfism,LC,Faurby et al. 2020,Fabre et al. 2018,yes,
+Rodentia,Melomys_rufescens,New Guinea: Salawati: Misool: New Britain: New Ireland,,,,60.1,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Melomys_talaudium,Karakelang: Salebabu,Melomys_leucogaster,1.318894009,108.5,143.1,0.120209896,0.120209896,gigantism,EN,Faurby et al. 2020,Fabre et al. 2018,yes,
+Chiroptera,Melonycteris_fardoulisi,Guadalcanal: Kolombangara: Malaita: New Georgia: Russell: San Cristobal: Vangunu: Vella Lavella ,,,,48.4,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Melonycteris_melanops,Duke of York: Mioko: New Britain: Tolokiwa: Umboi: Dyal: New Ireland,,,,49,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Melonycteris_woodfordi,Bougainville: Buka: Oblari: Alu: Choiseul: Fauro: Mono: Santa Isabel: Nggela: Florida,,,,29.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Mesocapromys_angelcabrerai,Cuba,mean_body_mass_of_South_American_echimyids,1.509375,320,483,0.178797152,0.178797152,gigantism,CR,Faurby et al. 2020,Woods et al. 2021,yes,
+Rodentia,Mesocapromys_auritus,Cayo Fragoso,mean_body_mass_of_South_American_echimyids,2.5625,320,820,0.408663874,0.408663874,gigantism,EN,Faurby et al. 2020,Woods et al. 2021,yes,
+Rodentia,Mesocapromys_nanus,Cuba,mean_body_mass_of_South_American_echimyids,1.2965625,320,414.9,0.112793457,0.112793457,gigantism,CR,Faurby et al. 2020,Woods et al. 2021,yes,
+Rodentia,Mesocapromys_sanfelipensis,Cayo Juan García,mean_body_mass_of_South_American_echimyids,1.71875,320,550,0.235212711,0.235212711,gigantism,CR,Faurby et al. 2020,Woods et al. 2021,yes,
+Primates,Microcebus_arnholdi,Madagascar,,,,45,,,,VU,Faurby et al. 2020,,yes,
+Primates,Microcebus_berthae,Madagascar,,,,30.5,,,,CR,Faurby et al. 2020,,yes,
+Primates,Microcebus_bongolavensis,Madagascar,,,,54,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_danfossi,Madagascar,,,,63,,,,VU,Faurby et al. 2020,,yes,
+Primates,Microcebus_gerpi,Madagascar,,,,68,,,,CR,Faurby et al. 2020,,yes,
+Primates,Microcebus_griseorufus,Madagascar,,,,62.5,,,,LC,Faurby et al. 2020,,yes,
+Primates,Microcebus_jollyae,Madagascar,,,,61,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_lehilahytsara,Madagascar,,,,46.5,,,,VU,Faurby et al. 2020,,yes,
+Primates,Microcebus_macarthurii,Madagascar,,,,53,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_mamiratra,Madagascar,,,,61,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_margotmarshae,Madagascar,,,,49,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_marohita,Madagascar,,,,61.4,,,,CR,Faurby et al. 2020,,yes,
+Primates,Microcebus_mittermeieri,Madagascar,,,,44,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_murinus,Madagascar,,,,60,,,,LC,Faurby et al. 2020,,yes,
+Primates,Microcebus_myoxinus,Madagascar,,,,47.5,,,,VU,Faurby et al. 2020,,yes,
+Primates,Microcebus_ravelobensis,Madagascar,,,,72,,,,VU,Faurby et al. 2020,,yes,
+Primates,Microcebus_rufus,Madagascar,,,,42.5,,,,VU,Faurby et al. 2020,,yes,
+Primates,Microcebus_sambiranensis,Madagascar,,,,44,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_simmonsi,Madagascar,,,,65,,,,EN,Faurby et al. 2020,,yes,
+Primates,Microcebus_tavaratra,Madagascar,,,,61,,,,VU,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_brevicaudata,Madagascar,,,,11.3,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_cowani,Madagascar,,,,13.8,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_dobsoni,Madagascar,,,,38,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_drouhardi,Madagascar,,,,10.5,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_dryas,Madagascar,,,,40,,,,VU,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_fotsifotsy,Madagascar,,,,7.7,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_gracilis,Madagascar,,,,23.3,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_grandidieri,Madagascar,,,,13.1,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_gymnorhyncha,Madagascar,,,,18.2,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_jenkinsae,Madagascar,,,,5.1,,,,EN,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_jobihely,Madagascar,,,,9,,,,EN,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_longicaudata,Madagascar,,,,7.3,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_majori,Madagascar,,,,5.8,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_monticola,Madagascar,,,,13.9,,,,VU,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_nasoloi,Madagascar,,,,10,,,,VU,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_parvula,Madagascar,,,,3.4,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_principula,Madagascar,,,,10.2,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_pusilla,Madagascar,,,,3.4,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_soricoides,Madagascar,,,,18.7,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_taiva,Madagascar,,,,12.4,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_talazaci,Madagascar,,,,48,,,,LC,Faurby et al. 2020,,yes,
+Afrosoricida,Microgale_thomasi,Madagascar,,,,22.9,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Micromys_minutus,,,1.32,7,9.24,0.120573931,0.120573931,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Peramelemorphia,Microperoryctes_aplini,New Guinea,,,,79.3,,,,VU,Faurby et al. 2020,,yes,
+Peramelemorphia,Microperoryctes_longicauda,New Guinea,,,,538,,,,LC,Faurby et al. 2020,,yes,
+Peramelemorphia,Microperoryctes_murina,New Guinea,,,,99.8,,,,VU,Faurby et al. 2020,,yes,
+Peramelemorphia,Microperoryctes_papuensis,New Guinea,,,,158,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Microtus_abbreviatus,St. Matthew: Hall,Microtus_miurus,1.512195122,41,62,0.179607833,0.179607833,gigantism,LC,Faurby et al. 2020,Weksler et al. 2010,yes,
+Rodentia,Microtus_agrestis,,,1.210761971,46.84568884,54.23481288,0.083058772,0.083058772,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Microtus_breweri,,,1.209,43.75,52.895,0.082426301,0.082426301,gigantism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Microtus_kikuchii,Taiwan,Microtus_oeconomus,0.630813953,34.4,21.7,-0.200098709,0.200098709,dwarfism,LC,Faurby et al. 2020,Bannikova et al. 2010,yes,
+Rodentia,Microtus_longicaudus,,,0.9,50,45,-0.045757491,0.045757491,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Microtus_montebelli,Honshu: Kyushu: Sado: Notojima,Microtus_oeconomus,1.159883721,34.4,39.9,0.064414453,0.064414453,gigantism,LC,Faurby et al. 2020,Bannikova et al. 2010,yes,
+Rodentia,Microtus_nebrodensis,,,1.031,20,20.62,0.013258665,0.013258665,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Microtus_pennsylvanicus,,,1.25,45,56.25,0.096910013,0.096910013,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Microtus_sachalinensis,Sakhalin,Microtus_maximowiczii,1.29736211,41.7,54.1,0.11306121,0.11306121,gigantism,LC,Faurby et al. 2020,Bannikova et al. 2010,yes,
+Rodentia,Microtus_townsendii,,,1.015,65,65.975,0.006466042,0.006466042,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Miniopterus_australis,,,1.135,7.36,8.3536,0.054995862,0.054995862,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Miniopterus_fuscus,Amami Oshima: Tokunoshima: Okinoerabu: Okinawa: Kume: Ishigaki: Iriomote,,,,10.7,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Miniopterus_gleni,Madagascar,,,,14,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Miniopterus_macrocneme,New Guinea: Bismarck Archipelago: Choiseul: New Georgia: San Cristobal: Vanuatu Archipelago: New Caledonia,Miniopterus_pusillus,1.069767442,8.6,9.2,0.029289376,0.029289376,gigantism,LC,Faurby et al. 2020,Kitchener & Suyanto 2002,yes,
+Chiroptera,Miniopterus_majori,Madagascar,,,,8,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Miniopterus_manavi,Madagascar,,,,5,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Miniopterus_robustior,Lifou: Maré,Miniopterus_australis,1.306451613,6.2,8.1,0.116093329,0.116093329,gigantism,EN,Faurby et al. 2020,Peterson 1981,yes,
+Chiroptera,Miniopterus_schreibersii,,,1.043,10.9,10.9872,0.018284308,0.018284308,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Miniopterus_sororculus,Madagascar,,,,8,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Miniopterus_tristis,Philippines: Sulawesi: New Guinea: Melanesia,Miniopterus_australis,2.741935484,6.2,17,0.438057232,0.438057232,gigantism,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,Appleton et al. 2004,yes,
+Chiroptera,Mirimiri_acrodonta,Taveuni,,,,250.5,,,,CR,Faurby et al. 2020,,yes,
+Primates,Mirza_coquereli,Madagascar,,,,308,,,,EN,Faurby et al. 2020,,yes,
+Primates,Mirza_zaza,Madagascar,,,,290,,,,VU,Faurby et al. 2020,,yes,
+Eulipotyphla,Mogera_etigo,Honshu,,,,140,,,,EN,Faurby et al. 2020,,yes,
+Eulipotyphla,Mogera_imaizumii,,,0.977529448,81.23816495,81.36318765,-0.009870151,0.009870151,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Mogera_insularis,,,1.678,57,95.646,0.224791956,0.224791956,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Mogera_tokudae,,,0.857500736,172.493896,147.9136427,-0.066765499,0.066765499,dwarfism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Mogera_uchidai,Uotsuri-jima,Mogera_insularis,0.685393258,62.3,42.7,-0.164060172,0.164060172,dwarfism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Eulipotyphla,Mogera_wogura,,,0.905,67.9,61.4495,-0.043351421,0.043351421,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Monophyllus_plethodon,Anguilla: Montserrat: Antigua: Barbuda: Grande-Terre: Basse-Terre: Dominica: Martinique: St Lucia: St Vincent: Barbados,,,,14.8,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Monophyllus_redmani,Cuba: Hispaniola: Puerto Rico: Jamaica: Crooked: Acklins: Middle Caicos: North Caicos,,,,8.7,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Monticolomys_koopmani,Madagascar,,,,25,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Mops_leucostigma,Madagascar,Mops_condylurus,0.616197183,28.4,17.5,-0.210280291,0.210280291,dwarfism,LC,Faurby et al. 2020,Ratrimomanarivo et al. 2008,yes,
+Chiroptera,Mormoops_blainvillei,Cuba: Jamaica: Hispaniola: Puerto Rico,Mormoops_megalophylla,0.544303797,15.8,8.6,-0.264158636,0.264158636,dwarfism,LC,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Mormopterus_jugularis,Madagascar,,,,11.5,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Mormopterus_minutus,Cuba,Mormopterus_kalinowskii,0.380681818,17.6,6.7,-0.419437865,0.419437865,dwarfism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Artiodactyla,Moschiola_kathygre,Sri Lanka,Moschiola_indica,0.654066667,3000,1962.2,-0.184377983,0.184377983,dwarfism,LC,Faurby et al. 2020,Groves & Meijaard 2005,yes,
+Artiodactyla,Moschiola_meminna,Sri Lanka,Moschiola_indica,0.815,3000,2445,-0.088842391,0.088842391,dwarfism,LC,Faurby et al. 2020,Groves & Meijaard 2005,yes,
+Chiroptera,Mosia_nigrescens,Sulawesi: Halmahera: Morotai: Ambon: Buru: Seram: Salawati: Biak: New Guinea: Solomon Islands,,,,3.3,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Mungotictis_decemlineata,Madagascar,,,,650,,,,EN,Faurby et al. 2020,,yes,
+Artiodactyla,Muntiacus_atherodes,Borneo,Muntiacus_muntjak,0.979542629,15925.8,15600,-0.008976659,0.008976659,dwarfism,NT,Faurby et al. 2020: Frantz L. Meijaard E. Gongora J. Haile J. Groenen M.A. and Larson G. 2016. The evolution of Suidae. Annual review of animal biosciences 4 pp.61-85.,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Artiodactyla,Muntiacus_muntjak,,,0.747942598,14125.37545,10564.97001,-0.126131731,0.126131731,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Dasyuromorphia,Murexia_habbema,New Guinea,,,,34.8,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Murexia_longicaudata,New Guinea: Aru Islands: Yapen,,,,335.8,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Murexia_melanurus,New Guinea,,,,47.8,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Murexia_naso,New Guinea,,,,48.4,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Murexia_rothschildi,New Guinea,,,,43.8,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Murina_puta,Taiwan,Murina_huttoni,1.092105263,7.6,8.3,0.0382645,0.0382645,gigantism,LC,Faurby et al. 2020,Yoshiyuki 1989,yes,
+Chiroptera,Murina_ryukyuana,Okinawa: Tokunoshima: Amami Oshima,Murina_ussuriensis,0.849056604,5.3,4.5,-0.071063356,0.071063356,dwarfism,EN,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Murina_tenebrosa,Tsushima,Murina_florium,0.860465116,4.3,3.7,-0.065266732,0.065266732,dwarfism,CR,Faurby et al. 2020,Maeda & Matsumura 1998,yes,
+Rodentia,Mus_cypriacus,Cyprus,Mus_macedonicus,1.2,15,18,0.079181246,0.079181246,gigantism,LC,Van den Hoek Ostende et al. 2017,Van den Hoek Ostende et al. 2017,yes,
+Rodentia,Mus_fernandoni,Sri Lanka,,,,21.6,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Mus_mayori,Sri Lanka,,,,29.4,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Mus_vulcani,Java,,,,20.2,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Mustela_erminea,,,0.9705,75,72.7875,-0.01300446,0.01300446,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Mustela_itatsi,,,1.014569325,532,440.496,0.006281728,0.006281728,gigantism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Mustela_lutreolina,Sumatra: Java,Mustela_sibirica,1.744691358,405,706.6,0.24171861,0.24171861,gigantism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Carnivora,Mustela_nivalis,,,1.32158429,79.9,105.5945848,0.121094868,0.121094868,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Mustela_nudipes,,,1.016643911,501.1872336,509.5289496,0.007168864,0.007168864,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Mustela_putorius,,,0.991,984,975.144,-0.003926346,0.003926346,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Mustela_sibirica,,,0.808979769,532,430.377237,-0.092062339,0.092062339,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Mydaus_javanensis,,,0.986701711,2511.886432,2478.48264,-0.005814119,0.005814119,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Mydaus_marchei,,,0.761,2500,1902.5,-0.118615343,0.118615343,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Myodes_andersoni,Honshu,,,,25.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Myodes_gapperi,,,1.096,21.9,24.5568,0.039810554,0.039810554,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Myodes_glareolus,,,0.941,20.7,19.4787,-0.026410377,0.026410377,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Myodes_rex,Hokkaido: Rishiri: Rebun: Shikotan: Shibotsu: Sakhalin,Myodes_rufocanus,1.5,37,55.5,0.176091259,0.176091259,gigantism,LC,Faurby et al. 2020,Honda et al. 2019,yes,
+Rodentia,Myodes_rutilus,,,1.17,24,28.08,0.068185862,0.068185862,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Myodes_smithii,Honshu: Kyushu: Shikoku: Dogo,,,,35,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Myoictis_melas,New Guinea: Salawati: Waigeo: Yapen,,,,230,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Myoictis_wallacei,New Guinea: Aru Islands,,,,230,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Myonycteris_angolensis,,,0.903306481,67.7,61.15384876,-0.044164874,0.044164874,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Myonycteris_brachycephala,Sao Tome,Myonycteris_torquata,0.848341232,42.2,35.8,-0.071429424,0.071429424,dwarfism,EN,Faurby et al. 2020,Juste & Ibáñez 1993,yes,
+Eulipotyphla,Myosorex_eisentrauti,Bioko,Myosorex_rumpii,0.92,15,13.8,-0.036212173,0.036212173,dwarfism,CR,Faurby et al. 2020,Kingdon et al. 2014,yes,
+Chiroptera,Myotis_blythii,,,1.125,22.1,24.8625,0.051152522,0.051152522,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Myotis_capaccinii,,,0.882,8.14,7.17948,-0.054531415,0.054531415,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Myotis_dominicensis,Dominica: Guadeloupe Islands,Myotis_atacamensis,0.450704225,7.1,3.2,-0.34610837,0.34610837,dwarfism,VU,Faurby et al. 2020,Moratelli et al. 2017,yes,
+Chiroptera,Myotis_findleyi,Tres Marías Islands,Myotis_nigricans,1,4.2,4.2,0,0,no_change,EN,Faurby et al. 2020,Bogan 1978,yes,
+Chiroptera,Myotis_gomantongensis,Borneo,Myotis_annectans,0.959183673,9.8,9.4,-0.018098222,0.018098222,dwarfism,LC,Faurby et al. 2020,Ruedi et al. 2013,yes,
+Chiroptera,Myotis_goudoti,Madagascar,Myotis_emarginatus,0.909090909,7.7,7,-0.041392685,0.041392685,dwarfism,LC,Faurby et al. 2020,Stadelmann et al. 2004,yes,
+Chiroptera,Myotis_macrotarsus,Borneo: Balambangam: Banggi: Bantayan: Bohol: Cebu: Guimaras: Luzon: Marinduque: Mindanao: Mindoro: Negros: Palawan: Polillo: Sicogon: Tawi Tawi ,Myotis_hasseltii,1.420454545,8.8,12.5,0.152427341,0.152427341,gigantism,LC,Faurby et al. 2020,Bickham et al. 2004,yes,
+Chiroptera,Myotis_martiniquensis,Martinique,Myotis_atacamensis,0.704225352,7.1,5,-0.152288344,0.152288344,dwarfism,NT,Faurby et al. 2020,Moratelli et al. 2017,yes,
+Chiroptera,Myotis_moluccarum,Halmahera: Seram: Ambon: Peleng: Kai: New Guinea: Bismarck Archipelago: Solomon Islands,,,,9.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Myotis_muricola,,,0.917,4.8,4.4016,-0.037630664,0.037630664,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Myotis_myotis,,,1.0865,25.7,27.92305,0.036029731,0.036029731,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Myotis_nigricans,,,0.945996657,5.816587638,5.502472458,-0.024110399,0.024110399,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Myotis_nyctor,Barbados: Grenada,Myotis_atacamensis,0.704225352,7.1,5,-0.152288344,0.152288344,dwarfism,VU,Faurby et al. 2020,Moratelli et al. 2017,yes,
+Chiroptera,Myotis_pruinosus,Honshu: Shikoku: Kyushu,Myotis_montivagus,0.325301205,8.3,2.7,-0.487714328,0.487714328,dwarfism,EN,Faurby et al. 2020,Kawai et al. 2003,yes,
+Chiroptera,Myotis_yanbarensis,Okinawa: Tokunoshima: Amami Oshima,Myotis_montivagus,0.518072289,8.3,4.3,-0.285609637,0.285609637,dwarfism,CR,Faurby et al. 2020,Kawai et al. 2003,yes,
+Rodentia,Mesocapromys_melanurus,Cuba,mean_body_mass_of_South_American_echimyids,3.80625,320,1218,0.58049731,0.58049731,gigantism,VU,Faurby et al. 2020,Woods et al. 2021,yes,
+Rodentia,Mysateles_prehensilis,Cuba,mean_body_mass_of_South_American_echimyids,5.625,320,1800,0.750122527,0.750122527,gigantism,NT,Faurby et al. 2020,Woods et al. 2021,yes,
+Chiroptera,Mystacina_robusta,,,0.834,27.4,22.8516,-0.078833949,0.078833949,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Mystacina_tuberculata,New Zeal:,,,,12.6,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Myzopoda_aurita,Madagascar,,,,9.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Myzopoda_schliemanni,Madagascar,,,,9.1,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Nannosciurus_melanotis,,,1.039,20,20.78,0.016615548,0.016615548,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Nasalis_larvatus,Borneo,,,,9000,,,,EN,Faurby et al. 2020,,yes,
+Carnivora,Nasua_narica,,,0.39,4500,1755,-0.408935393,0.408935393,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Natalus_jamaicensis,Jamaica,,,,6.7,,,,CR,Faurby et al. 2020,,yes,
+Chiroptera,Natalus_major,Hispaniola,,,,7.1,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Natalus_primus,Cuba,,,,9.1,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Natalus_stramineus,Anguilla: Antigua: Barbuda: Dominica: Guadeloupe Islands: Marie Galante: Martinique: Montserrat: Nevis: Saba: St Martin,,,,5,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Neofelis_diardi_borneensis,,,0.90627657,19498.446,17670.98477,-0.042739247,0.042739247,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Neohylomys_hainanensis,Hainan,Hylomys_suillus,0.904255319,65.8,59.5,-0.043708928,0.043708928,dwarfism,EN,Faurby et al. 2020,He et al. 2012,yes,
+Dasyuromorphia,Neophascogale_lorentzii,New Guinea,,,,212,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Neopteryx_frosti,Sulawesi,,,,225,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Neoromicia_malagasyensis,Madagascar,Neoromicia_helios,2.5,2.6,6.5,0.397940009,0.397940009,gigantism,VU,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Neoromicia_matroka,Madagascar,Neoromicia_capensis,1.083333333,6,6.5,0.034762106,0.034762106,gigantism,LC,Faurby et al. 2020,Goodman et al. 2012,yes,
+Rodentia,Neotoma_albigula,,,0.8355,208,173.784,-0.078053546,0.078053546,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Neotoma_bryanti,,,1.14,200,228,0.056904851,0.056904851,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Neovison_vison,,,1.0125,904,926.6,0.005395032,0.005395032,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Nesomys_audeberti,Madagascar,,,,212.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Nesomys_lambertoni,Madagascar,,,,155,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Nesomys_rufus,Madagascar,,,,162.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Nesoromys_ceramicus,Seram,,,,65.5,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Nesoryzomys_fernandinae,Fernandina,,,,38.1,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Nesoryzomys_narboroughi,Fernandina,,,,88,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Nesoryzomys_swarthi,Santiago,,,,105.8,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Niviventer_confucianus,,,1.101,70,77.07,0.041787319,0.041787319,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Niviventer_coninga,Taiwan,Niviventer_confucianus,1.266153846,65,82.3,0.102486479,0.102486479,gigantism,LC,Faurby et al. 2020,He & Jiang 2015,yes,
+Rodentia,Niviventer_cremoriventer,,,1.314,71.3,93.6882,0.118595365,0.118595365,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Niviventer_culturatus,Taiwan,Niviventer_confucianus,1.367692308,65,88.9,0.135988404,0.135988404,gigantism,LC,Faurby et al. 2020,He & Jiang 2015,yes,
+Rodentia,Niviventer_fraternus,Sumatra,,,,86.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Niviventer_lepturus,Java,,,,84.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Niviventer_rapit,Borneo,Niviventer_fulvescens,1.052121212,82.5,86.8,0.022065777,0.022065777,gigantism,LC,Faurby et al. 2020,He & Jiang 2015,yes,
+Primates,Nomascus_concolor,,,0.959,6430,6166.37,-0.018181393,0.018181393,dwarfism,CR,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Nomascus_hainanus,,,0.810684954,25000,20267.12386,-0.091147887,0.091147887,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Diprotodontia,Macropus_eugenii,,,0.95575672,5280,5046.395482,-0.01965264,0.01965264,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Macropus_rufogriseus,,,0.84810492,9679.8,8209.486,-0.071550418,0.071550418,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Notopteris_macdonaldi,Viti Levu: Vanua Levu: Taveuni: Anatom: Efate: Erromango: Mota Lava: Santa Maria: Tanna ,,,,65.1,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Notopteris_neocaledonica,New Caledonia,,,,45.1,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Nyctalus_azoreum,Faial: Pico: San Jorge: Graciosa: Terceira: San Miguel: Santa Maria,Nyctalus_leisleri,0.533834586,13.3,7.1,-0.272593292,0.272593292,dwarfism,VU,Faurby et al. 2020,Salgueiro et al. 2004,yes,
+Chiroptera,Nyctalus_furvus,Honshu,,,,27.6,,,,EN,Faurby et al. 2020,,yes,
+Carnivora,Prionailurus_viverrinus,,,0.879696707,4220,4092.180668,-0.055667034,0.055667034,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Nycteris_javanica,Java: Nusa Penida: Kangean ,Nycteris_tragata,1.229166667,14.4,17.7,0.089610774,0.089610774,gigantism,VU,Faurby et al. 2020,Griffiths 1997,yes,
+Primates,Nycticebus_coucang,,,1.221493296,971,1186.069991,0.086891088,0.086891088,gigantism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Nycticebus_javanicus,,,0.747891284,971,726.2024367,-0.126161528,0.126161528,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Nycticebus_menagensis,,,0.715358045,971,694.6126617,-0.145476534,0.145476534,dwarfism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Nycticeius_cubanus,Cuba,Nycticeius_humeralis,0.611111111,9,5.5,-0.21387982,0.21387982,dwarfism,NT,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Nyctiellus_lepidus,Cuba: Bahamas Islands,,,,2.4,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Nyctimene_aello,New Guinea: Misool: Salawati: Kairiru,,,,84.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Nyctimene_albiventer,,,0.778419805,29.9,23.27475218,-0.108786123,0.108786123,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Nyctimene_cephalotes,Sulawesi: Seram: Mangole: Sanana: Buru: Ambon: Tanimbar Islands,Nyctimene_robinsoni,0.898989899,49.5,44.5,-0.046245188,0.046245188,dwarfism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Nyctimene_certans,New Guinea: East New Britain,,,,42.1,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Nyctimene_keasti,Maluku: Kai: Tanimbar Islands: Babar Islands,Nyctimene_albiventer,1.491638796,29.9,44.6,0.17366367,0.17366367,gigantism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Nyctimene_major,,,1.081381227,104.2,112.6799239,0.033978826,0.033978826,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Nyctimene_malaitensis,Malaita: Makira,,,,75.4,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Nyctimene_minutus,Buru: Seram,,,,33.1,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Nyctimene_rabori,Cebu: Negros: Sibuyan,Nyctimene_cephalotes,1.516853933,44.5,67.5,0.180943762,0.180943762,gigantism,EN,Faurby et al. 2020,Heaney & Peterson 1984,yes,
+Chiroptera,Nyctimene_vizcaccia,Bismarck Archipelago: Solomon Islands,,,,40,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Nyctophilus_microtis,New Guinea: Salawati: New Britain: New Ireland,,,,7.1,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Nyctophilus_nebulosus,New Caledonia,Nyctophilus_gouldi,1.05,10,10.5,0.021189299,0.021189299,gigantism,CR,Faurby et al. 2020,Parnaby 2009,yes,
+Chiroptera,Nyctophilus_sherrini,Tasmania,Nyctophilus_gouldi,1.55,10,15.5,0.190331698,0.190331698,gigantism,VU,Faurby et al. 2020,Parnaby 2009,yes,
+Rodentia,Octodon_pacificus,Mocha,Octodon_bridgesi,2,150,300,0.301029996,0.301029996,gigantism,CR,McCreless et al. 2016,Hutterer 1994,yes,
+Artiodactyla,Odocoileus_hemionus,,,0.648,65038.13484,50879.48444,-0.188424994,0.188424994,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Odocoileus_virginianus,,,0.7,70000,49000,-0.15490196,0.15490196,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Monotremata,Ornithorhynchus_anatinus,,,1.266497462,1970,2495,0.102604324,0.102604324,gigantism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Oryzomys_couesi,,,2.515,69.3,174.2895,0.400537989,0.400537989,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Afrosoricida,Oryzorictes_hova,Madagascar,,,,36.5,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Macropus_robustus,,,0.571428571,35000,20000,-0.243038049,0.243038049,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Otolemur_garnettii_garnettii,,,1.033016245,771,796.4555248,0.014107151,0.014107151,gigantism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Otomops_madagascariensis,Madagascar,Otomops_martiensseni,0.743440233,34.3,25.5,-0.12875394,0.12875394,dwarfism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Otopteropus_cartilagonodus,Luzon,,,,16.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Otospermophilus_beecheyi,,,1.06,700,742,0.025305865,0.025305865,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Paguma_larvata,,,0.795844,4300,3422.1292,-0.099172054,0.099172054,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Palawanomys_furvus,Palawan,,,,102.5,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Panthera_tigris,,,0.9505,163000,154931.5,-0.022047879,0.022047879,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Papagomys_armandvillei,Flores,,,,1850,,,,NT,Veatch et al. 2019,,yes,
+Carnivora,Paradoxurus_hermaphroditus,,,0.9445,3200,3022.4,-0.024798038,0.024798038,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Paradoxurus_zeylonensis,Sri Lanka,Paradoxurus_jerdoni,1,2780.8,2780.8,0,0,no_change,LC,Faurby et al. 2020,Veron et al. 2015,yes,
+Eulipotyphla,Paraechinus_hypomelas,,,0.766528654,585.8449361,449.0669306,-0.115471606,0.115471606,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Galagoides_zanzibaricus,,,1.014457609,147,149.1252685,0.006233904,0.006233904,gigantism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Parahydromys_asper,New Guinea,,,,540,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paraleptomys_rufilatus,New Guinea,,,,55,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_gressitti,New Guinea,,,,110.2,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_levipes,New Guinea,,,,86.7,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_lorentzii,New Guinea,,,,150,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_mollis,New Guinea,,,,90.1,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_moncktoni,New Guinea,,,,95.4,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_naso,New Guinea: Wokam,,,,129.7,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_platyops,New Guinea: Cenderawasih Bay: Bismarck Archipelago: Milne Bay,,,,104.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paramelomys_rubex,New Guinea,,,,46.6,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Parantechinus_apicalis,,,0.6735,73.3,49.36755,-0.1716624,0.1716624,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Paranyctimene_raptor,New Guinea: Waigeo: Salawati,,,,24.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Paranyctimene_tenax,New Guinea: Waigeo: Salawati,,,,31.5,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Paratriaenops_auritus,Madagascar,,,,5,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Paratriaenops_furculus,Madagascar: Cosmoledo: Aldabra Atolls,,,,5.5,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Pardofelis_marmorata,,,0.678667536,3235.936569,2196.1251,-0.168342924,0.168342924,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Emballonura_atrata,Madagascar,,,,4.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Emballonura_tiavato,Madagascar,,,,3.3,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Paruromys_dominator,Sulawesi,,,,324.9,,,,LC,Fabre et al. 2017,,yes,
+Rodentia,Paulamys_naso,Flores,,,,150,,,,EN,Veatch et al. 2019,,yes,
+Lagomorpha,Pentalagus_furnessi,Amami Oshima: Tokunoshima,,,,2396.3,,,,EN,Faurby et al. 2020,,yes,
+Peramelemorphia,Perameles_bougainville,,,0.636432142,353.125,224.7401001,-0.196247895,0.196247895,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Peramelemorphia,Perameles_gunnii,,,1.32,750,990,0.120573931,0.120573931,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Perognathus_inornatus,,,1,25,25,0,0,no_change,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_caniceps,Monserrate,Peromyscus_fraterculus,1.157201646,24.3,28.12,0.063409043,0.063409043,gigantism,CR,McCreless et al. 2016,Ceballos 2014,yes,
+Rodentia,Peromyscus_dickeyi,Tortuga,Peromyscus_eremicus,1.206751055,23.7,28.6,0.081617687,0.081617687,gigantism,CR,Faurby et al. 2020,Cortés-Calva & Alvarez-Castañeda 2001,yes,
+Rodentia,Peromyscus_eremicus,,,1.235,30,37.05,0.091666958,0.091666958,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_eva,,,1.0758521,22.07490734,23.73808823,0.031752572,0.031752572,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_gossypinus,,,0.945,27.7,26.1765,-0.024568191,0.024568191,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_guardia,Angel de la Guarda: Mejia: Granito: Estanque,Peromyscus_eremicus,1.421940928,23.7,33.7,0.152881555,0.152881555,gigantism,CR,Faurby et al. 2020,Rios & Álvarez-Castañeda 2011,yes,
+Rodentia,Peromyscus_interparietalis,Salsipuedes: Las Animas: San Lorenzo Norte: San Lorenzo Sur,Peromyscus_eremicus,1.181434599,23.7,28,0.072409685,0.072409685,gigantism,CR,Faurby et al. 2020,Rios & Álvarez-Castañeda 2011,yes,
+Rodentia,Peromyscus_keeni,,,1.225,15,18.675,0.088136089,0.088136089,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_leucopus,,,1.194,25,29.85,0.077004327,0.077004327,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_madrensis,,,1.23,30,36.9,0.089905111,0.089905111,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Peromyscus_maniculatus,,,1.337272727,15,22.685,0.126219988,0.126219988,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_merriami,,,1.547,40,61.88,0.189490314,0.189490314,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_polionotus,,,0.95,20,19,-0.022276395,0.022276395,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Peromyscus_pseudocrinitus,Coronados,Peromyscus_crinitus,1.361111111,18,24.5,0.133893579,0.133893579,gigantism,CR,Faurby et al. 2020,Ceballos 2014,yes,
+Rodentia,Peromyscus_sejugis,,,0.97,15,14.55,-0.013228266,0.013228266,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Peromyscus_slevini,Santa Catalina,Peromyscus_maniculatus,2.516431925,21.3,53.6,0.400785186,0.400785186,gigantism,CR,Faurby et al. 2020,Cortès-Calva 2002,yes,
+Rodentia,Peromyscus_stephani,San Esteban,Peromyscus_boylii,1.219626168,21.4,26.1,0.086226734,0.086226734,gigantism,CR,Faurby et al. 2020,Hafner et al. 2001,yes,
+Rodentia,Peromyscus_stirtoni,,,0.935,29.2,27.302,-0.029188389,0.029188389,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Peramelemorphia,Peroryctes_broadbenti,New Guinea,,,,4800,,,,EN,Faurby et al. 2020,,yes,
+Peramelemorphia,Peroryctes_raffrayana,New Guinea: Yapen,,,,838.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Petaurista_hainana,,,0.743147655,2570.321358,1910.128289,-0.128924888,0.128924888,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Petaurista_leucogenys,Honshu: Shikoku: Kyushu,Petaurista_xanthotis ,0.62,1900,1178,-0.207608311,0.207608311,dwarfism,LC,Faurby et al. 2020,Li et al. 2013,yes,
+Rodentia,Petaurista_petaurista,,,0.865,1540,1332.1,-0.062983893,0.062983893,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Petaurus_abidi,New Guinea,Petaurus_breviceps,2.615239887,106.3,278,0.417511531,0.417511531,gigantism,CR,Faurby et al. 2020,Jackson 2012,yes,
+Diprotodontia,Petaurus_biacensis,Biak: Supiori: Owi,Petaurus_breviceps,0.831608655,106.3,88.4,-0.080081,0.080081,dwarfism,LC,Faurby et al. 2020,Helgen 2007,yes,
+Diprotodontia,Petaurus_norfolcensis,,,1.21,230,278.3,0.08278537,0.08278537,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Petinomys_crinitus,Basilan: Dinagat: Mindanao: Siargao,Petinomys_genibarbis,1.027272727,110,113,0.011685758,0.011685758,gigantism,LC,Faurby et al. 2020,L. R. Heaney personal communication,yes,
+Rodentia,Petinomys_lugens,Siberut: Sipora: North Pagai,Petinomys_hageni,1.115979381,388,433,0.047656171,0.047656171,gigantism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Rodentia,Petinomys_setosus,,,1.122523307,44.66835922,50.1412743,0.050195367,0.050195367,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Petrogale_lateralis,,,0.778667056,3400,2647.467991,-0.108648199,0.108648199,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Petrogale_rothschildi,,,0.666666667,5100,3400,-0.176091259,0.176091259,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Phalanger_alexandrae,Gebe,Phalanger_ornatus,,,2500,,,,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Diprotodontia,Phalanger_carmelitae,New Guinea,,,,2047.5,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_gymnotis,New Guinea: Aru Islands: Yapen: Misool: Salawati,,,,2705,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_intercastellanus,New Guinea: D'Entrecasteaux: Trobriand Islands: Louisade Archipelago,,,,1747.5,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_lullulae,Woodlark: Alcester,Phalanger_orientalis,0.752720398,2168.8,1632.5,-0.123366315,0.123366315,dwarfism,EN,Faurby et al. 2020,Hamilton & Springer 1999,yes,
+Diprotodontia,Phalanger_matabiru,Ternate: Tidore,,,,1969.2,,,,VU,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_matanim,New Guinea,,,,1550,,,,CR,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_orientalis,Timor: Wetar: Leti: Kai: Moluccan: Misool: Waigeo: Batanta: Salawati: New Guinea: Bismarck Archipelago: New Britain: New Ireland: Solomon Islands,,,,2168.8,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_ornatus,Halmahera: Batjan: Morotai ,,,,1787.5,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_rothschildi,Obi: Bisa: Obi-Latoe,,,,1365,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_sericeus,New Guinea,,,,2003,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Phalanger_vestitus,New Guinea,,,,1850,,,,LC,Faurby et al. 2020,,yes,
+Primates,Phaner_electromontis,Madagascar,,,,383.6,,,,EN,Faurby et al. 2020,,yes,
+Primates,Phaner_furcifer,Madagascar,,,,400,,,,EN,Faurby et al. 2020,,yes,
+Primates,Phaner_pallescens,Madagascar,,,,327,,,,EN,Faurby et al. 2020,,yes,
+Primates,Phaner_parienti,Madagascar,,,,363.4,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pharotis_imogene,New Guinea,,,,10,,,,CR,Faurby et al. 2020,,yes,
+Dasyuromorphia,Phascolosorex_doriae,New Guinea,,,,168.3,,,,LC,Faurby et al. 2020,,yes,
+Dasyuromorphia,Phascolosorex_dorsalis,New Guinea,,,,138.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Phloeomys_cumingi,Luzon: Catanduanes: Marinduque,,,,2000,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Phloeomys_pallidus,Luzon,,,,2500,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Phyllomys_thomasi,Ilha de São Sebastião,Phyllomys_nigrispinus,2.497547927,224.3,560.2,0.397513831,0.397513831,gigantism,EN,McCreless et al. 2016,Leite 2003,yes,
+Chiroptera,Phyllonycteris_aphylla,Jamaica,,,,24.5,,,,CR,Faurby et al. 2020,,yes,
+Chiroptera,Phyllonycteris_poeyi,Cuba: Isle of Pines: Hispaniola,,,,22,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Phyllops_falcatus,Cuba: Hispaniola,,,,19.5,,,,LC,Faurby et al. 2020,,yes,
+Primates,Procolobus_kirkii,,,0.931722275,8300,7733.294879,-0.030713522,0.030713522,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Procolobus_pennantii,,,1.208487289,7026.14038,8570.288986,0.082242087,0.082242087,gigantism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pipistrellus_angulatus,Biak: New Guinea: Bismarck Archipelago: Milne Bay Province: Solomon Islands,,,,3.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pipistrellus_collinus,New Guinea,,,,6,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pipistrellus_endoi,Honshu: Shikoku,,,,4.2,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Pipistrellus_imbricatus,Sarawak: Java: Kangean: Bali: Lombok: Sulawesi: Lesser Sunda,,,,5.7,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pipistrellus_kuhlii,,,1,6.04,6.04,0,0,no_change,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Pipistrellus_maderensis,Madeira: La Palma: La Gomera: El Hierro: Tenerife,Pipistrellus_kuhli,1.186440678,5.9,7,0.074246028,0.074246028,gigantism,VU,Faurby et al. 2020,Jesus et al. 2013,yes,
+Chiroptera,Pipistrellus_papuanus,Seram: Ambon: Batanta: Dolak: Biak: Supiori: Salawati: Aru Islands: Kai: New Guinea: Fergusson: Samarai: New Britain: New Ireland: Bougainville,,,,4.7,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pipistrellus_pipistrellus,,,0.9935,5.28,5.24568,-0.002832129,0.002832129,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Pipistrellus_wattsi,New Guinea,,,,3.3,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pithecheir_melanurus,Java,,,,108,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Plagiodontia_aedium,Hispaniola,mean_body_mass_of_South_American_echimyids,4.171875,320,1335,0.620331287,0.620331287,gigantism,EN,Turvey et al. 2021,Woods et al. 2021,yes,
+Dasyuromorphia,Planigale_novaeguineae,New Guinea,Planigale_maculata,1.354545455,11,14.9,0.131793583,0.131793583,gigantism,LC,Faurby et al. 2020,García-Navas et al. 2020,yes,
+Chiroptera,Plecotus_sacrimontis,Hokkaido: Honshu: Shikoku: Kyushu: Rebun: Rishiri,Plecotus_ognevi,1.107142857,8.4,9.3,0.044203662,0.044203662,gigantism,LC,Faurby et al. 2020,Spitzenberger et al. 2006,yes,
+Chiroptera,Plecotus_sardus,Sardinia,Plecotus_auritus,1.256410256,7.8,9.8,0.099131473,0.099131473,gigantism,VU,Faurby et al. 2020,Mucedda et al. 2002,yes,
+Chiroptera,Plecotus_taivanus,Taiwan,Plecotus_homochrous,1.167678655,5.9948,7,0.067323341,0.067323341,gigantism,NT,Yoshiyuki 1991,Spitzenberger et al. 2006,yes,Body mass of P homochrous estimated by using body length in Fukui et al. 2020 and equation for Chiroptera in Nowak R. M. & Walker E. P. Walker's Mammals of the World. Vol. 1 (JHU Press 1999)
+Chiroptera,Plecotus_teneriffae,Tenerife: La Palma: El Hierro,Plecotus_kolombatovici,1.142857143,7,8,0.057991947,0.057991947,gigantism,VU,Faurby et al. 2020,Spitzenberger et al. 2006,yes,
+Eulipotyphla,Podogymnura_aureospinula,Dinagat: Bucas Grande: Siargao,Echinosorex_gymnura,0.258098224,957,247,-0.588214985,0.588214985,dwarfism,EN,Faurby et al. 2020,Heaney & Morgan 1982,yes,
+Eulipotyphla,Podogymnura_truei,Mindanao,Echinosorex_gymnura,0.073145246,957,70,-1.135813898,1.135813898,dwarfism,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,Heaney & Morgan 1982,yes,
+Rodentia,Pogonomelomys_brassi,New Guinea,,,,178.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pogonomelomys_bruijnii,New Guinea: Salawati,,,,178.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pogonomelomys_mayeri,New Guinea,,,,109.7,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pogonomys_fergussoniensis,Fergusson: Goodenough: Normanby,,,,128.5,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Pogonomys_loriae,New Guinea,,,,95.1,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pogonomys_sylvestris,New Guinea,,,,43.4,,,,LC,Faurby et al. 2020,,yes,
+Primates,Pongo_abelii,Sumatra,,,,56750,,,,CR,Faurby et al. 2020,,yes,
+Primates,Pongo_pygmaeus,,,0.959691402,37153.52291,35655.91651,-0.017868396,0.017868396,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Potos_flavus,,,0.936,2480,2321.28,-0.028724151,0.028724151,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Presbytis_chrysomelas,Borneo,,,,7000,,,,CR,Faurby et al. 2020,,yes,
+Primates,Presbytis_comata,Java,,,,6250,,,,EN,Faurby et al. 2020,,yes,
+Primates,Presbytis_femoralis,,,1.095,7000,7665,0.039414119,0.039414119,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Presbytis_frontata,Borneo,,,,6050,,,,VU,Faurby et al. 2020,,yes,
+Primates,Presbytis_hosei,Borneo,,,,6500,,,,VU,Faurby et al. 2020,,yes,
+Primates,Presbytis_melalophos,,,0.795,6470,5143.65,-0.099632871,0.099632871,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Presbytis_natunae,,,0.819197337,6229.268293,5103,-0.086611468,0.086611468,dwarfism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Presbytis_potenziani,,,1.130069775,3194.522281,3850.378298,0.053105259,0.053105259,gigantism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Presbytis_siberu,,,0.870564997,3194.522281,2781.039279,-0.060198799,0.060198799,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Presbytis_thomasi,Sumatra,,,,6690,,,,VU,Faurby et al. 2020,,yes,
+Carnivora,Prionailurus_bengalensis,,,0.852,2790,2432.88,-0.069560405,0.069560405,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Prionailurus_planiceps,,,0.936206829,6760.829754,6329.534983,-0.028628195,0.028628195,dwarfism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Prionodon_linsang,,,0.764,685,523.34,-0.116906641,0.116906641,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Procyon_lotor,,,0.915,6370,5828.55,-0.038578906,0.038578906,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Procyon_pygmaeus,,,0.763875984,4627.209357,3534.614101,-0.116977144,0.116977144,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Proechimys_semispinosus,,,0.815279623,436.66,356,-0.088693412,0.088693412,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Prolemur_simus,Madagascar,,,,2350,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_candidus,Madagascar,,,,5750,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_coquereli,Madagascar,,,,3900,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_coronatus,Madagascar,,,,3900,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_deckenii,Madagascar,,,,4000,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_diadema,Madagascar,,,,5250,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_edwardsi,Madagascar,,,,5750,,,,EN,Faurby et al. 2020,,yes,
+Primates,Propithecus_perrieri,Madagascar,,,,4350,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_tattersalli,Madagascar,,,,3500,,,,CR,Faurby et al. 2020,,yes,
+Primates,Propithecus_verreauxi,Madagascar,,,,3250,,,,CR,Faurby et al. 2020,,yes,
+Rodentia,Prosciurillus_leucomus,Sulawesi: Pulau Lembeh,,,,128,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Prosciurillus_murinus,Sulawesim: Talisei: Lembeh: Sangihe,,,,72.9,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Prosciurillus_rosenbergii,Sangir,,,,222.6,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Prosciurillus_weberi,Sulawesi,,,,132.9,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Protochromys_fellowsi,New Guinea,,,,81,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudocheirus_peregrinus,,,1.399,894,1250.706,0.145817714,0.145817714,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Diprotodontia,Pseudochirops_albertisii,New Guinea: Yapen,,,,784.9,,,,NT,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirops_corinnae,New Guinea,,,,1123,,,,NT,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirops_coronatus,New Guinea,,,,1500,,,,VU,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirops_cupreus,New Guinea,,,,1724.5,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirulus_canescens,New Guinea: Salawati: Yapen,,,,300,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirulus_caroli,New Guinea,,,,440,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirulus_forbesi,New Guinea,,,,649,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirulus_larvatus,New Guinea,,,,948.8,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirulus_mayeri,New Guinea,,,,151.8,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Pseudochirulus_schlegeli,New Guinea,,,,274.5,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Pseudohydromys_berniceae,New Guinea,,,,21.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pseudohydromys_ellermani,New Guinea,,,,22.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pseudohydromys_fuscus,New Guinea,,,,18.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Pseudohydromys_murinus,New Guinea,,,,16.8,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Ptenochirus_jagori,Biliran: Bohol: Bongao: Boracay: Caluya: Camiguin: Carabao: Catanduanes: Cebu: Dinagat: Leyte: Luzon: Marinduque: Maripipi: Masbate: Mindanao: Mindoro: Negros: Panay: Polillo: Samar: Sanga-sanga: Semirara: Siargao: Sibay: Sibuyan: Siquijor: Tablas: Ticao,,,,77.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Ptenochirus_minor,Biliran: Bohol: Dinagat: Leyte: Mindanao: Samar,,,,61,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Chiroptera,Pteralopex_anceps,Bougainville: Choiseul,,,,560.4,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pteralopex_atrata,Guadalcanal: New Georgia,,,,472,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pteralopex_flanneryi,Bougainville: Buka: Choiseul: Santa Isabel,,,,670.2,,,,CR,Faurby et al. 2020,,yes,
+Chiroptera,Pteralopex_pulchra,Guadalcanal,,,,280,,,,CR,Faurby et al. 2020,,yes,
+Chiroptera,Pteralopex_taki,Kolombangara: New Georgia: Vangunu,,,,286.7,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Pteromys_momonga,Honshu: Shikoku: Kyushu,Pteromys_volans,1.055632823,143.8,151.8,0.023512886,0.023512886,gigantism,LC,Faurby et al. 2020,Oshida et al. 2000,yes,
+Chiroptera,Pteronotus_macleayii,Cuba: Jamaica,,,,5.4,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pteronotus_quadridens,Cuba: Jamaica: Hispaniola: Puerto Rico,,,,5.2,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_admiralitatum,Bismarck Archipelago: Solomon Islands,,,,299.9,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_aldabrensis,,,0.565938646,338.8,191.7400133,-0.247230649,0.247230649,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_alecto,,,0.811737564,595,482.9838507,-0.090584356,0.090584356,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Pteropus_anetianus,Vanua Lava: Santa Maria: Mota Lava: Pentecost: Aore: Malakula: Ambrym: Epi: Efate: Erromango: Anatom: Espirito Santo: Maewo: Ureparapara: Malo: Emao: Emae: Lopevi: Tongoa: Nguna: Aoba,,,,426,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_aruensis,Aru Islands,,,,743.2,,,,CR,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_caniceps,Halmahera: Batjan: Tidore: Ternate,,,,505,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_capistratus,Mioko: New Britain: New Ireland Sakar: Duke of York: Umboi,,,,223,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_chrysoproctus,Maluku: Ambon: Buru: Seram,,,,710,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_cognatus,Makira: Uki Ni Masi,,,,302.5,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_dasymallus,Kuchinoerabu: Nakano: Taira: Akuseki: Takara: Okinawa: Ishigaki: Taketomi: Kohama: Iriomote: Hateruma: Kuro: Hatoma: Aragusuku: Yonaguni: Tarama: Irabu: Miyako: Daito: Batan: Babuyan Claro: Dalupiri: Fuga: Lutao: Guishan ,Pteropus_vampyrus,0.464793247,935.9,435,-0.33274019,0.33274019,dwarfism,VU,Faurby et al. 2020,Almeida et al. 2014,yes,
+Chiroptera,Pteropus_faunulus,Nancowry: Teressa: Kamorta: Bompuka: Katchal: Trinkat,Pteropus_hypomelanus,0.672740014,428.1,288,-0.17215274,0.17215274,dwarfism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Pteropus_fundatus,Mota: Vanua Lava,,,,205.7,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_gilliardorum,New Britain: New Ireland,Pteropus_pelagicus,2.298850575,174,400,0.361510743,0.361510743,gigantism,VU,Faurby et al. 2020,Almeida et al. 2020,yes,
+Chiroptera,Pteropus_hypomelanus,,,1.03203604,390,402.4940557,0.013694864,0.013694864,gigantism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_livingstonii,,,0.548603926,860,471.7993763,-0.260741089,0.260741089,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_macrotis,,,0.630712938,695,438.3454922,-0.20016826,0.20016826,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_mahaganus,Choiseul: Santa Isabel: Tanabuli: Bougainville: Buka,,,,251.4,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_mariannus,Northern Mariana Islands: Guam: Ulithi Atoll,,,,453.5,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_melanopogon,,,0.799134274,860,687.2554756,-0.097380243,0.097380243,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_melanotus,Bompuka: Car Nicobar: Great Nicobar: Kamorta: Katchal: Kondul: Nancowrie: South Sentinel: Tilangchong: Tressa: Trinkat: South Andaman: Rutlans: Mentawi: Christmas,,,,375,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_molossinus,Pohnpei: Ant Atoll: Pakin Atoll,,,,178,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_neohibernicus,,,0.780084541,840,655.2710144,-0.107858328,0.107858328,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_niger,Réunion: Mauritius,Pteropus_giganteus,0.56739617,804.2,456.3,-0.2461136,0.2461136,dwarfism,EN,Faurby et al. 2020,O’Brien et al. 2009,yes,
+Chiroptera,Pteropus_nitendiensis,Nendö: Tömotu Neo,,,,265,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_ocularis,Buru: Ambon: Seram,,,,220,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_ornatus,Lifou: Maré: New Caledonia,,,,330,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_pelagicus,,,0.46020483,340,156.4696421,-0.337048828,0.337048828,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_pelewensis,Palau: Kayangel Atoll: Sonsorol: Fanna,Pteropus_neohibernicus,0.252999586,966.8,244.6,-0.596880189,0.596880189,dwarfism,NT,Faurby et al. 2020,Tsang et al. 2020,yes,
+Chiroptera,Pteropus_personatus,Halmahera: Obi: Gag,,,,127.5,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_pohlei,Numfoor: Rani: Yapen,,,,343,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_pselaphon,,,1.016635521,340,345.6560772,0.00716528,0.00716528,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_pumilus,Miangas: Balut: Camiguin: Leyte: Maripipi: Masbate: Mindanao: Mindoro: Negros: Panay: Sibuyan: Siquijor: Tablas ,Pteropus_vampyrus,0.195961107,935.9,183.4,-0.707830116,0.707830116,dwarfism,NT,Faurby et al. 2020,Almeida et al. 2014,yes,
+Chiroptera,Pteropus_rayneri,Bougainville: Buka: Choiseul: Arnavon: Vangunu: Gatokae: Rendova: Kolombangara: Ghizo: Tetepare: New Georgia: Santa Isabel: Guadalcanal: Vella Lavella: Shortl: Simbo: Mono: Malaita,,,,724.5,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_rennelli,Rennell,,,,296.4,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_rodricensis,Rodrigues,Pteropus_vampyrus,0.271182819,935.9,253.8,-0.56673783,0.56673783,dwarfism,EN,Faurby et al. 2020,O’Brien et al. 2009,yes,
+Chiroptera,Pteropus_rufus,Madagascar,Pteropus_giganteus,0.44889331,804.2,361,-0.347856867,0.347856867,dwarfism,VU,Faurby et al. 2020,O’Brien et al. 2009,yes,
+Chiroptera,Pteropus_samoensis,Fiji Islands: Samoa Islands: American Samoa Islands,,,,310,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_seychellensis,,,0.814651006,338.8,276.0037609,-0.089028402,0.089028402,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_temminckii,Buru: Seram: Ambon,,,,250,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_tonganus,Karkar: Koil: Malaita: Makira: Rennell: Santa Cruz Islands: Vanuatu Archipelago: New Caledonia: Ouvéa: Fiji Islands: Wallis: Futuna: Tonga Islands: Samoa Islands: American Samoa Islands: Niué: Mangaia: Rarotonga,Pteropus_conspicillatus,0.539254867,775.7,418.3,-0.268205927,0.268205927,dwarfism,LC,Faurby et al. 2020,Helgen et al. 2009,yes,
+Chiroptera,Pteropus_tuberculatus,,,0.678401799,340,230.6566116,-0.168513009,0.168513009,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_ualanus,Kosrae,,,,348.9,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_vampyrus,,,0.822344053,1078,886.4868894,-0.084946444,0.084946444,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Pteropus_vetulus,New Caledonia,,,,148,,,,NT,Faurby et al. 2020,,yes,
+Chiroptera,Pteropus_voeltzkowi,,,0.89295331,338.8,302.5325814,-0.049171249,0.049171249,dwarfism,VU,Island populations dataset in this study,,yes,Median values from population dataset
+Chiroptera,Pteropus_woodfordi,,,0.341928405,443.4,151.6110549,-0.466064819,0.466064819,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Scandentia,Ptilocercus_lowii,,,0.986689427,42.5,41.93430063,-0.005819526,0.005819526,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Puma_concolor,,,1.109,53900,59775.1,0.044931546,0.044931546,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Rangifer_tarandus,,,0.775,90000,69750,-0.110698297,0.110698297,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Rattus_annandalei,,,1.4315,198,283.437,0.155791352,0.155791352,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Rattus_arrogans,New Guinea,,,,82.9,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_baluensis,Borneo,Rattus_tiomanicus,0.836923077,130,108.8,-0.077314457,0.077314457,dwarfism,LC,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Rodentia,Rattus_burrus,Great Nicobar: Little Nicobar: Trinkat,Rattus_tiomanicus,1.466153846,130,190.6,0.166179544,0.166179544,gigantism,EN,Faurby et al. 2020,Corbet & Hill 1992,yes,
+Rodentia,Rattus_elaphinus,Pulau Taliabu: Pulau Mangole,Rattus_hoffmanni,0.893877551,147,131.4,-0.04872197,0.04872197,dwarfism,NT,Faurby et al. 2020,Fabre et al. 2018,yes,
+Rodentia,Rattus_everetti,Biliran: Bohol: Camiguin: Catanduanes: Dinagat: Leyte: Luzon: Marinduque: Maripipi: Mindanao: Mindoro: Burias: Panay: Siargao: Ticao,,,,360,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Rattus_feliceus,Seram,,,,306,,,,NT,Faurby et al. 2020,,yes,
+Rodentia,Rattus_fuscipes,,,0.666,125,83.25,-0.176525771,0.176525771,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Rattus_giluwensis,New Guinea,,,,116.7,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_hainaldi,Flores,,,,154,,,,EN,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Rattus_hoffmanni,Sulawesi,,,,147,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_hoogerwerfi,Sumatra,,,,165,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Rattus_jobiensis,Yapen: Biak: Supiori: Owi,,,,380,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_losea,,,1.202,105,126.21,0.079904468,0.079904468,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Rattus_lugens,Siberut: Sipora: Pagai Utara: Pagai Selattan,Rattus_tiomanicus,1.723076923,130,224,0.236304666,0.236304666,gigantism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Rodentia,Rattus_marmosurus,Sulawesi,,,,217,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_mindorensis,Mindoro,Rattus_tiomanicus,1.046153846,130,136,0.019595556,0.019595556,gigantism,LC,Van den Hoek Ostende et al. 2017,Van den Hoek Ostende et al. 2017,yes,
+Rodentia,Rattus_mollicomulus,Sulawesi,,,,143.2,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_montanus,Sri Lanka,,,,136,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Rattus_mordax,New Guinea: Conflict Group: Fergusson: Goodenough: Misima: Normanby: Sideia: Sudest: Woodlark,,,,230,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_morotaiensis,Morotai: Halmahara: Batjan,,,,148.3,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_nikenii,Gag ,,,,184,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Rattus_novaeguineae,New Guinea,,,,133,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_palmarum,Car Nicobar: Great Nicobar,Rattus_tiomanicus,3.776923077,130,491,0.57713814,0.57713814,gigantism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Rodentia,Rattus_pococki,New Guinea,,,,82.8,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_praetor,New Guinea: Bismarck Archipelago: Solomon Islands,,,,204.1,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_richardsoni,New Guinea,,,,64.3,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Rattus_simalurensis,,,1.1135,270,300.645,0.046690221,0.046690221,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Rattus_steini,New Guinea,,,,155,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_stoicus,Henry Lawrence: South Andaman: Middle Andaman ,,,,323,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Rattus_tanezumi,,,1.671,141,235.611,0.22297645,0.22297645,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Rattus_tiomanicus,,,0.8685,119,103.3515,-0.061230177,0.061230177,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Rattus_vandeuseni,New Guinea,,,,67.3,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Rattus_verecundus,New Guinea,,,,108.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Rattus_xanthurus,Sulawesi,,,,303,,,,NT,Faurby et al. 2020,,yes,
+Rodentia,Ratufa_affinis,,,1.096293376,1160,1271.700316,0.03992679,0.03992679,gigantism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Ratufa_bicolor,,,0.919897136,2000,1839.794273,-0.036260733,0.036260733,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Reithrodontomys_megalotis,,,1.371,10.7,14.6697,0.137037455,0.137037455,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Reithrodontomys_spectabilis,Cozumel,Reithrodontomys_gracilis,1.642276423,12.3,20.2,0.215446258,0.215446258,gigantism,CR,Faurby et al. 2020,Ceballos 2014,yes,
+Rodentia,Rheithrosciurus_macrotis,Borneo,,,,1225,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Rhinolophus_affinis,,,1.054751852,21.24207407,22.48620822,0.023150296,0.023150296,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rhinolophus_arcuatus,Sumatra: Borneo: Nusa Tenggara: Sulawesi: Lesser Sunda: Wetar: Moluccas: Buru: Amboina: New Guinea: Biliran: Camiguin: Catanduanes: Dalupiri: Fuga: Guimaras: Leyte: Luzon: Maripipi: Masbate: Mindanao: Mindoro: Negros: Palawan: Panay: Polillo: Sibutu: Sibuyan: Siquijor: Tawi Tawi ,Rhinolophus_euryotis,0.559440559,14.3,8,-0.25224605,0.25224605,dwarfism,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,Patrick et al. 2013,yes,
+Chiroptera,Rhinolophus_blasii,,,0.996,10.2,10.1592,-0.001740662,0.001740662,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rhinolophus_canuti,Java: Nusa Barong,,,,12.7,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Rhinolophus_celebensis,Java: Krakatau: Bali: Sulawesi: Buton: Kabaena: Kangean: Sangihe: Karekelang,Rhinolophus_macrotis,1.080645161,6.2,6.7,0.033683113,0.033683113,gigantism,LC,Faurby et al. 2020,Patrick et al. 2013,yes,
+Chiroptera,Rhinolophus_cognatus,North Andaman: Interview: Baratang: Little Andaman: Paget: Point: North Reef,Rhinolophus_pusillus,0.75,7.2,5.4,-0.124938737,0.124938737,dwarfism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Rhinolophus_creaghi,Borneo: Madura: Palawan,Rhinolophus_euryotis,0.839160839,14.3,12,-0.076154791,0.076154791,dwarfism,LC,Faurby et al. 2020,Patrick et al. 2013,yes,
+Chiroptera,Rhinolophus_euryale,,,0.966,9.18,8.86788,-0.015022874,0.015022874,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rhinolophus_euryotis,Sulawesi: Amboina: Seram: Tanimbar Islands: Buru: Kai: Aru Islands: Halmahera: Bacan: Walgeo: Japen: New Guinea: New Britain: New Ireland: Kiriwina,,,,14.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Rhinolophus_formosae,Taiwan,Rhinolophus_luctus,0.597014925,33.5,20,-0.224014811,0.224014811,dwarfism,LC,Faurby et al. 2020,Volleth et al. 2017,yes,
+Chiroptera,Rhinolophus_hipposideros,,,0.873,4.6,4.0158,-0.058985756,0.058985756,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rhinolophus_inops,Biliran: Camiguin: Catanduanes: Cebu: Luzon: Leyte: Mindanao: Mindoro: Negros: Panay: Polillo: Samar,Rhinolophus_euryotis,1.118881119,14.3,16,0.048783945,0.048783945,gigantism,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,Patrick et al. 2013,yes,
+Chiroptera,Rhinolophus_madurensis,Madura: Kangean ,,,,6.7,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Rhinolophus_montanus,Timor,,,,6.7,,,,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Rhinolophus_pusillus,,,1.021867371,8.75774574,8.949254611,0.009394532,0.009394532,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rhinolophus_rufus,Bohol: Camiguin: Catanduanes: Guimaras: Leyte: Luzon: Marinduque: Mindanao: Mindoro: Polillo,Rhinolophus_euryotis,2.517482517,14.3,36,0.400966463,0.400966463,gigantism,NT,L. R. Heaney based on specimens and data in FMNH Division of Mammals,Patrick et al. 2013,yes,
+Chiroptera,Rhinolophus_trifoliatus,,,0.766,15.1,11.5666,-0.11577123,0.11577123,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rhinolophus_virgo,Batan: Bohol: Busuanga: Camiguin: Camotes: Catanduanes: Cebu: Dondonay: Gigante: Jolo: Leyte: Lubang: Luzon: Leyte: Marinduque: Maripipi: Mindanao: Mindoro: Negros: Palawan: Panay: Sabtang: Sibuyan: Tablas,Rhinolophus_macrotis,0.967741935,6.2,6,-0.014240439,0.014240439,dwarfism,LC,Faurby et al. 2020,Patrick et al. 2013,yes,
+Peramelemorphia,Rhynchomeles_prattorum,Seram,Echymipera_clara,0.639061868,1236.5,790.2,-0.194457095,0.194457095,dwarfism,EN,Faurby et al. 2020,Westerman et al. 2001,yes,
+Rodentia,Rhynchomys_banahao,Luzon,,,,145,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Rhynchomys_isarogensis,Luzon,,,,140,,,,VU,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Rhynchomys_soricoides,Luzon,,,,200,,,,NT,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Chiroptera,Rousettus_amplexicaudatus,,,0.964874463,74,71.40071023,-0.015529188,0.015529188,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rousettus_bidens,Sulawesi: Lembeh: Buton: Menado,,,,171,,,,VU,Faurby et al. 2020,,yes,
+Chiroptera,Rousettus_celebensis,Sulawesi: Mangole: Sanana: Sangihe: Wowoni: Wangiwangi,,,,56.3,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Rousettus_leschenaultii,,,1.271412037,97.1,123.4541088,0.104286319,0.104286319,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Rousettus_madagascariensis,Madagascar: Nosy Be: Nosy Komba: Sainte Marie,Rousettus_aegyptiacus,0.469742814,132.2,62.1,-0.328139855,0.328139855,dwarfism,VU,Faurby et al. 2020,Almeida et al. 2016,yes,
+Chiroptera,Rousettus_obliviosus,Grande Comore: Anjouan: Mohéli,Rousettus_aegyptiacus,0.333585477,132.2,44.1,-0.476792866,0.476792866,dwarfism,VU,Faurby et al. 2020,Almeida et al. 2016,yes,
+Chiroptera,Rousettus_spinalatus,Sumatra: Borneo,,,,90.8,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Rubrisciurus_rubriventer,Sulawesi: Sangir,,,,688.3,,,,VU,Faurby et al. 2020,,yes,
+Artiodactyla,Rusa_alfredi,Panay: Negros,Rusa_unicolor,0.263384946,180344.4,47500,-0.579409052,0.579409052,dwarfism,EN,Faurby et al. 2020: Frantz L. Meijaard E. Gongora J. Haile J. Groenen M.A. and Larson G. 2016. The evolution of Suidae. Annual review of animal biosciences 4 pp.61-85.,Heckeberg 2020,yes,
+Artiodactyla,Rusa_marianna,Luzon: Polillo: Catanduanes: Mindoro: Samar: Leyte: Mindanao: Basilan: Marinduque,Rusa_unicolor,0.277247311,180344.4,50000,-0.557132657,0.557132657,dwarfism,VU,Faurby et al. 2020: Frantz L. Meijaard E. Gongora J. Haile J. Groenen M.A. and Larson G. 2016. The evolution of Suidae. Annual review of animal biosciences 4 pp.61-85.,Heckeberg 2020,yes,
+Artiodactyla,Rusa_timorensis,Java: Bali,Rusa_unicolor,0.349331612,180344.4,63000,-0.456762112,0.456762112,dwarfism,VU,Faurby et al. 2020: Frantz L. Meijaard E. Gongora J. Haile J. Groenen M.A. and Larson G. 2016. The evolution of Suidae. Annual review of animal biosciences 4 pp.61-85.,Heckeberg 2020,yes,
+Artiodactyla,Rusa_unicolor,,,0.907803703,134500,122099.598,-0.04200805,0.04200805,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Salanoia_concolor,Madagascar,,,,650,,,,VU,Faurby et al. 2020,,yes,
+Dasyuromorphia,Sarcophilus_harrisii,Tasmania,,,,8000,,,,EN,McCreless et al. 2016,,yes,
+Primates,Sciurocheirus_alleni_alleni,,,1.139347051,322,366.8697503,0.056656032,0.056656032,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Sciurus_granatensis,,,0.99,200,198,-0.004364805,0.004364805,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Sciurus_lis,Honshu: Shikoku: Awaji,Sciurus_vulgaris,0.793693694,333,264.3,-0.10034707,0.10034707,dwarfism,LC,Faurby et al. 2020,Pe?nerová & Martínková 2012,yes,
+Chiroptera,Scotophilus_collinus,Java: Bali: Lombok: Flores: Timor: Semau: Roti: Borneo: Lembata: Aru Islands,,,,23.4,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Scotophilus_marovaza,Madagascar,Scotophilus_leucogaster,0.702970297,20.2,14.2,-0.153063025,0.153063025,dwarfism,LC,Faurby et al. 2020,Trujillo et al. 2009,yes,
+Chiroptera,Scotophilus_robustus,Madagascar,,,,44.8,,,,LC,Faurby et al. 2020,,yes,
+Primates,Trachypithecus_vetulus,,,0.504715178,8500,4290.079009,-0.296953635,0.296953635,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Afrosoricida,Setifer_setosus,Madagascar,,,,294,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Setonix_brachyurus,,,1.0665,3030,3231.495,0.02796086,0.02796086,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Simias_concolor,,,0.426778844,8700,4177.654592,-0.369797117,0.369797117,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Dasyuromorphia,Sminthopsis_aitkeni,Kangaroo,Sminthopsis_griseoventer,1.285714286,17.5,22.5,0.109144469,0.109144469,gigantism,CR,Faurby et al. 2020,Kemper et al. 2011,yes,
+Dasyuromorphia,Sminthopsis_leucopus,,,1.230769231,26,32,0.09017663,0.09017663,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Solenodon_cubanus,Cuba,Solenodon_paradoxus,0.722222222,900,650,-0.141329153,0.141329153,dwarfism,EN,Faurby et al. 2020,Sato et al. 2016,yes,
+Eulipotyphla,Solenodon_paradoxus,Hispaniola,,,,810,,,,EN,Turvey et al. 2021,,yes,
+Eulipotyphla,Solisorex_pearsoni,Sri Lanka,,,,66.6,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Solomys_ponceleti,Bougainville: Choiseul,Melomys_leucogaster,9.22,108.5,1000,0.964730921,0.964730921,gigantism,CR,Faurby et al. 2020,Lavery & Judge 2017,yes,
+Rodentia,Solomys_salebrosus,Bougainville: Choiseul,Melomys_leucogaster,3.456221198,108.5,375,0.53860153,0.53860153,gigantism,EN,Lavery & Judge 2017,Lavery & Judge 2017,yes,
+Rodentia,Solomys_sapientis,Santa Isabel,,,,225.5,,,,EN,Faurby et al. 2020,,yes,
+Eulipotyphla,Sorex_araneus,,,1.090154194,9.5,10.35646484,0.03748793,0.03748793,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_arcticus,,,1.05,8,8.4,0.021189299,0.021189299,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_caecutiens,,,1.148853955,5.378,6.180365,0.060264824,0.060264824,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_cinereus,,,1.0255,4.14,4.24557,0.010935665,0.010935665,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_hosonoi,Honshu,Sorex_minutissimus,1.32,2.5,3.3,0.120573931,0.120573931,gigantism,LC,Faurby et al. 2020,Ohdachi et al. 2012,yes,
+Eulipotyphla,Sorex_jacksoni,Saint Lawrence,Sorex_camtschatica,0.760869565,4.6,3.5,-0.118689787,0.118689787,dwarfism,LC,Faurby et al. 2020,Hope et al. 2012,yes,
+Eulipotyphla,Sorex_minutus,,,1.014628494,4.14,4.05099,0.006307055,0.006307055,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_monticolus,,,0.964,7.5,7.23,-0.015922966,0.015922966,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_ornatus,,,1.295,5,6.475,0.112269768,0.112269768,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_palustris,,,1.15,11,12.65,0.06069784,0.06069784,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Sorex_pribilofensis,,,1.19,8,9.52,0.075546961,0.075546961,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Sorex_shinto,,,1.4,7,9.8,0.146128036,0.146128036,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Sorex_trowbridgii,,,1.26,6,7.56,0.100370545,0.100370545,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Soricomys_kalinga,Luzon,,,,27,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Soricomys_montanus,Luzon,,,,28,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Rodentia,Soricomys_musseri,Luzon,,,,31,,,,LC,L. R. Heaney based on specimens and data in FMNH Division of Mammals,,yes,
+Diprotodontia,Spilocuscus_kraemeri,Manus: Los Negros: Lou: Luf: Wuvulu,Spilocuscus_maculatus,0.450379886,5106.8,2300,-0.346421014,0.346421014,dwarfism,NT,Faurby et al. 2020,Helgen & Flannery 2004,yes,
+Diprotodontia,Spilocuscus_papuensis,Waigeo ,Spilocuscus_maculatus,1.123110363,5106.8,5735.5,0.050422434,0.050422434,gigantism,VU,Faurby et al. 2020,Helgen & Flannery 2004,yes,
+Diprotodontia,Spilocuscus_rufoniger,New Guinea,Spilocuscus_maculatus,1.17490405,5106.8,6000,0.070002401,0.070002401,gigantism,CR,Faurby et al. 2020,Helgen & Flannery 2004,yes,
+Diprotodontia,Spilocuscus_wilsoni,Biak: Supiori,Spilocuscus_maculatus,0.638814913,5106.8,3262.3,-0.194624954,0.194624954,dwarfism,CR,Faurby et al. 2020,Helgen & Flannery 2004,yes,
+Carnivora,Spilogale_gracilis,,,1.17,500,585,0.068185862,0.068185862,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Spilogale_putorius,,,1.018,569,579.242,0.007747778,0.007747778,gigantism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Srilankamys_ohiensis,Sri Lanka,Dacnomys_millardi,0.699554069,179.4,125.5,-0.155178713,0.155178713,dwarfism,VU,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Chiroptera,Stenoderma_rufum,Puerto Rico: Vieques: St. Thomas: St. John: St. Croix,,,,20.7,,,,NT,Faurby et al. 2020,,yes,
+Diprotodontia,Strigocuscus_celebensis,Sulawesi: Sangihe: Siau,,,,500,,,,NT,Faurby et al. 2020,,yes,
+Diprotodontia,Strigocuscus_pelengensis,Mangole: Taliabu: Peleng ,,,,1103,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Sturnira_angeli,Martinique: Dominica: Guadeloupe Islands: Montserrat,Sturnira_luisi,1.814011676,11.99,21.75,0.258640078,0.258640078,gigantism,NT,Catzeflis et al. 2019: Jones et al. 2009,Velazco & Patterson 2013,yes,
+Chiroptera,Sturnira_paulsoni,St Vincent: Grenada: St Lucia,Sturnira_luisi,1.511162433,12.99,19.63,0.179311149,0.179311149,gigantism,NT,Pedersen et al. 2018: Jones et al. 2009,Velazco & Patterson 2013,yes,
+Chiroptera,Styloctenium_mindorensis,Mindoro,,,,212,,,,EN,Faurby et al. 2020,,yes,
+Chiroptera,Styloctenium_wallacei,Sulawesi,,,,173,,,,NT,Faurby et al. 2020,,yes,
+Eulipotyphla,Suncus_fellowesgordoni,Sri Lanka,Suncus_etruscus,1.761904762,2.1,3.7,0.245982429,0.245982429,gigantism,EN,Faurby et al. 2020,Meegaskumbura et al. 2012,yes,
+Eulipotyphla,Suncus_mertensi,Flores,,,,8,,,,EN,Faurby et al. 2020,,yes,
+Eulipotyphla,Suncus_murinus,,,0.905,43.2,39.096,-0.043351421,0.043351421,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Eulipotyphla,Suncus_zeylanicus,Sri Lanka,Suncus_montanus,1.655555556,18,29.8,0.218943759,0.218943759,gigantism,EN,Faurby et al. 2020,Meegaskumbura et al. 2010,yes,
+Rodentia,Sundamys_infraluteus,Sumatra: Borneo,,,,418.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Sundamys_maxi,Java,,,,361,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Sundamys_muelleri,,,0.939,356,334.284,-0.027334408,0.027334408,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Sundasciurus_brookei,Borneo,Sundasciurus_tenuis,1.56504065,73.8,115.5,0.194525622,0.194525622,gigantism,LC,Faurby et al. 2020,Hawkins et al. 2016,yes,
+Rodentia,Sundasciurus_fraterculus,Siberut: Sipora: North: South Pagai,Sundasciurus_lowii,0.669714286,87.5,58.6,-0.174110437,0.174110437,dwarfism,VU,Faurby et al. 2020,Hawkins et al. 2016,yes,
+Rodentia,Sundasciurus_hoogstraali,Busuanga: Calauit,Sundasciurus_hippurus,0.655427024,406.3,266.3,-0.183475656,0.183475656,dwarfism,LC,Faurby et al. 2020,den Tex et al. 2010,yes,
+Rodentia,Sundasciurus_jentinki,Borneo,Sundasciurus_tenuis,1.029810298,73.8,76,0.01275723,0.01275723,gigantism,LC,Faurby et al. 2020,Hawkins et al. 2016,yes,
+Rodentia,Sundasciurus_juvencus,Palawan,Sundasciurus_hippurus,0.637460005,406.3,259,-0.195547058,0.195547058,dwarfism,LC,Faurby et al. 2020,den Tex et al. 2010,yes,
+Rodentia,Sundasciurus_lowii,,,1.028,85,87.38,0.011993115,0.011993115,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Sundasciurus_moellendorffi,Culion: Linapacan: Iloc: Tampel,Sundasciurus_hippurus,0.620231356,406.3,252,-0.207446282,0.207446282,dwarfism,NT,Faurby et al. 2020,den Tex et al. 2010,yes,
+Rodentia,Sundasciurus_philippinensis,Basilan: Biliran: Bohol: Dinagat: Leyte: Mindanao: Samar: Siargao,Sundasciurus_hippurus,0.600541472,406.3,244,-0.221456996,0.221456996,dwarfism,LC,Faurby et al. 2020,den Tex et al. 2010,yes,
+Rodentia,Sundasciurus_samarensis,Samar: Leyte,Sundasciurus_hippurus,0.553777997,406.3,225,-0.256664304,0.256664304,dwarfism,LC,Faurby et al. 2020,den Tex et al. 2010,yes,
+Rodentia,Sundasciurus_steerii,Balabac: Bancalan: Matangule: southern Palawan ,Sundasciurus_hippurus,0.620231356,406.3,252,-0.207446282,0.207446282,dwarfism,LC,Faurby et al. 2020,den Tex et al. 2010,yes,
+Rodentia,Sundasciurus_tenuis,,,1.255473373,75.85,113.81055,0.098807506,0.098807506,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Sus_ahoenobarbus,Palawan,Sus_barbatus,0.804960284,70500,56749.7,-0.094225547,0.094225547,dwarfism,NT,Faurby et al. 2020,Frantz et al. 2016,yes,
+Artiodactyla,Sus_barbatus,,,0.937404459,135000,126549.6019,-0.028072985,0.028072985,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Sus_cebifrons,Negros: Panay: Masbate,Sus_barbatus,0.460992908,70500,32500,-0.336305756,0.336305756,dwarfism,CR,Faurby et al. 2020,Frantz et al. 2016,yes,
+Artiodactyla,Sus_celebensis,Sulawesi: Buton: Muna: Kabeana: Peleng: Lembeh:Togian ,Sus_barbatus,0.780141844,70500,55000,-0.107826427,0.107826427,dwarfism,NT,Faurby et al. 2020,Frantz et al. 2016,yes,
+Artiodactyla,Sus_oliveri,Mindoro,Sus_barbatus,0.635478014,70500,44801.2,-0.19689947,0.19689947,dwarfism,VU,Faurby et al. 2020,Frantz et al. 2016,yes,
+Artiodactyla,Sus_philippensis,Luzon: Polillo: Catanduanes: Marinduque: Samar: Leyte: Biliran: Bohol: Mindanao: Camiguin Sul: Basilan,Sus_barbatus,0.62770922,70500,44253.5,-0.202241492,0.202241492,dwarfism,VU,Faurby et al. 2020,Frantz et al. 2016,yes,
+Artiodactyla,Sus_verrucosus,Java: Bawean,Sus_scrofa,0.915369399,101052.1,92500,-0.03840361,0.03840361,dwarfism,EN,Faurby et al. 2020,Frantz et al. 2016,yes,
+Chiroptera,Syconycteris_australis,,,0.981720244,24.45,23.34586642,-0.008012254,0.008012254,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Syconycteris_carolinae,Halmahera: Bacan,Syconycteris_hobbit,2.131147541,18.3,39,0.328613517,0.328613517,gigantism,VU,Faurby et al. 2020,Upham et al. 2019,yes,
+Chiroptera,Syconycteris_hobbit,New Guinea,,,,18.3,,,,LC,Faurby et al. 2020,,yes,
+Lagomorpha,Sylvilagus_bachmani,,,1.28,700,896,0.10720997,0.10720997,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Lagomorpha,Sylvilagus_brasiliensis,,,1.31,1200,1572,0.117271296,0.117271296,gigantism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Lagomorpha,Sylvilagus_graysoni,,,0.89,2200,1958,-0.050609993,0.050609993,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Lagomorpha,Sylvilagus_mansuetus,,,0.95,700,665,-0.022276395,0.022276395,dwarfism,CR,Island populations dataset in this study,,yes,Median values from population dataset
+Eulipotyphla,Sylvisorex_isabellae,Bioko,,,,7.5,,,,VU,McCreless et al. 2016,,yes,
+Rodentia,Taeromys_arcuatus,Sulawesi,,,,227,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Taeromys_celebensis,Sulawesi,,,,252.7,,,,LC,Fabre et al. 2017,,yes,
+Rodentia,Taeromys_taerae,Sulawesi,,,,247,,,,VU,Faurby et al. 2020,,yes,
+Rodentia,Tamiasciurus_hudsonicus,,,0.985,190,187.15,-0.00656377,0.00656377,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Tamiops_swinhoei,,,0.673,60,40.38,-0.171984936,0.171984936,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Chiroptera,Taphozous_melanopogon,,,1.015,26.3,26.6945,0.006466042,0.006466042,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Tarsius_dentatus,Sulawesi,,,,107,,,,VU,Faurby et al. 2020,,yes,
+Primates,Tarsius_pelengensis,,,1.185515788,57.5,68.16715782,0.073907342,0.073907342,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Tarsius_sangirensis,,,1.207602339,114,137.6666667,0.081923946,0.081923946,gigantism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Primates,Tarsius_tarsier,Sulawesi: Buton: Muna: Kabaena: Selayar: Togian ,,,,200,,,,VU,Faurby et al. 2020,,yes,
+Primates,Tarsius_tumpara,Siau,,,,104,,,,CR,Faurby et al. 2020,,yes,
+Rodentia,Tarsomys_apoensis,Mindanao,,,,69,,,,LC,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Tarsomys_echinatus,Mindanao,,,,87.1,,,,VU,Faurby et al. 2020,,yes,
+Afrosoricida,Tenrec_ecaudatus,Madagascar,,,,868,,,,LC,Faurby et al. 2020,,yes,
+Chiroptera,Thoopterus_nigrescens,Sulawesi: Buton: Mangole: Talaud: Sangihe: Wowoni,,,,60.4,,,,LC,Faurby et al. 2020,,yes,
+Diprotodontia,Thylogale_browni,New Guinea: Bagabag: New Britain: New Ireland Umboi,Thylogale_stigmatica,1.19,4600,5478,0.075546961,0.075546961,gigantism,VU,Faurby et al. 2020,Macqueen et al. 2011,yes,
+Diprotodontia,Thylogale_brunii,New Guinea: Aru Islands: Kai ,Thylogale_stigmatica,0.786956522,4600,3620,-0.104049261,0.104049261,dwarfism,VU,Faurby et al. 2020,Macqueen et al. 2011,yes,
+Diprotodontia,Thylogale_calabyi,New Guinea,Thylogale_stigmatica,0.940456522,4600,4326.1,-0.026661278,0.026661278,dwarfism,EN,Faurby et al. 2020,Macqueen et al. 2011,yes,
+Diprotodontia,Thylogale_lanatus,New Guinea,Thylogale_stigmatica,1.155673913,4600,5316.1,0.06283531,0.06283531,gigantism,EN,Faurby et al. 2020,Macqueen et al. 2011,yes,
+Didelphimorphia,Tlacuatzin_canescens,,,1.07,85,90.95,0.029383778,0.029383778,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Tokudaia_muenninki,Okinawa: Kume: Ie,,,,122,,,,CR,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Tokudaia_osimensis,Amami Oshima,,,,87,,,,EN,Van den Hoek Ostende et al. 2017,,yes,
+Rodentia,Tokudaia_tokunoshimensis,Tokunoshima,,,,290.5,,,,EN,Faurby et al. 2020,,yes,
+Primates,Trachypithecus_auratus,Java: Bali: Lombok: Palau Sempu: Nusa Barung,Trachypithecus_cristatus,1.352380952,5250,7100,0.131099045,0.131099045,gigantism,VU,Faurby et al. 2020,Roos et al. 2008,yes,
+Primates,Trachypithecus_cristatus,,,0.857546589,7130,6114.307182,-0.066742276,0.066742276,dwarfism,VU,Island populations dataset in this study,,no,Median values from population dataset
+Primates,Trachypithecus_obscurus,,,1.336,7120,9512.32,0.125806458,0.125806458,gigantism,EN,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Tragulus_kanchil,,,1.118,1870,2193.51,0.048441804,0.048441804,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Tragulus_napu,,,0.812,5230,4246.76,-0.090443971,0.090443971,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Artiodactyla,Tragulus_nigricans,Balabac: Bugsuk: Ramos,Tragulus_napu,0.61845,4000,2473.8,-0.208695406,0.208695406,dwarfism,EN,Faurby et al. 2020,Frantz et al. 2016,yes,
+Chiroptera,Triaenops_rufus,Madagascar,Triaenops_persicus,0.833333333,12.6,10.5,-0.079181246,0.079181246,dwarfism,LC,Faurby et al. 2020,Goodman & Ranivo 2008,yes,
+Rodentia,Tscherskia_triton,,,1.054,132,139.128,0.022840611,0.022840611,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Scandentia,Tupaia_belangeri,,,0.965,200,193,-0.015472687,0.015472687,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Scandentia,Tupaia_chrysogaster,North: South Pagai: Sipora: Siberut,Tupaia_belangeri,0.8885,200,177.7,-0.051342568,0.051342568,dwarfism,VU,Faurby et al. 2020,Roberts et al. 2011,yes,
+Scandentia,Urogale_everetti,,,0.843139002,224,188.8631363,-0.074100821,0.074100821,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Scandentia,Tupaia_glis,,,0.897986164,132,133.848,-0.046730355,0.046730355,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Scandentia,Tupaia_gracilis,,,0.972,112,108.864,-0.012333735,0.012333735,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Scandentia,Tupaia_javanica,Sumatra: Bali: Java: Nias,,,,105,,,,LC,Faurby et al. 2020,,yes,
+Scandentia,Tupaia_longipes,Borneo,Tupaia_belangeri,0.98,200,196,-0.008773924,0.008773924,dwarfism,LC,Faurby et al. 2020,Roberts et al. 2011,yes,
+Scandentia,Tupaia_minor,,,1.015,70,71.05,0.006466042,0.006466042,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Scandentia,Tupaia_montana,Borneo,,,,199,,,,LC,Faurby et al. 2020,,yes,
+Scandentia,Tupaia_nicobarica,,,0.959,170,163.03,-0.018181393,0.018181393,dwarfism,EN,Island populations dataset in this study,,yes,Median values from population dataset
+Scandentia,Tupaia_palawanensis,,,0.703,168,118.104,-0.153044675,0.153044675,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Scandentia,Tupaia_picta,Borneo,,,,147.5,,,,LC,Faurby et al. 2020,,yes,
+Scandentia,Tupaia_splendidula,,,1.019,168,171.192,0.008174184,0.008174184,gigantism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Scandentia,Tupaia_tana,,,0.948,182,172.536,-0.023191663,0.023191663,dwarfism,LC,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Urocitellus_parryii,,,0.9,700,630,-0.045757491,0.045757491,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Urocyon_cinereoargenteus,,,0.343,4500,1543.5,-0.46470588,0.46470588,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Urocyon_littoralis,,,0.64,4500,2880,-0.193820026,0.193820026,dwarfism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Rodentia,Uromys_anak,New Guinea,,,,664.5,,,,LC,Faurby et al. 2020,,yes,
+Rodentia,Uromys_boeadii,Biak,Uromys_anak,0.644394281,664.5,428.2,-0.190848322,0.190848322,dwarfism,CR,Faurby et al. 2020,Groves & Flannery 1994,yes,
+Rodentia,Uromys_emmae,Owi,Uromys_caudimaculatus,0.701054713,606.8,425.4,-0.154248087,0.154248087,dwarfism,CR,Faurby et al. 2020,Groves & Flannery 1994,yes,
+Rodentia,Uromys_imperator,Guadalcanal,Uromys_caudimaculatus,1.647989453,606.8,1000,0.216954428,0.216954428,gigantism,CR,Faurby et al. 2020,Groves & Flannery 1994,yes,
+Rodentia,Uromys_neobritannicus,New Britain,Uromys_anak,0.921745673,664.5,612.5,-0.035388892,0.035388892,dwarfism,NT,Faurby et al. 2020,Groves & Flannery 1994,yes,
+Rodentia,Uromys_porculus,Guadalcanal,Uromys_caudimaculatus,0.693309163,606.8,420.7,-0.15907306,0.15907306,dwarfism,CR,Faurby et al. 2020,Groves & Flannery 1994,yes,
+Rodentia,Uromys_rex,Guadalcanal,Uromys_caudimaculatus,0.69215557,606.8,420,-0.159796282,0.159796282,dwarfism,EN,Faurby et al. 2020,Groves & Flannery 1994,yes,
+Rodentia,Uromys_vika,Vangunu,Uromys_caudimaculatus,0.617996045,606.8,375,-0.209014304,0.209014304,dwarfism,CR,Lavery & Judge 2017,Lavery & Judge 2017,yes,
+Eulipotyphla,Urotrichus_talpoides,Honshu: Shikoku: Kyushu: Awaji: Shodo: Oki: Tsushima: Goto: Mishima: Awashima,,,,45,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Ursus_americanus,,,0.983721251,111000,109193.0588,-0.007127947,0.007127947,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Ursus_arctos,,,0.9455,196000,185318,-0.024338467,0.024338467,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Herpestes_brachyurus,,,0.833553097,1995.262315,1663.157082,-0.079066731,0.079066731,dwarfism,NT,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Herpestes_javanicus,,,0.9305,765,711.8325,-0.031283623,0.031283623,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Herpestes_semitorquatus,,,0.794018631,3162.27766,2510.907379,-0.100169307,0.100169307,dwarfism,NT,Island populations dataset in this study,,yes,Median values from population dataset
+Carnivora,Herpestes_smithii,,,1.008725254,2089.296131,2107.525771,0.003772894,0.003772894,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Herpestes_urva,,,0.889917284,2380,2118.003135,-0.050650358,0.050650358,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Vandeleuria_nolthenii,Sri Lanka,Vandeleuria_oleracea,5.66,10,56.6,0.752816431,0.752816431,gigantism,EN,Faurby et al. 2020,IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1.,yes,
+Primates,Varecia_rubra,Madagascar,,,,3450,,,,CR,Faurby et al. 2020,,yes,
+Primates,Varecia_variegata,Madagascar,,,,3350,,,,CR,Faurby et al. 2020,,yes,
+Carnivora,Viverra_tangalunga,,,0.880285777,7350,6470.100458,-0.055376315,0.055376315,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Viverricula_indica,,,0.885,2980,2637.3,-0.053056729,0.053056729,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Voalavo_antsahabensis,Madagascar,,,,21.8,,,,EN,Faurby et al. 2020,,yes,
+Rodentia,Voalavo_gymnocaudus,Madagascar,,,,21.8,,,,LC,Faurby et al. 2020,,yes,
+Carnivora,Vulpes_lagopus,,,0.95,3140,2983,-0.022276395,0.022276395,dwarfism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Carnivora,Vulpes_vulpes,,,1.008,4840,4878.72,0.003460532,0.003460532,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
+Rodentia,Xenuromys_barbatus,New Guinea,,,,1000,,,,LC,Faurby et al. 2020,,yes,
+Monotremata,Zaglossus_attenboroughi,New Guinea,,,,4332.1,,,,CR,Faurby et al. 2020,,yes,
+Monotremata,Zaglossus_bartoni,New Guinea,,,,9413.8,,,,VU,Faurby et al. 2020,,yes,
+Monotremata,Zaglossus_bruijnii,New Guinea: Salawati,,,,7800,,,,CR,Faurby et al. 2020,,yes,
+Rodentia,Zygodontomys_brevicauda,,,1.772,52.2,92.4984,0.248463718,0.248463718,gigantism,LC,Island populations dataset in this study,,no,Median values from population dataset
