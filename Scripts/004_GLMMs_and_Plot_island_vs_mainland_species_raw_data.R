@@ -11,7 +11,6 @@ library(forcats)
 library(lme4)
 library(sjPlot)
 library(car)
-library(DHARMa)
 library(RColorBrewer)
 library(ggeffects)
 library(visreg)
@@ -174,16 +173,8 @@ island_sp_mainlandvsisland$Body_mass_log <- log(island_sp_mainlandvsisland$Body_
 
 glmer1 <- glmer(Pr_extinction ~ Body_mass_log * Island_or_mainland + (1|Order), data = island_sp_mainlandvsisland, family=binomial(link="logit"))
 
-#Check VIF
-vif(glmer1)
-
 #Visualize results and save table as doc file
 tab_model(glmer1, show.aicc = TRUE, file = "Results/GLMMs/Table_models_ext_main_vs_isl.doc")
-
-#Perform model diagnostics with DHARMa
-glmer.sim <- simulateResiduals(glmer1, integerResponse = TRUE, n = 250)
-plot(glmer.sim)
-testDispersion(glmer.sim)
 
 #######################
 # Plot model       ####
@@ -303,16 +294,8 @@ ggsave(plot3, filename = "Percentage&number_hist_extinct_per_size_class_island_v
 
 glmer2 <- glmer(Pr_hist_extinction ~ Body_mass_log * Island_or_mainland + (1|Order), data = island_sp_mainlandvsisland, family=binomial(link="logit"))
 
-#Check VIF
-vif(glmer2)
-
 #Visualize results and save table as doc file
 tab_model(glmer2, show.aicc = TRUE, file = "Results/GLMMs/Table_models_hist_ext_main_vs_isl.doc")
-
-#Perform model diagnostics with DHARMa
-glmer.sim <- simulateResiduals(glmer2, integerResponse = TRUE, n = 250)
-plot(glmer.sim)
-testDispersion(glmer.sim)
 
 #######################
 # Plot model       ####
@@ -390,7 +373,7 @@ island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
   mutate(number_threatened_per_size_class_island_vs_mainland = length(Pr_threatened))
 
 #Create another dataset without nonthreatened data
-island_sp_mainlandvsisland_only_threatened <- filter(island_sp_mainlandvsisland, Pr_threatened != "nonthreatened") #taglia tutte le righe in cui IUCN_Category è DD
+island_sp_mainlandvsisland_only_threatened <- filter(island_sp_mainlandvsisland, Pr_threatened != "nonthreatened") #taglia tutte le righe in cui IUCN_Category Ã¨ DD
 
 ###################################################################################################
 # Plot raw data: percentage and number of threatened taxa per BM class on islands vs mainland  ####
@@ -427,16 +410,8 @@ ggsave(plot5, filename = "Percentage&number_threatened_per_size_class_island_vs_
 
 glmer3 <- glmer(Pr_threatened ~ Body_mass_log * Island_or_mainland + (1|Order), data = island_sp_mainlandvsisland, family=binomial(link="logit"))
 
-#Check VIF
-vif(glmer3) 
-
 #Visualize results and save table as doc file
 tab_model(glmer3, show.aicc = TRUE, file = "Results/GLMMs/Table_models_thr_main_vs_isl.doc") 
-
-#Perform model diagnostics with DHARMa
-glmer.sim <- simulateResiduals(glmer2, integerResponse = TRUE, n = 250)
-plot(glmer.sim)
-testDispersion(glmer.sim)
 
 #######################
 # Plot model       ####
