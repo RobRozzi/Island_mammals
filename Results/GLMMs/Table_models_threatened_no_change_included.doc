@@ -1,0 +1,312 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm;  text-align:left; ">&nbsp;</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Pr_threatened</th>
+</tr>
+<tr>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  text-align:left; ">Predictors</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">p</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  col7">p</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  col8">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  col9">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  0">p</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  1">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  2">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  3">p</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  4">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  5">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  6">p</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  7">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  8">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  9">p</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  0">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  1">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  2">p</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  3">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  4">CI</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  5">p</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">(Intercept)</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.73</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.41&nbsp;&ndash;&nbsp;1.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.277</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.46</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.26&nbsp;&ndash;&nbsp;0.83</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col7"><strong>0.010</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col8">0.71</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col9">0.40&nbsp;&ndash;&nbsp;1.25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">0.231</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">0.45</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2">0.25&nbsp;&ndash;&nbsp;0.81</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  3"><strong>0.008</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  4">0.45</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  5">0.25&nbsp;&ndash;&nbsp;0.81</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  6"><strong>0.008</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  7">0.44</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  8">0.23&nbsp;&ndash;&nbsp;0.82</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  9"><strong>0.010</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">0.42</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">0.22&nbsp;&ndash;&nbsp;0.79</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2"><strong>0.007</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 3">0.69</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 4">0.38&nbsp;&ndash;&nbsp;1.24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 5">0.213</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Magnitude body size<br>change</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">38.53</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">10.67&nbsp;&ndash;&nbsp;139.18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col7"><strong>&lt;0.001</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col8"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col9"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">39.83</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2">10.87&nbsp;&ndash;&nbsp;145.94</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  3"><strong>&lt;0.001</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  4">40.42</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  5">10.81&nbsp;&ndash;&nbsp;151.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  6"><strong>&lt;0.001</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  7">29.78</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  8">5.57&nbsp;&ndash;&nbsp;159.27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  9"><strong>&lt;0.001</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">32.53</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">5.86&nbsp;&ndash;&nbsp;180.60</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2"><strong>&lt;0.001</strong></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 4"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 5"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Body mass island taxon<br>scaled</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col8">2.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col9">0.94&nbsp;&ndash;&nbsp;4.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">0.069</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">2.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2">0.92&nbsp;&ndash;&nbsp;4.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  3">0.080</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  4">2.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  5">0.83&nbsp;&ndash;&nbsp;4.94</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  6">0.121</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  8"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  9"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">2.12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">0.93&nbsp;&ndash;&nbsp;4.86</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2">0.075</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 4"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 5"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Magnitude body size<br>change * Body mass island<br>taxon scaled</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col8"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col9"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  4">1.57</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  5">0.01&nbsp;&ndash;&nbsp;315.52</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  6">0.867</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  8"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  9"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 4"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 5"></td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Direction body size<br>change [gigantism]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col8"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col9"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  4"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  5"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  6"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  7">1.16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  8">0.71&nbsp;&ndash;&nbsp;1.91</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  9">0.549</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">1.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">0.73&nbsp;&ndash;&nbsp;2.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2">0.452</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 3">1.17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 4">0.82&nbsp;&ndash;&nbsp;1.67</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 5">0.386</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Direction body size<br>change [no change]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col8"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col9"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  4"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  5"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  6"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  7">0.74</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  8">0.08&nbsp;&ndash;&nbsp;6.59</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  9">0.788</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">0.78</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">0.09&nbsp;&ndash;&nbsp;6.99</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2">0.826</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 3">0.45</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 4">0.05&nbsp;&ndash;&nbsp;4.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 5">0.477</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Magnitude body size<br>change * Direction body<br>size change [gigantism]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col7"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col8"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  col9"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  4"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  5"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  6"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  7">2.10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  8">0.15&nbsp;&ndash;&nbsp;29.67</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  9">0.583</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  0">1.87</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  1">0.13&nbsp;&ndash;&nbsp;26.98</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  2">0.646</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 3"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 4"></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 5"></td>
+</tr>
+<tr>
+<td colspan="25" style="font-weight:bold; text-align:left; padding-top:.8em;">Random Effects</td>
+</tr>
+
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">&sigma;<sup>2</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">3.29</td>
+</tr>
+
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">&tau;<sub>00</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.88 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.86 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.85 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.86 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.86 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.87 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.86 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.88 <sub>Order</sub></td>
+
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">ICC</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.21</td>
+
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">18 <sub>Order</sub></td>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm; border-top:1px solid;">Observations</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">650</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">Marginal R<sup>2</sup> / Conditional R<sup>2</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.000 / 0.211</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.072 / 0.264</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.119 / 0.299</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.178 / 0.349</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.191 / 0.359</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.076 / 0.269</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.183 / 0.352</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.003 / 0.214</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">AICc</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">817.873</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">782.306</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">813.572</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">778.223</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">780.222</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">786.283</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">781.974</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">820.458</td>
+</tr>
+
+</table>
+
