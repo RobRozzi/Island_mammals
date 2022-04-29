@@ -217,7 +217,7 @@ table <- table %>% tab_header(
 table
 
 #Save the table
-gtsave(table, filename = "Table_phylogenetic_signal.png", path = "/Results/PLRs")
+gtsave(table, filename = "Table_phylogenetic_signal.html", path = "/Results/PLRs")
 
 #######################################################
 # Plot phylo signal for Magnitude (K, lambda) and  ####

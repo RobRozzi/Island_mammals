@@ -92,7 +92,7 @@ rownames(db_total)=db_total$Latin_binomial
 PLR1 <- tree_phyglm(Pr_extinction_bin ~ Magnitude_body_size_change, data = db_total, phy = trees_complete_TACT, n.tree = 100)
 summary(PLR1)
 sensi_plot1 <- sensi_plot(PLR1, graphs = 3)
-ggsave(sensi_plot1, filename = "PLR_P(hist_extinct)_vs_Magnitude_body_size_change_fossil_species_phylo_uncertainty_complete_trees_TACT.pdf", width = 6, height = 6, device = cairo_pdf)
+ggsave(sensi_plot1, filename = "PLR_P(hist_extinct)_vs_Magnitude_body_size_change_fossil_species_phylo_uncertainty_complete_trees_TACT.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf)
 
 #Extract summary stats in a table
 stats_PLR1 <- PLR1$all.stats
@@ -180,7 +180,7 @@ gt_tbl1 <- gt_tbl1 %>% tab_header(
 gt_tbl1
 
 #Save the table
-gtsave(gt_tbl1, "Table_Summ_stats_PLR_P(hist_extinct)_vs_Magnitude_fossil_species.html")
+gtsave(gt_tbl1, filename = "Table_Summ_stats_PLR_P(hist_extinct)_vs_Magnitude_fossil_species.html", path = "/Results/PLRs")
 
 #######################################################
 # Fit model and calculate summary stats for Body mass #
@@ -190,7 +190,7 @@ db_total$Body_mass_island_taxon <- scale(db_total$Body_mass_island_taxon) #scale
 PLR2 <- tree_phyglm(Pr_extinction_bin ~ Body_mass_island_taxon, data = db_total, phy = trees_complete_TACT, n.tree = 100, btol = 25)
 summary(PLR2)
 sensi_plot2 <- sensi_plot(PLR2, graphs = 3)
-ggsave(sensi_plot2, filename = "PLR_P(hist_extinct)_vs_Body_mass_fossil_species_phylo_uncertainty_complete_trees_TACT.pdf", width = 6, height = 6, device = cairo_pdf)
+ggsave(sensi_plot2, filename = "PLR_P(hist_extinct)_vs_Body_mass_fossil_species_phylo_uncertainty_complete_trees_TACT.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf)
 
 #Extract summary stats in a table
 stats_PLR2 <- PLR2$all.stats
@@ -266,6 +266,6 @@ gt_tbl2 <- gt_tbl2 %>% tab_header(
 gt_tbl2
 
 #Save the table
-gtsave(gt_tbl2, "Table_Summ_stats_PLR_P(hist_extinct)_vs_Body_mass_fossil_species.html")
+gtsave(gt_tbl2, filename = "Table_Summ_stats_PLR_P(hist_extinct)_vs_Body_mass_fossil_species.html", path = "/Results/PLRs")
 
 #End of script

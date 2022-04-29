@@ -115,7 +115,7 @@ PLR5 <- tree_intra_phyglm(Pr_threatened_bin ~ Magnitude_body_size_change_mean, d
 summary(PLR5)
 #Visualize diagnostics for interaction between phylo uncertainty and data uncertainty
 sensi_plot5 <- sensi_plot(PLR5, graphs = 3, uncer.type = "all")
-ggsave(sensi_plot5, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.pdf", width = 6, height = 6, device = cairo_pdf)
+ggsave(sensi_plot5, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf)
 
 #Extract summary stats in a table
 stats_PLR5 <- PLR5$all.stats
@@ -214,7 +214,7 @@ gt_tbl5 <- gt_tbl5 %>% tab_header(
 gt_tbl5
 
 #Save the table
-gtsave(gt_tbl5, "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.html")
+gtsave(gt_tbl5, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.html", path = "/Results/PLRs")
 
 #######################################################
 # Fit model and calculate summary stats for Body mass #
@@ -225,7 +225,7 @@ PLR6 <- tree_intra_phyglm(Pr_threatened_bin ~ Body_mass_island_taxon_scaled_mean
 summary(PLR6)
 #Visualize diagnostics for interaction between phylo uncertainty and data uncertainty
 sensi_plot6 <- sensi_plot(PLR6, graphs = 3, uncer.type = "all")
-ggsave(sensi_plot6, filename = "PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.pdf") 
+ggsave(sensi_plot6, filename = "PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.pdf", path = "/Results/PLRs") 
 
 #Extract summary stats in a table
 stats_PLR6 <- PLR6$all.stats
@@ -312,7 +312,7 @@ gt_tbl6 <- gt_tbl6 %>% tab_header(
 gt_tbl6
 
 #Save the table
-gtsave(gt_tbl6, "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.html")
+gtsave(gt_tbl6, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.html", path = "/Results/PLRs")
 
 #############################################################################
 # Fit PLR (Ives & Garland, 2010) for 2 main single predictor models      ####
@@ -329,7 +329,7 @@ PLR7 <- tree_intra_phyglm(Pr_threatened_bin ~ Magnitude_body_size_change_mean, d
 summary(PLR7)
 #Visualize diagnostics for interaction between phylo uncertainty and data uncertainty
 sensi_plot7 <- sensi_plot(PLR7, graphs = 3, uncer.type = "all") 
-ggsave(sensi_plot7, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_phylo_intra_uncertainty_extant_pops_trees_DNA_only.pdf", width = 6, height = 6, device = cairo_pdf) 
+ggsave(sensi_plot7, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_phylo_intra_uncertainty_extant_pops_trees_DNA_only.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf) 
 
 #Extract summary stats in a table
 stats_PLR7 <- PLR7$all.stats
@@ -416,7 +416,7 @@ gt_tbl7 <- gt_tbl7 %>% tab_header(
 gt_tbl7
 
 #Save the table
-gtsave(gt_tbl7, "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.html")
+gtsave(gt_tbl7, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.html", path = "/Results/PLRs")
 
 #######################################################
 # Fit model and calculate summary stats for Body mass #
@@ -427,7 +427,7 @@ PLR8 <- tree_intra_phyglm(Pr_threatened_bin ~ Body_mass_island_taxon_scaled_mean
 summary(PLR8)
 #Visualize diagnostics for interaction between phylo uncertainty and data uncertainty
 sensi_plot8 <- sensi_plot(PLR8, graphs = 3, uncer.type = "all") 
-ggsave(sensi_plot8, filename = "PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_trees_DNA_only.pdf", width = 6, height = 6, device = cairo_pdf) 
+ggsave(sensi_plot8, filename = "PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_trees_DNA_only.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf) 
 
 #Extract summary stats in a table
 stats_PLR8 <- PLR8$all.stats
@@ -515,7 +515,7 @@ gt_tbl8 <- gt_tbl8 %>% tab_header(
 gt_tbl8
 
 #Save the table
-gtsave(gt_tbl8, "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_DNA_only_trees.html")
+gtsave(gt_tbl8, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_DNA_only_trees.html", path = "/Results/PLRs")
 
 #End of script
 

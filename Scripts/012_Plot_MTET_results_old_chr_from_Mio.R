@@ -248,6 +248,6 @@ figure <- grid.arrange(violin_endemism, plot_prob_effect, violin_BSC, violin_isl
              layout_matrix = lay)
 
 #Save figure as pdf
-ggsave(figure, filename = "MTET_plots_old_chr_from_Mio.pdf", width = 10, height = 6, device = cairo_pdf) 
+ggsave(figure, filename = "MTET_plots_old_chr_from_Mio.pdf", path = "Results/PyRate_MTET", width = 10, height = 6, device = cairo_pdf) 
 
 #End of script

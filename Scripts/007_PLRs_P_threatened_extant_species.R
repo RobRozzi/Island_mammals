@@ -85,7 +85,7 @@ rownames(db)=db$Latin_binomial
 PLR1 <- tree_phyglm(Pr_threatened_bin ~ Magnitude_body_size_change, data = db, phy = trees_complete, n.tree = 100)
 summary(PLR1)
 sensi_plot1 <- sensi_plot(PLR1, graphs = 3)
-ggsave(sensi_plot1, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_extant_species_phylo_uncertainty_complete_trees_TACT.pdf", width = 6, height = 6, device = cairo_pdf) 
+ggsave(sensi_plot1, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_extant_species_phylo_uncertainty_complete_trees_TACT.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf) 
 
 #Extract summary stats in a table
 stats_PLR1 <- PLR1$all.stats
@@ -172,7 +172,7 @@ gt_tbl1 <- gt_tbl1 %>% tab_header(
 gt_tbl1
 
 #Save the table
-gtsave(gt_tbl1, "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_extant_species.html")
+gtsave(gt_tbl1, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_extant_species.html", path = "/Results/PLRs")
 
 #######################################################
 # Fit model and calculate summary stats for Body mass #
@@ -182,7 +182,7 @@ db$Body_mass_island_taxon <- scale(db$Body_mass_island_taxon) #scale BM
 PLR2 <- tree_phyglm(Pr_threatened_bin ~ Body_mass_island_taxon, data = db, phy = trees_complete, n.tree = 100)
 summary(PLR2)
 sensi_plot2 <- sensi_plot(PLR2, graphs = 3)
-ggsave(sensi_plot2, filename = "PLR_P(threatened)_vs_Body_mass_extant_species_phylo_uncertainty_complete_trees_TACT.pdf", width = 6, height = 6, device = cairo_pdf) 
+ggsave(sensi_plot2, filename = "PLR_P(threatened)_vs_Body_mass_extant_species_phylo_uncertainty_complete_trees_TACT.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf) 
 
 #Extract summary stats in a table
 stats_PLR2 <- PLR2$all.stats
@@ -259,7 +259,7 @@ gt_tbl2 <- gt_tbl2 %>% tab_header(
 gt_tbl2
 
 #Save the table
-gtsave(gt_tbl2, "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_extant_species.html")
+gtsave(gt_tbl2, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_extant_species.html", path = "/Results/PLRs")
 
 
 #############################################################################
@@ -275,7 +275,7 @@ gtsave(gt_tbl2, "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_extant_species.
 PLR1_DNA_only <- tree_phyglm(Pr_threatened_bin ~ Magnitude_body_size_change, data = db, phy = trees_DNA_only, n.tree = 100)
 summary(PLR1_DNA_only)
 sensi_plot3 <- sensi_plot(PLR1_DNA_only, graphs = 3)
-ggsave(sensi_plot3, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_extant_species_phylo_uncertainty_trees_DNA_only.pdf", width = 6, height = 6, device = cairo_pdf) 
+ggsave(sensi_plot3, filename = "PLR_P(threatened)_vs_Magnitude_body_size_change_extant_species_phylo_uncertainty_trees_DNA_only.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf) 
 
 #Extract summary stats in a table
 stats_PLR3 <- PLR1_DNA_only$all.stats
@@ -350,7 +350,7 @@ gt_tbl3 <- gt_tbl3 %>% tab_header(
 gt_tbl3
 
 #Save the table
-gtsave(gt_tbl3, "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_size_change_extant_species_DNA_only_trees.html")
+gtsave(gt_tbl3, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_size_change_extant_species_DNA_only_trees.html", path = "/Results/PLRs")
 
 #######################################################
 # Fit model and calculate summary stats for Body mass #
@@ -359,7 +359,7 @@ gtsave(gt_tbl3, "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_size_change_ext
 PLR2_DNA_only <- tree_phyglm(Pr_threatened_bin ~ Body_mass_island_taxon, data = db, phy = trees_DNA_only, n.tree = 100)
 summary(PLR2_DNA_only)
 sensi_plot4 <- sensi_plot(PLR2_DNA_only, graphs = 3)
-ggsave(sensi_plot4, filename = "PLR_P(threatened)_vs_Body_mass_extant_species_phylo_uncertainty_trees_DNA_only.pdf", width = 6, height = 6, device = cairo_pdf) 
+ggsave(sensi_plot4, filename = "PLR_P(threatened)_vs_Body_mass_extant_species_phylo_uncertainty_trees_DNA_only.pdf", path = "/Results/PLRs", width = 6, height = 6, device = cairo_pdf) 
 
 #Extract summary stats in a table
 stats_PLR4 <- PLR2_DNA_only$all.stats
@@ -434,6 +434,6 @@ gt_tbl4 <- gt_tbl4 %>% tab_header(
 gt_tbl4
 
 #Save the table
-gtsave(gt_tbl4, "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_extant_species_DNA_only_trees.html")
+gtsave(gt_tbl4, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Body_mass_extant_species_DNA_only_trees.html", path = "/Results/PLRs")
 
 #End of script
