@@ -1,7 +1,5 @@
 # Island_mammals
 
-Island_mammals
-
 Data and scrips to run the analyses for the paper:
 
 Rozzi et al. Dwarfism and gigantism drive human-mediated extinctions on islands.
