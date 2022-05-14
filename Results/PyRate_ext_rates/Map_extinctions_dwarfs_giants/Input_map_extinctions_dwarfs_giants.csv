@@ -6,19 +6,19 @@ Rodentia,Antillomys_rayi,Antigua,17.0747,-61.8175,77849.3959,204.2844737,EP,Mean
 Rodentia,Antillomys_rayi,Barbuda,17.6266,-61.7713,77849.3959,204.2844737,EP,Mean values from PyRate analyses 10 replicates,280,0.491374102,gigantism
 Rodentia,Antillomys_rayi,Marie-Galante,15.9235,-61.2572,77849.3959,204.2844737,EP,Mean values from PyRate analyses 10 replicates,280,0.491374102,gigantism
 Rodentia,Antillomys_rayi,Grande and Basse Terre,16.265,-61.551,77849.3959,204.2844737,EP,Mean values from PyRate analyses 10 replicates,280,0.491374102,gigantism
-Rodentia,Antillomys_rayi,La Désirade,16.319,-61.0518,77849.3959,204.2844737,EP,Mean values from PyRate analyses 10 replicates,280,0.491374102,gigantism
+Rodentia,Antillomys_rayi,La DÃ©sirade,16.319,-61.0518,77849.3959,204.2844737,EP,Mean values from PyRate analyses 10 replicates,280,0.491374102,gigantism
 Rodentia,Megalomys_georginae,Barbados,13.1776,-59.5412,4097.512062,141.5953158,EP,Mean values from PyRate analyses 10 replicates,101,0.226170123,gigantism
 Rodentia,Megalomys_audreyae,Barbuda,17.6266,-61.7713,125922.0322,334.8375218,EP,Mean values from PyRate analyses 10 replicates,180,0.477121255,gigantism
 Rodentia,Agathaeromys_praeuniversitatis,Bonaire,12.2019,-68.2624,479693.6594,275946.5924,EP,Mean values from PyRate analyses 10 replicates,23,0.530366767,dwarfism
 Rodentia,Geocapromys_caymanensis,Cayman Brac,19.7235,-79.8017,20843.20195,734.2528557,EP,Mean values from PyRate analyses 10 replicates,1100,0.536242707,gigantism
 Rodentia,Geocapromys_caymanensis,Grand Cayman,19.3222,-81.2409,20843.20195,734.2528557,EP,Mean values from PyRate analyses 10 replicates,1100,0.536242707,gigantism
-Rodentia,Cordimus_debuisonjei,Curaçao,12.1224,-68.8824,2631238.46,2299045.463,EP,Mean values from PyRate analyses 10 replicates,26.936994,0.034673108,dwarfism
+Rodentia,Cordimus_debuisonjei,CuraÃ§ao,12.1224,-68.8824,2631238.46,2299045.463,EP,Mean values from PyRate analyses 10 replicates,26.936994,0.034673108,dwarfism
 Rodentia,Cordimus_hooijeri,Bonaire,12.2019,-68.2624,6334.5415,1815.5145,EP,Mean values from PyRate analyses 10 replicates,30.963826,0.025832381,gigantism
-Rodentia,Cordimus_raton,Curaçao,12.1224,-68.8824,3076391.083,2885612.44,EP,Mean values from PyRate analyses 10 replicates,41.582745,0.153890918,gigantism
+Rodentia,Cordimus_raton,CuraÃ§ao,12.1224,-68.8824,3076391.083,2885612.44,EP,Mean values from PyRate analyses 10 replicates,41.582745,0.153890918,gigantism
 Rodentia,Capromys_pilorides_lewisi,Cayman Brac,19.7235,-79.8017,21271.87255,207.7781368,EP,Mean values from PyRate analyses 10 replicates,1980,0.791515212,gigantism
 Rodentia,Capromys_pilorides_lewisi,Little Cayman,19.6897,-80.0367,21271.87255,207.7781368,EP,Mean values from PyRate analyses 10 replicates,1980,0.791515212,gigantism
 Rodentia,Capromys_pilorides_lewisi,Grand Cayman,19.3222,-81.2409,21271.87255,207.7781368,EP,Mean values from PyRate analyses 10 replicates,1980,0.791515212,gigantism
-Rodentia,Neotoma_bryanti_bunkeri,Coronados,32.4179,-117.2606,157400,19,EX,TE from Turvey 2010 (1931): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),380,0.319712209,gigantism
+Rodentia,Neotoma_bryanti_bunkeri,Coronados,32.4179,-117.2606,157400,19,EX,TE from Turvey 2009 (1931): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),380,0.319712209,gigantism
 Eulipotyphla,Asoriculus_corsicanus,Corsica,42.0396,9.0129,716902.0905,1106.471602,EP,Mean values from PyRate analyses 10 replicates,30,0.530177984,gigantism
 Carnivora,Lutra_castiglionis,Corsica,42.0396,9.0129,264082.3488,202142.1053,EP,Mean values from PyRate analyses 10 replicates,7620,0.077815539,gigantism
 Carnivora,Chasmaporthetes_melei,Corsica,42.0396,9.0129,1192466.514,1008231.011,EP,Mean values from PyRate analyses 10 replicates,41705.1,0.065501549,dwarfism
@@ -60,7 +60,7 @@ Rodentia,Mesocapromys_kraglievichi,Cuba,21.5218,-77.7812,147248.7003,534.1444878
 Rodentia,Mesocapromys_minimus,Cuba,21.5218,-77.7812,146971.5963,434.1923695,EP,Mean values from PyRate analyses 10 replicates,406.8031,0.104234275,gigantism
 Rodentia,Boromys_torrei,Cuba,21.5218,-77.7812,153161.8359,273.6353813,EX,Mean values from PyRate analyses 10 replicates,120,0.425968732,dwarfism
 Rodentia,Boromys_torrei,Isla de la Juventud,21.7085,-82.822,153161.8359,273.6353813,EX,Mean values from PyRate analyses 10 replicates,120,0.425968732,dwarfism
-Rodentia,Megalomys_curazensis,Curaçao,12.1224,-68.8824,538136.5273,97696.38842,EP,Mean values from PyRate analyses 10 replicates,132,0.342422681,gigantism
+Rodentia,Megalomys_curazensis,CuraÃ§ao,12.1224,-68.8824,538136.5273,97696.38842,EP,Mean values from PyRate analyses 10 replicates,132,0.342422681,gigantism
 Artiodactyla,Hippopotamus_minor,Cyprus,35.1264,33.4299,700559.2482,2130.062691,EP,Mean values from PyRate analyses 10 replicates,132000,1.381579962,dwarfism
 Proboscidea,Palaeoloxodon_cypriotes,Cyprus,35.1264,33.4299,137508.1725,6078.451754,EP,Mean values from PyRate analyses 10 replicates,159520,1.698970004,dwarfism
 Proboscidea,Palaeoloxodon_xylophagou,Cyprus,35.1264,33.4299,309408.0434,53037.45463,EP,Mean values from PyRate analyses 10 replicates,319040,1.397940009,dwarfism
@@ -109,7 +109,7 @@ Carnivora,Xenocyon_trinilensis,Java,-7.6145,110.7122,981118.2612,815355.9165,EP,
 Artiodactyla,Candiacervus_cerigensis,Kassos,35.4011,26.9264,101424.1104,74336.92403,EP,Mean values from PyRate analyses 10 replicates,64800,0.142667504,dwarfism
 Proboscidea,Palaeoloxodon_aff_P_creutzburgi,Kassos,35.4011,26.9264,386690.2272,266312.5448,EP,Mean values from PyRate analyses 10 replicates,2392800,0.522878745,dwarfism
 Rodentia,Mus_lopadusae,Lampedusa,35.5086,12.5929,21756.15502,12116.55737,EP,Mean values from PyRate analyses 10 replicates,40.83193863,0.388803954,gigantism
-Rodentia,Geocapromys_thoracatus,Little Swan,17.4115,-83.899,1560000,1,EX,TE from Turvey 2010 (1950s): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),890,0.444240028,gigantism
+Rodentia,Geocapromys_thoracatus,Little Swan,17.4115,-83.899,1560000,1,EX,TE from Turvey 2009 (1950s): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),890,0.444240028,gigantism
 Artiodactyla,Bubalus_sp_Luzon,Luzon,16.5662,121.2626,854213.4828,44455.39187,EP,Mean values from PyRate analyses 10 replicates,160800,0.823908741,dwarfism
 Proboscidea,Elephas_sp_Luzon_Visayan,Luzon,16.5662,121.2626,824483.7167,164748.8873,EP,Mean values from PyRate analyses 10 replicates,3160000,0.402112917,dwarfism
 Perissodactyla,Nesorhinus_philippinensis,Luzon,16.5662,121.2626,851161.9962,182348.0642,EP,Mean values from PyRate analyses 10 replicates,1086000,0.104019243,dwarfism
@@ -153,7 +153,7 @@ Artiodactyla,Bos_primigenius_bubaloides,Pianosa,42.5804,10.0751,168454.5331,1226
 Rodentia,Elasmodontomys_obliquus,Puerto Rico,18.2208,-66.5901,148223.8316,705.7774806,EP,Mean values from PyRate analyses 10 replicates,8450,1.421706731,gigantism
 Proboscidea,Palaeoloxodon_sp_Rhodes,Rhodes,36.4341,28.2176,131344.921,34306.6962,EP,Mean values from PyRate analyses 10 replicates,1515440,0.721246399,dwarfism
 Artiodactyla,Praemegaceros_sardus,Sardinia,40.1209,9.0129,1442553.08,289955.0017,EP,Mean values from PyRate analyses 10 replicates,102025,0.75246921,dwarfism
-Rodentia,Neotoma_bryanti_martinensis,San Martin,30.488908,-116.114058,3590000,1,EX,TE from Turvey 2010 (1950s): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),246,0.130863719,gigantism
+Rodentia,Neotoma_bryanti_martinensis,San Martin,30.488908,-116.114058,3590000,1,EX,TE from Turvey 2009 (1950s): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),246,0.130863719,gigantism
 Rodentia,Megaoryzomys_curioi,Santa Cruz,34.0232,-119.7658,6758.263383,104.5742918,EX,Mean values from PyRate analyses 10 replicates,570,0.974119481,gigantism
 Proboscidea,Mammuthus_exilis,Santa Rosa,33.9773,-120.0896,152354.0984,10794.23831,EP,Mean values from PyRate analyses 10 replicates,1350000,0.761593766,dwarfism
 Rodentia,Microtus_miguelensis,Santa Rosa,33.9773,-120.0896,28851.58214,16952.15902,EP,Mean values from PyRate analyses 10 replicates,100,0.301029996,gigantism
@@ -204,5 +204,5 @@ Proboscidea,Stegodon_sumbaensis,Sumba,-9.6993,119.9741,806735.6622,49926.9677,EP
 Perissodactyla,Nesorhinus_hayasakai,Taiwan,23.9037,121.0794,1467118.024,352942.6795,EP,Mean values from PyRate analyses 10 replicates,1284500,0.03111496,dwarfism
 Proboscidea,Palaeoloxodon_tiliensis,Tilos,36.4231,27.3734,28715.58887,16835.85469,EP,Mean values from PyRate analyses 10 replicates,727000,1.040250734,dwarfism
 Proboscidea,Stegodon_timorensis,Timor,-9.8628,124.331,750816.0915,200741.9619,EP,Mean values from PyRate analyses 10 replicates,769000,0.636126461,dwarfism
-Rodentia,Neotoma_bryanti_anthonyi,Todos Santos,31.801,-116.7916,3140000,24,EX,TE from Turvey 2010 (1926): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),195.4,0.030853171,gigantism
+Rodentia,Neotoma_bryanti_anthonyi,Todos Santos,31.801,-116.7916,3140000,24,EX,TE from Turvey 2009 (1926): TS from consensus tree of 5911 species of mammals in Upham et al. 2019 (OneZoom in http://vertlife.org/data/mammals/),195.4,0.030853171,gigantism
 Chiroptera,Nyctophilus_howensis,Lord Howe,-31.5553,159.0821,NA,50,EX,TE from IUCN (50 or 100 years BP): TS unknown,20.6,0.680398765,gigantism
