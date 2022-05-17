@@ -34,12 +34,12 @@ plot <- ggplot(data, aes(x = fct_inorder(Model),y = P.extinction., group = Analy
   annotate("text", x = c("2-rate","3-rate","10-rate"), y = c(0.98,0.6,0.32), 
           label = c("0.92", "0.54", "0.26") , color=c("#ea9298", "#c25234", "#52352e"), 
           family = "Arial", size = 4, fontface="bold")+
-  theme(axis.title = element_text(family = "Arial", size = 8, colour = "grey40"),
-        axis.text.x = element_text(angle = 45, family = "Arial", size = 8),
-        axis.text.y = element_text(family = "Arial", size = 8),
+  theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
+        axis.text.x = element_text(angle = 45, family = "Arial", size = 14),
+        axis.text.y = element_text(family = "Arial", size = 14),
         panel.grid = element_blank(), 
         axis.title.x = element_blank(),
-        legend.text=element_text(family = "Arial", size = 8, colour = "grey40"),
+        legend.text=element_text(family = "Arial", size = 14, colour = "grey40"),
         legend.title = element_blank())
 
 plot
