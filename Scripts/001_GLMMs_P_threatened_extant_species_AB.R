@@ -379,5 +379,7 @@ best_model <- ggplot(pred_mag) +
 best_model
 
 ## Now the effect of body mass is clearer. Species with large body mass that underwent through a major size change have a higher P of being threatened. ----
+## Can you follow the same steps I did here with checking the model diagnostics for scripts 002, 003, 004, and 005?? I guess you will also have to log trasnform magnitude and body mass before modelling ----
+
 
 #End of script
