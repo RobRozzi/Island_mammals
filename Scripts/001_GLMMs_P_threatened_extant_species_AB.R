@@ -381,5 +381,59 @@ best_model
 ## Now the effect of body mass is clearer. Species with large body mass that underwent through a major size change have a higher P of being threatened. ----
 ## Can you follow the same steps I did here with checking the model diagnostics for scripts 002, 003, 004, and 005?? I guess you will also have to log trasnform magnitude and body mass before modelling ----
 
+##############################################################
+# Fit GLMMs with log Size ratio                           ####
+############################################################## 
+# island_species_extant$logMag <- log10(island_species_extant$Magnitude_body_size_change)
+island_species_extant$logBM <- log10(island_species_extant$Body_mass_island_taxon)
+
+null_d <- glmer(Pr_threatened ~ (1|Order), data = island_species_extant, family=binomial(link="logit"))
+glmer1_d <- glmer(Pr_threatened ~ Size_ratio + (1|Order), data = island_species_extant, family=binomial(link="logit"))
+glmer2_d <- glmer(Pr_threatened ~ logBM + (1|Order), data = island_species_extant, family=binomial(link="logit"))
+glmer3_d <- glmer(Pr_threatened ~ Size_ratio + logBM + (1|Order), data = island_species_extant, family=binomial(link="logit")) 
+glmer4_d <- glmer(Pr_threatened ~ Size_ratio * logBM + (1|Order), data = island_species_extant, family=binomial(link="logit")) 
+glmer5_d <- glmer(Pr_threatened ~ Size_ratio + I(Size_ratio^2) + (1|Order), data = island_species_extant, family=binomial(link="logit")) 
+glmer6_d <- glmer(Pr_threatened ~ Size_ratio + I(Size_ratio^2) + logBM + (1|Order), data = island_species_extant, family=binomial(link="logit")) 
+
+#Visualize results and save table as doc file
+tab_model(null_d, glmer1_d, glmer2_d, glmer3_d, glmer4_d, show.aicc = TRUE, file = "Results/GLMMs/Table_models_threatened_diag.doc")
+
+# Check best model based on AIC and BIC ----
+# similar results as before
+AIC(null_d, glmer1_d, glmer2_d, glmer3_d, glmer4_d, glmer5_d, glmer6_d) 
+BIC(null_d, glmer1_d, glmer2_d, glmer3_d, glmer4_d, glmer5_d, glmer6_d)
+
+
+pred_mag <- ggpredict(glmer4_d, terms = c("Size_ratio [all]", "logBM[1,3,5]"), type = "fixed") 
+
+best_model <- ggplot(pred_mag) +
+  geom_line(aes(x = x, y = predicted, colour = group)) + 
+  geom_ribbon(aes(x = x, ymin = conf.low, ymax = conf.high, fill = group), alpha = .2) +
+  geom_rug(data = island_species_extant[island_species_extant$Pr_threatened=="nonthreatened",], aes(x = Size_ratio), colour = "darkgrey", alpha = .5, inherit.aes = FALSE, sides = "b")+
+  geom_rug(data = island_species_extant[island_species_extant$Pr_threatened=="threatened",], aes(x = Size_ratio), colour = "darkgrey",  alpha = .5, sides = "t", inherit.aes = FALSE)+
+  labs(x = "Magnitude of body size change", y = "P(threatened)") +
+  theme(axis.title = element_text(family = "Arial", size = 16, colour = "grey40"),
+        axis.text.x = element_text(family = "Arial", size = 12),
+        axis.text.y = element_text(family = "Arial", size = 12),
+        panel.grid = element_blank())
+
+best_model
+
+
+visreg(glmer5_d, scale = "response", xlab="Magnitude of body size change", ylab="P(threatened)", overlay=TRUE, gg = TRUE, line=list(size=0.8))
+visreg(glmer6_d,"Log_Size_ratio", scale = "response", type = "conditional", cond=list(logBM = 3), xlab="Magnitude of body size change", ylab="P(threatened)", overlay=TRUE, gg = TRUE, line=list(size=0.8))
+
+glmer3_diag <- simulateResiduals(fittedModel = glmer3_d, plot = F)
+# residuals(glmer3_diag)
+plot(glmer3_diag) # looks better than model glmer_1. I would use log10 transfomation for Magnitude of size and Body mass
+
+plotResiduals(glmer3_diag, form = island_species_extant$logMag) # no pattern for magnitude
+plotResiduals(glmer3_diag, form = island_species_extant$logBM) # no problem for body mass
+testUniformity(glmer3_diag) # pretty good overall
+testOutliers(glmer3_diag) # no outliers
+testDispersion(glmer3_diag) # OK
+testQuantiles(glmer3_diag) # a small deviation for quantile 0.25, but overall ok. 
+
+
 
 #End of script
