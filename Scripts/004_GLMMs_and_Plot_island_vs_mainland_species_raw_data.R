@@ -46,19 +46,6 @@ mainland_species <- read.csv('Data/Mainland_species_PHYLACINE.csv')
 island_sp_mainlandvsisland <- rbind(island_species_all, mainland_species)
 island_sp_mainlandvsisland <- filter(island_sp_mainlandvsisland, IUCN_Category != "DD") 
 island_sp_mainlandvsisland <- filter(island_sp_mainlandvsisland, Body_mass != "") 
-
-#Reorder IUCN_Category from low to high extinction risk
-island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR",
-                       "EW",
-                       "EX",
-                       "EP"))
                        
 #Create extinct vs extant column
 island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
