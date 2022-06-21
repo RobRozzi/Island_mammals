@@ -36,19 +36,6 @@ db_total <- filter(db_total, Body_mass_island_taxon != "")
 db_total <- filter(db_total, Size_ratio != "") 
 db_total <- filter(db_total, Direction_body_size_change != "no_change")
 
-#Reorder IUCN_Category from low to high extinction risk
-
-db_total <- db_total %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR",
-                       "EX",
-                       "EP"))
-
 #Create extinct vs extant column
 
 db_total <- db_total %>%
@@ -65,7 +52,7 @@ db_total <- db_total %>%
 #0 = extant; 1 = extinct
 
 db_total <- db_total %>%
-  mutate(Pr_extinction_bin = recode(Pr_extinction,
+  mutate(Pr_extinction_bin = recode_factor(Pr_extinction,
                                     extant = 0L, 
                                     extinct = 1L))
 
