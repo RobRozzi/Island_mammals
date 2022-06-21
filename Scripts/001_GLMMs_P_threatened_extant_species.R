@@ -27,16 +27,6 @@ island_species_extant <- read.csv('Data/Extant_mammals_species.csv')
 island_species_extant <- filter(island_species_extant, Size_ratio != "")
 #remove taxa that experienced no substantial size change (6)
 island_species_extant <- filter(island_species_extant, Direction_body_size_change != "no_change") 
-
-#Reorder IUCN_Category from low to high extinction risk
-island_species_extant <- island_species_extant %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR"))
                        
 #Create threatened vs nonthreatened column 
 island_species_extant <- island_species_extant %>%
@@ -199,16 +189,6 @@ ggsave(Body_size_classes_vs_P_threatened, filename = "Body_size_classes_vs_P_thr
 island_species_extant_no_change_included <- read.csv('Data/Extant_mammals_species.csv')
 
 island_species_extant_no_change_included <- filter(island_species_extant_no_change_included, Size_ratio != "")
-
-#Reorder IUCN_Category from low to high extinction risk
-island_species_extant_no_change_included <- island_species_extant_no_change_included %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR"))
 
 #Create threatened vs nonthreatened column 
 island_species_extant_no_change_included <- island_species_extant_no_change_included %>%
