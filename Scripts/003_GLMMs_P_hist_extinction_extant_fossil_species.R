@@ -42,17 +42,6 @@ island_species_all <- filter(island_species_all, Direction_body_size_change != "
 #Dataset with only historical extinctions
 island_species_historical_ext <- filter(island_species_all, IUCN_Category != "EP") 
 
-#Reorder IUCN_Category from low to high extinction risk
-island_species_historical_ext <- island_species_historical_ext %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR",
-                       "EX"))
-
 #Create extinct vs extant column
 island_species_historical_ext <- island_species_historical_ext %>%
   mutate(Pr_hist_extinction = recode_factor(IUCN_Category,
