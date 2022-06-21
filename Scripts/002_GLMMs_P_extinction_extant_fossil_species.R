@@ -40,18 +40,6 @@ island_species_all <- filter(island_species_all, Size_ratio != "")
 #remove taxa that experienced no substantial size change
 island_species_all <- filter(island_species_all, Direction_body_size_change != "no_change")
 
-#Reorder IUCN_Category from low to high extinction risk
-island_species_all <- island_species_all %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR",
-                       "EX",
-                       "EP"))
-
 #Create extinct vs extant column
 island_species_all <- island_species_all %>%
   mutate(Pr_extinction = recode_factor(IUCN_Category,
