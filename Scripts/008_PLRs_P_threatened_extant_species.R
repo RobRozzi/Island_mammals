@@ -27,16 +27,6 @@ db <- filter(db, Size_ratio != "")
 #remove taxa that experienced no substantial size change
 db <- filter(db, Direction_body_size_change != "no_change")
 
-#Reorder IUCN_Category from low to high extinction risk
-db <- db %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR"))
-
 #Create threatened vs nonthreatened column
 db <- db %>%
   mutate(Pr_threatened = recode_factor(IUCN_Category,
@@ -56,7 +46,7 @@ db <- db %>%
 #Create threatened vs nonthreatened column as a binary output 
 #0 = nonthreatened; 1 = threatened
 db <- db %>%
-  mutate(Pr_threatened_bin = recode(Pr_threatened,
+  mutate(Pr_threatened_bin = recode_factor(Pr_threatened,
                                     nonthreatened = 0L,
                                     threatened = 1L))
 
