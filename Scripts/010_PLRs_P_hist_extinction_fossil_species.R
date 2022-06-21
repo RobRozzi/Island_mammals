@@ -35,17 +35,6 @@ db_total <- filter(db_total, Direction_body_size_change != "no_change")
 #remove prehistoric extinctions
 db_total <- filter(db_total, IUCN_Category != "EP")
 
-#Reorder IUCN_Category from low to high extinction risk
-db_total <- db_total %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR",
-                       "EX"))
-
 #Create extinct vs extant column
 db_total <- db_total %>%
   mutate(Pr_extinction = recode_factor(IUCN_Category,
@@ -66,7 +55,7 @@ db_total <- db_total %>%
 #Create extant vs extinct column as a binary output 
 #0 = extant; 1 = extinct
 db_total <- db_total %>%
-  mutate(Pr_extinction_bin = recode(Pr_extinction,
+  mutate(Pr_extinction_bin = recode_factor(Pr_extinction,
                                     extant = 0L,
                                     extinct = 1L))
 
