@@ -30,16 +30,6 @@ island_pops_ext <- filter(island_pops_ext, Body_mass_island_taxon != "")
 
 #remove populations that experienced no substantial size change
 island_pops_ext <- filter(island_pops_ext, Direction_body_size_change != "no_change")
-
-#Reorder IUCN_Category from low to high extinction risk
-island_pops_ext <- island_pops_ext %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR"))
                        
 #Create threatened vs nonthreatened column
 island_pops_ext <- island_pops_ext %>%
@@ -209,16 +199,6 @@ island_pops_ext_no_change_included <- filter(island_pops_ext_no_change_included,
 island_pops_ext_no_change_included <- filter(island_pops_ext_no_change_included, Size_ratio != "") 
 
 island_pops_ext_no_change_included <- filter(island_pops_ext_no_change_included, Body_mass_island_taxon != "") 
-
-#Reorder IUCN_Category from low to high extinction risk
-island_pops_ext_no_change_included <- island_pops_ext_no_change_included %>%
-  mutate(IUCN_Category =
-           fct_relevel(IUCN_Category,
-                       "LC",
-                       "NT",
-                       "VU",
-                       "EN",
-                       "CR"))
 
 #Create threatened vs nonthreatened column
 island_pops_ext_no_change_included <- island_pops_ext_no_change_included %>%
