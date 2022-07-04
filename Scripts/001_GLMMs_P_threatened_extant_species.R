@@ -167,7 +167,7 @@ Body_size_classes_vs_P_threatened <- ggplot(island_species_extant, aes(x = BM_gr
   geom_jitter(size = 2.5, alpha = 0.1, position = position_jitterdodge(0.5), set.seed(123)) +
   scale_colour_manual(values = c("#f0755d", "#742615"))+
   labs(x = "Body size (kg)", y = "Magnitude of body size change") +
-  coord_flip() +
+  coord_flip(ylim = c(NA, 1.2)) +
   theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 12),
         axis.text.y = element_text(family = "Arial", size = 12),
