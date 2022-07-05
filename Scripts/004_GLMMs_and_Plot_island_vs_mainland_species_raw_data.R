@@ -120,7 +120,7 @@ island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
 island_sp_mainlandvsisland_only_extinct <- filter(island_sp_mainlandvsisland, Pr_extinction != "extant") 
 
 ###################################################################################################
-# Plot raw data: percentage and number of extinct taxa per BM class on islands vs mainland     ####
+# Plot raw data: proportion and number of extinct taxa per BM class on islands vs mainland     ####
 ###################################################################################################
 
 extrafont::loadfonts(device = "win")
@@ -129,10 +129,10 @@ theme_set(theme_light(base_size = 15, base_family = "Arial"))
 
 plot1 <- ggplot() +
   geom_bar(data = island_sp_mainlandvsisland, aes(x=BM_groups, fill = factor(Pr_extinction)), position = "fill") +
-  labs(x = "Body mass (kg)") +
+  labs(x = "Body mass class (kg)") +
   facet_wrap(~Island_or_mainland, nrow = 2)+
   scale_fill_manual(values = c("#89b790","#06485e"))+
-  scale_y_continuous("Percentage extinct", limits = c(0,1), sec.axis = sec_axis(~. *100 , name="Number extinct")) +
+  scale_y_continuous("Proportion extinct", limits = c(0,1), sec.axis = sec_axis(~. *100 , name="Number extinct")) +
   geom_point(data = island_sp_mainlandvsisland_only_extinct, aes(x=BM_groups, y = number_extinct_per_size_class_island_vs_mainland/100), inherit.aes = FALSE, colour = "black", size = 4, shape = "square")+
   geom_line(data = island_sp_mainlandvsisland_only_extinct, aes(x=BM_groups, y = number_extinct_per_size_class_island_vs_mainland/100, group = 1), color = "black", size = 1.5, inherit.aes = FALSE)+
   theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
@@ -150,7 +150,7 @@ plot1 <- ggplot() +
 plot1
 
 #Save figure in pdf
-ggsave(plot1, filename = "Percentage&number_extinct_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 6, height = 6, device = cairo_pdf)
+ggsave(plot1, filename = "Proportion&number_extinct_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 6, height = 6, device = cairo_pdf)
 
 ##############################################################
 # Fit GLMM: Pr_extinct and BM islands vs mainland         ####
@@ -172,7 +172,7 @@ predicted <- ggpredict(glmer1, terms = c("Body_mass_log [all]", "Island_or_mainl
 plot2 <- ggplot(data = island_sp_mainlandvsisland, aes(Body_mass_log, Pr_extinction, colour = Island_or_mainland)) +
          scale_color_manual(values = c("#e1be6d", "#A9A9A9"))+
          scale_fill_manual(values = c("#e1be6d", "#A9A9A9"))+
-         labs(x = "Log body mass", y = "P(extinct)") +
+         labs(x = "Log body mass (g)", y = "P(extinct)") +
          geom_line(data = predicted, aes(x = x, y = predicted, group = group, color = group), show.legend=FALSE, inherit.aes = FALSE, size = 1) +
          geom_ribbon(data = predicted, aes(x = x, ymin = conf.low, ymax = conf.high, group = group, fill = group), inherit.aes = FALSE, show.legend=FALSE, alpha = .1)+
          geom_rug(data = island_sp_mainlandvsisland[island_sp_mainlandvsisland$Pr_extinction=="extinct",], aes(x = Body_mass_log, colour = Island_or_mainland), inherit.aes = FALSE, sides = "t")+
@@ -247,15 +247,15 @@ island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
 island_sp_mainlandvsisland_only_hist_extinct <- filter(island_sp_mainlandvsisland, Pr_hist_extinction != "extant") 
 
 ########################################################################################################
-# Plot raw data: percentage and number of hist extinct taxa per BM class on islands vs mainland     ####
+# Plot raw data: proportion and number of hist extinct taxa per BM class on islands vs mainland     ####
 ########################################################################################################
 
 plot3 <- ggplot() +
   geom_bar(data = island_sp_mainlandvsisland, aes(x=BM_groups, fill = factor(Pr_hist_extinction)), position = "fill") +
-  labs(x = "Body mass (kg)") +
+  labs(x = "Body mass class (kg)") +
   facet_wrap(~Island_or_mainland, nrow = 2)+
   scale_fill_manual(values = c("#89b790","#06485e"))+
-  scale_y_continuous("Percentage hist extinct", limits = c(0,1), sec.axis = sec_axis(~. *100 , name="Number hist extinct")) +
+  scale_y_continuous("Proportion hist extinct", limits = c(0,1), sec.axis = sec_axis(~. *100 , name="Number hist extinct")) +
   geom_point(data = island_sp_mainlandvsisland_only_hist_extinct, aes(x=BM_groups, y = number_hist_extinct_per_size_class_island_vs_mainland/100), inherit.aes = FALSE, colour = "black", size = 4, shape = "square")+
   geom_line(data = island_sp_mainlandvsisland_only_hist_extinct, aes(x=BM_groups, y = number_hist_extinct_per_size_class_island_vs_mainland/100, group = 1), color = "black", size = 1.5, inherit.aes = FALSE)+
   theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
@@ -273,7 +273,7 @@ plot3 <- ggplot() +
 plot3
 
 #Save figure in pdf
-ggsave(plot3, filename = "Percentage&number_hist_extinct_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 6, height = 6, device = cairo_pdf)
+ggsave(plot3, filename = "Proportion&number_hist_extinct_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 6, height = 6, device = cairo_pdf)
 
 ###################################################################
 # Fit GLMM: Pr_hist_extinct and BM islands vs mainland         ####
@@ -293,7 +293,7 @@ predicted <- ggpredict(glmer2, terms = c("Body_mass_log [all]", "Island_or_mainl
 plot4 <- ggplot(data = island_sp_mainlandvsisland, aes(Body_mass_log, Pr_hist_extinction, colour = Island_or_mainland)) +
          scale_color_manual(values = c("#e1be6d", "#A9A9A9"))+
          scale_fill_manual(values = c("#e1be6d", "#A9A9A9"))+
-         labs(x = "Log body mass", y = "P(extinct)") +
+         labs(x = "Log body mass (g)", y = "P(extinct)") +
          geom_line(data = predicted, aes(x = x, y = predicted, group = group, color = group), show.legend=FALSE, inherit.aes = FALSE, size = 1) +
          geom_ribbon(data = predicted, aes(x = x, ymin = conf.low, ymax = conf.high, group = group, fill = group), inherit.aes = FALSE, show.legend=FALSE, alpha = .1)+
          geom_rug(data = island_sp_mainlandvsisland[island_sp_mainlandvsisland$Pr_hist_extinction=="extinct",], aes(x = Body_mass_log, colour = Island_or_mainland), inherit.aes = FALSE, sides = "t")+
@@ -363,15 +363,16 @@ island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
 island_sp_mainlandvsisland_only_threatened <- filter(island_sp_mainlandvsisland, Pr_threatened != "nonthreatened") #taglia tutte le righe in cui IUCN_Category è DD
 
 ###################################################################################################
-# Plot raw data: percentage and number of threatened taxa per BM class on islands vs mainland  ####
+# Plot raw data: proportion and number of threatened taxa per BM class on islands vs mainland  ####
 ###################################################################################################
 
 plot5 <- ggplot() +
   geom_bar(data = island_sp_mainlandvsisland, aes(x=BM_groups5, fill = factor(Pr_threatened)), position = "fill") +
-  labs(x = "Body mass (kg)") +
+  labs(x = "Body mass class (kg)") +
   facet_wrap(~Island_or_mainland, nrow = 2)+
   scale_fill_manual(values = c("#f0755d", "#742615"))+
-  scale_y_continuous("Percentage threatened", limits = c(0,1), sec.axis = sec_axis(~. *210 , name="Number threatened")) +
+  scale_x_discrete(limits=c("[1,10)","[10,100)","[100,1e+03)","[1e+03,1e+04)","[1e+04,1e+05)","[1e+05,1e+06)","[1e+06,1e+07)","[1e+07,1e+08)"))+
+  scale_y_continuous("Proportion threatened", limits = c(0,1), sec.axis = sec_axis(~. *210 , name="Number threatened")) +
   geom_point(data = island_sp_mainlandvsisland_only_threatened, aes(x=BM_groups5, y = number_threatened_per_size_class_island_vs_mainland/210), inherit.aes = FALSE, colour = "black", size = 4, shape = "square")+
   geom_line(data = island_sp_mainlandvsisland_only_threatened, aes(x=BM_groups5, y = number_threatened_per_size_class_island_vs_mainland/210, group = 1), color = "black", size = 1.5, inherit.aes = FALSE)+
   theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
@@ -389,7 +390,7 @@ plot5 <- ggplot() +
 plot5
 
 #Save figure in pdf
-ggsave(plot5, filename = "Percentage&number_threatened_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 6, height = 6, device = cairo_pdf) 
+ggsave(plot5, filename = "Proportion&number_threatened_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 6, height = 6, device = cairo_pdf) 
 
 ##############################################################
 # Fit GLMM: Pr_threatened and BM islands vs mainland      ####
@@ -409,7 +410,7 @@ predicted2 <- ggpredict(glmer3, terms = c("Body_mass_log [all]", "Island_or_main
 plot6 <- ggplot(data = island_sp_mainlandvsisland, aes(Body_mass_log, Pr_threatened, colour = Island_or_mainland)) +
          scale_color_manual(values = c("#e1be6d", "#A9A9A9"))+
          scale_fill_manual(values = c("#e1be6d", "#A9A9A9"))+
-         labs(x = "Log body mass", y = "P(threatened)") +
+         labs(x = "Log body mass (g)", y = "P(threatened)") +
          geom_line(data = predicted2, aes(x = x, y = predicted, group = group, color = group), show.legend=FALSE, inherit.aes = FALSE, size = 1) +
          geom_ribbon(data = predicted2, aes(x = x, ymin = conf.low, ymax = conf.high, group = group, fill = group), inherit.aes = FALSE, show.legend=FALSE, alpha = .1)+
          geom_rug(data = island_sp_mainlandvsisland[island_sp_mainlandvsisland$Pr_threatened=="nonthreatened",], aes(x = Body_mass_log, colour = Island_or_mainland), inherit.aes = FALSE, sides = "b")+
