@@ -156,7 +156,7 @@ ggsave(plot1, filename = "Proportion&number_extinct_per_size_class_island_vs_mai
 # Fit GLMM: Pr_extinct and BM islands vs mainland         ####
 ##############################################################
 
-island_sp_mainlandvsisland$Body_mass_log <- log(island_sp_mainlandvsisland$Body_mass) 
+island_sp_mainlandvsisland$Body_mass_log <- log10(island_sp_mainlandvsisland$Body_mass) 
 
 glmer1 <- glmer(Pr_extinction ~ Body_mass_log * Island_or_mainland + (1|Order), data = island_sp_mainlandvsisland, family=binomial(link="logit"))
 
