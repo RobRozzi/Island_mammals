@@ -29,7 +29,7 @@ plot <- ggplot(data, aes(x = fct_inorder(Model),y = P.extinction., group = Analy
   geom_point(size = 4) +
   geom_line(size = 2, alpha = 0.4) +
   scale_color_manual(values=c("#ea9298", "#c25234", "#52352e"), labels = c("last 0.129 Ma", "last 2.58 Ma", "last 23.03 Ma"))+
-  ylab("Probability of extinction")+
+  ylab("Model posterior probability")+
   ylim(c(0,1))+
   annotate("text", x = c("2-rate","3-rate","10-rate"), y = c(0.98,0.6,0.32), 
           label = c("0.92", "0.54", "0.26") , color=c("#ea9298", "#c25234", "#52352e"), 
