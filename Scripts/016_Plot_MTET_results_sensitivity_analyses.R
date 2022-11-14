@@ -20,37 +20,54 @@ theme_set(theme_light(base_size = 15))
 ######################################################
 
 data_Mio_normal_young_chr <- read.delim('Results/PyRate_MTET/Results_MTET_young_chr_from_Mio_.log')
-data_Mio_normal_young_chr <- rename(data_Mio_normal_young_chr, time_effect_Mio_all_yc = time_effect)
-data_Mio_normal_young_chr <- select(data_Mio_normal_young_chr, "time_effect_Mio_all_yc")
+data_Mio_normal_young_chr <- rename(data_Mio_normal_young_chr, time_effect_Mio_all_yc_pre_sapiens = pre_sapiens_effect_log10)
+data_Mio_normal_young_chr <- rename(data_Mio_normal_young_chr, time_effect_Mio_all_yc_sapiens = sapiens_effect_log10)
+data_Mio_normal_young_chr <- select(data_Mio_normal_young_chr, "time_effect_Mio_all_yc_pre_sapiens", "time_effect_Mio_all_yc_sapiens")
 
 data_Mio_anagen_cut_old_chr <- read.delim('Results/PyRate_MTET/Results_MTET_old_chr_from_Mio_anagen_cut_.log')
-data_Mio_anagen_cut_old_chr <- rename(data_Mio_anagen_cut_old_chr, time_effect_Mio_anagen_cut_oc = time_effect)
-data_Mio_anagen_cut_old_chr <- select(data_Mio_anagen_cut_old_chr, "time_effect_Mio_anagen_cut_oc")
+data_Mio_anagen_cut_old_chr <- rename(data_Mio_anagen_cut_old_chr, time_effect_Mio_anagen_cut_oc_pre_sapiens = pre_sapiens_effect_log10)
+data_Mio_anagen_cut_old_chr <- rename(data_Mio_anagen_cut_old_chr, time_effect_Mio_anagen_cut_oc_sapiens = sapiens_effect_log10)
+data_Mio_anagen_cut_old_chr <- select(data_Mio_anagen_cut_old_chr, "time_effect_Mio_anagen_cut_oc_pre_sapiens", "time_effect_Mio_anagen_cut_oc_sapiens")
 
 data_Mio_anagen_cut_young_chr <- read.delim('Results/PyRate_MTET/Results_MTET_young_chr_from_Mio_anagen_cut_.log')
-data_Mio_anagen_cut_young_chr <- rename(data_Mio_anagen_cut_young_chr, time_effect_Mio_anagen_cut_yc = time_effect)
-data_Mio_anagen_cut_young_chr <- select(data_Mio_anagen_cut_young_chr, "time_effect_Mio_anagen_cut_yc")
+data_Mio_anagen_cut_young_chr <- rename(data_Mio_anagen_cut_young_chr, time_effect_Mio_anagen_cut_yc_pre_sapiens = pre_sapiens_effect_log10)
+data_Mio_anagen_cut_young_chr <- rename(data_Mio_anagen_cut_young_chr, time_effect_Mio_anagen_cut_yc_sapiens = sapiens_effect_log10)
+data_Mio_anagen_cut_young_chr <- select(data_Mio_anagen_cut_young_chr, "time_effect_Mio_anagen_cut_yc_pre_sapiens", "time_effect_Mio_anagen_cut_yc_sapiens")
 
 data_Pleisto_normal_old_chr <- read.delim('Results/PyRate_MTET/Results_MTET_old_chr_from_Pleisto_.log')
-data_Pleisto_normal_old_chr <- rename(data_Pleisto_normal_old_chr, time_effect_Pleisto_all_oc = time_effect)
-data_Pleisto_normal_old_chr <- select(data_Pleisto_normal_old_chr, "time_effect_Pleisto_all_oc")
+data_Pleisto_normal_old_chr <- rename(data_Pleisto_normal_old_chr, time_effect_Pleisto_all_oc_pre_sapiens = pre_sapiens_effect_log10)
+data_Pleisto_normal_old_chr <- rename(data_Pleisto_normal_old_chr, time_effect_Pleisto_all_oc_sapiens = sapiens_effect_log10)
+data_Pleisto_normal_old_chr <- select(data_Pleisto_normal_old_chr, "time_effect_Pleisto_all_oc_pre_sapiens", "time_effect_Pleisto_all_oc_sapiens")
 
 data_Pleisto_normal_young_chr <- read.delim('Results/PyRate_MTET/Results_MTET_young_chr_from_Pleisto_.log')
-data_Pleisto_normal_young_chr <- rename(data_Pleisto_normal_young_chr, time_effect_Pleisto_all_yc = time_effect)
-data_Pleisto_normal_young_chr <- select(data_Pleisto_normal_young_chr, "time_effect_Pleisto_all_yc")
+data_Pleisto_normal_young_chr <- rename(data_Pleisto_normal_young_chr, time_effect_Pleisto_all_yc_pre_sapiens = pre_sapiens_effect_log10)
+data_Pleisto_normal_young_chr <- rename(data_Pleisto_normal_young_chr, time_effect_Pleisto_all_yc_sapiens = sapiens_effect_log10)
+data_Pleisto_normal_young_chr <- select(data_Pleisto_normal_young_chr, "time_effect_Pleisto_all_yc_pre_sapiens", "time_effect_Pleisto_all_yc_sapiens")
 
 data_Pleisto_anagen_cut_old_chr <- read.delim('Results/PyRate_MTET/Results_MTET_old_chr_from_Pleisto_anagen_cut_.log')
-data_Pleisto_anagen_cut_old_chr <- rename(data_Pleisto_anagen_cut_old_chr, time_effect_Pleisto_anagen_cut_oc = time_effect)
-data_Pleisto_anagen_cut_old_chr <- select(data_Pleisto_anagen_cut_old_chr, "time_effect_Pleisto_anagen_cut_oc")
+data_Pleisto_anagen_cut_old_chr <- rename(data_Pleisto_anagen_cut_old_chr, time_effect_Pleisto_anagen_cut_oc_pre_sapiens = pre_sapiens_effect_log10)
+data_Pleisto_anagen_cut_old_chr <- rename(data_Pleisto_anagen_cut_old_chr, time_effect_Pleisto_anagen_cut_oc_sapiens = sapiens_effect_log10)
+data_Pleisto_anagen_cut_old_chr <- select(data_Pleisto_anagen_cut_old_chr, "time_effect_Pleisto_anagen_cut_oc_pre_sapiens", "time_effect_Pleisto_anagen_cut_oc_sapiens")
 
 data_Pleisto_anagen_cut_young_chr <- read.delim('Results/PyRate_MTET/Results_MTET_young_chr_from_Pleisto_anagen_cut_.log')
-data_Pleisto_anagen_cut_young_chr <- rename(data_Pleisto_anagen_cut_young_chr, time_effect_Pleisto_anagen_cut_yc = time_effect)
-data_Pleisto_anagen_cut_young_chr <- select(data_Pleisto_anagen_cut_young_chr, "time_effect_Pleisto_anagen_cut_yc")
+data_Pleisto_anagen_cut_young_chr <- rename(data_Pleisto_anagen_cut_young_chr, time_effect_Pleisto_anagen_cut_yc_pre_sapiens = pre_sapiens_effect_log10)
+data_Pleisto_anagen_cut_young_chr <- rename(data_Pleisto_anagen_cut_young_chr, time_effect_Pleisto_anagen_cut_yc_sapiens = sapiens_effect_log10)
+data_Pleisto_anagen_cut_young_chr <- select(data_Pleisto_anagen_cut_young_chr, "time_effect_Pleisto_anagen_cut_yc_pre_sapiens", "time_effect_Pleisto_anagen_cut_yc_sapiens")
+
+data_Late_Pleisto_normal_old_chr <- read.delim('Results/PyRate_MTET/Results_MTET_old_chr_from_Late_Pleisto_.log')
+data_Late_Pleisto_normal_old_chr <- rename(data_Late_Pleisto_normal_old_chr, time_effect_Late_Pleisto_all_oc_pre_sapiens = pre_sapiens_effect_log10)
+data_Late_Pleisto_normal_old_chr <- rename(data_Late_Pleisto_normal_old_chr, time_effect_Late_Pleisto_all_oc_sapiens = sapiens_effect_log10)
+data_Late_Pleisto_normal_old_chr <- select(data_Late_Pleisto_normal_old_chr, "time_effect_Late_Pleisto_all_oc_pre_sapiens", "time_effect_Late_Pleisto_all_oc_sapiens")
+
+data_Late_Pleisto_normal_young_chr <- read.delim('Results/PyRate_MTET/Results_MTET_young_chr_from_Late_Pleisto_.log')
+data_Late_Pleisto_normal_young_chr <- rename(data_Late_Pleisto_normal_young_chr, time_effect_Late_Pleisto_all_yc_pre_sapiens = pre_sapiens_effect_log10)
+data_Late_Pleisto_normal_young_chr <- rename(data_Late_Pleisto_normal_young_chr, time_effect_Late_Pleisto_all_yc_sapiens = sapiens_effect_log10)
+data_Late_Pleisto_normal_young_chr <- select(data_Late_Pleisto_normal_young_chr, "time_effect_Late_Pleisto_all_yc_pre_sapiens", "time_effect_Late_Pleisto_all_yc_sapiens")
 
 #Combine all datasets
 data <- cbind(data_Mio_normal_young_chr, data_Mio_anagen_cut_old_chr, data_Mio_anagen_cut_young_chr,
               data_Pleisto_normal_old_chr, data_Pleisto_normal_young_chr, data_Pleisto_anagen_cut_old_chr,
-              data_Pleisto_anagen_cut_young_chr)
+              data_Pleisto_anagen_cut_young_chr, data_Late_Pleisto_normal_old_chr, data_Late_Pleisto_normal_young_chr)
 
 ##############################################################
 # Plot effect temporal overlap with humans                ####
@@ -70,7 +87,7 @@ color_scheme_view()
 
 #Plot
 
-plot_time_effect <- mcmc_areas(posterior, prob = 0.8) +
+plot_time_effect <- mcmc_areas(posterior, prob = 0.95) +
   labs(y= "Posterior probability", x = "log-magnitude of rate change")+
   coord_cartesian(xlim =c(-1,4))+
           theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
@@ -82,7 +99,7 @@ plot_time_effect <- mcmc_areas(posterior, prob = 0.8) +
 plot_time_effect
 
 #Save plot as pdf
-ggsave(plot_time_effect, filename = "Plot_overlap_effect_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 8, device = cairo_pdf)
+ggsave(plot_time_effect, filename = "Plot_overlap_effect_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 10, device = cairo_pdf)
 
 ######################################################
 # Load data                                       ####
@@ -109,10 +126,16 @@ data_Pleisto_anagen_cut_old_chr <- mutate(data_Pleisto_anagen_cut_old_chr, data_
 data_Pleisto_anagen_cut_young_chr <- read.delim('Results/PyRate_MTET/Results_MTET_young_chr_from_Pleisto_anagen_cut_.log')
 data_Pleisto_anagen_cut_young_chr <- mutate(data_Pleisto_anagen_cut_young_chr, data_type = "Pleisto_anagen_cut_young_chr")
 
+data_Late_Pleisto_normal_old_chr <- read.delim('Results/PyRate_MTET/Results_MTET_old_chr_from_Late_Pleisto_.log')
+data_Late_Pleisto_normal_old_chr <- mutate(data_Late_Pleisto_normal_old_chr, data_type = "Late_Pleisto_normal_old_chr")
+
+data_Late_Pleisto_normal_young_chr <- read.delim('Results/PyRate_MTET/Results_MTET_young_chr_from_Late_Pleisto_.log')
+data_Late_Pleisto_normal_young_chr <- mutate(data_Late_Pleisto_normal_young_chr, data_type = "Late_Pleisto_normal_young_chr")
+
 #Combine all datasets
 data <- rbind(data_Mio_normal_young_chr, data_Mio_anagen_cut_old_chr, data_Mio_anagen_cut_young_chr,
               data_Pleisto_normal_old_chr, data_Pleisto_normal_young_chr, data_Pleisto_anagen_cut_old_chr,
-              data_Pleisto_anagen_cut_young_chr)
+              data_Pleisto_anagen_cut_young_chr, data_Late_Pleisto_normal_old_chr, data_Late_Pleisto_normal_young_chr)
 
 #Get threshold values corresponding to log Bayes factor values of 2, 6, and 10
 
@@ -167,7 +190,7 @@ plot_prob_effect <- ggplot(probs, aes(x = reorder(trait, -mean),y = mean, fill =
 plot_prob_effect
 
 #Save plot as pdf
-ggsave(plot_prob_effect, filename = "Plot_prob_effect_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 8, device = cairo_pdf)
+ggsave(plot_prob_effect, filename = "Plot_prob_effect_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 10, device = cairo_pdf)
 
 ##############################################################
 # Violin plot of relative effect of BM on extinction      ####
@@ -201,7 +224,7 @@ violin_BM <- ggplot(BM, aes(x = class_BM, y = value)) +
 violin_BM
 
 #Save plot as pdf
-ggsave(violin_BM, filename = "Rel_effect_BM_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 8, device = cairo_pdf) 
+ggsave(violin_BM, filename = "Rel_effect_BM_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 10, device = cairo_pdf) 
 
 ##############################################################
 # Violin plot of relative effect of BSC on extinction     ####
@@ -235,7 +258,7 @@ violin_BSC <- ggplot(BSC, aes(x = class_BSC, y = value)) +
 violin_BSC
 
 #Save plot as pdf
-ggsave(violin_BSC, filename = "Rel_effect_BSC_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 8, device = cairo_pdf)
+ggsave(violin_BSC, filename = "Rel_effect_BSC_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 10, device = cairo_pdf)
 
 ################################################################
 # Violin plot of relative effect of endemism on extinction  ####
@@ -268,7 +291,7 @@ violin_endemism <- ggplot(endemism, aes(x = class_Endemism, y = value)) +
 violin_endemism
 
 #Save plot as pdf
-ggsave(violin_endemism, filename = "Rel_effect_endemism_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 8, device = cairo_pdf)
+ggsave(violin_endemism, filename = "Rel_effect_endemism_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 10, device = cairo_pdf)
 
 ###################################################################
 # Violin plot of relative effect of island type on extinction  ####
@@ -302,7 +325,7 @@ violin_island <- ggplot(island, aes(x = class_island, y = value)) +
 violin_island
 
 #Save plot as pdf
-ggsave(violin_island, filename = "Rel_effect_island_type_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 8, device = cairo_pdf)
+ggsave(violin_island, filename = "Rel_effect_island_type_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 3, height = 10, device = cairo_pdf)
 
 ########################################################
 # Combine 6 plots in one for Extended Data Fig. 10  ####
@@ -315,14 +338,15 @@ lay <- rbind(c(1,1,2,2,3,3,4,4,5,5,6,6),
              c(1,1,2,2,3,3,4,4,5,5,6,6),
              c(1,1,2,2,3,3,4,4,5,5,6,6),
              c(1,1,2,2,3,3,4,4,5,5,6,6),
+             c(1,1,2,2,3,3,4,4,5,5,6,6),
+             c(1,1,2,2,3,3,4,4,5,5,6,6),
              c(1,1,2,2,3,3,4,4,5,5,6,6))
-
 
 figure <- grid.arrange(plot_time_effect, plot_prob_effect, violin_endemism, violin_island, violin_BSC, violin_BM, 
              layout_matrix = lay)
 
 #Save figure as pdf
-ggsave(figure, filename = "MTET_plots_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 12, height = 12, device = cairo_pdf)
+ggsave(figure, filename = "MTET_plots_all_sensitivity.pdf", path = "Results/PyRate_MTET", width = 12, height = 14, device = cairo_pdf)
 
 #End of script
 
