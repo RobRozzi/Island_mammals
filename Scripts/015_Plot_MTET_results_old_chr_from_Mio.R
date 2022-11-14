@@ -58,7 +58,7 @@ color_scheme_view()
 
 #Plot
 
-plot_time_effect <- mcmc_areas(posterior, pars = c("time_effect"), prob = 0.8) +
+plot_time_effect <- mcmc_areas(posterior, pars = c("sapiens_effect_log10", "pre_sapiens_effect_log10"), prob = 0.95) +
   scale_y_discrete(labels=c("Effect of island-specific human arrival"))+
   labs(y= "Posterior probability", x = "log-magnitude of rate change")+
   coord_cartesian(xlim =c(-1,4))+
@@ -101,7 +101,7 @@ plot_prob_effect <- ggplot(probs, aes(x = reorder(trait, -mean),y = mean, fill =
   geom_hline(yintercept=log_BF_6, linetype="dashed", color = "#9d3e2f", size=.4)+
   geom_hline(yintercept=log_BF_10, linetype="dashed", color = "#562014", size=.4)+
   scale_x_discrete(labels=c("endemism", "island type","body size change","body mass"))+
-  scale_fill_manual(values=c("#616c2e", "#0d574d", "#004571", "#004571"))+
+  scale_fill_manual(values=c("#0d574d", "#004571", "#004571", "#004571"))+
   ylab("probability of an effect on extinction")+
   theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 12),
@@ -128,9 +128,9 @@ BM
 
 #Plot
 violin_BM <- ggplot(BM, aes(x = class_BM, y = value)) + 
-  geom_violin(scale = "width", alpha = 0.5, fill="#616c2e", color=FALSE)+
-  stat_summary(fun=median, size = 2, geom="point", colour="#616c2e")+
-  scale_fill_manual(values=c("#616c2e"))+
+  geom_violin(scale = "width", alpha = 0.5, fill="#0d574d", color=FALSE)+
+  stat_summary(fun=median, size = 2, geom="point", colour="#0d574d")+
+  scale_fill_manual(values=c("#0d574d"))+
   labs(x = "Body mass (kg)", y = "relative effect on extinction") +
   geom_hline(yintercept=1/7, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/6 because we have 7 classes of BM
   scale_x_discrete(labels=c("very small", "small","small medium","medium", "large medium", "large", "very large"))+
@@ -158,9 +158,9 @@ BSC
 
 #Plot
 violin_BSC <- ggplot(BSC, aes(x = class_BSC, y = value)) + 
-  geom_violin(scale = "width", alpha = 0.5, fill="#0d574d", color=FALSE)+
-  stat_summary(fun=median, size = 2, geom="point", colour="#0d574d")+
-  scale_fill_manual(values=c("#0d574d"))+
+  geom_violin(scale = "width", alpha = 0.5, fill="#004571", color=FALSE)+
+  stat_summary(fun=median, size = 2, geom="point", colour="#004571")+
+  scale_fill_manual(values=c("#004571"))+
   labs(x = "Body size change", y = "relative effect on extinction") +
   geom_hline(yintercept=1/7, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/6 because we have 7 classes of BM
   scale_x_discrete(labels=c("strongly D", "moderately D","slightly D","no change", "slightly G", "moderately G", "strongly G"))+
