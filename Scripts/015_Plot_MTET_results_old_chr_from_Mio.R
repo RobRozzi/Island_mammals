@@ -62,6 +62,8 @@ plot_time_effect <- mcmc_areas(posterior, pars = c("sapiens_effect_log10", "pre_
   scale_y_discrete(labels=c("Effect of island-specific human arrival"))+
   labs(y= "Posterior probability", x = "log-magnitude of rate change")+
   coord_cartesian(xlim =c(-1,4))+
+  scale_x_continuous(breaks = c(0,1,2,3), 
+                     labels = round(c(1,10,100,1000)))+
           theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
           axis.text.x = element_text(family = "Arial", size = 12, colour = "grey40"),
           axis.title.x = element_text(family = "Arial", size = 12, colour = "grey40"),
