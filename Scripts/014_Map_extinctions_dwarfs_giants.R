@@ -17,7 +17,7 @@ library(Cairo)
 ##############################################################
 
 #210 taxa; 91 dwarfs; 119 giants
-data<-read.csv('Results/PyRate_ext_rates/Map_extinctions_dwarfs_giants')
+data<-read.csv('Results/PyRate_ext_rates/Map_extinctions_dwarfs_giants/Input_map_extinctions_dwarfs_giants.csv')
 
 #Define geologic ages
 data$geo_epoch <- ifelse(data$TE_PyRate_years_BP<= 11700, "Holocene",
