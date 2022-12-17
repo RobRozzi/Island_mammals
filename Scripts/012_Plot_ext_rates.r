@@ -18,7 +18,7 @@ theme_set(theme_light(base_size = 15))
 # iterations = 100 M; grid_plot default                       ####
 ##################################################################
 
-data_ext_from_Mio_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_Mio_grid_plot_default.csv')
+data_ext_from_Mio_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_Mio_grid_plot_default.csv')
 
 data_ext_from_Mio_default <- mutate(data_ext_from_Mio_default, time_ext_Ma = time_ext/4) #Convert x axis in Ma
 
@@ -43,7 +43,7 @@ plot_ext_from_Mio_default
 bf2_Mio = 0.03327601624453699
 bf6_Mio = 0.20276915504541185
 
-data_ext_shift_from_Mio_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Mio_grid_plot_default.csv')
+data_ext_shift_from_Mio_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Mio_grid_plot_default.csv')
 
 data_ext_shift_from_Mio_default <- mutate(data_ext_shift_from_Mio_default, mids_Ma = mids/4) #Convert x axis in Ma
 
@@ -67,7 +67,7 @@ plot_ext_shift_from_Mio_default
 # iterations = 100 M; grid_plot 0.05                             ####
 #####################################################################
 
-data_ext_from_Mio_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_Mio_grid_plot_0.05.csv')
+data_ext_from_Mio_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_Mio_grid_plot_0.05.csv')
 
 data_ext_from_Mio_0.05 <- mutate(data_ext_from_Mio_0.05, time_ext_Ma = time_ext/4) #Convert x axis in Ma
 
@@ -93,7 +93,7 @@ plot_ext_from_Mio_0.05
 bf2_Mio = 0.002234713719297753
 bf6_Mio = 0.01627998412337174
 
-data_ext_shift_from_Mio_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Mio_grid_plot_0.05.csv')
+data_ext_shift_from_Mio_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Mio_grid_plot_0.05.csv')
 
 data_ext_shift_from_Mio_0.05 <- mutate(data_ext_shift_from_Mio_0.05, mids_Ma = mids/4) #Convert x axis in Ma
 
@@ -135,7 +135,7 @@ plot_ext_increase_from_Mio_0.05
 # iterations = 100 M; grid_plot 0.05                             ####
 #####################################################################
 
-data_ext_from_Pleisto_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_Pleisto_grid_plot_0.05.csv')
+data_ext_from_Pleisto_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_Pleisto_grid_plot_0.05.csv')
 
 data_ext_from_Pleisto_0.05 <- mutate(data_ext_from_Pleisto_0.05, time_ext_Ma = time_ext/10) #Convert x axis in Ma
 
@@ -160,7 +160,7 @@ plot_ext_from_Pleisto_0.05
 bf2_Pleisto = 0.005482758681601927
 bf6_Pleisto = 0.03914130514609744
 
-data_ext_shift_from_Pleisto_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Pleisto_grid_plot_0.05.csv')
+data_ext_shift_from_Pleisto_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Pleisto_grid_plot_0.05.csv')
 
 data_ext_shift_from_Pleisto_0.05 <- mutate(data_ext_shift_from_Pleisto_0.05, mids_Ma = mids/10) #Convert x axis in Ma
 
@@ -202,7 +202,7 @@ plot_ext_increase_from_Pleisto_0.05
 # iterations = 100 M; grid_plot 0.05; min_dt 0.1                     ####
 #########################################################################
 
-data_ext_from_Late_Pleisto_0.05_0.1 <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_Late_Pleisto_grid_plot_0.05_min_dt_0.1.csv')
+data_ext_from_Late_Pleisto_0.05_0.1 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_Late_Pleisto_grid_plot_0.05_min_dt_0.1.csv')
 
 data_ext_from_Late_Pleisto_0.05_0.1 <- mutate(data_ext_from_Late_Pleisto_0.05_0.1, time_ext_Ma = time_ext/100) #Convert x axis in Ma
 
@@ -227,7 +227,7 @@ plot_ext_from_Late_Pleisto_0.05_0.1
 bf2_Late_Pleisto_0.05_0.1 = 0.008848983002501302
 bf6_Late_Pleisto_0.05_0.1 = 0.061886761710444826
 
-data_ext_shift_from_Late_Pleisto_0.05_0.1 <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Late_Pleisto_grid_plot_0.05_min_dt_0.1.csv')
+data_ext_shift_from_Late_Pleisto_0.05_0.1 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Late_Pleisto_grid_plot_0.05_min_dt_0.1.csv')
 
 data_ext_shift_from_Late_Pleisto_0.05_0.1 <- mutate(data_ext_shift_from_Late_Pleisto_0.05_0.1, mids_Ma = mids/100) #Convert x axis in Ma
 
@@ -274,7 +274,7 @@ figure_1 <- ggarrange(plot_ext_from_Mio_0.05, plot_ext_shift_from_Mio_0.05, plot
                       ncol = 1, nrow = 9)
 figure_1
 
-ggsave(figure_1, filename = "Ext_rates_from_Mio_Pl_and_LP.pdf", path = "Results/PyRate_ext_rates/Plots_ext_dates", width = 10, height = 18, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(figure_1, filename = "Ext_rates_from_Mio_Pl_and_LP.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 18, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
 
 ################################################
 # Plot ext rate and frequency of               #
@@ -299,14 +299,14 @@ Plot_Mio <- ggplot(data_ext_from_Mio_default, aes(x= time_ext_Ma, y = rate_ext))
 
 Plot_Mio
 
-ggsave(Plot_Mio, filename = "Ext_rates_and_shifts_from_Mio.pdf", path = "Results/PyRate_ext_rates/Plots_ext_dates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(Plot_Mio, filename = "Ext_rates_and_shifts_from_Mio.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
 
 ################################################
 # Plot ext rate and frequency of               #
 # ext rate sifts from Pleisto in the same plot #
 ################################################
 
-data_ext_shift_from_Pleisto_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Pleisto_grid_plot_default.csv')
+data_ext_shift_from_Pleisto_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Pleisto_grid_plot_default.csv')
 
 data_ext_shift_from_Pleisto_default <- mutate(data_ext_shift_from_Pleisto_default, mids_Ma = mids/10) #Convert x axis in Ma
 
@@ -329,14 +329,14 @@ Plot_Pleisto <- ggplot(data_ext_from_Pleisto_0.05, aes(x= time_ext_Ma, y = rate_
 
 Plot_Pleisto
 
-ggsave(Plot_Pleisto, filename = "Ext_rates_and_shifts_from_Pleisto.pdf", path = "Results/PyRate_ext_rates/Plots_ext_dates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(Plot_Pleisto, filename = "Ext_rates_and_shifts_from_Pleisto.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
 
 #####################################################
 # Plot ext rate and frequency of                    #
 # ext rate sifts from Late Pleisto in the same plot #
 #####################################################
 
-data_ext_shift_from_Late_Pleisto_default_0.1 <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Late_Pleisto_grid_plot_default_min_dt_0.1.csv')
+data_ext_shift_from_Late_Pleisto_default_0.1 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Late_Pleisto_grid_plot_default_min_dt_0.1.csv')
 
 data_ext_shift_from_Late_Pleisto_default_0.1 <- mutate(data_ext_shift_from_Late_Pleisto_default_0.1, mids_Ma = mids/100) #Convert x axis in Ma
 
@@ -359,7 +359,7 @@ Plot_Late_Pleisto <- ggplot(data_ext_from_Late_Pleisto_0.05_0.1, aes(x= time_ext
 
 Plot_Late_Pleisto
 
-ggsave(Plot_Late_Pleisto, filename = "Ext_rates_and_shifts_from_Late_Pleisto_min_dt_0.1.pdf", path = "Results/PyRate_ext_rates/Plots_ext_dates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(Plot_Late_Pleisto, filename = "Ext_rates_and_shifts_from_Late_Pleisto_min_dt_0.1.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
 
 #####################################
 # Combine all 3 plots for Figure 3A #
@@ -381,14 +381,14 @@ figure_2 <- ggarrange(Plot_Mio, Plot_Pleisto, Plot_Late_Pleisto,
 
 figure_2
 
-ggsave(figure_2, filename = "Figure_3A.pdf", path = "Results/PyRate_ext_rates/Plots_ext_dates", width = 10, height = 3, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(figure_2, filename = "Figure_3A.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 3, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
 
 ###################################################################################
 # Load data and plot ext rates from Late Pleisto; time unit = 10 ka            ####
 # iterations = 100 M; grid_plot 0.05; min_dt 0.1; Madagascar only direct dates ####
 ###################################################################################
 
-data_ext_from_Late_Pleisto_0.05_0.1_M <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_LP_Madag_only_direct.csv')
+data_ext_from_Late_Pleisto_0.05_0.1_M <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_LP_Madag_only_direct.csv')
 
 data_ext_from_Late_Pleisto_0.05_0.1_M <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_M, time_ext_Ma = time_ext/100) #Convert x axis in Ma
 
@@ -414,7 +414,7 @@ plot_ext_from_Late_Pleisto_0.05_0.1_M
 bf2_Late_Pleisto_0.05_0.1_M = 0.008940946764048881
 bf6_Late_Pleisto_0.05_0.1_M = 0.062495169975149416
 
-data_ext_shift_from_Late_Pleisto_0.05_0.1_M <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_LP_Madag_only_direct.csv')
+data_ext_shift_from_Late_Pleisto_0.05_0.1_M <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_LP_Madag_only_direct.csv')
 
 data_ext_shift_from_Late_Pleisto_0.05_0.1_M <- mutate(data_ext_shift_from_Late_Pleisto_0.05_0.1_M, mids_Ma = mids/100) #Convert x axis in Ma
 
@@ -456,7 +456,7 @@ plot_ext_increase_from_Late_Pleisto_0.05_0.1_M
 # iterations = 100 M; grid_plot 0.05; only final representatives of anagenetic lineages  ####
 #############################################################################################
 
-data_ext_from_Mio_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_Mio_anagen_cut.csv')
+data_ext_from_Mio_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_Mio_anagen_cut.csv')
 
 data_ext_from_Mio_0.05_ANAG <- mutate(data_ext_from_Mio_0.05_ANAG, time_ext_Ma = time_ext/4) #Convert x axis in Ma
 
@@ -483,7 +483,7 @@ plot_ext_from_Mio_0.05_ANAG
 bf2_Mio_ANAG = 0.0022049707868768607
 bf6_Mio_ANAG = 0.016066315693469845
 
-data_ext_shift_from_Mio_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Mio_anagen_cut.csv')
+data_ext_shift_from_Mio_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Mio_anagen_cut.csv')
 
 data_ext_shift_from_Mio_0.05_ANAG <- mutate(data_ext_shift_from_Mio_0.05_ANAG, mids_Ma = mids/4) #Convert x axis in Ma
 
@@ -526,7 +526,7 @@ plot_ext_increase_from_Mio_0.05_ANAG
 # iterations = 100 M; grid_plot 0.05; only final representatives of anagenetic lineages  ####
 #############################################################################################
 
-data_ext_from_Pleisto_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_Pleisto_anagen_cut.csv')
+data_ext_from_Pleisto_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_Pleisto_anagen_cut.csv')
 
 data_ext_from_Pleisto_0.05_ANAG <- mutate(data_ext_from_Pleisto_0.05_ANAG, time_ext_Ma = time_ext/10) #Convert x axis in Ma
 
@@ -552,7 +552,7 @@ plot_ext_from_Pleisto_0.05_ANAG
 bf2_Pleisto_ANAG = 0.005514684894930311
 bf6_Pleisto_ANAG = 0.039361468590275485
 
-data_ext_shift_from_Pleisto_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_Pleisto_anagen_cut.csv')
+data_ext_shift_from_Pleisto_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Pleisto_anagen_cut.csv')
 
 data_ext_shift_from_Pleisto_0.05_ANAG <- mutate(data_ext_shift_from_Pleisto_0.05_ANAG, mids_Ma = mids/10) #Convert x axis in Ma
 
@@ -594,7 +594,7 @@ plot_ext_increase_from_Pleisto_0.05_ANAG
 # iterations = 100 M; grid_plot 0.05; mind_dt 0.1; only final representatives of anagenetic lineages  ####
 ##########################################################################################################
 
-data_ext_from_Late_Pleisto_0.05_0.1_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rates_from_LP_anagen_cut.csv')
+data_ext_from_Late_Pleisto_0.05_0.1_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rates_from_LP_anagen_cut.csv')
 
 data_ext_from_Late_Pleisto_0.05_0.1_ANAG <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_ANAG, time_ext_Ma = time_ext/100) #Convert x axis in Ma
 
@@ -620,7 +620,7 @@ plot_ext_from_Late_Pleisto_0.05_0.1_ANAG
 bf2_Late_Pleisto_0.05_0.1_ANAG = 0.008938985400863235
 bf6_Late_Pleisto_0.05_0.1_ANAG = 0.06248220116618506
 
-data_ext_shift_from_Late_Pleisto_0.05_0.1_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_dates/Ext_rate_shifts_from_LP_anagen_cut.csv')
+data_ext_shift_from_Late_Pleisto_0.05_0.1_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_LP_anagen_cut.csv')
 
 data_ext_shift_from_Late_Pleisto_0.05_0.1_ANAG <- mutate(data_ext_shift_from_Late_Pleisto_0.05_0.1_ANAG, mids_Ma = mids/100) #Convert x axis in Ma
 
@@ -669,6 +669,6 @@ figure_3 <- ggarrange(plot_ext_from_Late_Pleisto_0.05_0.1_M, plot_ext_shift_from
                       ncol = 1, nrow = 8)
 figure_3
 
-ggsave(figure_3, filename = "Ext_rates_from_Mio_Pl_and_LP_MAD&ANAGEN_CUT.pdf", path = "Results/PyRate_ext_rates/Plots_ext_dates", width = 10, height = 16, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(figure_3, filename = "Ext_rates_from_Mio_Pl_and_LP_MAD&ANAGEN_CUT.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 16, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
 
 #End of script
