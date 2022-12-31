@@ -58,8 +58,10 @@ theme_set(theme_light(base_size = 15, base_family = "Arial"))
 Available_pops_per_order <- ggplot(island_pops_ext, aes(x= Order, fill = IUCN_Category)) +
                             geom_bar() +
                             scale_fill_manual(values = iucn_palettes) +
+                            ylab("Number of populations")+
                             theme(legend.position = "none",
-                                  axis.title = element_blank(),
+                                  axis.title.x = element_blank(),
+                                  axis.title.y = element_text(family = "Arial", size = 18, colour = "grey40"),
                                   axis.text.x = element_text(family = "Arial", size = 14, angle = 45, vjust = 0.5, colour = "grey40"),
                                   axis.text.y = element_text(family = "Arial", size = 14),
                                   panel.grid = element_blank())
