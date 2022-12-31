@@ -81,8 +81,10 @@ theme_set(theme_light(base_size = 12, base_family = "Arial"))
 Available_species_per_order <- ggplot(island_species_all, aes(x= Order, fill = IUCN_Category_new)) +
                                geom_bar() +
                                scale_fill_manual(values = iucn_palettes) +
+                               ylab("Number of species")+
                                theme(legend.position = "none",
-                                     axis.title = element_blank(),
+                                     axis.title.x = element_blank(),
+                                     axis.title.y = element_text(family = "Arial", size = 18, colour = "grey40"),
                                      axis.text.x = element_text(family = "Arial", size = 10, angle = 45, vjust = 0.5, colour = "grey40"),
                                      axis.text.y = element_text(family = "Arial", size = 10),
                                      panel.grid = element_blank())
