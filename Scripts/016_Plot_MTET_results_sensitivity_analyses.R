@@ -89,7 +89,7 @@ color_scheme_view()
 
 plot_time_effect <- mcmc_areas(posterior, prob = 0.95) +
   labs(y= "Posterior probability", x = "log-magnitude of rate change")+
-  coord_cartesian(xlim =c(-1,4))+
+  coord_cartesian(xlim =c(-3,4))+
           theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
           axis.text.x = element_text(family = "Arial", size = 12, colour = "grey40"),
           axis.title.x = element_text(family = "Arial", size = 12, colour = "grey40"),
