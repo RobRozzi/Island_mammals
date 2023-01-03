@@ -239,9 +239,9 @@ BSC
 #Plot 
 
 violin_BSC <- ggplot(BSC, aes(x = class_BSC, y = value)) + 
-  geom_violin(scale = "width", alpha = 0.5, fill="#0d574d", color=FALSE)+
-  stat_summary(fun=median, size = 2, geom="point", colour="#0d574d")+
-  scale_fill_manual(values=c("#0d574d"))+
+  geom_violin(scale = "width", alpha = 0.5, fill="#004571", color=FALSE)+
+  stat_summary(fun=median, size = 2, geom="point", colour="#004571")+
+  scale_fill_manual(values=c("#004571"))+
   labs(x = "Body size change", y = "relative effect on extinction") +
   geom_hline(yintercept=1/7, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/6 because we have 7 classes of BM
   scale_x_discrete(labels=c("strongly D", "moderately D","slightly D","no change", "slightly G", "moderately G", "strongly G"))+
