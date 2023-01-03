@@ -171,11 +171,11 @@ theme_set(theme_light(base_size = 15))
 
 plot_prob_effect <- ggplot(probs, aes(x = reorder(trait, -mean),y = mean, fill = trait)) +
   geom_bar(stat = "identity")+
-  geom_hline(yintercept=log_BF_2, linetype="dashed", color = "#cc8a15", size=.4)+
-  geom_hline(yintercept=log_BF_6, linetype="dashed", color = "#9d3e2f", size=.4)+
-  geom_hline(yintercept=log_BF_10, linetype="dashed", color = "#562014", size=.4)+
+  geom_hline(yintercept=log_BF_2, linetype="dashed", color = "#cc8a15", linewidth=.4)+
+  geom_hline(yintercept=log_BF_6, linetype="dashed", color = "#9d3e2f", linewidth=.4)+
+  geom_hline(yintercept=log_BF_10, linetype="dashed", color = "#562014", linewidth=.4)+
   scale_x_discrete(labels=c("endemism", "island type","body size change","body mass"))+
-  scale_fill_manual(values=c("#0d574d", "#0d574d", "#004571", "#004571"))+ 
+  scale_fill_manual(values=c("#0d574d", "#004571", "#004571", "#004571"))+ 
   ylab("probability of an effect on extinction")+
   facet_wrap(~ data_type, ncol = 1)+
   theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
