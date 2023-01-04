@@ -255,7 +255,7 @@ plot3 <- ggplot() +
   labs(x = "Body mass class (kg)") +
   facet_wrap(~Island_or_mainland, nrow = 2)+
   scale_fill_manual(values = c("#89b790","#06485e"))+
-  scale_y_continuous("Proportion hist extinct", limits = c(0,1), sec.axis = sec_axis(~. *100 , name="Number hist extinct")) +
+  scale_y_continuous("Proportion hist. extinct", limits = c(0,1), sec.axis = sec_axis(~. *100 , name="Number hist. extinct")) +
   geom_point(data = island_sp_mainlandvsisland_only_hist_extinct, aes(x=BM_groups, y = number_hist_extinct_per_size_class_island_vs_mainland/100), inherit.aes = FALSE, colour = "black", size = 4, shape = "square")+
   geom_line(data = island_sp_mainlandvsisland_only_hist_extinct, aes(x=BM_groups, y = number_hist_extinct_per_size_class_island_vs_mainland/100, group = 1), color = "black", size = 1.5, inherit.aes = FALSE)+
   theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
@@ -273,7 +273,7 @@ plot3 <- ggplot() +
 plot3
 
 #Save figure in pdf
-ggsave(plot3, filename = "Proportion&number_hist_extinct_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 6, height = 6, device = cairo_pdf)
+ggsave(plot3, filename = "Proportion&number_hist_extinct_per_size_class_island_vs_mainland.pdf", path = "Results/Raw_data_plots", width = 4, height = 7, device = cairo_pdf)
 
 ###################################################################
 # Fit GLMM: Pr_hist_extinct and BM islands vs mainland         ####
