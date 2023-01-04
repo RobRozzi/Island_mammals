@@ -23,7 +23,7 @@ data_ext_from_Mio_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/
 data_ext_from_Mio_default <- mutate(data_ext_from_Mio_default, time_ext_Ma = time_ext/4) #Convert x axis in Ma
 
 plot_ext_from_Mio_default <- ggplot(data_ext_from_Mio_default, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Mio_default, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Mio_default, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Mio_default, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   scale_y_continuous(breaks=c(0,2,4,6,8))+
@@ -40,8 +40,8 @@ plot_ext_from_Mio_default
 # time unit = 250 ka; iterations = 100 M; grid_plot default      ####
 #####################################################################
 
-bf2_Mio = 0.03327601624453699
-bf6_Mio = 0.20276915504541185
+bf2_Mio = 0.03332348536124911
+bf6_Mio = 0.2030076365521715
 
 data_ext_shift_from_Mio_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Mio_grid_plot_default.csv')
 
@@ -72,7 +72,7 @@ data_ext_from_Mio_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext
 data_ext_from_Mio_0.05 <- mutate(data_ext_from_Mio_0.05, time_ext_Ma = time_ext/4) #Convert x axis in Ma
 
 plot_ext_from_Mio_0.05 <- ggplot(data_ext_from_Mio_0.05, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Mio_0.05, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Mio_0.05, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Mio_0.05, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   #  scale_y_sqrt(breaks=c(0,2,4,6,8))+
@@ -90,8 +90,8 @@ plot_ext_from_Mio_0.05
 # time unit = 250 ka; iterations = 100 M; grid_plot 0.05         ####
 #####################################################################
 
-bf2_Mio = 0.002234713719297753
-bf6_Mio = 0.01627998412337174
+bf2_Mio = 0.0022302680795886964
+bf6_Mio = 0.01624805245393136
 
 data_ext_shift_from_Mio_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Mio_grid_plot_0.05.csv')
 
