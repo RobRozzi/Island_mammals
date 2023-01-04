@@ -278,7 +278,7 @@ ggsave(figure_1, filename = "Ext_rates_from_Mio_Pl_and_LP.pdf", path = "Results/
 
 ################################################
 # Plot ext rate and frequency of               #
-# ext rate sifts from Miocene in the same plot #
+# ext rate shifts from Miocene in the same plot #
 ################################################
 
 Plot_Mio <- ggplot(data_ext_from_Mio_default, aes(x= time_ext_Ma, y = rate_ext)) +
@@ -303,7 +303,7 @@ ggsave(Plot_Mio, filename = "Ext_rates_and_shifts_from_Mio.pdf", path = "Results
 
 ################################################
 # Plot ext rate and frequency of               #
-# ext rate sifts from Pleisto in the same plot #
+# ext rate shifts from Pleisto in the same plot #
 ################################################
 
 data_ext_shift_from_Pleisto_default <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Pleisto_grid_plot_default.csv')
@@ -334,7 +334,7 @@ ggsave(Plot_Pleisto, filename = "Ext_rates_and_shifts_from_Pleisto.pdf", path = 
 
 #####################################################
 # Plot ext rate and frequency of                    #
-# ext rate sifts from Late Pleisto in the same plot #
+# ext rate shifts from Late Pleisto in the same plot #
 #####################################################
 
 data_ext_shift_from_Late_Pleisto_default_0.1 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Late_Pleisto_grid_plot_default_min_dt_0.1.csv')
@@ -342,13 +342,13 @@ data_ext_shift_from_Late_Pleisto_default_0.1 <- read.csv('Results/PyRate_ext_rat
 data_ext_shift_from_Late_Pleisto_default_0.1 <- mutate(data_ext_shift_from_Late_Pleisto_default_0.1, mids_Ma = mids/100) #Convert x axis in Ma
 
 Plot_Late_Pleisto <- ggplot(data_ext_from_Late_Pleisto_0.05_0.1, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Late_Pleisto_0.05_0.1, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
-  geom_tile(data = data_ext_shift_from_Late_Pleisto_default_0.1, aes(x = mids_Ma, y = -0.1, fill = counts, height=0.1)) +
-  scale_fill_gradient2(low="white", high="#c6392f", name = "Frequency of rate shift",limits = c(0,1.0), breaks = c(0, 0.25, 0.50, 0.75, 1.0))+
+  geom_tile(data = data_ext_shift_from_Late_Pleisto_default_0.1, aes(x = mids_Ma, y = 2.8, fill = counts, height=0.3)) +
+  scale_fill_gradient2(low="white", high="grey40", name = "Frequency of rate shift",limits = c(0,1.0), breaks = c(0, 0.25, 0.50, 0.75, 1.0))+
   guides(fill = guide_colourbar(barwidth = 10, barheight = 0.5))+
   xlab("Time (Ma)") + ylab("Extinction rate")+
-  scale_y_continuous(breaks=c(0,1,2))+
+  scale_y_continuous(breaks=c(0,1,2), limits = c(0,3))+
   scale_x_continuous(breaks=c(0,-0.025,-0.05,-0.075,-0.1,-0.125), limits = c(-0.129,0))+
     theme(axis.title = element_text(size = 16, colour = "grey40"),
         axis.text.x = element_text(size = 12),
