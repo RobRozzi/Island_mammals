@@ -27,7 +27,7 @@ theme_set(theme_light(base_size = 15))
 
 plot <- ggplot(data, aes(x = fct_inorder(Model),y = P.extinction., group = Analysis, color = Analysis)) +
   geom_point(size = 4) +
-  geom_line(size = 2, alpha = 0.4) +
+  geom_line(linewidth = 2, alpha = 0.4) +
   scale_color_manual(values=c("#ea9298", "#c25234", "#52352e"), labels = c("last 0.129 Ma", "last 2.58 Ma", "last 23.03 Ma"))+
   ylab("Model posterior probability")+
   ylim(c(0,1))+
