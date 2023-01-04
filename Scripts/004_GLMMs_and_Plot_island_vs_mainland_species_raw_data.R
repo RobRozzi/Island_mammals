@@ -294,11 +294,11 @@ plot4 <- ggplot(data = island_sp_mainlandvsisland, aes(Body_mass_log, Pr_hist_ex
          scale_color_manual(values = c("#e1be6d", "#A9A9A9"))+
          scale_fill_manual(values = c("#e1be6d", "#A9A9A9"))+
          labs(x = "Log body mass (g)", y = "P(hist. extinct)") +
-         coord_cartesian(ylim = c(0, 1))+
          geom_line(data = predicted, aes(x = x, y = predicted, group = group, color = group), show.legend=FALSE, inherit.aes = FALSE, size = 1) +
          geom_ribbon(data = predicted, aes(x = x, ymin = conf.low, ymax = conf.high, group = group, fill = group), inherit.aes = FALSE, show.legend=FALSE, alpha = .1)+
          geom_rug(data = island_sp_mainlandvsisland[island_sp_mainlandvsisland$Pr_hist_extinction=="extinct",], aes(x = Body_mass_log, colour = Island_or_mainland), inherit.aes = FALSE, sides = "t")+
          geom_rug(data = island_sp_mainlandvsisland[island_sp_mainlandvsisland$Pr_hist_extinction=="extant",], aes(x = Body_mass_log, colour = Island_or_mainland), inherit.aes = FALSE, sides = "b")+
+         coord_cartesian(ylim = c(0, 1))+
          theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
                axis.text.x = element_text(family = "Arial", size = 14),
                axis.text.y = element_text(family = "Arial", size = 14),
