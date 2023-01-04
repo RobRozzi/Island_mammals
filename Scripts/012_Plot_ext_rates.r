@@ -116,10 +116,10 @@ plot_ext_shift_from_Mio_0.05
 # Plot magnitude of extinction rate increase relative to the base value #
 #########################################################################
 
-data_ext_from_Mio_0.05 <- mutate(data_ext_from_Mio_0.05, ext_rate_increase = rate_ext/0.3750480)
+data_ext_from_Mio_0.05 <- mutate(data_ext_from_Mio_0.05, ext_rate_increase = rate_ext/0.4348162)
 
 plot_ext_increase_from_Mio_0.05 <- ggplot(data_ext_from_Mio_0.05, aes(x= time_ext_Ma, y = ext_rate_increase)) +
-  geom_line(data = data_ext_from_Mio_0.05, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Mio_0.05, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   xlab("Time (Ma)") + ylab("Magnitude of rate increase")+
   scale_y_continuous(breaks=c(0,1,2,3,4))+
   scale_x_continuous(breaks=c(0,-5,-10,-15,-20))+
@@ -140,7 +140,7 @@ data_ext_from_Pleisto_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates
 data_ext_from_Pleisto_0.05 <- mutate(data_ext_from_Pleisto_0.05, time_ext_Ma = time_ext/10) #Convert x axis in Ma
 
 plot_ext_from_Pleisto_0.05 <- ggplot(data_ext_from_Pleisto_0.05, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   scale_y_continuous(breaks=c(0,0.2,0.4,0.6,0.8,1.0))+
@@ -157,8 +157,8 @@ plot_ext_from_Pleisto_0.05
 # time unit = 100 ka; iterations = 100 M; grid_plot 0.05          ####
 ######################################################################
 
-bf2_Pleisto = 0.005482758681601927
-bf6_Pleisto = 0.03914130514609744
+bf2_Pleisto = 0.0054539443807965285
+bf6_Pleisto = 0.038942526962374324
 
 data_ext_shift_from_Pleisto_0.05 <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Pleisto_grid_plot_0.05.csv')
 
@@ -183,12 +183,12 @@ plot_ext_shift_from_Pleisto_0.05
 # Plot magnitude of extinction rate increase relative to the base value #
 #########################################################################
 
-data_ext_from_Pleisto_0.05 <- mutate(data_ext_from_Pleisto_0.05, ext_rate_increase = rate_ext/0.06208176)
+data_ext_from_Pleisto_0.05 <- mutate(data_ext_from_Pleisto_0.05, ext_rate_increase = rate_ext/0.04018728)
 
 plot_ext_increase_from_Pleisto_0.05 <- ggplot(data_ext_from_Pleisto_0.05, aes(x= time_ext_Ma, y = ext_rate_increase)) +
-  geom_line(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   xlab("Time (Ma)") + ylab("Magnitude of rate increase")+
-  scale_y_continuous(breaks=c(1,3,6,9,12))+
+  scale_y_continuous(breaks=c(1,3,6,9,12,15,18))+
   scale_x_continuous(breaks=c(0,-0.5,-1,-1.5,-2,-2.5))+
   theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 14),
