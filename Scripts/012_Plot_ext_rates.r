@@ -282,10 +282,10 @@ ggsave(figure_1, filename = "Ext_rates_from_Mio_Pl_and_LP.pdf", path = "Results/
 ################################################
 
 Plot_Mio <- ggplot(data_ext_from_Mio_default, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Mio_default, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Mio_default, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Mio_default, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
-  geom_tile(data = data_ext_shift_from_Mio_default, aes(x = mids_Ma, y = -0.2, fill = counts, height=0.25)) +
-  scale_fill_gradient2(low="white", high="#c6392f", name = "Frequency of rate shift",limits = c(0,1.0), breaks = c(0, 0.25, 0.50, 0.75, 1.0))+
+  geom_tile(data = data_ext_shift_from_Mio_default, aes(x = mids_Ma, y = 9, fill = counts, height=0.7)) +
+  scale_fill_gradient2(low="white", high="grey40", name = "Frequency of rate shift",limits = c(0,1.0), breaks = c(0, 0.25, 0.50, 0.75, 1.0))+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   scale_y_continuous(breaks=c(0,2,4,6,8))+
   scale_x_continuous(breaks=c(0,-5,-10,-15,-20))+
@@ -311,14 +311,15 @@ data_ext_shift_from_Pleisto_default <- read.csv('Results/PyRate_ext_rates/Plots_
 data_ext_shift_from_Pleisto_default <- mutate(data_ext_shift_from_Pleisto_default, mids_Ma = mids/10) #Convert x axis in Ma
 
 Plot_Pleisto <- ggplot(data_ext_from_Pleisto_0.05, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_vline(xintercept = -0.130, linetype = "dotted", colour = "#dc9e31", size = 0.4)+
+  geom_vline(xintercept = -1.3, linetype = "dotted", colour = "#dc9e31", size = 0.4)+
+  geom_vline(xintercept = -0.130, linetype = "dashed", colour = "#dc9e31", size = 0.4)+
   geom_vline(xintercept = -0.073, colour = "#dc9e31", size = 0.4)+
-  geom_line(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Pleisto_0.05, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
-  geom_tile(data = data_ext_shift_from_Pleisto_default, aes(x = mids_Ma, y = -0.03, fill = counts, height=0.04)) +
-  scale_fill_gradient2(low="white", high="#c6392f", name = "Frequency of rate shift",limits = c(0,1.0), breaks = c(0, 0.25, 0.50, 0.75, 1.0))+
+  geom_tile(data = data_ext_shift_from_Pleisto_default, aes(x = mids_Ma, y = 1.1, fill = counts, height=0.1)) +
+  scale_fill_gradient2(low="white", high="grey40", name = "Frequency of rate shift",limits = c(0,1.0), breaks = c(0, 0.25, 0.50, 0.75, 1.0))+
   xlab("Time (Ma)") + ylab("Extinction rate")+
-  scale_y_continuous(breaks=c(0,0.5,1,1.5,2), limits = c(-0.07,1))+
+  scale_y_continuous(breaks=c(0,0.5,1,1.5,2), limits = c(-0.07,1.2))+
   scale_x_continuous(breaks=c(0,-0.5,-1,-1.5,-2,-2.5), limits = c(-2.54,0))+
   theme(axis.title = element_text(size = 16, colour = "grey40"),
         axis.text.x = element_text(size = 12),
