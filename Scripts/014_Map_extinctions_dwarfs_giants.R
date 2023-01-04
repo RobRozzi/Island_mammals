@@ -16,7 +16,7 @@ library(Cairo)
 # Load data                                               ####
 ##############################################################
 
-#207 taxa; 89 dwarfs; 118 giants
+#226 dwarfs (94) and giants (132)
 data<-read.csv('Results/PyRate_ext_rates/Map_extinctions_dwarfs_giants/Input_map_extinctions_dwarfs_giants.csv')
 
 #Define geologic ages
