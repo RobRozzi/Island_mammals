@@ -128,7 +128,7 @@ predictionDirsimple<-ggpredict(glmer5, "Direction_body_size_change [all]", type 
 predictionDirsimple
 
 Direction_vs_P_threatened <- ggplot(predictionDirsimple, aes(x, predicted)) +
-  geom_pointrange(aes(x = x, ymin = conf.low, ymax = conf.high, shape = x), size = 1.5, colour = "black", position = position_dodge(3))+
+  geom_pointrange(aes(x = x, ymin = conf.low, ymax = conf.high, shape = x), size = 1.5, linewidth = 1.5, colour = "black", position = position_dodge(3))+
   guides(fill="none") +
   coord_cartesian(ylim = c(0, 1))+
   theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
