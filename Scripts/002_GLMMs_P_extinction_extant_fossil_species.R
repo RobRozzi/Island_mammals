@@ -214,7 +214,7 @@ BM_groups <- factor(group_tags, ordered = TRUE)
 #Plot
 
 Body_size_classes_vs_P_extinct <- ggplot(island_species_all, aes(x = BM_groups, y = Magnitude_body_size_change, fill = Pr_extinction, color = Pr_extinction)) + 
-  stat_summary(fun.data=mean_sdl, fun.args = list(mult = 1), size = 1, geom="pointrange", shape = 15, position = position_dodge(0.75))+
+  stat_summary(fun.data=mean_sdl, fun.args = list(mult = 1), size = 1, linewidth = 1, geom="pointrange", shape = 15, position = position_dodge(0.75))+
   geom_jitter(size = 2.5, alpha = 0.1, position = position_jitterdodge(0.5), set.seed(123)) +
   scale_colour_manual(values = c("#89b790","#06485e"))+
   labs(x = "Body size (kg)", y = "Magnitude of body size change") +
