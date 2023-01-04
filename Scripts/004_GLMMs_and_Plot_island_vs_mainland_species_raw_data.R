@@ -268,7 +268,7 @@ plot3 <- ggplot() +
         legend.title = element_blank(),
         legend.text = element_text(family = "Arial", size = 14, colour = "grey40"),
         strip.background = element_rect(fill="white", size=1.5, linetype="solid"),
-        strip.text.x = element_text(size = 12, family = "Arial", colour = "grey40", face = "bold"))
+        strip.text.x = element_text(size = 14, family = "Arial", colour = "grey40", face = "bold"))
 
 plot3
 
