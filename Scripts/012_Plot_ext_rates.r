@@ -264,9 +264,9 @@ plot_ext_increase_from_Late_Pleisto_0.05_0.1 <- ggplot(data_ext_from_Late_Pleist
 
 plot_ext_increase_from_Late_Pleisto_0.05_0.1
 
-################################################
-# Combine all 9 plots for Extended Data Fig. 8 #
-################################################
+###################################
+# Combine all 9 plots for Fig. S8 #
+###################################
 
 figure_1 <- ggarrange(plot_ext_from_Mio_0.05, plot_ext_shift_from_Mio_0.05, plot_ext_increase_from_Mio_0.05,
                       plot_ext_from_Pleisto_0.05, plot_ext_shift_from_Pleisto_0.05, plot_ext_increase_from_Pleisto_0.05,
@@ -362,9 +362,9 @@ Plot_Late_Pleisto
 
 ggsave(Plot_Late_Pleisto, filename = "Ext_rates_and_shifts_from_Late_Pleisto_min_dt_0.1.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf
 
-#####################################
-# Combine all 3 plots for Figure 3A #
-#####################################
+#########################################
+# Combine all 3 plots for Figure 3A,B,C #
+#########################################
 
 get_legend<-function(a.gplot){
   tmp <- ggplot_gtable(ggplot_build(a.gplot))
@@ -382,7 +382,7 @@ figure_2 <- ggarrange(Plot_Mio, Plot_Pleisto, Plot_Late_Pleisto,
 
 figure_2
 
-ggsave(figure_2, filename = "Figure_3A.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 3, device = cairo_pdf) #save the plot in pdf
+ggsave(figure_2, filename = "Figure_3ABC.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 3, device = cairo_pdf) #save the plot in pdf
 
 ###################################################################################
 # Load data and plot ext rates from Late Pleisto; time unit = 10 ka            ####
@@ -462,7 +462,7 @@ data_ext_from_Mio_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rate
 data_ext_from_Mio_0.05_ANAG <- mutate(data_ext_from_Mio_0.05_ANAG, time_ext_Ma = time_ext/4) #Convert x axis in Ma
 
 plot_ext_from_Mio_0.05_ANAG <- ggplot(data_ext_from_Mio_0.05_ANAG, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Mio_0.05_ANAG, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Mio_0.05_ANAG, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Mio_0.05_ANAG, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   #  scale_y_sqrt(breaks=c(0,2,4,6,8))+
@@ -481,8 +481,8 @@ plot_ext_from_Mio_0.05_ANAG
 # only final representatives of anagenetic lineages               ####
 ######################################################################
 
-bf2_Mio_ANAG = 0.0022049707868768607
-bf6_Mio_ANAG = 0.016066315693469845
+bf2_Mio_ANAG = 0.0022771346428841275
+bf6_Mio_ANAG = 0.016584590706668366
 
 data_ext_shift_from_Mio_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Mio_anagen_cut.csv')
 
@@ -507,10 +507,10 @@ plot_ext_shift_from_Mio_0.05_ANAG
 # Plot magnitude of extinction rate increase relative to the base value #
 #########################################################################
 
-data_ext_from_Mio_0.05_ANAG <- mutate(data_ext_from_Mio_0.05_ANAG, ext_rate_increase = rate_ext/0.8285775)
+data_ext_from_Mio_0.05_ANAG <- mutate(data_ext_from_Mio_0.05_ANAG, ext_rate_increase = rate_ext/0.3528239)
 
 plot_ext_increase_from_Mio_0.05_ANAG <- ggplot(data_ext_from_Mio_0.05_ANAG, aes(x= time_ext_Ma, y = ext_rate_increase)) +
-  geom_line(data = data_ext_from_Mio_0.05_ANAG, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Mio_0.05_ANAG, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   xlab("Time (Ma)") + ylab("Magnitude of rate increase")+
   #  scale_y_sqrt(breaks=c(0,2,4,6,8))+
   scale_y_continuous(breaks=c(-0.5,0,0.5,1,1.5,2))+
@@ -532,7 +532,7 @@ data_ext_from_Pleisto_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_
 data_ext_from_Pleisto_0.05_ANAG <- mutate(data_ext_from_Pleisto_0.05_ANAG, time_ext_Ma = time_ext/10) #Convert x axis in Ma
 
 plot_ext_from_Pleisto_0.05_ANAG <- ggplot(data_ext_from_Pleisto_0.05_ANAG, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Pleisto_0.05_ANAG, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Pleisto_0.05_ANAG, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Pleisto_0.05_ANAG, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   scale_y_continuous(breaks=c(0,0.2,0.4,0.6,0.8,1.0))+
@@ -550,8 +550,8 @@ plot_ext_from_Pleisto_0.05_ANAG
 # only final representatives of anagenetic lineages               ####
 ######################################################################
 
-bf2_Pleisto_ANAG = 0.005514684894930311
-bf6_Pleisto_ANAG = 0.039361468590275485
+bf2_Pleisto_ANAG = 0.00548322572490713
+bf6_Pleisto_ANAG = 0.039144526506222146
 
 data_ext_shift_from_Pleisto_0.05_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_Pleisto_anagen_cut.csv')
 
@@ -576,10 +576,10 @@ plot_ext_shift_from_Pleisto_0.05_ANAG
 # Plot magnitude of extinction rate increase relative to the base value #
 #########################################################################
 
-data_ext_from_Pleisto_0.05_ANAG <- mutate(data_ext_from_Pleisto_0.05_ANAG, ext_rate_increase = rate_ext/0.05864778)
+data_ext_from_Pleisto_0.05_ANAG <- mutate(data_ext_from_Pleisto_0.05_ANAG, ext_rate_increase = rate_ext/0.04723517)
 
 plot_ext_increase_from_Pleisto_0.05_ANAG <- ggplot(data_ext_from_Pleisto_0.05_ANAG, aes(x= time_ext_Ma, y = ext_rate_increase)) +
-  geom_line(data = data_ext_from_Pleisto_0.05_ANAG, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Pleisto_0.05_ANAG, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   xlab("Time (Ma)") + ylab("Magnitude of rate increase")+
   scale_y_continuous(breaks=c(1,3,6,9,12))+
   scale_x_continuous(breaks=c(0,-0.5,-1,-1.5,-2,-2.5))+
@@ -600,7 +600,7 @@ data_ext_from_Late_Pleisto_0.05_0.1_ANAG <- read.csv('Results/PyRate_ext_rates/P
 data_ext_from_Late_Pleisto_0.05_0.1_ANAG <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_ANAG, time_ext_Ma = time_ext/100) #Convert x axis in Ma
 
 plot_ext_from_Late_Pleisto_0.05_0.1_ANAG <- ggplot(data_ext_from_Late_Pleisto_0.05_0.1_ANAG, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1_ANAG, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1_ANAG, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Late_Pleisto_0.05_0.1_ANAG, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   scale_y_continuous(breaks=c(0,0.5,1,1.5,2))+
@@ -618,8 +618,8 @@ plot_ext_from_Late_Pleisto_0.05_0.1_ANAG
 # only final representatives of anagenetic lineages                    ####
 ###########################################################################
 
-bf2_Late_Pleisto_0.05_0.1_ANAG = 0.008938985400863235
-bf6_Late_Pleisto_0.05_0.1_ANAG = 0.06248220116618506
+bf2_Late_Pleisto_0.05_0.1_ANAG = 0.008832228303973016
+bf6_Late_Pleisto_0.05_0.1_ANAG = 0.06177584411314222
 
 data_ext_shift_from_Late_Pleisto_0.05_0.1_ANAG <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_LP_anagen_cut.csv')
 
@@ -644,10 +644,10 @@ plot_ext_shift_from_Late_Pleisto_0.05_0.1_ANAG
 # Plot magnitude of extinction rate increase relative to the base value #
 #########################################################################
 
-data_ext_from_Late_Pleisto_0.05_0.1_ANAG <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_ANAG, ext_rate_increase = rate_ext/0.02094461)
+data_ext_from_Late_Pleisto_0.05_0.1_ANAG <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_ANAG, ext_rate_increase = rate_ext/0.02129856)
 
 plot_ext_increase_from_Late_Pleisto_0.05_0.1_ANAG <- ggplot(data_ext_from_Late_Pleisto_0.05_0.1_ANAG, aes(x= time_ext_Ma, y = ext_rate_increase)) +
-  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1_ANAG, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1_ANAG, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   xlab("Time (Ma)") + ylab("Magnitude of rate increase")+
   scale_y_continuous(breaks=c(1,25,50,75))+
   scale_x_continuous(breaks=c(0,-0.025,-0.05,-0.075,-0.1,-0.125))+
@@ -659,7 +659,7 @@ plot_ext_increase_from_Late_Pleisto_0.05_0.1_ANAG <- ggplot(data_ext_from_Late_P
 plot_ext_increase_from_Late_Pleisto_0.05_0.1_ANAG
 
 ###########################################################################
-# Combine all 9 plots for Extended Data Fig. 9                            #
+# Combine all 9 plots for Fig. S9                                         #
 # Sensitivity analysis Madagascar only direct dates + anagenetic lineages # 
 ###########################################################################
 
