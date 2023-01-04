@@ -104,7 +104,8 @@ Magnitude_model <- ggplot(predicted_random, aes(x = x, y = predicted, group = gr
             size = 0.8, color = "#e7b9ca") +
   geom_rug(data = island_species_historical_ext[island_species_historical_ext$Pr_hist_extinction=="extant",], aes(x = Magnitude_body_size_change), colour = "darkgrey", alpha = .5, inherit.aes = FALSE, sides = "b")+
   geom_rug(data = island_species_historical_ext[island_species_historical_ext$Pr_hist_extinction=="extinct",], aes(x = Magnitude_body_size_change), colour = "darkgrey",  alpha = .5, sides = "t", inherit.aes = FALSE)+
-  labs(x = "Magnitude of body size change", y = "P(extinct)") +
+  labs(x = "Magnitude of body size change", y = "P(hist. extinct)") +
+  coord_cartesian(ylim = c(0, 1))+
   theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 14),
         axis.text.y = element_text(family = "Arial", size = 14),
