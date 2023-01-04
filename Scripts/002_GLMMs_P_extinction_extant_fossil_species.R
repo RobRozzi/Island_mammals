@@ -85,8 +85,8 @@ Available_species_per_order <- ggplot(island_species_all, aes(x= Order, fill = I
                                theme(legend.position = "none",
                                      axis.title.x = element_blank(),
                                      axis.title.y = element_text(family = "Arial", size = 18, colour = "grey40"),
-                                     axis.text.x = element_text(family = "Arial", size = 10, angle = 45, vjust = 0.5, colour = "grey40"),
-                                     axis.text.y = element_text(family = "Arial", size = 10),
+                                     axis.text.x = element_text(family = "Arial", size = 14, angle = 45, vjust = 0.5, colour = "grey40"),
+                                     axis.text.y = element_text(family = "Arial", size = 14),
                                      panel.grid = element_blank())
 
 
