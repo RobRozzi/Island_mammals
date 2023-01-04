@@ -31,10 +31,10 @@ Antillomys_rayi	extinct
 Antillothrix_bernensis	extinct
 Antrozous_pallidus	extant
 Aonyx_cinereus	extant
-Apatodemus_deguilii	extinct
 Apocricetus_darderi	extinct
 Apocricetus_sp_Gargano	extinct
 Apodemus_argenteus	extant
+Apodemus_degiulii	extinct
 Apodemus_mannu	extinct
 Apodemus_maximus	extinct
 Apodemus_mystacinus_FOSSIL	extant
@@ -154,6 +154,7 @@ Catopuma_badia	extant
 Catopuma_temminckii	extant
 Caviida_incertae_sedis_Jamaica	extinct
 Ceboidea_gen_et_sp_indet_Jamaica	extinct
+Cebus_capucinus	extant
 Celebochoerus_cagayanensis	extinct
 Celebochoerus_heekereni	extinct
 Celebochoerus_nov_sp_Sulawesi	extinct
@@ -171,7 +172,6 @@ Cervus_nippon	extant
 Cervus_nov_sp_Masbate	extinct
 Cervus_praenipponicus	extinct
 Cervus_sp_Tilos	extinct
-cf_Hypnomys_sp_Eivissa	extinct
 Chaerephon_jobensis	extant
 Chaerephon_leucogaster	extant
 Chaerephon_plicatus	extant
@@ -224,6 +224,7 @@ Cryptoprocta_ferox	extant
 Cryptoprocta_sp_new	extinct
 Cryptoprocta_spelea	extinct
 Cubanycteris_silvai	extinct
+Cuniculus_paca	extant
 Cuon/Canis_sp_Palawan	extinct
 Cuon_alpinus	extant
 Cuon_alpinus_FOSSIL	extant
@@ -243,6 +244,7 @@ Dactylopsila_trivirgata	extant
 Dama_carburangelensis	extinct
 Dama_dama	extant
 Dama_mesopotamica	extant
+Dasyprocta_punctata	extant
 Dasypterus_insularis	extant
 Dasyurus_albopunctatus	extant
 Daubentonia_madagascariensis	extant
@@ -258,10 +260,11 @@ Deinogalerix_samniticus	extinct
 Dendrolagus_dorianus	extant
 Dendrolagus_goodfellowi	extant
 Dendrolagus_inustus	extant
-Dendrolagus_noibano	extinct
 Desmodus_rotundus_FOSSIL	extant
 Desmodus_stocki	extinct
 Dicerorhinus_sumatrensis	extant
+Didelphis_marsupialis	extant
+Diplomys_labilis	extant
 Diplothrix_legata	extant
 Distoechurus_pennatus	extant
 Dobsonia_anderseni	extant
@@ -283,7 +286,6 @@ Dymecodon_pilirostris	extant
 Ebusia_moralesi	extinct
 Echinops_telfairi	extant
 Echinosorex_gymnura	extant
-Echinosorex_gymnurus	extant
 Echymipera_clara	extant
 Echymipera_kalubu	extant
 Echymipera_rufescens	extant
@@ -293,7 +295,7 @@ Elaphurus_bifurcatus	extinct
 Elaphurus_davidianus	extinct
 Elaphurus_formosanus	extinct
 Elasmodontomys_obliquus	extinct
-Elephantidae_gen_et_sp_indet_KyThnos	extinct
+Elephantidae_gen_et_sp_indet_Kythnos	extinct
 Elephantidae_gen_et_sp_indet_Milos	extinct
 Elephantidae_gen_et_sp_indet_Paros	extinct
 Elephantidae_gen_et_sp_indet_Seriphos	extinct
@@ -356,18 +358,17 @@ Geocapromys_ingrahami_irrectus	extinct
 Geogale_aurita	extant
 Geotrypus_oschiriensis	extinct
 Gerbillinae_gen_et_sp_indet_MT	extinct
-Gimnesicolagus_aff_G_gelaberti	extinct
 Giraffa_nipponica	extinct
 Giraffidae_gen_et_sp_indet_V2	extinct
 Gliridae_nov_gen_et_sp_V1	extinct
+Gliridae_sp_Eivissa	extinct
 Gliridae_sp_indet_Crete	extinct
 Glirulus_japonicus	extant
 Glis_glis	extant
 Glis_major	extinct
 Golunda_ellioti	extant
-Gomphotherium_sp_Miyako	extinct
 Gona_sinhalaya	extinct
-Grirulus_japonicus	extant
+Gymnesicolagus_aff_G_gelaberti	extinct
 Gymnesicolagus_gelaberti	extinct
 Hadropithecus_stenognathus	extinct
 Hapalemur_griseus	extant
@@ -380,7 +381,7 @@ Hemigalus_derbyanus	extant
 Hemimachairodus_zwierzyckii	extinct
 Herpestes_brachyurus	extant
 Herpestes_edwardsii	extant
-Herpestes_smiThii	extant
+Herpestes_smithii	extant
 Herpestes_vitticollis	extant
 Heteropsomys_antillensis	extinct
 Heteropsomys_insulans	extinct
@@ -399,7 +400,6 @@ Hippopotamus_pentlandi	extinct
 Hipposideros_ater	extant
 Hipposideros_besaoka	extinct
 Hipposideros_calcaratus	extant
-Hipposideros_commersoni	extant
 Hipposideros_diadema	extant
 Hipposideros_galeritus	extant
 Hipposideros_larvatus	extant
@@ -411,6 +411,7 @@ Hipposideros_turpis	extant
 Hippotragini_gen_et_sp_indet_Lampedusa	extinct
 Homo_floresiensis	extinct
 Homo_luzonensis	extinct
+Homotherium_sp_Taiwan	extinct
 Homotherium_ultimum	extinct
 Hooijeromys_nusatenggara	extinct
 Hoplitomeryx_devosi	extinct
@@ -427,10 +428,9 @@ Hylobates_moloch	extant
 Hylobates_muelleri	extant
 Hylopetes_nigripes	extant
 Hyomys_dammermani	extant
-Hyomys_goliaTh	extant
+Hyomys_goliath	extant
 Hyotherium_insularis	extinct
 Hyperplagiodontia_araeum	extinct
-Hypnomys_aff_H_eliomyoides	extinct
 Hypnomys_eliomyoides	extinct
 Hypnomys_mahonensis	extinct
 Hypnomys_morpheus	extinct
@@ -475,10 +475,10 @@ Lasiurus_cinereus	extant
 Lasiurus_intermedius	extant
 Lasiurus_minor	extant
 Lasiurus_pfeifferi	extant
-LeiThia_cartei	extinct
-LeiThia_ex_gr_melitensis_cartei	extinct
-LeiThia_melitensis	extinct
-LeiThia_sp_MP	extinct
+Leithia_cartei	extinct
+Leithia_ex_gr_melitensis_cartei	extinct
+Leithia_melitensis	extinct
+Leithia_sp_MP	extinct
 Lemur_catta	extant
 Lenomys_meyeri	extant
 Leopoldamys_sabanus	extant
@@ -525,7 +525,7 @@ Macruromys_elegans	extant
 Macruromys_major	extant
 Mallomys_aroaensis	extant
 Mallomys_gunung	extant
-Mallomys_roThschildi	extant
+Mallomys_rothschildi	extant
 Malpaisomys_insularis	extinct
 Maltamys_sp_MP	extinct
 Maltamys_wiedincitensis	extinct
@@ -553,11 +553,13 @@ Maxomys_hellwaldii	extant
 Maxomys_musschenbroekii	extant
 Maxomys_panglima	extant
 Maxomys_sp_indet_Java	extinct
+Mazama_sp_Pedro_Gonzalez	extant
 Megaderma_spasma	extant
 Megaladapis_edwardsi	extinct
 Megaladapis_grandidieri	extinct
 Megaladapis_madagascariensis	extinct
 Megalenhydris_barbaricina	extinct
+Megalocninae_gen_et_sp_indet_Hispaniola	extinct
 Megalocnus_rodens	extinct
 Megalocnus_zile	extinct
 Megalomys_audreyae	extinct
@@ -578,9 +580,9 @@ Melomys_bougainville	extant
 Melomys_burtoni	extant
 Melomys_caurinus	extant
 Melomys_large_species_Timor	extinct
+Melomys_leucogaster	extant
 Melomys_lutillus	extant
 Melomys_matambuai	extant
-Melomys_roThschildii	extant
 Melomys_rubex	extant
 Melomys_rufescens	extant
 Melomys_small_species_Timor	extinct
@@ -594,7 +596,7 @@ Mesocapromys_kraglievichi	extinct
 Mesocapromys_minimus	extinct
 Mesocapromys_nanus	extant
 Mesocapromys_sanfelipensis	extant
-Mesocricetus_raThgeberi	extinct
+Mesocricetus_rathgeberi	extinct
 Mesopropithecus_dolichobrachion	extinct
 Mesopropithecus_globiceps	extinct
 Mesopropithecus_pithecoides	extinct
@@ -642,6 +644,7 @@ Miniopterus_macrocneme	extant
 Miniopterus_phlebotis	extant
 Miniopterus_schreibersii	extant
 Miniopterus_sp_Flores	extinct
+Miniopterus_sp_Minami_Daito	extant
 Miniopterus_sp_Miyako	extinct
 Miniopterus_tristis	extant
 Mogera_wogura	extant
@@ -700,7 +703,7 @@ Mydaus_marchei	extant
 Myodes_andersoni	extant
 Myodes_japonicus	extinct
 Myodes_rufocanus	extant
-Myodes_smiThii	extant
+Myodes_smithii	extant
 Myoictis_melas	extant
 Myoictis_sp_New_Guinea	extinct
 Myoictis_wallacei	extant
@@ -708,7 +711,7 @@ Myopus_schisticolor	extant
 Myotis_austroriparius	extant
 Myotis_bechsteinii	extant
 Myotis_beppuensis	extinct
-Myotis_blyThii	extant
+Myotis_blythii	extant
 Myotis_capaccinii	extant
 Myotis_emarginatus	extant
 Myotis_escalerai	extant
@@ -734,8 +737,8 @@ Mysateles_prehensilis	extant
 Mystacina_miocenalis	extinct
 Mystacina_robusta	extinct
 Mystacina_tuberculata	extant
-Mystacinidae_gen_et_sp_indet_1_SouTh_Island	extinct
-Mystacinidae_gen_et_sp_indet_2_SouTh_Island	extinct
+Mystacinidae_gen_et_sp_indet_1_South_Island	extinct
+Mystacinidae_gen_et_sp_indet_2_South_Island	extinct
 Mystemys_giganteus	extinct
 Nasalis_larvatus	extant
 Natalus_jamaicensis	extant
@@ -746,6 +749,7 @@ Neocnus_comes	extinct
 Neocnus_dousman	extinct
 Neocnus_gliriformis	extinct
 Neocnus_nov_sp_Hispaniola	extinct
+Neocnus_sp_nov_Hispaniola	extinct
 Neocnus_toupiti	extinct
 Neocricetodon_sp_Gargano	extinct
 Neofelis_diardi	extant
@@ -779,6 +783,7 @@ Nesoryzomys_indefessus_indefessus	extinct
 Nesoryzomys_nov_sp_1	extinct
 Nesoryzomys_nov_sp_2	extinct
 Nesoryzomys_nov_sp_3	extinct
+New_giant_rat_sp_Flores	extinct
 Niviventer_nov_sp_Ryukyu	extinct
 Niviventer_sp_Taiwan	extinct
 Noctilio_leporinus	extant
@@ -828,7 +833,6 @@ Palaeoloxodon_creutzburgi	extinct
 Palaeoloxodon_cypriotes	extinct
 Palaeoloxodon_ex_gr_P_falconeri	extinct
 Palaeoloxodon_ex_gr_P_mnaidriensis	extinct
-Palaeoloxodon_falconeri	extinct
 Palaeoloxodon_huaihoensis	extinct
 Palaeoloxodon_lomolinoi	extinct
 Palaeoloxodon_namadicus	extinct
@@ -843,7 +847,6 @@ Palaeoloxodon_tiliensis	extinct
 Palaeoloxodon_xylophagou	extinct
 Palaeopropithecus_ingens	extinct
 Palaeopropithecus_kelyus	extinct
-Palaeopropithecus_keylus	extinct
 Palaeopropithecus_maximus	extinct
 Paludolutra_campanii	extinct
 Paludotona_etruria	extinct
@@ -859,7 +862,6 @@ Papagomys_armandvillei	extant
 Papagomys_nov_sp_Flores	extinct
 Papagomys_theodorverhoeveni	extinct
 Paradoxurus_hermaphroditus	extant
-Paradoxurus_philippinensis	extant
 Paradoxurus_zeylonensis	extant
 Paraethomys_balearicus	extinct
 Parahydromys_asper	extant
@@ -900,6 +902,7 @@ Petaurista_philippensis	extant
 Petauroides_ayamaruensis	extinct
 Petaurus_breviceps	extant
 Petinomys_fuscocapillus	extant
+Phalanger_A_New_Guinea	extinct
 Phalanger_alexandrae	extant
 Phalanger_carmelitae	extant
 Phalanger_gymnotis	extant
@@ -946,6 +949,7 @@ Presbytis_femoralis	extant
 Presbytis_rubiconda	extant
 Prionailurus_bengalensis	extant
 Prionailurus_planiceps	extant
+Proechimys_semispinosus	extant
 Prolagus_aff_P_figaro	extinct
 Prolagus_apricenicus	extinct
 Prolagus_figaro	extinct
@@ -1050,6 +1054,7 @@ Rhinoceros_sondaicus	extant
 Rhinoceros_sp_Taiwan	extinct
 Rhinoceros_unicornis	extant
 Rhinocerotidae_gen_et_sp_indet_Hondo	extinct
+Rhinocerotina_gen_et_sp_indet_Hondo	extinct
 Rhinocerotinae_gen_et_sp_indet_Hondo	extinct
 Rhinolophus_amplexicaudatus	extant
 Rhinolophus_blasii	extant
@@ -1060,16 +1065,16 @@ Rhinolophus_euryale	extant
 Rhinolophus_euryale_praeglacialis	extinct
 Rhinolophus_euryotis	extant
 Rhinolophus_ferrumequinum	extant
-Rhinolophus_grivensis	extinct
 Rhinolophus_hipposideros	extant
 Rhinolophus_megaphyllus	extant
 Rhinolophus_mehelyi	extant
 Rhinolophus_perditus	extant
 Rhinolophus_simplex	extant
 Rhinolophus_sp_D1	extinct
+Rhinolophus_sp_Menorca	extinct
+Rhinolophus_sp_Minami_Daito	extant
 Rhinolophus_trefoiliatus	extant
 Rhinolophus_variabilis	extinct
-Rhinolophys_mehelyi	extant
 Rhinopithecus_sp_Taiwan	extinct
 Rhizoplagiodontia_lemkei	extinct
 Rousettus_aegyptiacus	extant
@@ -1081,7 +1086,6 @@ Rusa_kendengensis	extinct
 Rusa_marianna	extant
 Rusa_sp_Luzon	extinct
 Rusa_sp_Palawan	extinct
-Rusa_sp_Tawi_Tawi	extinct
 Rusa_timorensis	extant
 Rusa_unicolor	extant
 Sardolagus_obscurus	extinct
@@ -1091,7 +1095,7 @@ Sardomys_antoniettae	extinct
 Sardomys_dawsonae	extinct
 SB_mammal	extinct
 Sciurus_lis	extant
-Scontromeryx_apruThiensis	extinct
+Scontromeryx_apruthiensis	extinct
 Scontromeryx_apulicus	extinct
 Scontromeryx_falcidens	extinct
 Scontromeryx_magnus	extinct
@@ -1103,6 +1107,7 @@ Shikamainosorex_densicingulata	extinct
 Shrew_rat_nov_sp_Flores	extinct
 Sigmodon_hispidus	extant
 Sinomastodon_bumiajuensis	extinct
+Sinomastodon_sp_Miyako	extinct
 Sinomegaceros_yabei	extinct
 Sminthopsis_virginiae	extant
 Solenodon_arredondoi	extinct
@@ -1176,6 +1181,7 @@ Sus_ahoenobarbus	extant
 Sus_australis	extinct
 Sus_barbatus	extant
 Sus_brachygnathus	extinct
+Sus_cebifrons	extant
 Sus_celebensis	extant
 Sus_houi	extinct
 Sus_lydekkeri	extinct
@@ -1187,7 +1193,6 @@ Sus_scrofa	extant
 Sus_scrofa_vittatus	extant
 Sus_sinhaleyus	extinct
 Sus_sondaari	extinct
-Sus_sp_Masbate	extinct
 Sus_sp_Taiwan	extinct
 Sus_stremmi	extinct
 Sus_verrucosus	extant
@@ -1206,13 +1211,13 @@ Taphozous_melanopogon	extant
 Tapirus_indicus	extant
 Tatera_indica	extant
 Tenrec_ecaudatus	extant
-thylacinus_cynocephalus	extinct
-thylacinus_sp_New_Guinea	extinct
-thylogale_browni	extant
-thylogale_brunii	extant
-thylogale_christenseni	extinct
-thylogale_sp_New_Guinea	extinct
-thylogale_stigmatica	extant
+Thylacinus_cynocephalus	extinct
+Thylacinus_sp_New_Guinea	extinct
+Thylogale_browni	extant
+Thylogale_brunii	extant
+Thylogale_christenseni	extinct
+Thylogale_sp_New_Guinea	extinct
+Thylogale_stigmatica	extant
 Tokudaia_muenninki	extant
 Tokudaia_osimensis	extant
 Tonatia_saurophila	extant
@@ -1243,7 +1248,7 @@ Uromys_caudimaculatus	extant
 Urotrichus_talpoides	extant
 Ursus_arctos	extant
 Ursus_spelaeus_spelaeus	extinct
-Ursus_Thibetanus	extant
+Ursus_thibetanus	extant
 Vandeleuria_nolthenii	extant
 Vandeleuria_olevacea	extant
 Varecia_variegata	extant

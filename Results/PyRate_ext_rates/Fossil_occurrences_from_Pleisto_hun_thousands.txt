@@ -1,8 +1,8 @@
 Taxon_name	Status	MinAge	MaxAge	Site
 Stegodon_aurorae	extinct	18	26	Riverbed of the Sakura River: Node: Hino Town: Shiga Prefecture
 Stegodon_aurorae	extinct	18	26	Renjegi: Hino Town: Shiga Prefecture
-Sus_sondaari	extinct	18.06	25.8	Capo Mannu (= Capo Mannu D4)
-Nesogoral_melonii	extinct	18.06	25.8	Capo Mannu (= Capo Mannu D4)
+Sus_sondaari	extinct	18.06	25.8	Capo Mannu (Capo Mannu D4)
+Nesogoral_melonii	extinct	18.06	25.8	Capo Mannu (Capo Mannu D4)
 Nesogoral_cenisae	extinct	11	25.8	Campidano
 Macaca_majori	extinct	11	25.8	Capo Figari 
 Sus_sondaari	extinct	11	25.8	Capo Figari 
@@ -25,7 +25,7 @@ Cordimus_debuisonjei	extinct	23	25.8	C2 637: Tafelberg Santa Barbara
 Hydrochoerus_hydrochaeris	extant	23	25.8	C2 637: Tafelberg Santa Barbara
 Mammuthus_creticus	extinct	1.35	25.8	Cape Maleka 1
 Mammuthus_creticus	extinct	1.3	25.8	Koutalas: upper level
-Hippopotamus_creutzburgi	extinct	1.3	25.8	Alogaras Cave (LasiThi)
+Hippopotamus_creutzburgi	extinct	1.3	25.8	Alogaras Cave (Lasithi)
 Hippopotamus_creutzburgi	extinct	1.3	25.8	Karoumbes 1
 Hippopotamus_creutzburgi	extinct	1.3	25.8	Kato Zagros
 Hippopotamus_creutzburgi	extinct	1.3	25.8	Koutalas: upper level
@@ -33,8 +33,8 @@ Hippopotamus_creutzburgi	extinct	1.3	25.8	Mastabas Herakleio
 Hippopotamus_creutzburgi	extinct	1.3	25.8	Milatos lost site
 Hippopotamus_creutzburgi	extinct	1.3	25.8	Sitia 1
 Hippopotamus_creutzburgi	extinct	1.3	25.8	Stavros macro
-Hippopotamus_creutzburgi	extinct	1.3	25.8	Stavros micro lower level
-Hippopotamus_creutzburgi	extinct	1.3	25.8	Xerokampos (LasiThi)
+Hippopotamus_creutzburgi	extinct	1.3	25.8	Stavros micro
+Hippopotamus_creutzburgi	extinct	1.3	25.8	Xerokampos (Lasithi)
 Apodemus_sp_Crete	extinct	1.3	25.8	Sitia 1
 Kritimys_aff_K_kiridus	extinct	1.35	25.8	Sitia 1
 Kritimys_catreus	extinct	1.3	25.8	Bali 1
@@ -46,7 +46,7 @@ Kritimys_catreus	extinct	1.3	25.8	Karoumbes A
 Kritimys_catreus	extinct	1.3	25.8	Kato Zagros
 Kritimys_catreus	extinct	1.3	25.8	Koutalas: upper level
 Kritimys_catreus	extinct	1.3	25.8	Milatos 1
-Kritimys_catreus	extinct	1.3	25.8	Milatos 3 lower levels
+Kritimys_catreus	extinct	1.3	25.8	Milatos 3
 Kritimys_catreus	extinct	1.3	25.8	Sphinari
 Kritimys_catreus	extinct	1.3	25.8	Stavros Cave outside
 Kritimys_catreus	extinct	1.3	25.8	Stavros macro
@@ -108,7 +108,7 @@ Mustelercta_arzilla	extinct	7.74	25.8	Monte Pellegrino
 Apodemus_maximus	extinct	7.74	25.8	Monte Pellegrino
 Pellegrinia_panormensis	extinct	7.74	25.8	Monte Pellegrino
 Maltamys_sp_MP	extinct	7.74	25.8	Monte Pellegrino
-LeiThia_sp_MP	extinct	7.74	25.8	Monte Pellegrino
+Leithia_sp_MP	extinct	7.74	25.8	Monte Pellegrino
 Celebochoerus_heekereni	extinct	18	25	Ciangkange (FVL 22)
 Stegodon_sompoensis	extinct	18	25	Ciangkange (FVL 22)
 Stegoloxodon_celebensis	extinct	18	25	Ciangkange (FVL 22)
@@ -144,7 +144,6 @@ Stegodon_protoaurorae	extinct	23	25	Saizaki or Manzai: Tsushi: Goshikicho: Sumot
 Cervus_kyushuensis	extinct	23	25	Saizaki or Manzai: Tsushi: Goshikicho: Sumoto: Hyogo Prefecture
 Myotragus_aff_M_kopperi	extinct	7.74	24	Cova des Pas de Vallgornera
 Hypnomys_onicensis	extinct	7.74	24	Cova des Pas de Vallgornera
-Hypnomys_aff_H_eliomyoides	extinct	7.74	24	Cova des Pas de Vallgornera
 Hypnomys_morpheus	extinct	7.74	24	Cova des Pas de Vallgornera
 Nesiotites_aff_N_ponsi	extinct	7.74	24	Cova des Pas de Vallgornera
 Myotragus_aff_M_kopperi	extinct	7.74	24	Cova de Canet
@@ -159,17 +158,17 @@ Tyrrhenoglis_figariensis	extinct	14.46	21.69	Capo Figari
 Asoriculus_sp_CF	extinct	14.46	21.69	Capo Figari 
 Merycopotamus_dissimilis	extinct	9.62	21.4	Cijulang: Ciamis district: West Java
 Merycopotamus_dissimilis	extinct	16.1	21.4	Subang
-Rusa_timorensis	extant	9.62	21.4	Bumiayu: Kali Glagah Fm: unknown level
-Stegoloxodon_indonesicus	extinct	9.62	21.4	Bumiayu: Kali Glagah Fm: unknown level
-Sinomastodon_bumiajuensis	extinct	16.1	21.4	Bumiayu: Kali Glagah Fm: lower zone (0 100 m)
+Rusa_timorensis	extant	9.62	21.4	Bumiayu: Kali Glagah Fm
+Stegoloxodon_indonesicus	extinct	9.62	21.4	Bumiayu: Kali Glagah Fm
+Sinomastodon_bumiajuensis	extinct	16.1	21.4	Bumiayu: Kali Glagah Fm
 Hexaprotodon_sivajavanicus	extinct	9.62	21.4	Bumiayu: Kali Biuk: excavation 9
-Hexaprotodon_sivajavanicus	extinct	9.62	21.4	Bumiayu: Kali Glagah Fm: lower: middle & upper zone (0 575 m)
+Hexaprotodon_sivajavanicus	extinct	9.62	21.4	Bumiayu: Kali Glagah Fm
 Hexaprotodon_sivajavanicus	extinct	9.62	21.4	Bumiayu: Kali Saat
-Hexaprotodon_sivajavanicus	extinct	9.62	21.4	Mojokerto: norTh of
-Lutrogale_robusta	extinct	16.1	21.4	Bumiayu: Kali Glagah Fm: lower part
-Rhinoceros_sondaicus	extant	9.62	21.4	Bumiayu: Kali Glagah Fm: lower and middle zone (0 225 m)
-Rhinoceros_sondaicus	extant	16.1	21.4	Cisande river: norTh of Lurahgung: West Java
-Stegodon_trigonocephalus	extinct	9.62	21.4	Bumiayu: Kali Glagah Fm: lower: middle & upper zone (0 575 m)
+Hexaprotodon_sivajavanicus	extinct	9.62	21.4	Mojokerto: north of
+Lutrogale_robusta	extinct	16.1	21.4	Bumiayu: Kali Glagah Fm
+Rhinoceros_sondaicus	extant	9.62	21.4	Bumiayu: Kali Glagah Fm
+Rhinoceros_sondaicus	extant	16.1	21.4	Cisande river: north of Lurahgung: West Java
+Stegodon_trigonocephalus	extinct	9.62	21.4	Bumiayu: Kali Glagah Fm
 Stegodon_aurorae	extinct	18	21	Kirisawa: Okada: Takayanagi cho: Kashiwazaki: Niigata Prefecture
 Asoletragus_gentryi	extinct	17.5	20.5	Monte Tuttavista
 Tyrrhenoglis_figariensis	extinct	17.5	20.5	Monte Tuttavista
@@ -248,15 +247,15 @@ Stegodon_sp_Sulawesi	extinct	0.117	18	Betue
 Nesorhinus_hayasakai	extinct	7.8	18	Taoyuan
 Rhinoceros_sp_Taiwan	extinct	7.8	18	Kaohsiung
 Eivissia_canarreiensis	extinct	7.74	18	Cova de ca na Reia
-cf_Hypnomys_sp_Eivissa	extinct	7.74	18	Cova de ca na Reia
+Gliridae_sp_Eivissa	extinct	7.74	18	Cova de ca na Reia
 Myotragus_binigausensis	extinct	1.29	18	Barranc de Binigaus
 Hypnomys_eliomyoides	extinct	1.29	18	Barranc de Binigaus
 Nesiotites_meloussae	extinct	1.29	18	Barranc de Binigaus
 Myotis_escalerai	extant	1.29	18	Barranc de Binigaus
 Rhinolophus_variabilis	extinct	1.29	18	Barranc de Binigaus
-Myotragus_kopperi	extinct	7.74	18	Pedrera de s Onix
-Hypnomys_onicensis	extinct	7.74	18	Pedrera de s Onix
-Nesiotites_aff_N_ponsi	extinct	7.74	18	Pedrera de s Onix
+Myotragus_kopperi	extinct	7.74	18	Pedrera de s_Onix
+Hypnomys_onicensis	extinct	7.74	18	Pedrera de s_Onix
+Nesiotites_aff_N_ponsi	extinct	7.74	18	Pedrera de s_Onix
 Mammuthus_trogontherii	extinct	7.74	18	Naganuma: Minato City: Kazusa province: Chiba Prefecture
 Cervus_kazusensis	extinct	7.74	18	Naganuma: Minato City: Kazusa province: Chiba Prefecture
 Giraffa_nipponica	extinct	7.74	18	Naganuma: Minato City: Kazusa province: Chiba Prefecture
@@ -264,30 +263,32 @@ Elaphurus_davidianus	extinct	7.74	18	Kazusa City: Otomi: Kimitsu City: Chiba Pre
 Elaphurus_davidianus	extinct	10	18	Komiya St: Haijima City: Tokyo Prefecture
 Cervus_astylodon	extinct	12	17	Teruma
 Muntiacini_gen_et_sp_indet	extinct	12	17	Teruma
-Axis_lydekkeri	extinct	9.62	16.1	Bumiayu: Kali Glagah Fm: middle & upper zones (100 575 m)
+Axis_lydekkeri	extinct	9.62	16.1	Bumiayu: Kali Glagah Fm
 Axis_lydekkeri	extinct	9.62	16.1	Subang: Pasir Cabe: Wanareja village
 Axis_lydekkeri	extinct	7.8	16.1	Baringinan
-Muntiacus_muntjak	extant	9.62	16.1	Bumiayu: Kali Glagah Fm: middle & upper zones (100 575 m)
+Muntiacus_muntjak	extant	9.62	16.1	Bumiayu: Kali Glagah Fm
 Stegoloxodon_indonesicus	extinct	9.62	16.1	Bumiayu: Ci Pangglosoran
-Sinomastodon_bumiajuensis	extinct	9.62	16.1	Bumiayu: Kali Glagah Fm: upper zone (225 575 m)
+Sinomastodon_bumiajuensis	extinct	9.62	16.1	Bumiayu: Kali Glagah Fm
 Hexaprotodon_sivajavanicus	extinct	9.62	16.1	Cijulang: Ci Bokagung
 Hexaprotodon_sivajavanicus	extinct	9.62	16.1	Subang: Cipanaruban
 Hexaprotodon_sivajavanicus	extinct	9.62	16.1	Subang: Pasir Cabe: Wanareja village
-Stegodon_cariangensis	extinct	9.62	16.1	Cisaar Valley: lower horizon (Cariang)
+Stegodon_cariangensis	extinct	9.62	16.1	Cisaar Valley
 Stegodon_trigonocephalus	extinct	9.62	16.1	Subang: Cipanaruban
 Stegodon_trigonocephalus	extinct	9.62	16.1	Subang: Pasir Cabe: Wanareja village
-Stegodon_trigonocephalus	extinct	8.53	16.1	Cisaar Valley: lower (Cariang) and upper horizon (Cirendang)
-Sus_stremmi	extinct	9.62	16.1	Bumiayu: Kali Glagah Fm: middle & upper zones (100 575 m)
+Stegodon_trigonocephalus	extinct	8.53	16.1	Cisaar Valley
+Sus_stremmi	extinct	9.62	16.1	Bumiayu: Kali Glagah Fm
 Stegodon_aurorae	extinct	10	16	Okubo City: Eigashima: Akashi City: Hyogo Prefecture
 Elaphurus_bifurcatus	extinct	10	16	Okubo City: Fujie: Akashi City: Hyogo Prefecture
 Elaphurus_bifurcatus	extinct	10	16	Okubo cho: Nishiyagi: Akashi City: Hyogo Prefecture
 Stegodon_aurorae	extinct	10	16	Okubo cho: Nishiyagi: Akashi City: Hyogo Prefecture
 Elaphurus_bifurcatus	extinct	10	16	Okubo cho: off Hayashizaki: Akashi City: Hyogo Prefecture
 Stegodon_aurorae	extinct	15	16	Okubo cho: off Hayashizaki: Akashi City: Hyogo Prefecture
+Cervus_praenipponicus	extinct	13	15	Katanoyama
+Mammuthus_trogontherii	extinct	13	15	Katanoyama
 Duboisia_santeng	extinct	9.62	14.5	Perning: Pucangan Fm
 Xenocyon_merriami	extinct	9.62	14.5	Sangiran: black clays
 Axis_lydekkeri	extinct	9.62	14.5	Gunung Butak
-Axis_lydekkeri	extinct	9.62	14.5	Jetis: Pucangan Formation
+Axis_lydekkeri	extinct	9.62	14.5	Jetis
 Axis_lydekkeri	extinct	9.62	14.5	Kali Brandual
 Axis_lydekkeri	extinct	9.62	14.5	Sangiran: unknown provenance
 Meganthereon_sp_Java	extinct	8.53	14.5	Java: unknown provenance
@@ -295,12 +296,13 @@ Hexaprotodon_sivajavanicus	extinct	9.62	14.5	Gunung Butak
 Hexaprotodon_sivajavanicus	extinct	1.43	14.5	Cemoro: Dam site: P12: East Java
 Hexaprotodon_sivajavanicus	extinct	1.43	14.5	Medalem: East Java
 Hexaprotodon_sivajavanicus	extinct	1.9	14.5	Sangiran: Ngebung: triangulation point
-Stegodon_trigonocephalus	extinct	1.43	14.5	Semedo: Central Java
+Stegodon_trigonocephalus	extinct	1.43	14.5	Semedo
+Stegodon_sondaari	extinct	12.3	14.4	Tangi Talo
+New_giant_rat_sp_Flores	extinct	14	14.4	Tangi Talo
 Antillothrix_bernensis	extinct	12.1	14.3	La Jeringa cave
 Enhydrictis_praegalictoides	extinct	4	14	Monte Tuttavista
 Stegodon_aurorae	extinct	12	14	Minamidaira: Hino City
 Stegodon_aurorae	extinct	12	14	Sasai: Iruma City
-Stegodon_sondaari	extinct	10.7	13	Tangi Talo
 Stegodon_elephantoides	extinct	12	13	Sangiran: Sangiran Fm: Bukuran (below Geochelone find)
 Mammuthus_trogontherii	extinct	5	13	Nishio: Ono: Otsu City: Shiga Prefecture
 Mammuthus_trogontherii	extinct	5	13	Ushiroyama: Manosagawa City: Otsu City: Shiga Prefecture
@@ -327,6 +329,7 @@ Cynotherium_sp_large_size	extinct	7.74	11	Monte Tuttavista
 Stegodon_sp_1_Taiwan	extinct	7.8	10.7	Taichung
 Rhinoceros_sp_Taiwan	extinct	7.8	10.7	Taichung
 Praemegaceros_aff_P_sardus	extinct	4.5	10	Su Fossu de Cannas cave: Sadali
+Stegodon_florensis_florensis	extinct	8.3	10	Kobatuwa
 Stegodon_sumbaensis	extinct	1.25	10	Lewapaku
 Muridae_indet_Sumba	extinct	1.29	10	Lewapaku
 Stegodon_aurorae	extinct	7	10	Ozenji: Kawasaki City
@@ -335,7 +338,7 @@ Mammuthus_trogontherii	extinct	5	10	Nagahama: Kimitsu City: Chiba Prefecture
 Mammuthus_trogontherii	extinct	5	10	Horyujiminato gravel pit: Osawa City: Kimitsu City: Chiba Prefecture
 Mammuthus_trogontherii	extinct	5	10	Seki: Futtsu shi: Chiba Prefecture
 Mammuthus_trogontherii	extinct	5	10	Takeishi: Oguni City: Kariwa gun: Niigata Prefecture
-LeiThia_melitensis	extinct	7.74	10	Comiso Chiaramonte Gulfi area
+Leithia_melitensis	extinct	7.74	10	Comiso Chiaramonte Gulfi area
 Palaeoloxodon_sp_incertae_sedis_2	extinct	7.74	10	Comiso Chiaramonte Gulfi area
 Palaeoloxodon_ex_gr_P_falconeri	extinct	7.74	10	Comiso Chiaramonte Gulfi area
 Bibos_palaesondaicus	extinct	1.43	9.8	Kedung Kendang
@@ -383,17 +386,17 @@ Rattus_sp_C	extinct	8.53	9.8	Sangiran: Grenzbank: Brangkal
 Rattus_trinilensis	extinct	8.53	9.8	Sangiran: Grenzbank: Brangkal
 Rattus_trinilensis	extinct	8.53	9.8	Trinil
 Lutrogale_palaeoleptonyx	extinct	7.8	9.8	Java: unknown provenance
-Rhinoceros_sondaicus	extant	8.53	9.8	Cisaar Valley: lower (Cariang) and upper horizon (Cirendang)
+Rhinoceros_sondaicus	extant	8.53	9.8	Cisaar Valley
 Rhinoceros_sondaicus	extant	8.53	9.8	Trinil
 Stegodon_trigonocephalus	extinct	1.9	9.8	Sangiran: unknown provenance
 Stegodon_trigonocephalus	extinct	8.53	9.8	Trinil
 Sus_brachygnathus	extinct	7.8	9.8	Patiayam
-Sus_brachygnathus	extinct	8.53	9.8	Cisaar Valley: upper horizon (Cirendang)
+Sus_brachygnathus	extinct	8.53	9.8	Cisaar Valley
 Sus_brachygnathus	extinct	8.53	9.8	Trinil
 Bibos_palaesondaicus	extinct	7.8	9.15	Bangle: Central Java
 Bibos_palaesondaicus	extinct	7.8	9.15	Kali Gedeh
 Bibos_palaesondaicus	extinct	1.43	9.15	Sumberdadi
-Bibos_palaesondaicus	extinct	7.8	9.15	norTh of Jetis and Perning
+Bibos_palaesondaicus	extinct	7.8	9.15	north of Jetis and Perning
 Bibos_palaesondaicus	extinct	7.8	9.15	Bogo
 Bibos_palaesondaicus	extinct	7.8	9.15	Kebon Duren
 Bibos_palaesondaicus	extinct	7.8	9.15	Kedung Brubus: Nongko
@@ -423,7 +426,7 @@ Duboisia_santeng	extinct	7.8	9.15	Perning: Kabuh Fm
 Duboisia_santeng	extinct	7.8	9.15	Sumberkepuh: East Java
 Duboisia_santeng	extinct	7.8	9.15	Teguan
 Duboisia_santeng	extinct	7.8	9.15	Tritik
-Epileptobos_groeneveldtii	extinct	7.8	9.15	norTh of Jetis and Perning
+Epileptobos_groeneveldtii	extinct	7.8	9.15	north of Jetis and Perning
 Epileptobos_groeneveldtii	extinct	7.8	9.15	Jetis 
 Epileptobos_groeneveldtii	extinct	7.8	9.15	Subang: Pasir Cabe: Wanareja village
 Epileptobos_groeneveldtii	extinct	7.8	9.15	Wadegan
@@ -536,6 +539,7 @@ Sigmodon_hispidus	extant	5.4	9	Isla
 Elaphurus_davidianus	extinct	8	9	Asoubara: Umegase: Ichihara shi: Chiba Prefecture
 Cervus_kazusensis	extinct	8	9	Kamo: Ichihara shi: Chiba Prefecture
 Palaeoloxodon_sp_1_Luparello	extinct	7	9	Grotta Luparello
+Hooijeromys_nusatenggara	extinct	8.3	8.9	Kobatuwa
 Hippopotamus_creutzburgi	extinct	3.024	8.856	Katharo hippo locality
 Mammuthus_trogontherii	extinct	7.5	8.5	Uehata: Aza Jizo shita: Kimitsu City: Chiba Prefecture
 Cynotherium_malatestai	extinct	5	8	Grotta dei Fiori
@@ -550,18 +554,8 @@ Prolagus_sardus	extinct	0.05	8	Punta del Quadro
 Panthera_pardus	extant	7.8	8	Sangiran: Bapang Fm
 Panthera_pardus	extant	1.9	8	Sangiran: unknown provenance
 Rhinocerotidae_gen_et_sp_indet_Hondo	extinct	5	8	Nishihinabe: Kajiki Town: Aira City: Kagoshima Prefecture
-Homo_floresiensis	extinct	6.5	7.81	Mata Menge
-Stegodon_florensis_florensis	extinct	6.5	7.81	Mata Menge
-Hooijeromys_nusatenggara	extinct	6.5	7.81	Mata Menge
-Stegodon_florensis_florensis	extinct	6.5	7.81	Ola Bula
-Hooijeromys_nusatenggara	extinct	6.5	7.81	Ola Bula
-Stegodon_florensis_florensis	extinct	6.5	7.81	Boa Leza
-Hooijeromys_nusatenggara	extinct	6.5	7.81	Boa Leza
-Stegodon_florensis_florensis	extinct	6.5	7.81	Menge Ruda
-Stegodon_florensis_florensis	extinct	6.5	7.81	Dozo Dhalu
-Hooijeromys_nusatenggara	extinct	6.5	7.81	Dozo Dhalu
 Palaeoloxodon_sp_Astypalaea	extinct	0.117	7.81	Sygkairo
-Palaeoloxodon_aff_P_creutzburgi	extinct	0.117	7.81	mountain slope norTh western coast of Kassos
+Palaeoloxodon_aff_P_creutzburgi	extinct	0.117	7.81	mountain slope north western coast of Kassos
 Stegodon_aurorae	extinct	5	7.81	Chino: Otsu City: Shiga
 Celebochoerus_heekereni	extinct	2	7.8	Talepu
 Stegodon_sompoensis	extinct	2	7.8	Talepu
@@ -597,7 +591,7 @@ Prolagus_sardus	extinct	0.117	7.74	Monreale di Bonaria
 Asoriculus_similis	extinct	0.117	7.74	Monreale di Bonaria
 Praemegaceros_cazioti	extinct	0.117	7.74	Monreale di Bonaria
 Rhagamys_orthodon	extinct	0.117	7.74	Monreale di Bonaria
-Prolagus_sardus	extinct	0.117	7.74	Cava S. Elia
+Prolagus_sardus	extinct	0.117	7.74	Cava S Elia
 Prolagus_sardus	extinct	0.08276	7.74	Monte Tuttavista
 Praemegaceros_sardus	extinct	2.9	7.74	Monte Tuttavista
 Microtus_(Tyrrhenicola)_henseli	extinct	0.08276	7.74	Monte Tuttavista
@@ -622,7 +616,7 @@ Elephas_sp_Luzon_Visayan	extinct	1.29	7.74	So Silang: Solana
 Nesorhinus_philippinensis	extinct	1.29	7.74	So Silang: Solana
 Rusa_sp_Luzon	extinct	1.29	7.74	Madrigal Ranch: Rizal
 Stegodon_luzonensis	extinct	1.29	7.74	Kalinga Apayao
-Stegodon_luzonensis	extinct	1.29	7.74	Balelang: Rizal
+Stegodon_luzonensis	extinct	1.29	7.74	Balelang: Kalinga
 Stegodon_luzonensis	extinct	1.29	7.74	San Juan: Rizal
 Bubalus_sp_Luzon	extinct	1.29	7.74	San Juan: Rizal
 Rusa_sp_Luzon	extinct	1.29	7.74	San Juan: Rizal
@@ -636,14 +630,14 @@ Stegodon_luzonensis	extinct	1.29	7.74	site X: Novaliches Marilo District of Riza
 Elephas_sp_Luzon_Visayan	extinct	1.29	7.74	site X: Novaliches Marilo District of Rizal
 Stegodon_luzonensis	extinct	1.29	7.74	site A: Novaliches Marilo District of Rizal
 Rusa_sp_Luzon	extinct	1.29	7.74	site A: Novaliches Marilo District of Rizal
-Stegodon_luzonensis	extinct	1.29	7.74	Fort MacKinley (= Fort Bonifacio) of Rizal
-Nesorhinus_philippinensis	extinct	1.29	7.74	Fort MacKinley (= Fort Bonifacio) of Rizal
+Stegodon_luzonensis	extinct	1.29	7.74	Fort MacKinley (Fort Bonifacio) of Rizal
+Nesorhinus_philippinensis	extinct	1.29	7.74	Fort MacKinley (Fort Bonifacio) of Rizal
 Elephas_sp_Luzon_Visayan	extinct	1.29	7.74	Rizal: Kalinga Apayao
 Bubalus_sp_Luzon	extinct	1.29	7.74	Boundary Tuao and Solana
 Stegodon_luzonensis	extinct	1.29	7.74	Near head water of Babagan Nanka area
 Nesorhinus_philippinensis	extinct	1.29	7.74	Laya
 Bubalus_sp_Luzon	extinct	1.29	7.74	Pasig: near Manila
-Stegodon_mindanensis	extinct	1.29	7.74	NorThwest Mindanao
+Stegodon_mindanensis	extinct	1.29	7.74	Northwest Mindanao
 Elephas_sp_Luzon_Visayan	extinct	1.29	7.74	Bo Jelicuon
 Stegodon_sp_Panay	extinct	1.29	7.74	unknown site
 Celebochoerus_heekereni	extinct	0.117	7.74	Tanrung River (FVL 29)
@@ -670,8 +664,8 @@ Cervus_astylodon	extinct	0.23265	7.74	Kuniyoshi Ozato
 Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Kuniyoshi Ozato
 Cervus_astylodon	extinct	0.23265	7.74	Kachabaru: Chinen Vill: southern Okinawa island
 Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Kachabaru: Chinen Vill: southern Okinawa island
-Cervus_astylodon	extinct	0.23265	7.74	Kirabaru: Tamagusuku Vill.
-Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Kirabaru: Tamagusuku Vill.
+Cervus_astylodon	extinct	0.23265	7.74	Kirabaru: Tamagusuku Vill
+Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Kirabaru: Tamagusuku Vill
 Cervus_astylodon	extinct	0.23265	7.74	Uema: Naha City
 Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Uema: Naha City
 Cervus_astylodon	extinct	0.23265	7.74	Gusukuma: Urasoe City
@@ -682,7 +676,7 @@ Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Iso: Urasoe City
 Cervus_astylodon	extinct	0.23265	7.74	Sakiyama: Shuri: Naha City
 Cervus_astylodon	extinct	0.23265	7.74	Shiohira: Itoman City
 Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Unknown locality
-Cervus_astylodon	extinct	0.23265	7.74	Uji Cave: Chinen Vill.
+Cervus_astylodon	extinct	0.23265	7.74	Uji Cave: Chinen Vill
 Cervus_astylodon	extinct	0.23265	7.74	Gohezu Cave
 Muntiacini_gen_et_sp_indet	extinct	0.23265	7.74	Gohezu Cave
 Cervus_astylodon	extinct	1.29	7.74	Imadomari: Nakiiin son
@@ -692,7 +686,7 @@ Myotis_capaccinii	extant	1.29	7.74	Pedrera de Genova
 Myotragus_batei	extinct	1.29	7.74	Cap Pinar
 Myotragus_batei	extinct	1.29	7.74	Bretxa devora la Cova de sa Bassa Blanca
 Myotragus_aff_M_batei	extinct	1.29	7.74	Avenc Socarrat
-Myotragus_batei	extinct	1.29	7.74	Cova devora Avenc des Coll de Son Camps = Avenc Socorrat
+Myotragus_batei	extinct	1.29	7.74	Cova devora Avenc des Coll de Son Camps Avenc Socorrat
 Cervus_praenipponicus	extinct	1.29	7.74	Tarumi: NT Cave: Niimi City: Okayama Prefecture
 Hydropotes_inermis	extant	1.29	7.74	Tarumi: NT Cave: Niimi City: Okayama Prefecture
 Canis_lupus	extant	1.29	7.74	Tarumi: NT Cave: Niimi City: Okayama Prefecture
@@ -719,7 +713,7 @@ Vulpes_vulpes	extant	1.74	7.74	Sumitomo Quarry: Minamidai: Shuho City: Mine area
 Miniopterus_schreibersii	extant	1.74	7.74	Sumitomo Quarry: Minamidai: Shuho City: Mine area: Yamaguchi Prefecture
 Apodemus_speciosus	extant	1.74	7.74	Sumitomo Quarry: Minamidai: Shuho City: Mine area: Yamaguchi Prefecture
 Myodes_japonicus	extinct	1.74	7.74	Sumitomo Quarry: Minamidai: Shuho City: Mine area: Yamaguchi Prefecture
-Ursus_Thibetanus	extant	1.74	7.74	Sumitomo Quarry: Minamidai: Shuho City: Mine area: Yamaguchi Prefecture
+Ursus_thibetanus	extant	1.74	7.74	Sumitomo Quarry: Minamidai: Shuho City: Mine area: Yamaguchi Prefecture
 Rhinocerotidae_gen_et_sp_indet_Hondo	extinct	1.29	7.74	Tsukumi: Oita Prefecture
 Rhinocerotinae_gen_et_sp_indet_Hondo	extinct	0.5	7.74	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Palaeoloxodon_naumanni	extinct	0.5	7.74	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
@@ -727,24 +721,35 @@ Microtus_epiratticepoides	extinct	0.5	7.74	Yage Quarry: Inasa Town: Hamamatsu Ci
 Rhinolophus_ferrumequinum	extant	0.5	7.74	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Macaca_fuscata	extant	0.5	7.74	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Sinomegaceros_yabei	extinct	1.29	7.74	Wakimoto Railway Station: Tayazawa City: Akita Prefecture
-LeiThia_melitensis	extinct	4.2	7.7	Poggio Schinaldo
-LeiThia_cartei	extinct	4.2	7.7	Poggio Schinaldo
+Homo_floresiensis	extinct	6.5	7.73	Mata Menge
+Stegodon_florensis_florensis	extinct	6.5	7.73	Mata Menge
+Hooijeromys_nusatenggara	extinct	6.5	7.73	Mata Menge
+Spelaeomys_florensis	extinct	7.3	7.73	Mata Menge
+Stegodon_florensis_florensis	extinct	6.5	7.73	Ola Bula
+Hooijeromys_nusatenggara	extinct	6.5	7.73	Ola Bula
+Stegodon_florensis_florensis	extinct	7.3	7.73	Boa Leza
+Hooijeromys_nusatenggara	extinct	7.3	7.73	Boa Leza
+Stegodon_florensis_florensis	extinct	6.5	7.73	Menge Ruda
+Stegodon_florensis_florensis	extinct	6.5	7.73	Dozo Dhalu
+Hooijeromys_nusatenggara	extinct	6.5	7.73	Dozo Dhalu
+Leithia_melitensis	extinct	4.2	7.7	Poggio Schinaldo
+Leithia_cartei	extinct	4.2	7.7	Poggio Schinaldo
 Crocidura_sicula_esuae	extinct	4.2	7.7	Poggio Schinaldo
-Palaeoloxodon_falconeri	extinct	4.2	7.7	Poggio Schinaldo
+Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Poggio Schinaldo
 Lutra_trinacriae	extinct	0.7	7.7	Poggio Schinaldo
 Palaeoloxodon_ex_gr_P_falconeri	extinct	3.37	7.7	Cornino Custonaci plain
 Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Contrada Annunziata
-LeiThia_melitensis	extinct	4.2	7.7	Contrada Annunziata
-LeiThia_melitensis	extinct	0.7	7.7	Grotta Luparello
-LeiThia_cartei	extinct	4.2	7.7	Grotta Luparello
+Leithia_melitensis	extinct	4.2	7.7	Contrada Annunziata
+Leithia_melitensis	extinct	0.7	7.7	Grotta Luparello
+Leithia_cartei	extinct	4.2	7.7	Grotta Luparello
 Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Grotta Sansone
 Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Monasteri
 Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Inghiottitoio Valvo
 Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Grotta Muletta
 Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Cava Cappuccini
-LeiThia_melitensis	extinct	0.7	7.7	Grotta Marasa
+Leithia_melitensis	extinct	0.7	7.7	Grotta Marasa
 Palaeoloxodon_ex_gr_P_falconeri	extinct	4.2	7.7	Grotta Stazione
-LeiThia_melitensis	extinct	0.7	7.7	Grotta Stazione
+Leithia_melitensis	extinct	0.7	7.7	Grotta Stazione
 Prolagus_sp_Sicily	extinct	0.7	7.7	Grotta della Castellana
 Hippopotamus_minor	extinct	5.116	7.674	Koutsovendis Asproyi
 Amblyrhiza_inundata	extinct	4.74	6.58	Site A
@@ -754,11 +759,11 @@ Macrotus_waterhousii	extant	0.346	6.58	Devil s Hole
 Amblyrhiza_inundata	extinct	0.346	6.58	Devil s Hole
 Amblyrhiza_inundata	extinct	0.346	6.58	Cuckoo Hole
 Amblyrhiza_inundata	extinct	0.346	6.58	Office Quarry
-Amblyrhiza_inundata	extinct	0.346	6.58	Simson s Bay
+Amblyrhiza_inundata	extinct	0.346	6.58	Simson_s Bay
 Bubalus_sp_Hondo	extinct	5.5	6.5	Mandano Quarry: Ichihara shi: Chiba Prefecture
 Stephanorhinus_kirchbergensis	extinct	5.5	6.5	Mandano Quarry: Ichihara shi: Chiba Prefecture
 Palaeoloxodon_ex_gr_P_falconeri	extinct	3.74	6.21	Semaforo site Piana di Sopra area
-LeiThia_melitensis	extinct	3.74	6.21	Semaforo site Piana di Sopra area
+Leithia_melitensis	extinct	3.74	6.21	Semaforo site Piana di Sopra area
 Palaeoloxodon_ex_gr_P_falconeri	extinct	3.74	6.21	Isolidda 2
 Stegodon_timorensis	extinct	3.07	6.01	Biaika
 Stegodon_timorensis	extinct	3.07	6.01	Raibia
@@ -777,6 +782,7 @@ Sus_houi	extinct	5	6	Tainan
 Sus_australis	extinct	5	6	Tainan
 Potamochoerus_sp_Taiwan	extinct	5	6	Tainan
 Panthera_pardus	extant	5	6	Tainan
+Homotherium_sp_Taiwan	extinct	5	6	Tainan
 Rhinopithecus_sp_Taiwan	extinct	5	6	Tainan
 Macaca_cyclopis	extant	5	6	Tainan
 Hystrix_sp_Taiwan	extinct	5	6	Tainan
@@ -934,7 +940,7 @@ Panthera_leo_spelaea	extinct	0.12	4.2	Contrada Cimilla
 Palaeoloxodon_ex_gr_P_mnaidriensis	extinct	0.7	4.2	Comiso Chiaramonte Gulfi area
 Hippopotamus_pentlandi	extinct	0.7	4.2	Comiso Chiaramonte Gulfi area
 Cervus_elaphus_siciliae	extinct	0.7	4.2	Comiso Chiaramonte Gulfi area
-LeiThia_ex_gr_melitensis_cartei	extinct	0.7	4.2	Contrada Pianetti
+Leithia_ex_gr_melitensis_cartei	extinct	0.7	4.2	Contrada Pianetti
 Palaeoloxodon_ex_gr_P_mnaidriensis	extinct	0.7	4.2	Contrada Pianetti
 Ursus_arctos	extant	0.12	4.2	Contrada Tabuna 
 Canis_lupus	extant	0.12	4.2	Contrada Tabuna 
@@ -942,7 +948,7 @@ Sus_scrofa	extant	0.12	4.2	Contrada Tabuna
 Cervus_elaphus_siciliae	extinct	0.12	4.2	Contrada Tabuna 
 Hippopotamus_pentlandi	extinct	0.7	4.2	Contrada Tabuna 
 Palaeoloxodon_ex_gr_P_mnaidriensis	extinct	0.12	4.2	Contrada Tabuna 
-LeiThia_melitensis	extinct	0.7	4.2	Contrada Tabuna 
+Leithia_melitensis	extinct	0.7	4.2	Contrada Tabuna 
 Hippopotamus_pentlandi	extinct	0.7	4.2	Grotta della Cannita
 Panthera_leo_spelaea	extinct	0.7	4.2	Grotta della Cannita
 Vulpes_vulpes	extant	0.12	4.2	Grotta Luparello
@@ -1012,13 +1018,13 @@ Megalomys_curazensis	extinct	1.3	4	Seroe Kibra Pika
 Megalomys_curazensis	extinct	1.3	4	San Pedro
 Palaeoloxodon_naumanni	extinct	3.37	3.74	Abeno: Osaka
 Hippopotamus_pentlandi	extinct	0.7	3.74	K22 San Vito lo Capo
-LeiThia_melitensis	extinct	0.7	3.74	K22 San Vito lo Capo
+Leithia_melitensis	extinct	0.7	3.74	K22 San Vito lo Capo
 Sus_scrofa	extant	0.117	3.74	K22 San Vito lo Capo
 Maltamys_wiedincitensis	extinct	0.7	3.74	K22 San Vito lo Capo
 Crocidura_sicula_esuae	extinct	0.7	3.74	K22 San Vito lo Capo
 Palaeoloxodon_ex_gr_P_falconeri	extinct	2.33	3.66	Spinagallo
-LeiThia_melitensis	extinct	2.33	3.66	Spinagallo
-LeiThia_cartei	extinct	2.33	3.66	Spinagallo
+Leithia_melitensis	extinct	2.33	3.66	Spinagallo
+Leithia_cartei	extinct	2.33	3.66	Spinagallo
 Crocidura_sicula_esuae	extinct	2.33	3.66	Spinagallo
 Rhinolophus_ferrumequinum	extant	2.33	3.66	Spinagallo
 Rhinolophus_hipposideros	extant	2.33	3.66	Spinagallo
@@ -1033,12 +1039,12 @@ Miniopterus_schreibersii	extant	2.33	3.66	Spinagallo
 Miniopterus_degiulii	extinct	2.33	3.66	Spinagallo
 Sinomegaceros_yabei	extinct	2.5	3.5	Hirakawa City: Kimitsu City: Chiba Prefecture
 Palaeoloxodon_naumanni	extinct	2.5	3.5	Mariyatsu: Kisarazu shi: Chiba Prefecture
-Asoriculus_corsicanus	extinct	0.588	3	La Coscia norTh west
-Praemegaceros_cazioti	extinct	0.588	3	La Coscia norTh west
-Cynotherium_sardous	extinct	0.588	3	La Coscia norTh west
-Prolagus_sardus	extinct	0.588	3	La Coscia norTh west
-Rhagamys_orthodon	extinct	0.588	3	La Coscia norTh west
-Microtus_(Tyrrhenicola)_henseli	extinct	0.588	3	La Coscia norTh west
+Asoriculus_corsicanus	extinct	0.588	3	La Coscia north west
+Praemegaceros_cazioti	extinct	0.588	3	La Coscia north west
+Cynotherium_sardous	extinct	0.588	3	La Coscia north west
+Prolagus_sardus	extinct	0.588	3	La Coscia north west
+Rhagamys_orthodon	extinct	0.588	3	La Coscia north west
+Microtus_(Tyrrhenicola)_henseli	extinct	0.588	3	La Coscia north west
 Palaeoloxodon_naumanni	extinct	1.29	3	Bisan Seto: Seto Inland Sea
 Cervus_nippon	extant	1.29	3	Bisan Seto: Seto Inland Sea
 Palaeoloxodon_naumanni	extinct	0.5	3	Off Marugame: Seto Inland Sea
@@ -1070,7 +1076,7 @@ Palaeoloxodon_naumanni	extinct	1.29	3	Saruyama: Shimosa City: Katori gun: Chiba 
 Palaeoloxodon_naumanni	extinct	0.5	3	Mefuki: bottom of Tonegawa river shore: Noda shi: Chiba Prefecture
 Palaeoloxodon_naumanni	extinct	0.5	3	Fukashibahama: Kashima Harbor: Ibaraki Prefecture
 Palaeoloxodon_naumanni	extinct	0.5	3	Hanura: Notojima City: Kashima district: Ishikawa Prefecture
-Palaeoloxodon_naumanni	extinct	0.5	3	Shonai: NorTh shore of Misaki: Mitoyo district: Kagawa Prefecture
+Palaeoloxodon_naumanni	extinct	0.5	3	Shonai: North shore of Misaki: Mitoyo district: Kagawa Prefecture
 Palaeoloxodon_naumanni	extinct	0.5	3	Kasaiura: Kozuchi: Tokai: Shozo district: Kagawa Prefecture
 Palaeoloxodon_naumanni	extinct	0.5	3	Aihama: Nozawa City: Minamisaku gun: Nagano Prefecture
 Palaeoloxodon_naumanni	extinct	0.5	3	Yawata: Minamimimaki mura: Saku shi: Kitasaku gun: Nagano Prefecture
@@ -1111,7 +1117,7 @@ Amblyrhiza_inundata	extinct	0.346	2.528	Tanglewood Cave
 Amblyrhiza_inundata	extinct	0.346	2.528	Cavannagh Cave
 Amblyrhiza_inundata	extinct	0.346	2.528	Anonymous Hole 
 Amblyrhiza_inundata	extinct	0.346	2.528	Briningham Hollow Fissures
-Amblyrhiza_inundata	extinct	0.346	2.528	Flat Cap or NorTh Side Estate Cave
+Amblyrhiza_inundata	extinct	0.346	2.528	Flat Cap or North Side Estate Cave
 Amblyrhiza_inundata	extinct	0.346	2.528	Goat Cave
 Amblyrhiza_inundata	extinct	0.346	2.528	Little Bay
 Mormoops_blainvillei	extant	0.346	2.528	Little Bay 
@@ -1130,7 +1136,7 @@ Palaeoloxodon_naumanni	extinct	2.01	2.49	Hirakawa City: Kimitsu City: Chiba Pref
 Sinomegaceros_yabei	extinct	2.01	2.49	Takinokuchi: Yarimizu: Sodegaura City: Chiba Prefecture
 Palaeoloxodon_naumanni	extinct	2.01	2.49	Takinokuchi: Yarimizu: Sodegaura City: Chiba Prefecture
 Macaca_fuscata	extant	2.01	2.49	Takinokuchi: Yarimizu: Sodegaura City: Chiba Prefecture
-Palaeoloxodon_xylophagou	extinct	1.86	2.45	Ormidhia VaThkia Laxia
+Palaeoloxodon_xylophagou	extinct	1.86	2.45	Ormidhia Vathkia Laxia
 Palaeoloxodon_xylophagou	extinct	1.86	2.45	Xylophagou area
 Hippopotamus_minor	extinct	1.86	2.45	Xylophagou area
 Mammuthus_lamarmorai	extinct	1.91	2.43	San Giovanni in Sinis
@@ -1172,11 +1178,15 @@ Nyctereutes_viverrinus	extant	1.9	2.35	Shiriya Quarry: Shiriyazaki: Higashidori 
 Mustela_itatsi	extant	1.9	2.35	Shiriya Quarry: Shiriyazaki: Higashidori mura: Aomori Prefecture
 Mustela_erminea	extant	1.9	2.35	Shiriya Quarry: Shiriyazaki: Higashidori mura: Aomori Prefecture
 Hippopotamus_pentlandi	extinct	1.56	2.34	Grotta dei Puntali
+Myotragus_balearicus	extinct	0.045	2.15	Cova de na Barxa
+Hypnomys_morpheus	extinct	0.045	2.15	Cova de na Barxa
+Nesiotites_hidalgo	extinct	1.76	2.15	Cova de na Barxa
+Rhinolophus_hipposideros	extant	1.76	2.15	Cova de na Barxa
 Bibos_palaesondaicus	extinct	1.9	2.1	Sangiran: Notopuro layers: Ngebung
 Axis_lydekkeri	extinct	1.9	2.1	Sangiran: Notopuro layers: Ngebung
 Hexaprotodon_sivajavanicus	extinct	1.9	2.1	Sangiran: Notopuro Fm: Kedung Kuduh
-Hexaprotodon_sivajavanicus	extinct	1.9	2.1	Teguan: Rejuno
-Crocuta_crocuta_Java	extinct	1.43	2.1	Teguan: Notopuro layers
+Hexaprotodon_sivajavanicus	extinct	1.9	2.1	Teguan
+Crocuta_crocuta_Java	extinct	1.43	2.1	Teguan
 Prolagus_sardus	extinct	1.29	2	Castiglione Cave 1
 Cynotherium_sardous	extinct	1.29	2	Castiglione Cave 1
 Asoriculus_corsicanus	extinct	1.29	2	Castiglione Cave 1
@@ -1208,6 +1218,7 @@ Elephas_maximus_sinhaleyus	extinct	0.25	2	Dunvattavaturana: Dodampe
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Ellavala river
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Ellekumbura: Haldola
 Rusa_unicolor	extant	0.25	2	Galpottevela: Kuttapitiya: Pelmadulla
+Rusa_unicolor	extant	0.25	2	Bubuladeniya: Kuruvita
 Hexaprotodon_palaeindicus	extinct	0.25	2	Getadombe: Kitulpe
 Hexaprotodon_palaeindicus	extinct	0.25	2	Gonapitiya: Kuruvita
 Sus_sinhaleyus	extinct	0.25	2	Gonapitiya: Kuruvita
@@ -1228,15 +1239,21 @@ Hexaprotodon_palaeindicus	extinct	0.25	2	Kanukatiya: Demalaporuva: Karangoda
 Elephas_hysudricus	extinct	0.25	2	Karmarangapitiya
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Ketala ovita: Ellawala
 Elephas_hysudricus	extinct	0.25	2	Koholan ela: Pelmadulla
+Elephas_maximus	extant	0.25	2	Kuruvita
 Palaeoloxodon_namadicus	extinct	0.25	2	Kuruvita
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Kuruvita
 Hexaprotodon_palaeindicus	extinct	0.25	2	Kuruvita
 Rhinoceros_kagavena	extinct	0.25	2	Kuruvita
+Hexaprotodon_palaeindicus	extinct	0.25	2	Ovita Kubura: Kuruvita
+Hexaprotodon_palaeindicus	extinct	0.25	2	Eedandawala: Kuruvita
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Landegeovita: Rilhena: Pelmadulla
 Hexaprotodon_palaeindicus	extinct	0.25	2	Mallapitiya: Karangoda
 Rusa_unicolor	extant	0.25	2	Mallapitiya: Karangoda
 Hexaprotodon_palaeindicus	extinct	0.25	2	Matiwaladeniya: Pohorabava: Ellawala
 Rhinoceros_kagavena	extinct	0.25	2	Matiwaladeniya: Pohorabava: Ellawala
+Rhinoceros_kagavena	extinct	0.25	2	Kahingama west: Kuburu yaya: Kuruvita
+Elephas_maximus	extant	0.25	2	Kahingama: Kuruvita
+Elephas_maximus	extant	0.25	2	Ma Wee Kubura: Kuruvita
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Mavin Kumbura: Pohorabava
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Meddekumbura: Kosgoda
 Rhinoceros_kagavena	extinct	0.25	2	Meddekumbura: Kosgoda
@@ -1246,6 +1263,7 @@ Bos_sp_Sri_Lanka	extinct	0.25	2	Millagahadeniya: Gonapitiya
 Hexaprotodon_palaeindicus	extinct	0.25	2	Millagahadeniya: Gonapitiya
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Millavitiya: Karangoda
 Muva_sinhaleya	extinct	0.25	2	Mimavaladeniya: Gonapitiya: Kuruvita
+Muva_sinhaleya	extinct	0.25	2	Kuruvita
 Rhinoceros_kagavena	extinct	0.25	2	Moragala kumbura: Eheliyagoda
 Hexaprotodon_palaeindicus	extinct	0.25	2	Moragala: Kandangamuva: Eheliyagoda
 Hexaprotodon_palaeindicus	extinct	0.25	2	Moragalyayage kumbura: Eheliyagoda
@@ -1256,9 +1274,10 @@ Elephas_maximus_sinhaleyus	extinct	0.25	2	Nagoda
 Palaeoloxodon_namadicus	extinct	0.25	2	Nagoda
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Naranvatta: Karmarangapitiiya: Pelmadulla
 Bos_sp_Sri_Lanka	extinct	0.25	2	Niri alli ganga
+Rhinoceros_sondaicus	extant	0.25	2	Galukagama Maha Ela: Kuruvita
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Pahala vela: Galadande mandiya: Gonapitiya
 Hexaprotodon_palaeindicus	extinct	0.25	2	Pahala vela: Galadande mandiya: Gonapitiya
-Rhinoceros_kagavena	extinct	0.25	2	Pahalameepitiwela: GetahaThtha
+Rhinoceros_kagavena	extinct	0.25	2	Pahalameepitiwela: Getahaththa
 Bos_sp_Sri_Lanka	extinct	0.25	2	Pan Vila: Edande Vala: Kuruwita
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Pan Vila: Edande Vala: Kuruwita
 Elephas_hysudricus	extinct	0.25	2	Pan Vila: Edande Vala: Kuruwita
@@ -1268,10 +1287,11 @@ Elephas_maximus_sinhaleyus	extinct	0.25	2	Pan vila: Dodampe
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Pan vila: Gonapitiya
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Paramaiya Kumbura
 Elephas_hysudricus	extinct	0.25	2	Parei Kumbura: Nagoda
-Elephas_maximus_sinhaleyus	extinct	0.25	2	Radalla: PoThgulkanda
-Hexaprotodon_palaeindicus	extinct	0.25	2	Radalla: PoThgulkanda
+Elephas_maximus_sinhaleyus	extinct	0.25	2	Radalla: Pothgulkanda
+Hexaprotodon_palaeindicus	extinct	0.25	2	Radalla: Pothgulkanda
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Raigamovita: Veraniyagoda
 Sus_sinhaleyus	extinct	0.25	2	Sannasgamuva: Pelmadulla
+Sus_sinhaleyus	extinct	0.25	2	Sabaragamuwa: Palmadulla
 Hexaprotodon_palaeindicus	extinct	0.25	2	Balahapura near the Kalu River 
 Rhinoceros_kagavena	extinct	0.25	2	Balahapura near the Kalu River 
 Elephas_maximus	extant	0.25	2	Balahapura near the Kalu River 
@@ -1281,23 +1301,32 @@ Panthera_tigris	extant	0.25	2	Lindagava kumbura: Muvagama
 Elephas_maximus_sinhaleyus	extinct	0.25	2	Bathambure vela: Talavitiya
 Rhinoceros_sondaicus	extant	0.25	2	Kuttapitiya
 Rhinoceros_kagavena	extinct	0.25	2	Hiriliyadda: Talavitiya
+Rhinoceros_kagavena	extinct	0.25	2	Ekneligoda: Kuruvita
+Rhinoceros_kagavena	extinct	0.25	2	Waladura: Kuruvita
+Hexaprotodon_palaeindicus	extinct	0.25	2	Waladura: Kuruvita
+Sus_sinhaleyus	extinct	0.25	2	Waladura: Kuruvita
+Rusa_unicolor	extant	0.25	2	Waladura: Kuruvita
+Hexaprotodon_palaeindicus	extinct	0.25	2	Paradise: Kuruvita
+Rusa_unicolor	extant	0.25	2	Paradise: Kuruvita
+Rusa_unicolor	extant	0.25	2	Endana: Kuruvita
 Hexaprotodon_palaeindicus	extinct	0.25	2	Haldola
 Hexaprotodon_palaeindicus	extinct	0.25	2	Tunhiriya vila
 Hexaprotodon_palaeindicus	extinct	0.25	2	Kurundu ovita
 Hexaprotodon_palaeindicus	extinct	0.25	2	Galinna kumbura: Ahaliyagoda
 Bos_sp_Sri_Lanka	extinct	0.25	2	Alapata
-Bos_sp_Sri_Lanka	extinct	0.25	2	thotapitiyage vatta: Pahalagama: Ellavala
+Bos_sp_Sri_Lanka	extinct	0.25	2	Thotapitiyage vatta: Pahalagama: Ellavala
+Bos_sp_Sri_Lanka	extinct	0.25	2	Kahengama west: Kuruvita
 Axis_axis	extant	0.25	2	Valikumbura: Pohhorabhava
 Axis_axis	extant	0.25	2	Ambala
 Rusa_unicolor	extant	0.25	2	Iriyagahaliyadda: Gonapitiya
 Rusa_unicolor	extant	0.25	2	Rilhena: Pelmadulla
 Rusa_unicolor	extant	0.25	2	Baddama:Haldola
-Palaeoloxodon_xylophagou	extinct	1.29	2	Kyrenia AThiaefentis
+Palaeoloxodon_xylophagou	extinct	1.29	2	Kyrenia Athiaefentis
 Clidomys_osborni	extinct	1.29	2	Lluidas Vale Cave
 Geocapromys_brownii	extant	1.29	2	Lluidas Vale Cave
 Clidomys_osborni	extinct	0.4	2	Molton Fissure
-Clidomys_osborni	extinct	0.4	2	Slue s Cave
-Geocapromys_brownii	extant	0.4	2	Slue s Cave
+Clidomys_osborni	extinct	0.4	2	Slues Cave
+Geocapromys_brownii	extant	0.4	2	Slues Cave
 Clidomys_osborni	extinct	1	2	Wallingford Main Cave
 Sorex_shinto	extant	1.71	1.97	Ikumo Quarry: Ikumo naka: Ato City: Yamaguchi Prefecture
 Sorex_hosonoi	extant	1.71	1.97	Ikumo Quarry: Ikumo naka: Ato City: Yamaguchi Prefecture
@@ -1353,7 +1382,7 @@ Lepus_brachyurus	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi 
 Apodemus_speciosus	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
 Apodemus_argenteus	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
 Petaurista_leucogenys	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
-Grirulus_japonicus	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
+Glirulus_japonicus	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
 Vulpes_vulpes	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
 Meles_leucurus_kuzuuensis	extinct	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
 Mustela_itatsi	extant	1.71	1.97	Ando Quarry: Mine City: Omine City: Yamaguchi Prefecture
@@ -1374,7 +1403,7 @@ Palaeoloxodon_ex_gr_P_mnaidriensis	extinct	1.26	1.91	Isolidda 3
 Canis_lupus	extant	1.26	1.91	Isolidda 3 
 Cervus_elaphus_siciliae	extinct	1.26	1.91	Isolidda 3 
 Sus_scrofa	extant	1.26	1.91	Isolidda 3 
-LeiThia_melitensis	extinct	1.26	1.91	Isolidda 3 
+Leithia_melitensis	extinct	1.26	1.91	Isolidda 3 
 Maltamys_wiedincitensis	extinct	1.26	1.91	Isolidda 3 
 Microtus_(Terricola)_nov_sp_Sicily	extinct	1.26	1.91	Isolidda 3 
 Palaeoloxodon_antiquus_leonardi	extinct	1.3	1.91	Via Liberta Palermo
@@ -1427,7 +1456,7 @@ Hippopotamus_pentlandi	extinct	0.784	1.473	Contrada Fusco
 Ursus_arctos	extant	0.882	1.468	Contrada Fusco
 Crocuta_crocuta_spelaea	extinct	0.882	1.468	Contrada Fusco
 Lutra_trinacriae	extinct	0.882	1.468	Contrada Fusco
-LeiThia_melitensis	extinct	0.882	1.468	Contrada Fusco
+Leithia_melitensis	extinct	0.882	1.468	Contrada Fusco
 Maltamys_wiedincitensis	extinct	0.882	1.468	Contrada Fusco
 Crocidura_sicula_esuae	extinct	0.882	1.468	Contrada Fusco
 Capricornis_sumatraensis_FOSSIL	extant	1.15	1.43	Punung A
@@ -1495,13 +1524,13 @@ Candiacervus_ropalophorus	extinct	0.117	1.35	Gerani 3
 Candiacervus_ropalophorus	extinct	0.117	1.35	Vamos cave
 Candiacervus_sp_II	extinct	0.117	1.35	Karoumbes 2
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Agios Antonios cave
-Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Amoudara (LasiThi)
+Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Amoudara (Lasithi)
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Karoumbes 3
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Katharo elephant locality
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Kaulouridi cave
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Koumbes 3
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Matala
-Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Mavro Mouri 1 (= Mavro Mouri Cave)
+Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Mavro Mouri 1 (Mavro Mouri Cave)
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Panajia 1
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	Phangromouro
 Palaeoloxodon_creutzburgi	extinct	0.117	1.35	unknown cave near Sisses
@@ -1512,15 +1541,15 @@ Mus_bateae	extinct	1.3	1.35	Stavros micro
 Crocidura_zimmermanni_FOSSIL	extant	1.3	1.35	Stavros micro
 Candiacervus_ropalophorus	extinct	0.888	1.332	Gerani 6
 Candiacervus_cretensis	extinct	0.117	1.3	Rethymnon Fissure
-Candiacervus_devosi	extinct	0.117	1.3	Koumbes 2 (=Grida Avlaki)
+Candiacervus_devosi	extinct	0.117	1.3	Koumbes 2 (Grida Avlaki)
 Candiacervus_devosi	extinct	0.117	1.3	Mavro Mouri 4
 Candiacervus_listeri	extinct	0.117	1.3	Kalo Chorafi
-Candiacervus_listeri	extinct	0.117	1.3	Koumbes 2 (=Grida Avlaki)
+Candiacervus_listeri	extinct	0.117	1.3	Koumbes 2 (Grida Avlaki)
 Candiacervus_rethymnensis	extinct	0.117	1.3	Mavro Mouri 4
 Candiacervus_rethymnensis	extinct	0.117	1.3	Rethymnon Fissure
 Candiacervus_rethymnensis	extinct	0.117	1.3	Zourida Cave
 Candiacervus_reumeri	extinct	0.117	1.3	Kalo Chorafi
-Candiacervus_reumeri	extinct	0.117	1.3	Koumbes 2 (=Grida Avlaki)
+Candiacervus_reumeri	extinct	0.117	1.3	Koumbes 2 (Grida Avlaki)
 Candiacervus_ropalophorus	extinct	0.117	1.3	Kalo Chorafi
 Candiacervus_ropalophorus	extinct	0.117	1.3	Mavro Mouri 4
 Candiacervus_ropalophorus	extinct	0.117	1.3	Rethymnon Fissure
@@ -1529,18 +1558,18 @@ Candiacervus_sp_II	extinct	0.117	1.3	Rethymnon Fissure
 Candiacervus_sp_II	extinct	0.117	1.3	Zourida Cave
 Palaeoloxodon_creutzburgi	extinct	0.117	1.3	Kalo Chorafi
 Palaeoloxodon_creutzburgi	extinct	0.117	1.3	Koumbes 1
-Palaeoloxodon_creutzburgi	extinct	0.117	1.3	Koumbes 2 (=Grida Avlaki)
+Palaeoloxodon_creutzburgi	extinct	0.117	1.3	Koumbes 2 (Grida Avlaki)
 Palaeoloxodon_creutzburgi	extinct	0.117	1.3	Mavro Mouri 4
 Palaeoloxodon_creutzburgi	extinct	0.117	1.3	Rethymnon Fissure
 Palaeoloxodon_creutzburgi	extinct	0.117	1.3	Skaleta
 Palaeoloxodon_creutzburgi	extinct	1.25	1.3	Zourida Cave
 Mus_minotaurus	extinct	0.117	1.3	Kalo Chorafi
 Mus_minotaurus	extinct	0.117	1.3	Koumbes 1
-Mus_minotaurus	extinct	0.0898	1.3	Koumbes 2 (=Grida Avlaki)
+Mus_minotaurus	extinct	0.0898	1.3	Koumbes 2 (Grida Avlaki)
 Mus_minotaurus	extinct	0.117	1.3	Mavro Mouri 4
 Mus_minotaurus	extinct	0.117	1.3	Mavro Mouri 7
 Mus_minotaurus	extinct	0.117	1.3	Milatos 2
-Mus_minotaurus	extinct	0.117	1.3	Milatos 3 upper levels
+Mus_minotaurus	extinct	0.117	1.3	Milatos 3
 Mus_minotaurus	extinct	0.117	1.3	Milatos 4 Cave
 Mus_minotaurus	extinct	0.117	1.3	Rethymnon Fissure
 Mus_minotaurus	extinct	0.0898	1.3	Skaleta
@@ -1609,7 +1638,7 @@ Eliurus_minor	extant	0.08276	1.29	Belobaka
 Macrotarsomys_petteri	extant	0.08276	1.29	Belobaka
 Macrotarsomys_bastardi	extant	0.08276	1.29	Belobaka
 Nesomys_narindaensis	extinct	0.08276	1.29	Belobaka
-Hipposideros_commersoni	extant	0.08276	1.29	Belobaka
+Macronycteris_commersoni	extant	0.08276	1.29	Belobaka
 Miniopterus_gleni	extant	0.08276	1.29	Belobaka
 Palaeopropithecus_kelyus	extinct	0.08276	1.29	Ambongonambakoa
 Nesomys_narindaensis	extinct	0.08276	1.29	Ambongonambakoa
@@ -1621,9 +1650,9 @@ Archaeolemur_edwardsi	extinct	0.025	1.29	Antsingiavo
 Brachytarsomys_mahajambaensis	extinct	0.08276	1.29	Ambatomainty
 Nesomys_narindaensis	extinct	0.08276	1.29	Ambatomainty
 Palaeopropithecus_maximus	extinct	0.08276	1.29	Raulin Zohy
-Archaeolemur_edwardsi	extinct	0.08276	1.29	Ambararatra Mahabo
-Pachylemur_insignis	extinct	0.08276	1.29	Ambararatra Mahabo
-Megaladapis_madagascariensis	extinct	0.08276	1.29	Ambararatra Mahabo
+Archaeolemur_edwardsi	extinct	0.08276	1.29	Ambararatra_Mahabo
+Pachylemur_insignis	extinct	0.08276	1.29	Ambararatra_Mahabo
+Megaladapis_madagascariensis	extinct	0.08276	1.29	Ambararatra_Mahabo
 Megaladapis_edwardsi	extinct	0.08276	1.29	Ankomaka
 Archaeolemur_edwardsi	extinct	0.08276	1.29	Ankomaka
 Palaeopropithecus_ingens	extinct	0.08276	1.29	Ankomaka
@@ -1645,6 +1674,7 @@ Megaladapis_madagascariensis	extinct	0.08276	1.29	Tsivonohy
 Hadropithecus_stenognathus	extinct	0.08276	1.29	Ambovombe
 Megaladapis_grandidieri	extinct	0.08276	1.29	Itasy
 Palaeopropithecus_maximus	extinct	0.08276	1.29	Itasy
+Hippopotamus_lemerlei	extinct	0.08276	1.29	Andalambezo
 Bubalus_cebuensis	extinct	0.042	1.29	K Hill near Balamban
 Cervus_nov_sp_Masbate	extinct	0.117	1.29	Bat ongan hill
 Rattus_everetti	extant	0.117	1.29	Bat ongan hill
@@ -1661,6 +1691,7 @@ Hulitherium_tomasetti	extinct	0.5	1.29	LOB site: Haeapugua Basin
 Protemnodon_tumbuna	extinct	0.5	1.29	LOG site: Haeapugua Basin
 Protemnodon_tumbuna	extinct	0.5	1.29	LOK site: Haeapugua Basin
 Rhinoceros_sondaicus	extant	0.25	1.29	Naranvatta: Karmarangapitiiya: Pelmadulla
+Panthera_leo_sinhaleyus	extinct	0.39	1.29	Galukagama Maha Ela: Kuruvita
 Panthera_leo_sinhaleyus	extinct	0.39	1.29	Pahala vela: Galadande mandiya: Gonapitiya
 Panthera_leo_sinhaleyus	extinct	0.39	1.29	Pan Vila: Edande Vala: Kuruwita
 Peromyscus_anyapahensis	extinct	0.37	1.29	Frenchy s Cove (locality 1642)
@@ -1668,7 +1699,7 @@ Oryzomyini_gen_et_sp_indet_Barbados	extinct	0.042	1.29	Ragged Point Lighthouse
 Megalomys_audreyae	extinct	0.117	1.29	Pleistocene cave 
 Antillomys_rayi	extinct	0.117	1.29	Pleistocene cave 
 Palaeoloxodon_cypriotes	extinct	0.117	1.29	Aredhiou (Trodos Mountains)
-Palaeoloxodon_xylophagou	extinct	0.117	1.29	AThna Well
+Palaeoloxodon_xylophagou	extinct	0.117	1.29	Athna Well
 Hippopotamus_minor	extinct	0.117	1.29	Ayios Yeoryios Ayios Phanourios
 Palaeoloxodon_cypriotes	extinct	0.117	1.29	Ayios Yeoryios Ayios Phanourios
 Palaeoloxodon_cypriotes	extinct	0.117	1.29	Ayios Yeoryios Trashas
@@ -1685,7 +1716,7 @@ Palaeoloxodon_cypriotes	extinct	0.117	1.29	Koutsovendis Ayios Phanoutis
 Hippopotamus_minor	extinct	0.117	1.29	Krini
 Palaeoloxodon_cypriotes	extinct	0.117	1.29	Kythrea Kephalovrysi
 Mus_cypriacus	extant	0.117	1.29	Kythrea Kephalovrysi
-Hippopotamus_minor	extinct	0.117	1.29	Ormidhia VaThkia Laxia
+Hippopotamus_minor	extinct	0.117	1.29	Ormidhia Vathkia Laxia
 Hippopotamus_minor	extinct	0.117	1.29	Oschin
 Hippopotamus_minor	extinct	0.117	1.29	Pano Dhikomo Imbohary
 Palaeoloxodon_cypriotes	extinct	0.117	1.29	Pano Dhikomo Imbohary
@@ -1694,7 +1725,7 @@ Palaeoloxodon_cypriotes	extinct	0.117	1.29	Pano Dhikomo Onisha tou Paskhali Chif
 Palaeoloxodon_cypriotes	extinct	0.117	1.29	Pano Dhikomo Prophitis Elias
 Hippopotamus_minor	extinct	0.117	1.29	Pano Dhikomo Prophitis Elias
 Hippopotamus_minor	extinct	0.117	1.29	Trapeza
-Hippopotamus_minor	extinct	0.117	1.29	TrimiThi
+Hippopotamus_minor	extinct	0.117	1.29	Trimithi
 Hippopotamus_minor	extinct	0.117	1.29	Vourno
 Hippopotamus_minor	extinct	1.15	1.29	Xylophagou Ayii Saranda
 Hippopotamus_minor	extinct	0.117	1.29	Xylophagou Ayios Yeoryios
@@ -1708,7 +1739,7 @@ Palaeoloxodon_sp_Delos	extinct	0.117	1.29	Inopos river
 Candiacervus_cerigensis	extinct	0.117	1.29	Kandilia Cave (Karpathos)
 Candiacervus_pigadiensis	extinct	0.117	1.29	Kandilia Cave (Karpathos)
 Mus_sp_Karpathos_Kassos	extinct	0.117	1.29	Unknown_locality_Karpathos
-Elephantidae_gen_et_sp_indet_KyThnos	extinct	0.117	1.29	unknown locality in norTh west area of the island
+Elephantidae_gen_et_sp_indet_Kythnos	extinct	0.117	1.29	unknown locality in north west area of the island
 Elephantidae_gen_et_sp_indet_Milos	extinct	0.117	1.29	unknown locality
 Elephantidae_gen_et_sp_indet_Paros	extinct	0.117	1.29	close to Antikephalos hill
 Palaeoloxodon_sp_Rhodes	extinct	0.117	1.29	Apolakkia Formation surface collection
@@ -1793,7 +1824,7 @@ Eptesicus_fuscus	extant	0	1.29	Trujillo Alto
 Mormoops_blainvillei	extant	0	1.29	Trujillo Alto
 Nesophontes_edithae	extinct	0.00797	1.29	Cueva De Silva
 Brachyphylla_cavernarum	extant	0	1.29	Cueva De Silva
-Geocapromys_ingrahami_irrectus	extinct	0.117	1.29	Hanging Garden Crawl through Cave
+Geocapromys_ingrahami_irrectus	extinct	0.117	1.29	Hanging Garden Crawl Through Cave
 Geocapromys_ingrahami_irrectus	extinct	0.117	1.29	Upper Pasture Cave
 Mormoops_blainvillei	extant	0.117	1.29	Upper Pasture Cave
 Macrotus_waterhousii	extant	0.117	1.29	Upper Pasture Cave
@@ -1886,6 +1917,7 @@ Isolobodon_portoricensis	extinct	0.042	1.29	Cueva Loma de Juan
 Quemisia_gravis	extinct	0.042	1.29	Cueva Loma de Juan
 Acratocnus_ye	extinct	0.042	1.29	Cueva Macho
 Neocnus_dousman	extinct	0.042	1.29	Cueva Macho
+Neocnus_sp_nov_Hispaniola	extinct	0.042	1.29	Cueva Macho
 Isolobodon_portoricensis	extinct	0.042	1.29	Cueva Natura Bass
 Brotomys_voratus	extinct	0.042	1.29	Cueva Natura Bass
 Hyperplagiodontia_araeum	extinct	0.042	1.29	Cueva no 12
@@ -1955,30 +1987,30 @@ Isolobodon_portoricensis	extinct	0.00458	1.29	San Francisco
 Isolobodon_montanus	extinct	0.00458	1.29	San Francisco
 Quemisia_gravis	extinct	0.00458	1.29	San Francisco
 Parocnus_serus	extinct	0.00458	1.29	San Francisco
-Artibeus_jamaicensis	extant	0.00458	1.29	St Michel de l Atalaye
-Brachyphylla_nana	extant	0.00458	1.29	St Michel de l Atalaye
-Eptesicus_fuscus	extant	0.00458	1.29	St Michel de l Atalaye
-Erophylla_bombifrons	extant	0.00458	1.29	St Michel de l Atalaye
-Macrotus_waterhousii	extant	0.00458	1.29	St Michel de l Atalaye
-Mormoops_blainvillei	extant	0.00458	1.29	St Michel de l Atalaye
-Phyllonycteris_poeyi	extant	0.00458	1.29	St Michel de l Atalaye
-Phyllops_falcatus	extant	0.00458	1.29	St Michel de l Atalaye
-Tadarida_brasiliensis	extant	0.00458	1.29	St Michel de l Atalaye
-Parocnus_serus	extinct	0.00458	1.29	St Michel de l Atalaye
-Neocnus_comes	extinct	0.00458	1.29	St Michel de l Atalaye
-Acratocnus_ye	extinct	0.00458	1.29	St Michel de l Atalaye
-Plagiodontia_spelaeum	extinct	0.00458	1.29	St Michel de l Atalaye
-Plagiodontia_velozi	extinct	0.00458	1.29	St Michel de l Atalaye
-Hyperplagiodontia_araeum	extinct	0.00458	1.29	St Michel de l Atalaye
-Hexolobodon_phenax	extinct	0.00458	1.29	St Michel de l Atalaye
-Brotomys_contractus	extinct	0.00458	1.29	St Michel de l Atalaye
-Brotomys_voratus	extinct	0.00458	1.29	St Michel de l Atalaye
-Nesophontes_paramicrus	extinct	0.00458	1.29	St Michel de l Atalaye
-Nesophontes_hypomicrus	extinct	0.00458	1.29	St Michel de l Atalaye
-Nesophontes_zamicrus	extinct	0.00458	1.29	St Michel de l Atalaye
-Isolobodon_portoricensis	extinct	0.00458	1.29	St Michel de l Atalaye
-Isolobodon_montanus	extinct	0.00458	1.29	St Michel de l Atalaye
-Quemisia_gravis	extinct	0.00458	1.29	St Michel de l Atalaye
+Artibeus_jamaicensis	extant	0.00458	1.29	St Michel de l_Atalaye
+Brachyphylla_nana	extant	0.00458	1.29	St Michel de l_Atalaye
+Eptesicus_fuscus	extant	0.00458	1.29	St Michel de l_Atalaye
+Erophylla_bombifrons	extant	0.00458	1.29	St Michel de l_Atalaye
+Macrotus_waterhousii	extant	0.00458	1.29	St Michel de l_Atalaye
+Mormoops_blainvillei	extant	0.00458	1.29	St Michel de l_Atalaye
+Phyllonycteris_poeyi	extant	0.00458	1.29	St Michel de l_Atalaye
+Phyllops_falcatus	extant	0.00458	1.29	St Michel de l_Atalaye
+Tadarida_brasiliensis	extant	0.00458	1.29	St Michel de l_Atalaye
+Parocnus_serus	extinct	0.00458	1.29	St Michel de l_Atalaye
+Neocnus_comes	extinct	0.00458	1.29	St Michel de l_Atalaye
+Acratocnus_ye	extinct	0.00458	1.29	St Michel de l_Atalaye
+Plagiodontia_spelaeum	extinct	0.00458	1.29	St Michel de l_Atalaye
+Plagiodontia_velozi	extinct	0.00458	1.29	St Michel de l_Atalaye
+Hyperplagiodontia_araeum	extinct	0.00458	1.29	St Michel de l_Atalaye
+Hexolobodon_phenax	extinct	0.00458	1.29	St Michel de l_Atalaye
+Brotomys_contractus	extinct	0.00458	1.29	St Michel de l_Atalaye
+Brotomys_voratus	extinct	0.00458	1.29	St Michel de l_Atalaye
+Nesophontes_paramicrus	extinct	0.00458	1.29	St Michel de l_Atalaye
+Nesophontes_hypomicrus	extinct	0.00458	1.29	St Michel de l_Atalaye
+Nesophontes_zamicrus	extinct	0.00458	1.29	St Michel de l_Atalaye
+Isolobodon_portoricensis	extinct	0.00458	1.29	St Michel de l_Atalaye
+Isolobodon_montanus	extinct	0.00458	1.29	St Michel de l_Atalaye
+Quemisia_gravis	extinct	0.00458	1.29	St Michel de l_Atalaye
 Artibeus_jamaicensis	extant	0.042	1.29	San Gabriel
 Eptesicus_fuscus	extant	0.042	1.29	San Gabriel
 Macrotus_waterhousii	extant	0.042	1.29	San Gabriel
@@ -3056,7 +3088,7 @@ Rhinolophus_ferrumequinum	extant	0.06301	1.29	Cova dels Set Fumerals
 Myotragus_balearicus	extinct	0.117	1.29	Bajoli Sa Segonya 20
 Myotragus_balearicus	extinct	0.05714	1.29	Sa Punta des Gegant 21
 Myotragus_balearicus	extinct	0.05714	1.29	Cales Coves
-Myotragus_balearicus	extinct	0.05714	1.29	Cova de Sa Caleta d en Gorries
+Myotragus_balearicus	extinct	0.05714	1.29	Cova de Sa Caleta d_en Gorries
 Myotragus_balearicus	extinct	0.05714	1.29	Son Bou 1
 Hypnomys_mahonensis	extinct	0.06637	1.29	Son Bou 1
 Nesiotites_hidalgo	extinct	0.048	1.29	Son Bou 1
@@ -3064,8 +3096,8 @@ Myotragus_balearicus	extinct	0.05714	1.29	Son Bou 2
 Hypnomys_morpheus	extinct	0.06637	1.29	Son Bou 2
 Nesiotites_hidalgo	extinct	0.048	1.29	Son Bou 2
 Myotragus_balearicus	extinct	0.05714	1.29	Es Colomar
-Myotragus_balearicus	extinct	0.117	1.29	Cala n Blanes
-Hypnomys_morpheus	extinct	0.117	1.29	Cala n Blanes
+Myotragus_balearicus	extinct	0.117	1.29	Cala_n Blanes
+Hypnomys_morpheus	extinct	0.117	1.29	Cala_n Blanes
 Myotragus_balearicus	extinct	0.05714	1.29	Cova C 2 
 Hypnomys_morpheus	extinct	0.06637	1.29	Cova C 2 
 Myotragus_balearicus	extinct	0.05714	1.29	Cova de ses Tres Sales
@@ -3114,12 +3146,12 @@ Nesiotites_hidalgo	extinct	0.117	1.29	Cova des Coloms
 Myotragus_balearicus	extinct	0.04417	1.29	Cova des Tresor
 Myotragus_balearicus	extinct	0.117	1.29	Alluvions de Buger
 Myotragus_balearicus	extinct	0.04417	1.29	Sa Coveta de can Canals d en Puceta
-Hypnomys_morpheus	extinct	0.06637	1.29	Cova Petita d Arta
+Hypnomys_morpheus	extinct	0.06637	1.29	Cova Petita d_Arta
 Myotragus_balearicus	extinct	0.04417	1.29	Sa Comuna de Bunyola
 Myotragus_balearicus	extinct	0.04417	1.29	Avenc de sa Picor
 Myotragus_balearicus	extinct	0.04417	1.29	Avenc des Vent
 Myotragus_balearicus	extinct	0.04417	1.29	Cova de ses Pasteretes Petita
-Myotragus_balearicus	extinct	0.04417	1.29	Avenc de s Aigo Estiulada
+Myotragus_balearicus	extinct	0.04417	1.29	Avenc de s_Aigo Estiulada
 Myotragus_balearicus	extinct	0.04417	1.29	Coves de Calvia
 Myotragus_balearicus	extinct	0.04417	1.29	Cova de sa Sorpresa
 Myotragus_balearicus	extinct	0.04417	1.29	Cova dels Albons
@@ -3128,21 +3160,18 @@ Hypnomys_morpheus	extinct	0.06637	1.29	Cova des Marmol
 Myotragus_balearicus	extinct	0.04417	1.29	Cova des Puig Gros de Bendinat
 Myotragus_balearicus	extinct	0.04417	1.29	Avenc des Vent
 Myotragus_balearicus	extinct	0.04417	1.29	Avenc des Mort
-Myotragus_balearicus	extinct	0.04417	1.29	Avenc de n Andreu
+Myotragus_balearicus	extinct	0.04417	1.29	Avenc de n_Andreu
 Myotragus_balearicus	extinct	0.04417	1.29	Avenc de na Picassento
 Nesiotites_hidalgo	extinct	0.048	1.29	Avenc de Sa Moneda
 Myotragus_balearicus	extinct	0.04417	1.29	Cova des Coralloides
 Hypnomys_morpheus	extinct	0.06637	1.29	Cova des Coralloides
 Myotragus_balearicus	extinct	0.117	1.29	Cova de so na Pacs
-Myotragus_balearicus	extinct	0.117	1.29	Cova de na Barxa
-Hypnomys_morpheus	extinct	0.117	1.29	Cova de na Barxa
-Nesiotites_hidalgo	extinct	0.117	1.29	Cova de na Barxa
 Myotragus_balearicus	extinct	0.117	1.29	Cova Nova
 Hypnomys_morpheus	extinct	0.117	1.29	Cova Nova
 Nesiotites_hidalgo	extinct	0.117	1.29	Cova Nova
-Myotragus_balearicus	extinct	0.117	1.29	Cova de l Ermita o d Arta
-Hypnomys_morpheus	extinct	0.117	1.29	Cova de l Ermita o d Arta
-Nesiotites_hidalgo	extinct	0.117	1.29	Cova de l Ermita o d Arta
+Myotragus_balearicus	extinct	0.117	1.29	Cova de l_Ermita o d_Arta
+Hypnomys_morpheus	extinct	0.117	1.29	Cova de l_Ermita o d_Arta
+Nesiotites_hidalgo	extinct	0.117	1.29	Cova de l_Ermita o d_Arta
 Myotragus_balearicus	extinct	0.117	1.29	Son Jaumell
 Hypnomys_morpheus	extinct	0.06637	1.29	Avenc de Fra Rafel
 Myotragus_balearicus	extinct	0.04417	1.29	Avenc de Muntanya
@@ -3152,14 +3181,13 @@ Myotragus_balearicus	extinct	0.04417	1.29	Cova de sa Tossa Alta
 Hypnomys_morpheus	extinct	0.06637	1.29	Cova de sa Tossa Alta
 Myotragus_balearicus	extinct	0.04417	1.29	Cova dels Ossos
 Myotragus_balearicus	extinct	0.04417	1.29	Cova Llunyana
-Myotragus_balearicus	extinct	0.04417	1.29	Coval Simo
 Myotragus_balearicus	extinct	0.0496	1.29	Coveta des Gorgs
 Hypnomys_morpheus	extinct	0.06637	1.29	Coveta des Gorgs
 Nesiotites_hidalgo	extinct	0.048	1.29	Coveta des Gorgs
-Myotragus_balearicus	extinct	0.04417	1.29	Comellar de l Infern
-Myotragus_balearicus	extinct	0.117	1.29	Cova des Morro d en Bordils
-Myotragus_balearicus	extinct	0.04417	1.29	Coves de la ctra. De Soller al Puig Major
-Myotragus_balearicus	extinct	0.04417	1.29	Cova Estreta d Escorca
+Myotragus_balearicus	extinct	0.04417	1.29	Comellar de l_Infern
+Myotragus_balearicus	extinct	0.117	1.29	Cova des Morro d_en Bordils
+Myotragus_balearicus	extinct	0.04417	1.29	Coves de la ctra De Soller al Puig Major
+Myotragus_balearicus	extinct	0.04417	1.29	Cova Estreta d_Escorca
 Hypnomys_morpheus	extinct	0.06637	1.29	Avenc de Sa Finestra
 Myotragus_balearicus	extinct	0.117	1.29	Avenc de sa Pedra
 Myotragus_balearicus	extinct	0.117	1.29	Avenc Corcat
@@ -3180,7 +3208,7 @@ Myotragus_balearicus	extinct	0.04417	1.29	Cova de sa Piscina
 Myotragus_balearicus	extinct	0.117	1.29	S Arenal
 Hypnomys_morpheus	extinct	0.117	1.29	S Arenal
 Nesiotites_hidalgo	extinct	0.117	1.29	S Arenal
-Myotragus_balearicus	extinct	0.04417	1.29	Cova Genovesa o d en Besso
+Myotragus_balearicus	extinct	0.04417	1.29	Cova Genovesa o d_en Besso
 Myotragus_balearicus	extinct	0.04417	1.29	Cova Marina des Pont
 Myotragus_balearicus	extinct	0.04417	1.29	Cala davant ses Coves des Drac
 Myotragus_balearicus	extinct	0.04417	1.29	Cova Cala Petita
@@ -3267,7 +3295,7 @@ Nesiotites_hidalgo	extinct	0.048	1.29	Cova de Moleta
 Myotragus_balearicus	extinct	0.04417	1.29	Avenc de ses Papallones
 Myotragus_balearicus	extinct	0.04417	1.29	Raco de s Argentera II
 Myotragus_balearicus	extinct	0.04417	1.29	Raco de s Argentera I
-Myotragus_balearicus	extinct	0.04417	1.29	Coval d en Rave
+Myotragus_balearicus	extinct	0.04417	1.29	Coval d_en Rave
 Myotragus_balearicus	extinct	0.117	1.29	Jaciment del Port de Soller
 Myotragus_balearicus	extinct	0.04417	1.29	Coval Simo
 Hypnomys_morpheus	extinct	0.06637	1.29	Coval Simo
@@ -3276,7 +3304,7 @@ Hypnomys_morpheus	extinct	0.0821	1.29	Balma o Abric de Son Matge
 Nesiotites_hidalgo	extinct	0.048	1.29	Balma o Abric de Son Matge
 Myotragus_balearicus	extinct	0.05461	1.29	Cova des Mort o des Penyal Blanc(Cabrera)
 Hypnomys_morpheus	extinct	0.06637	1.29	Cova des Mort o des Penyal Blanc(Cabrera)
-Myotragus_balearicus	extinct	0.04417	1.29	Cova des Moro o de s Aigo de sa Dragonera
+Myotragus_balearicus	extinct	0.04417	1.29	Cova des Moro o de s_Aigo de sa Dragonera
 Panthera_tigris	extant	0.5	1.29	Off Shodoshima: Seto Inland Sea
 Palaeoloxodon_naumanni	extinct	0.5	1.29	Off Shodoshima: Seto Inland Sea
 Bison_sp_Hondo	extinct	0.5	1.29	Off Shodoshima: Seto Inland Sea
@@ -3306,7 +3334,7 @@ Petaurista_leucogenys	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefect
 Lepus_brachyurus	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
 Canis_lupus	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
 Nyctereutes_viverrinus	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
-Ursus_Thibetanus	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
+Ursus_thibetanus	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
 Ursus_arctos	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
 Meles_leucurus_kuzuuensis	extinct	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
 Meles_anakuma	extant	0.5	1.29	Miyata Quarry: Okubo City: Tochigi Prefecture
@@ -3389,7 +3417,7 @@ Sus_scrofa	extant	0.117	1.29	Tsukinoki: Akita Prefecture
 Macaca_fuscata	extant	0.5	1.29	Ojika do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Palaeoloxodon_naumanni	extinct	0.5	1.29	Ojika do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Petaurista_leucogenys	extant	0.5	1.29	Ojika do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
-Myodes_smiThii	extant	0.5	1.29	Ojika do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
+Myodes_smithii	extant	0.5	1.29	Ojika do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Apodemus_speciosus	extant	0.5	1.29	Ojika do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Apodemus_speciosus	extant	0.5	1.29	Takanosuzawa Cave: Kuzuu City: Tochigi Prefecture
 Apodemus_argenteus	extant	0.5	1.29	Takanosuzawa Cave: Kuzuu City: Tochigi Prefecture
@@ -3404,7 +3432,7 @@ Bison_sp_Hondo	extinct	0.5	1.29	Aji City: Kita district: Kagawa Prefecture
 Chimarrogale_platycephalus	extant	0.117	1.29	Karaiwadani Quarry: Hijikawa City: Ozu shi: Ehime Prefecture
 Myodes_rufocanus	extant	0.117	1.29	Karaiwadani Quarry: Hijikawa City: Ozu shi: Ehime Prefecture
 Apodemus_argenteus	extant	0.117	1.29	Karaiwadani Quarry: Hijikawa City: Ozu shi: Ehime Prefecture
-Myodes_smiThii	extant	0.117	1.29	Karaiwadani Quarry: Hijikawa City: Ozu shi: Ehime Prefecture
+Myodes_smithii	extant	0.117	1.29	Karaiwadani Quarry: Hijikawa City: Ozu shi: Ehime Prefecture
 Apodemus_speciosus	extant	0.117	1.29	Karaiwadani Quarry: Hijikawa City: Ozu shi: Ehime Prefecture
 Capricornis_sp_Hondo	extinct	0.117	1.29	Sasagatoge Cave: Oda City: Ohnogahara: Kamiukena district: Ehime Prefecture
 Panthera_tigris	extant	0.5	1.29	Hinotsu Mining quarry: Ofuku City: Mine shi: Yamaguchi Prefecture
@@ -3439,6 +3467,7 @@ Mus_minotaurus	extinct	0.696	1.26	Liko Cave
 Lutrogale_cretensis	extinct	0.696	1.26	Liko Cave
 Crocidura_zimmermanni_FOSSIL	extant	0.696	1.26	Liko Cave
 Stegodon_sumbaensis	extinct	0.117	1.25	Watambuka
+Thylacinus_cynocephalus	extinct	0.0006	1.247	Nombe
 Elasmodontomys_obliquus	extinct	0.956	1.243	Cueva el Mora
 Palaeoloxodon_ex_gr_P_mnaidriensis	extinct	1.19	1.24	Murro di Porco Maddalena peninsula
 Palaeoloxodon_ex_gr_P_mnaidriensis	extinct	0.7	1.24	Pace del Mela
@@ -3471,12 +3500,12 @@ Panthera_sp_Taiwan	extinct	0.1	1.2	Pingtung
 Hystrix_sp_Taiwan	extinct	0.1	1.2	Pingtung
 Microtus_sp_Taiwan	extinct	0.1	1.2	Pingtung
 Niviventer_sp_Taiwan	extinct	0.1	1.2	Pingtung
-Asoriculus_corsicanus	extinct	0.117	1.15	La Coscia souTh
-Microtus_(Tyrrhenicola)_henseli	extinct	0.117	1.15	La Coscia souTh
-Rhagamys_orthodon	extinct	0.117	1.15	La Coscia souTh
-Prolagus_sardus	extinct	0.117	1.15	La Coscia souTh
-Cynotherium_sardous	extinct	0.117	1.15	La Coscia souTh
-Praemegaceros_cazioti	extinct	0.117	1.15	La Coscia souTh
+Asoriculus_corsicanus	extinct	0.117	1.15	La Coscia south
+Microtus_(Tyrrhenicola)_henseli	extinct	0.117	1.15	La Coscia south
+Rhagamys_orthodon	extinct	0.117	1.15	La Coscia south
+Prolagus_sardus	extinct	0.117	1.15	La Coscia south
+Cynotherium_sardous	extinct	0.117	1.15	La Coscia south
+Praemegaceros_cazioti	extinct	0.117	1.15	La Coscia south
 Algarolutra_majori	extinct	0.8	1.15	Grotta del Margine/Nonza
 Praemegaceros_cazioti	extinct	0.8	1.15	Grotta del Margine/Nonza
 Praemegaceros_cazioti	extinct	0.117	1.15	Moulin de Brietta Cave
@@ -3512,7 +3541,6 @@ Candiacervus_ropalophorus	extinct	0.56	0.972	Simonelli Cave
 Palaeoloxodon_creutzburgi	extinct	0.56	0.972	Simonelli Cave
 Mus_minotaurus	extinct	0.56	0.972	Simonelli Cave
 Ailurops_ursinus	extant	0.83	0.87	Leang Burung 2
-Hipposideros_commersoni	extant	0	0.868	Anjohibe
 Rousettus_madagascariensis	extant	0	0.868	Anjohibe
 Candiacervus_listeri	extinct	0.56	0.84	Gerani 4
 Candiacervus_ropalophorus	extinct	0.56	0.84	Gerani 4
@@ -3522,7 +3550,7 @@ Pteropus_tonganus	extant	0.00465	0.815	Anatu Cave
 Emballonura_semicaudata	extant	0.00465	0.815	Anatu Cave
 Chaerephon_jobensis	extant	0.00465	0.815	Anatu Cave
 Emballonura_semicaudata	extant	0.00465	0.815	Tupou Cave
-Emballonura_semicaudata	extant	0.00465	0.815	that Cave
+Emballonura_semicaudata	extant	0.00465	0.815	That Cave
 Emballonura_semicaudata	extant	0.00465	0.815	Collapse Cave
 Notopteris_macdonaldi	extant	0.00465	0.815	Collapse Cave
 Chaerephon_jobensis	extant	0.00465	0.815	Collapse Cave
@@ -3530,6 +3558,8 @@ Emballonura_semicaudata	extant	0.00465	0.815	Bat Cave
 Pteropus_tonganus	extant	0.00465	0.815	Bat Cave
 Pteropus_tonganus	extant	0.00465	0.815	Midden Cave
 Notopteris_macdonaldi	extant	0.00465	0.815	Midden Cave
+Trachypithecus_cristatus	extant	0.7	0.81	Sibrambang
+Symphalangus_syndactylus	extant	0.7	0.81	Sibrambang
 Pongo_abelii	extant	0.7	0.81	Sibrambang
 Helarctos_malayanus	extant	0.7	0.81	Sibrambang
 Panthera_tigris	extant	0.7	0.81	Sibrambang
@@ -3561,27 +3591,25 @@ Capricornis_sumatraensis	extant	0.7	0.81	Jambu
 Elephas_maximus	extant	0.2918	0.802	Cipendeuy
 Mammuthus_columbi	extinct	0.13803	0.8	SRI 5G: Canada Garanon
 Candiacervus_ropalophorus	extinct	0.51	0.768	Gerani 5
+Muntiacus_muntjak	extant	0.59	0.76	Lida Ajer
+Rusa_unicolor	extant	0.59	0.76	Lida Ajer
+Pongo_abelii	extant	0.59	0.76	Lida Ajer
+Hystrix_brachyura	extant	0.59	0.76	Lida Ajer
+Symphalangus_syndactylus	extant	0.59	0.76	Lida Ajer
+Macaca_fascicularis	extant	0.59	0.76	Lida Ajer
+Macaca_nemestrina	extant	0.59	0.76	Lida Ajer
+Trachypithecus_cristatus	extant	0.59	0.76	Lida Ajer
+Elephas_maximus	extant	0.59	0.76	Lida Ajer
+Sus_barbatus	extant	0.59	0.76	Lida Ajer
+Bos_javanicus	extant	0.59	0.76	Lida Ajer
+Helarctos_malayanus	extant	0.59	0.76	Lida Ajer
+Tapirus_indicus	extant	0.59	0.76	Lida Ajer
+Dicerorhinus_sumatrensis	extant	0.59	0.76	Lida Ajer
+Capricornis_sumatraensis	extant	0.59	0.76	Lida Ajer
+Cuon_alpinus	extant	0.59	0.76	Lida Ajer
+Catopuma_temminckii	extant	0.59	0.76	Lida Ajer
 Rhinolophus_euryotis	extant	0	0.74	Liang Bua
 Murina_aff_M_florium	extant	0.61	0.74	Liang Bua
-Muntiacus_muntjak	extant	0.63	0.73	Lida Ajer
-Rusa_unicolor	extant	0.63	0.73	Lida Ajer
-Pongo_abelii	extant	0.63	0.73	Lida Ajer
-Hystrix_brachyura	extant	0.63	0.73	Lida Ajer
-Symphalangus_syndactylus	extant	0.63	0.73	Lida Ajer
-Macaca_fascicularis	extant	0.63	0.73	Lida Ajer
-Macaca_nemestrina	extant	0.63	0.73	Lida Ajer
-Trachypithecus_cristatus	extant	0.63	0.73	Lida Ajer
-Elephas_maximus	extant	0.63	0.73	Lida Ajer
-Sus_barbatus	extant	0.63	0.73	Lida Ajer
-Bos_javanicus	extant	0.63	0.73	Lida Ajer
-Helarctos_malayanus	extant	0.63	0.73	Lida Ajer
-Tapirus_indicus	extant	0.63	0.73	Lida Ajer
-Dicerorhinus_sumatrensis	extant	0.63	0.73	Lida Ajer
-Capricornis_sumatraensis	extant	0.63	0.73	Lida Ajer
-Cuon_alpinus	extant	0.63	0.73	Lida Ajer
-Catopuma_temminckii	extant	0.63	0.73	Lida Ajer
-Trachypithecus_cristatus	extant	0.63	0.73	Sibrambang
-Symphalangus_syndactylus	extant	0.63	0.73	Sibrambang
 Mammuthus_columbi	extinct	0.64	0.72	Santa Rosa unknown 11
 Mammuthus_columbi	extinct	0.585	0.715	Santa Rosa unknown 10
 Cervus_elaphus_tyrrhenicus	extinct	0.117	0.71	Grotta delle Felci
@@ -3605,7 +3633,7 @@ Anourosorex_japonicus	extinct	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: S
 Myotis_macrodactylus	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Miniopterus_schreibersii	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Murina_leucogaster	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
-Myodes_smiThii	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
+Myodes_smithii	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Ursus_arctos	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Meles_anakuma	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
 Panthera_tigris	extant	0.5	0.7	Yage Quarry: Inasa Town: Hamamatsu City: Shizuoka Prefecture
@@ -3623,7 +3651,7 @@ Rhinolophus_ferrumequinum	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuramina
 Rhinolophus_cornutus	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Miniopterus_schreibersii	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Microtus_montebelli	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
-Myodes_smiThii	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
+Myodes_smithii	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Apodemus_argenteus	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Cervus_nippon	extant	0.5	0.7	Seiryukutsu Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Equus_hydruntinus	extinct	0.12	0.7	Grotta di Carburangeli
@@ -3653,8 +3681,8 @@ Oryzomys_antillarum	extinct	0.00256	0.593	Braham Cave
 Ceboidea_gen_et_sp_indet_Jamaica	extinct	0.202	0.593	Coco Ree Cave
 Oryzomys_antillarum	extinct	0.202	0.593	Coco Ree Cave
 Geocapromys_brownii	extant	0.202	0.593	Coco Ree Cave
-Oryzomys_antillarum	extinct	0.00256	0.593	Mt. Diablo Cave
-Geocapromys_brownii	extant	0	0.593	Mt. Diablo Cave
+Oryzomys_antillarum	extinct	0.00256	0.593	Mt Diablo Cave
+Geocapromys_brownii	extant	0	0.593	Mt Diablo Cave
 Oryzomys_antillarum	extinct	0.00256	0.593	Tydixon Cave
 Geocapromys_brownii	extant	0	0.593	Tydixon Cave
 Geocapromys_brownii	extant	0	0.593	Cinnamon Hill
@@ -3666,10 +3694,11 @@ Microtus_(Terricola)_ex_gr_Microtus_savii	extinct	0.117	0.57	K22 San Vito lo Cap
 Cervus_elaphus_siciliae	extinct	0.14	0.57	K22 San Vito lo Capo
 Crocidura_sicula_sicula_FOSSIL	extant	0.117	0.57	K22 San Vito lo Capo
 Microtus_(Terricola)_ex_gr_Microtus_savii	extinct	0.29	0.57	San Teodoro
-Candiacervus_listeri	extinct	0.376	0.564	Gerani 2 lower layer
-Candiacervus_rethymnensis	extinct	0.376	0.564	Gerani 2 lower layer
-Candiacervus_ropalophorus	extinct	0.117	0.564	Gerani 2 lower and upper layer
+Candiacervus_listeri	extinct	0.376	0.564	Gerani 2
+Candiacervus_rethymnensis	extinct	0.376	0.564	Gerani 2
+Candiacervus_ropalophorus	extinct	0.117	0.564	Gerani 2
 Crocidura_zimmermanni_FOSSIL	extant	0.0898	0.564	Gerani 2
+Hulitherium_tomasetti	extinct	0.53	0.562	Nombe
 Palaeoloxodon_naumanni	extinct	0.36405	0.5498	Lake Nojiri: Nagano Prefecture
 Palaeoloxodon_naumanni	extinct	0.48326	0.5498	Off Mishima
 Babyrousa_celebensis	extant	0.2614	0.524	Leang Bulu Bettue
@@ -3718,11 +3747,12 @@ Cervus_praenipponicus	extinct	0.18624	0.5	Kannondo Cave: Taishaku kyo sites: Hir
 Sinomegaceros_yabei	extinct	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Petaurista_leucogenys	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Nyctereutes_viverrinus	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
-Myodes_smiThii	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
+Myodes_smithii	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Sus_scrofa	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Cervus_nippon	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Macaca_fuscata	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
 Martes_melampus	extant	0.117	0.5	Mejiro do Cave: Hirao dai: Kokuraminami ku: Fukuoka Prefecture
+Stegodon_florensis_insularis	extinct	0.303	0.499	Ulu Mala Kata
 Hipposideros_galeritus	extant	0.0035	0.49167	Niah Caves
 Rhinolophus_borneensis	extant	0.1673	0.49167	Niah Caves
 Rhinolophus_trefoiliatus	extant	0.1673	0.49167	Niah Caves
@@ -3888,6 +3918,7 @@ Macrocapromys_acevedo	extinct	0.04975	0.4	Las Breas de San Felipe
 Solenodon_cubanus	extant	0.04975	0.4	Las Breas de San Felipe
 Capromys_pilorides	extant	0.04975	0.4	Las Breas de San Felipe
 Nesophontes_micrus	extinct	0.04975	0.4	Las Breas de San Felipe
+Rattus_mordax	extant	0.016	0.39963	Matenkupkum
 Genus_A_Timor	extinct	0.045	0.39844	Liang Leluat
 Coryphomys_buehleri	extinct	0.3	0.39844	Matja Kuru 2
 Coryphomys_musseri	extinct	0.3	0.39844	Matja Kuru 2
@@ -3919,18 +3950,17 @@ Komodomys_small_species_Timor	extinct	0.02721	0.39	Lene Hara
 Komodomys_large_species_Timor	extinct	0.02721	0.39	Lene Hara
 Melomys_small_species_Timor	extinct	0.02721	0.39	Lene Hara
 Melomys_large_species_Timor	extinct	0.02721	0.39	Lene Hara
-thylacinus_cynocephalus	extinct	0.0006	0.387	Nombe
-Dendrolagus_noibano	extinct	0.04865	0.387	Nombe
-Protemnodon_tumbuna	extinct	0.04865	0.387	Nombe
-Protemnodon_nombe	extinct	0.04865	0.387	Nombe
-thylogale_brunii	extant	0.0006	0.387	Nombe
+Dendrolagus_dorianus	extant	0.0006	0.387	Nombe
+Protemnodon_tumbuna	extinct	0.245	0.387	Nombe
+Protemnodon_nombe	extinct	0.217	0.387	Nombe
+Thylogale_brunii	extant	0.0006	0.387	Nombe
 Dorcopsulus_vanheurni	extant	0.0006	0.387	Nombe
 Phalanger_sericeus	extant	0.0006	0.387	Nombe
 Pseudochirops_cupreus	extant	0.0006	0.387	Nombe
 Pseudochirops_corinnae	extant	0.0006	0.387	Nombe
 Pseudochirulus_forbesi	extant	0.0006	0.387	Nombe
 Petaurus_breviceps	extant	0.0028	0.387	Nombe
-Mallomys_roThschildi	extant	0.0006	0.387	Nombe
+Mallomys_rothschildi	extant	0.0006	0.387	Nombe
 Uromys_anak	extant	0.0006	0.387	Nombe
 Uromys_caudimaculatus	extant	0.0006	0.387	Nombe
 Zaglossus_bruijni	extant	0.0006	0.387	Nombe
@@ -3941,8 +3971,8 @@ Microperoryctes_longicauda	extant	0.0006	0.387	Nombe
 Mammuthus_columbi	extinct	0.134	0.3863	Sauces
 Mammuthus_columbi	extinct	0.134	0.3863	Pozo
 Ratufa_affinis	extant	0.08354	0.38059	Niah Caves
-Panthera_tigris	extant	0.03	0.38	PoThgul lena: Alavala 
-Mus_minotaurus	extinct	0.0898	0.376	Gerani 2 upper layer
+Panthera_tigris	extant	0.03	0.38	Pothgul lena: Alavala 
+Mus_minotaurus	extinct	0.0898	0.376	Gerani 2
 Rattus_miyakoensis	extinct	0.3305	0.3756	Amagawa do Cave
 Capreolus_miyakoensis	extinct	0.3305	0.3756	Amagawa do Cave
 Bos_javanicus	extant	0.285	0.374	Wajak cave
@@ -3963,6 +3993,7 @@ Elasmodontomys_obliquus	extinct	0.01197	0.3737	Cueva de la Vaca
 Genus_B_Timor	extinct	0.18927	0.36831	Laili Cave
 Cervus_astylodon	extinct	0.26104	0.36701	Sakitari Cave
 Muntiacini_gen_et_sp_indet	extinct	0.26104	0.36701	Sakitari Cave
+Cervus_astylodon	extinct	0.34792	0.36129	Umabanazaki
 Palaeoloxodon_naumanni	extinct	0.27418	0.36073	Shikkari
 Cervus_elaphus_siciliae	extinct	0.21	0.36	San Teodoro
 Bos_primigenius_siciliae	extinct	0.21	0.36	San Teodoro
@@ -3983,7 +4014,7 @@ Hystrix_indica	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Manis_crassicaudata	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Herpestes_brachyurus	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Herpestes_edwardsii	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
-Herpestes_smiThii	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
+Herpestes_smithii	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Herpestes_vitticollis	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Bandicota_indica	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Bandicota_bengalensis	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
@@ -4012,7 +4043,6 @@ Cynopterus_sphinx	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Pteropus_giganteus	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Rousettus_leshenaulti	extant	0.11286	0.35862	Batadomba lena Cave: Kuruwita
 Cervus_astylodon	extinct	0.34465	0.35542	Iha
-Rattus_mordax	extant	0.016	0.355	Matenkupkum
 Macrogalidia_musschenbroekii	extant	0.305	0.354	Leang Burung 2
 Cervus_astylodon	extinct	0.34332	0.35307	Ohara
 Muntiacini_gen_et_sp_indet	extinct	0.34332	0.35307	Ohara
@@ -4053,7 +4083,7 @@ Eptesicus_fuscus	extant	0.01197	0.3404	Cueva de la Vaca
 Acratocnus_odontrigonus	extinct	0.31262	0.33823	Nesophontes Cave
 Elasmodontomys_obliquus	extinct	0.31262	0.33823	Nesophontes Cave
 Nesophontes_edithae	extinct	0.31262	0.33823	Nesophontes Cave
-Palaeoloxodon_naumanni	extinct	0.31448	0.33668	Off Shimotsu i
+Palaeoloxodon_naumanni	extinct	0.31448	0.33668	Off Shimotsu_i
 Neocnus_comes	extinct	0.13605	0.33375	Trouing de la Scierie
 Neocnus_dousman	extinct	0.12041	0.33375	Trouing de la Scierie
 Parocnus_serus	extinct	0.12041	0.33375	Trouing de la Scierie
@@ -4066,14 +4096,13 @@ Sus_oliveri	extant	0.04	0.33277	Bubog I
 Bubalus_mindorensis	extant	0.04	0.33277	Bubog I
 Cervus_elaphus_tyrrhenicus	extinct	0.117	0.33	Quisisana Certosa
 Praemegaceros_cazioti	extinct	0.117	0.33	Maritza
-Dendrolagus_dorianus	extant	0.0006	0.32425	Nombe
 Dendrolagus_goodfellowi	extant	0.0006	0.32425	Nombe
 Abeomelomys_sevia	extant	0.0028	0.32425	Nombe
 Phalanger_gymnotis	extant	0.0006	0.32425	Nombe
 Phalanger_carmelitae	extant	0.0006	0.32425	Nombe
 Pseudochirulus_mayeri	extant	0.0028	0.32425	Nombe
 Dactylopsila_palpator	extant	0.0006	0.32425	Nombe
-Hyomys_goliaTh	extant	0.0006	0.32425	Nombe
+Hyomys_goliath	extant	0.0006	0.32425	Nombe
 Anisomys_imitator	extant	0.0006	0.32425	Nombe
 Melomys_rubex	extant	0.0028	0.32425	Nombe
 Dobsonia_moluccensis	extant	0.0006	0.32425	Nombe
@@ -4146,6 +4175,8 @@ Stegodon_sp_Borneo	extinct	0.14	0.29	Palangka Raya
 Hexaprotodon_sp_Borneo	extinct	0.14	0.29	Palangka Raya
 Tapirus_indicus	extant	0.14	0.29	Palangka Raya
 Bos_javanicus	extant	0.14	0.29	Palangka Raya
+Melomys_matambuai	extant	0.073	0.29	Pamwak
+Rattus_detentus	extant	0.02	0.29	Pamwak
 Dobsonia_moluccensis	extant	0.05	0.29	Kilu Cave
 Pteropus_neohibernicus	extant	0.05	0.29	Kilu Cave
 Solomys_ponceleti	extant	0.05	0.29	Kilu Cave
@@ -4156,11 +4187,11 @@ Melomys_spechti	extinct	0.05	0.29	Kilu Cave
 Rattus_miyakoensis	extinct	0.25	0.29	Mumyono ana Cave
 Mystacina_robusta	extinct	0.00548	0.28504	Madonna Equinox Cave
 Palaeoloxodon_naumanni	extinct	0.22857	0.28174	Hanaizumi: Iwate Prefecture
-Bos_javanicus	extant	0.04	0.28	Goa Braholo: assemblages 1 4
-Bubalus_arnee	extant	0.04	0.28	Goa Braholo: assemblages 1 4
-Muntiacus_muntjak	extant	0.04	0.28	Goa Braholo: assemblages 1 4
-Rusa_timorensis	extant	0.04	0.28	Goa Braholo: assemblages 1 4
-Tragulus_javanicus	extant	0.04	0.28	Goa Braholo: assemblages 1 4
+Bos_javanicus	extant	0.04	0.28	Goa Braholo
+Bubalus_arnee	extant	0.04	0.28	Goa Braholo
+Muntiacus_muntjak	extant	0.04	0.28	Goa Braholo
+Rusa_timorensis	extant	0.04	0.28	Goa Braholo
+Tragulus_javanicus	extant	0.04	0.28	Goa Braholo
 Canis_aureus	extant	0.11286	0.27768	Batadomba lena Cave: Kuruwita
 Lutra_lutra	extant	0.11286	0.27768	Batadomba lena Cave: Kuruwita
 Cervus_astylodon	extinct	0.23757	0.27635	Maehira Fissure
@@ -4169,8 +4200,8 @@ Pipistrellus_kuhlii	extant	0	0.275	 Cueva de los Verdes
 Cervus_astylodon	extinct	0.27202	0.27458	Bise fissure
 Dasyurus_albopunctatus	extant	0.14539	0.2731	Liang Lemdubu
 Isoodon_macrourus	extant	0.01574	0.2731	Liang Lemdubu
-thylogale_stigmatica	extant	0.01574	0.2731	Liang Lemdubu
-thylogale_brunii	extant	0.01574	0.2731	Liang Lemdubu
+Thylogale_stigmatica	extant	0.01574	0.2731	Liang Lemdubu
+Thylogale_brunii	extant	0.01574	0.2731	Liang Lemdubu
 Macropus_agilis	extant	0.01574	0.2731	Liang Lemdubu
 Spilocuscus_maculatus	extant	0.01574	0.2731	Liang Lemdubu
 Phalanger_mimicus	extant	0.01574	0.2731	Liang Lemdubu
@@ -4200,12 +4231,12 @@ Enhydrictis_galictoides	extinct	0.19	0.265	Dragonara cave/Grotta della Medusa
 Myotis_myotis	extant	0.19	0.265	Dragonara cave/Grotta della Medusa
 Megalocnus_zile	extinct	0.142	0.26455	Trouing Gallery
 Parocnus_serus	extinct	0.142	0.26455	Trouing Gallery
-Parocnus_serus	extinct	0.21432	0.264	Trou WOch Dadier
-Acratocnus_ye	extinct	0.21432	0.264	Trou WOch Dadier
-Neocnus_comes	extinct	0.21432	0.264	Trou WOch Dadier
-Neocnus_dousman	extinct	0.21432	0.264	Trou WOch Dadier
-Neocnus_toupiti	extinct	0.21432	0.264	Trou WOch Dadier
-Hyperplagiodontia_araeum	extinct	0.21432	0.264	Trou WOch Dadier
+Parocnus_serus	extinct	0.21432	0.264	Trou Woch Dadier
+Acratocnus_ye	extinct	0.21432	0.264	Trou Woch Dadier
+Neocnus_comes	extinct	0.21432	0.264	Trou Woch Dadier
+Neocnus_dousman	extinct	0.21432	0.264	Trou Woch Dadier
+Neocnus_toupiti	extinct	0.21432	0.264	Trou Woch Dadier
+Hyperplagiodontia_araeum	extinct	0.21432	0.264	Trou Woch Dadier
 Echymipera_rufescens	extant	0.01574	0.2616	Liang Lemdubu
 Echymipera_kalubu	extant	0.01574	0.2616	Liang Lemdubu
 Phalanger_gymnotis	extant	0.01574	0.2616	Liang Lemdubu
@@ -4226,6 +4257,7 @@ Niviventer_nov_sp_Ryukyu	extinct	0.017	0.24	Shiraho Saonetabaru cave
 Bison_sp_Hondo	extinct	0.20732	0.23816	Hanaizumi: Iwate Prefecture
 Myotragus_balearicus	extinct	0.23182	0.2377	Cova des Myotragus
 Hipposideros_sp_Miyako	extinct	0.117	0.237	Mumyono ana Cave
+Miniopterus_sp_Miyako	extinct	0.117	0.237	Mumyono ana Cave
 Rattus_miyakoensis	extinct	0.117	0.237	Mumyono ana Cave
 Microtus_fortis	extant	0.117	0.237	Mumyono ana Cave
 Capreolus_miyakoensis	extinct	0.221	0.237	Mumyono ana Cave
@@ -4246,9 +4278,12 @@ Cryptoprocta_ferox	extant	0.0098	0.2329	Antsirabe
 Cryptoprocta_spelea	extinct	0.0098	0.2329	Antsirabe
 Mammuthus_exilis	extinct	0.2239	0.23139	Northern coast
 Nyctimene_albiventer	extant	0.082	0.2305	Buang Merabak
-Trachypithecus_auratus	extant	0.04	0.23	Goa Braholo: assemblages 1 3
+Trachypithecus_auratus	extant	0.04	0.23	Goa Braholo
 Canis_lupus	extant	0.21	0.23	San Teodoro
 Equus_hydruntinus	extinct	0.21	0.23	San Teodoro
+Cryptoprocta_spelea	extinct	0.07	0.229	Mitoho Cave
+Cryptoprocta_sp_new	extinct	0.07	0.229	Mitoho Cave
+Macronycteris_commersoni	extant	0	0.229	Mitoho Cave
 Cervus_praenipponicus	extinct	0.18279	0.22325	Kumaishi Cave
 Sinomegaceros_yabei	extinct	0.18279	0.22325	Kumaishi Cave
 Microtus_(Terricola)_ex_gr_Microtus_savii	extinct	0.0715	0.22295	Grotta dei Pipistrelli
@@ -4258,14 +4293,14 @@ Rhinolophus_ferrumequinum	extant	0.0715	0.22295	Grotta dei Pipistrelli
 Rhinolophus_euryale	extant	0.0715	0.22295	Grotta dei Pipistrelli
 Rhinolophus_mehelyi	extant	0.0715	0.22295	Grotta dei Pipistrelli
 Myotis_myotis	extant	0.0715	0.22295	Grotta dei Pipistrelli
-Myotis_blyThii	extant	0.0715	0.22295	Grotta dei Pipistrelli
+Myotis_blythii	extant	0.0715	0.22295	Grotta dei Pipistrelli
 Myotis_capaccinii	extant	0.0715	0.22295	Grotta dei Pipistrelli
 Plecotus_auritus	extant	0.2167	0.22295	Grotta dei Pipistrelli
 Miniopterus_schreibersii	extant	0.0715	0.22295	Grotta dei Pipistrelli
 Tachyglossus_aculeatus	extant	0.09397	0.22287	Liang Lemdubu
 Myoictis_wallacei	extant	0.01574	0.22287	Liang Lemdubu
 Peroryctes_nov_sp_Kobroor	extinct	0.10242	0.22287	Liang Lemdubu
-Mammuthus_exilis	extinct	0.2191	0.22269	SouThwestern coast
+Mammuthus_exilis	extinct	0.2191	0.22269	Southwestern coast
 Capricornis_sp_Hondo	extinct	0.21946	0.22261	Kaza ana Cave
 Alces_alces	extant	0.21946	0.22261	Kaza ana Cave
 Panthera_pardus	extant	0.21449	0.22011	Negata Quarry: Shizuoka Prefecture
@@ -4339,10 +4374,9 @@ Phyllonycteris_poeyi	extant	0.1	0.21	Cueva del Indio La Jaula
 Macrotus_waterhousii	extant	0.1	0.21	Cueva del Indio La Jaula
 Brachyphylla_nana	extant	0.1	0.21	Cueva del Indio La Jaula
 Pteronotus_parnellii	extant	0.1	0.21	Cueva del Indio La Jaula
-Miniopterus_sp_Miyako	extinct	0.117	0.207	Mumyono ana Cave
 Phyllops_vetus	extinct	0.00562	0.2059	Cueva el Abron
 Mammuthus_exilis	extinct	0.2018	0.20477	Santa Rosa unknown 3
-Palaeoloxodon_sp_incertae_sedis_1_Favignana	extinct	0.1984	0.2035	Grotta dell Ucceria
+Palaeoloxodon_sp_incertae_sedis_1_Favignana	extinct	0.1984	0.2035	Grotta dell_Ucceria
 Mammuthus_exilis	extinct	0.19561	0.2033	Running Springs
 Macrotus_waterhousii	extant	0.00623	0.20096	Jacksons Bay Cave System
 Brachyphylla_nana	extant	0.00623	0.20096	Jacksons Bay Cave System
@@ -4361,7 +4395,7 @@ Rhinolophus_ferrumequinum	extant	0.16077	0.19426	Suse Quarry: Yumaki: Suse City:
 Macaca_fuscata	extant	0.16077	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
 Petaurista_leucogenys	extant	0.16077	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
 Microtus_montebelli	extant	0.16077	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
-Myodes_smiThii	extant	0.16077	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
+Myodes_smithii	extant	0.16077	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
 Apodemus_speciosus	extant	0.08276	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
 Apodemus_argenteus	extant	0.08276	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
 Nyctereutes_viverrinus	extant	0.08276	0.19426	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi Prefecture
@@ -4411,12 +4445,12 @@ Rusa_unicolor	extant	0.12	0.18	Hagop Bilo
 Baiyankamys_habbema	extant	0.14	0.18	Kelangurr Cave
 Maokopia_ronaldi	extinct	0.14	0.18	Kelangurr Cave
 Protemnodon_hopei	extinct	0.14	0.18	Kelangurr Cave
-thylogale_christenseni	extinct	0.14	0.18	Kelangurr Cave
-thylogale_sp_New_Guinea	extinct	0.14	0.18	Kelangurr Cave
+Thylogale_christenseni	extinct	0.14	0.18	Kelangurr Cave
+Thylogale_sp_New_Guinea	extinct	0.14	0.18	Kelangurr Cave
 Phalanger_sericeus	extant	0.14	0.18	Kelangurr Cave
 Rattus_niobe	extant	0.14	0.18	Kelangurr Cave
 Mallomys_gunung	extant	0.14	0.18	Kelangurr Cave
-Mallomys_roThschildi	extant	0.14	0.18	Kelangurr Cave
+Mallomys_rothschildi	extant	0.14	0.18	Kelangurr Cave
 Uromys_anak	extant	0.14	0.18	Kelangurr Cave
 Microperoryctes_longicauda	extant	0.14	0.18	Kelangurr Cave
 Dactylopsila_palpator	extant	0.14	0.18	Kelangurr Cave
@@ -4428,8 +4462,17 @@ Anisomys_imitator	extant	0.14	0.18	Kelangurr Cave
 Coccymys_ruemmleri	extant	0.14	0.18	Kelangurr Cave
 Rattus_richardsoni	extant	0.14	0.18	Kelangurr Cave
 Felis_sp_Ryukyu	extinct	0.017	0.18	Shiraho Saonetabaru cave
-Cervus_elaphus	extant	0.15655	0.17539	Grotta dell Acqua Fitusa
-Sus_scrofa	extant	0.15655	0.17539	Grotta dell Acqua Fitusa
+Phalanger_gymnotis	extant	0	0.17822	Yuku
+Phalanger_carmelitae	extant	0	0.17822	Yuku
+Phalanger_vestitus	extant	0	0.17822	Yuku
+Phalanger_orientalis	extant	0	0.17822	Yuku
+Phalanger_A_New_Guinea	extinct	0.13605	0.17822	Yuku
+Mallomys_rothschildi	extant	0	0.17822	Yuku
+Pseudochirops_cupreus	extant	0	0.17822	Yuku
+Pseudochirops_corinnae	extant	0	0.17822	Yuku
+Pseudochirulus_forbesi	extant	0	0.17822	Yuku
+Cervus_elaphus	extant	0.15655	0.17539	Grotta dell_Acqua Fitusa
+Sus_scrofa	extant	0.15655	0.17539	Grotta dell_Acqua Fitusa
 Prolagus_sardus	extinct	0.08635	0.17485	Castiglione Cave 3 PL fracture 
 Rhagamys_orthodon	extinct	0.08635	0.17485	Castiglione Cave 3 PL fracture 
 Asoriculus_corsicanus	extinct	0.08635	0.17485	Castiglione Cave 3 PL fracture 
@@ -4449,9 +4492,9 @@ Canariomys_bravoi	extinct	0.02154	0.17395	 Montana de Guasa
 Canariomys_bravoi	extinct	0.02154	0.17395	 Puerto de la Cruz
 Canariomys_bravoi	extinct	0.02154	0.17395	 Santa Ursula: Montana de las Ovejas
 Cervus_praenipponicus	extinct	0.16671	0.17309	Negata Quarry: Shizuoka Prefecture
-Capromys_pilorides_lewisi	extinct	0.01093	0.1719	Patton s Fissure
-Geocapromys_caymanensis	extinct	0.01093	0.1719	Patton s Fissure
-Nesophontes_hemicingulus	extinct	0.01093	0.1719	Patton s Fissure
+Capromys_pilorides_lewisi	extinct	0.01093	0.1719	Patton_s Fissure
+Geocapromys_caymanensis	extinct	0.01093	0.1719	Patton_s Fissure
+Nesophontes_hemicingulus	extinct	0.01093	0.1719	Patton_s Fissure
 Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Fig Tree Cave
 Geocapromys_caymanensis	extinct	0.01093	0.1719	Fig Tree Cave
 Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Hutia Cave
@@ -4466,11 +4509,11 @@ Nesophontes_hemicingulus	extinct	0.01093	0.1719	Shearwater Caves 1 and 2
 Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Shearwater Caves 1 and 2
 Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Spot Bay Cave
 Geocapromys_caymanensis	extinct	0.01093	0.1719	Spot Bay Cave
-Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Blackie s Cave
+Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Blackie_s Cave
 Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Stake Bay Cave
 Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Spot Rocks and Fissures
 Geocapromys_caymanensis	extinct	0.01093	0.1719	Spot Rocks and Fissures
-Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Shelby s Bolt Hole
+Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Shelby_s Bolt Hole
 Capromys_pilorides_lewisi	extinct	0.00326	0.1719	Bedding Plane I
 Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Agouti Cave
 Geocapromys_caymanensis	extinct	0.01093	0.1719	Agouti Cave
@@ -4492,21 +4535,21 @@ Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Dolphin Cave
 Geocapromys_caymanensis	extinct	0.00307	0.1719	Furtherland Farms Cow Well
 Nesophontes_hemicingulus	extinct	0.00307	0.1719	Furtherland Farms Cow Well
 Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Furtherland Farms Cow Well
-Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Miller s Cave
-Geocapromys_caymanensis	extinct	0.01093	0.1719	Miller s Cave
+Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Miller_s Cave
+Geocapromys_caymanensis	extinct	0.01093	0.1719	Miller_s Cave
 Geocapromys_caymanensis	extinct	0.00307	0.1719	Old Man Cave
 Nesophontes_hemicingulus	extinct	0.00307	0.1719	Old Man Cave
 Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Old Man Cave
-Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Queen ElizabeTh II Botanic Park
-Geocapromys_caymanensis	extinct	0.01093	0.1719	Queen ElizabeTh II Botanic Park
+Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Queen Elizabeth II Botanic Park
+Geocapromys_caymanensis	extinct	0.01093	0.1719	Queen Elizabeth II Botanic Park
 Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Tadarida Cave
 Geocapromys_caymanensis	extinct	0.01093	0.1719	Tadarida Cave
 Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Agave Cave
-Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Franz s Shelter
+Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Franz_s Shelter
 Capromys_pilorides_lewisi	extinct	0.00307	0.1719	Weary Hill Cave
 Trachypithecus_cristatus	extant	0.01174	0.17042	Niah Caves
 Hylobates_muelleri	extant	0.01174	0.17042	Niah Caves
-Mammuthus_exilis	extinct	0.1647	0.16953	SouTh coast
+Mammuthus_exilis	extinct	0.1647	0.16953	South coast
 Panthera_tigris	extant	0.045	0.16909	Niah Caves
 Pachylemur_jullyi	extinct	0.0108	0.1684	Ampasambazimba
 Panthera_tigris	extant	0.11286	0.16822	Batadomba lena Cave: Kuruwita
@@ -4532,8 +4575,8 @@ Echymipera_rufescens	extant	0	0.16292	Liang Nabulei Lisa
 Echymipera_kalubu	extant	0	0.16292	Liang Nabulei Lisa
 Peroryctes_nov_sp_Kobroor	extinct	0	0.16292	Liang Nabulei Lisa
 Isoodon_macrourus	extant	0.10279	0.16292	Liang Nabulei Lisa
-thylogale_stigmatica	extant	0.06429	0.16292	Liang Nabulei Lisa
-thylogale_brunii	extant	0	0.16292	Liang Nabulei Lisa
+Thylogale_stigmatica	extant	0.06429	0.16292	Liang Nabulei Lisa
+Thylogale_brunii	extant	0	0.16292	Liang Nabulei Lisa
 Macropus_agilis	extant	0.10688	0.16292	Liang Nabulei Lisa
 Phalanger_gymnotis	extant	0.06429	0.16292	Liang Nabulei Lisa
 Phalanger_mimicus	extant	0.02362	0.16292	Liang Nabulei Lisa
@@ -4549,13 +4592,13 @@ Molossus_molossus	extant	0.15364	0.16212	Cadet 3
 Mormoops_blainvillei	extant	0.0121	0.16212	Cadet 3
 Artibeus_lituratus	extant	0.15364	0.16212	Cadet 3
 Brachyphylla_cavernarum	extant	0	0.16212	Cadet 3
-Dama_carburangelensis	extinct	0.1055	0.1621	Grotta dell Ucceria
-Sus_scrofa	extant	0.1055	0.1621	Grotta dell Ucceria
-Cervus_elaphus	extant	0.1055	0.1621	Grotta dell Ucceria
-Erinaceus_europaeus	extant	0.1055	0.1621	Grotta dell Ucceria
-Bos_primigenius	extinct	0.1055	0.1621	Grotta dell Ucceria
-Equus_hydruntinus	extinct	0.1055	0.1621	Grotta dell Ucceria
-Vulpes_vulpes	extant	0.1055	0.1621	Grotta dell Ucceria
+Dama_carburangelensis	extinct	0.1055	0.1621	Grotta dell_Ucceria
+Sus_scrofa	extant	0.1055	0.1621	Grotta dell_Ucceria
+Cervus_elaphus	extant	0.1055	0.1621	Grotta dell_Ucceria
+Erinaceus_europaeus	extant	0.1055	0.1621	Grotta dell_Ucceria
+Bos_primigenius	extinct	0.1055	0.1621	Grotta dell_Ucceria
+Equus_hydruntinus	extinct	0.1055	0.1621	Grotta dell_Ucceria
+Vulpes_vulpes	extant	0.1055	0.1621	Grotta dell_Ucceria
 Genus_A_Timor	extinct	0.15366	0.16115	Laili Cave
 Coryphomys_musseri	extinct	0.03595	0.16	Matja Kuru 1
 Coryphomys_buehleri	extinct	0.03595	0.16	Matja Kuru 1
@@ -4597,24 +4640,26 @@ Parocnus_browni	extinct	0.04975	0.15236	Las Breas de San Felipe
 Oryctolagus_cuniculus	extant	0.14708	0.15224	San Teodoro
 Cervus_elaphus	extant	0.14708	0.15224	San Teodoro
 Bos_primigenius	extinct	0.14708	0.15224	San Teodoro
+Uromys_anak	extant	0	0.15198	Yuku
+Uromys_caudimaculatus	extant	0	0.15198	Yuku
+Xenuromys_barbatus	extant	0	0.15198	Yuku
+Dactylopsila_palpator	extant	0.10773	0.15198	Yuku
+Dobsonia_moluccensis	extant	0	0.15198	Yuku
 Mammuthus_columbi	extinct	0.14796	0.15128	Santa Rosa unknown 13
-Phalanger_gymnotis	extant	0	0.1508	Yuku
-Phalanger_carmelitae	extant	0	0.1508	Yuku
-Phalanger_orientalis	extant	0	0.1508	Yuku
 Trichys_fasciculata	extant	0.12135	0.15061	Niah Caves
 Callosciurus_prevostii	extant	0.12135	0.15061	Niah Caves
 Palaeoloxodon_cypriotes	extinct	0.0602	0.15	Akanthou Arkangelos Mikhail
 Hippopotamus_minor	extinct	0.0602	0.15	Akanthou Arkangelos Mikhail
-Macaca_fascicularis	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Galeopterus_variegatus	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Panthera_tigris_FOSSIL	extant	0.117	0.15	Goa Braholo: assemblage 2
-Hipposideros_diadema	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Nycticebus_javanicus	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Rhinoceros_sondaicus	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Ratufa_bicolor	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Sus_scrofa_vittatus	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Sus_verrucosus	extant	0.04	0.15	Goa Braholo: assemblages 1 2
-Paradoxurus_hermaphroditus	extant	0.04	0.15	Goa Braholo: assemblages 1 2
+Macaca_fascicularis	extant	0.04	0.15	Goa Braholo
+Galeopterus_variegatus	extant	0.04	0.15	Goa Braholo
+Panthera_tigris_FOSSIL	extant	0.117	0.15	Goa Braholo
+Hipposideros_diadema	extant	0.04	0.15	Goa Braholo
+Nycticebus_javanicus	extant	0.04	0.15	Goa Braholo
+Rhinoceros_sondaicus	extant	0.04	0.15	Goa Braholo
+Ratufa_bicolor	extant	0.04	0.15	Goa Braholo
+Sus_scrofa_vittatus	extant	0.04	0.15	Goa Braholo
+Sus_verrucosus	extant	0.04	0.15	Goa Braholo
+Paradoxurus_hermaphroditus	extant	0.04	0.15	Goa Braholo
 Cervus_elaphus	extant	0.12	0.15	Grotta di Carburangeli
 Vulpes_vulpes	extant	0.117	0.15	K22 San Vito lo Capo
 Cervus_elaphus	extant	0.117	0.15	K22 San Vito lo Capo
@@ -4622,22 +4667,22 @@ Bos_primigenius	extinct	0.12	0.15	Contrada Tabuna
 Equus_hydruntinus	extinct	0.12	0.15	Contrada Tabuna 
 Cervus_elaphus	extant	0.12	0.15	Contrada Tabuna 
 Equus_hydruntinus	extinct	0.12	0.15	Grotta della Cannita
-Microtus_(Terricola)_ex_gr_Microtus_savii	extinct	0.0713	0.15	Grotta dell Uzzo
-Sus_scrofa	extant	0.0713	0.15	Grotta dell Uzzo
-Bos_primigenius	extinct	0.117	0.15	Grotta dell Uzzo
-Ursus_arctos	extant	0.12	0.15	Grotta dell Uzzo
-Vulpes_vulpes	extant	0.0713	0.15	Grotta dell Uzzo
-Canis_lupus	extant	0.12	0.15	Grotta dell Uzzo
-Erinaceus_europaeus	extant	0.0713	0.15	Grotta dell Uzzo
-Mustela_nivalis	extant	0.117	0.15	Grotta dell Uzzo
-Equus_hydruntinus	extinct	0.12	0.15	Grotta dell Uzzo
-Cervus_elaphus_siciliae	extinct	0.12	0.15	Grotta dell Uzzo
+Microtus_(Terricola)_ex_gr_Microtus_savii	extinct	0.0713	0.15	Grotta dell_Uzzo
+Sus_scrofa	extant	0.0713	0.15	Grotta dell_Uzzo
+Bos_primigenius	extinct	0.117	0.15	Grotta dell_Uzzo
+Ursus_arctos	extant	0.12	0.15	Grotta dell_Uzzo
+Vulpes_vulpes	extant	0.0713	0.15	Grotta dell_Uzzo
+Canis_lupus	extant	0.12	0.15	Grotta dell_Uzzo
+Erinaceus_europaeus	extant	0.0713	0.15	Grotta dell_Uzzo
+Mustela_nivalis	extant	0.117	0.15	Grotta dell_Uzzo
+Equus_hydruntinus	extinct	0.12	0.15	Grotta dell_Uzzo
+Cervus_elaphus_siciliae	extinct	0.12	0.15	Grotta dell_Uzzo
 Cervus_elaphus	extant	0.12	0.15	Grotta Salerno I
 Bos_primigenius	extinct	0.12	0.15	Grotta Salerno I
 Equus_hydruntinus	extinct	0.12	0.15	Grotta Emiliana
 Equus_hydruntinus	extinct	0.12	0.15	Grotta Mangiapane
 Equus_hydruntinus	extinct	0.12	0.15	Cisternuzza Vallesecco
-Equus_hydruntinus	extinct	0.12	0.15	Grotticina B dell Addaura
+Equus_hydruntinus	extinct	0.12	0.15	Grotticina B dell_Addaura
 Equus_hydruntinus	extinct	0.12	0.15	Riparo Pedagaggi
 Cervus_elaphus	extant	0.12	0.15	Riparo Pedagaggi
 Bos_primigenius	extinct	0.12	0.15	Riparo Pedagaggi
@@ -4650,6 +4695,8 @@ Cervus_astylodon	extinct	0.14097	0.14868	Sabichi Fissure
 Mammuthus_exilis	extinct	0.14261	0.14865	Santa Rosa unknown 2
 Uromys_caudimaculatus	extant	0	0.14817	Liang Nabulei Lisa
 Mystacina_robusta	extinct	0.13328	0.14567	Hawkes Cave
+Spilocuscus_kraemeri	extant	0	0.145	Pamwak
+Pteropus_admiralitatum	extant	0.067	0.145	Pamwak
 Cervus_elaphus	extant	0.0774	0.142	Grotta D Oriente
 Bos_primigenius	extinct	0.0774	0.142	Grotta D Oriente
 Equus_hydruntinus	extinct	0.0774	0.142	Grotta D Oriente
@@ -4694,11 +4741,11 @@ Oryzomys_antillarum	extinct	0.00256	0.14	Bonafide Cave
 Sus_scrofa	extant	0.07	0.1394	Grotta Schiacciata
 Cervus_elaphus	extant	0.07	0.1394	Grotta Schiacciata
 Vulpes_vulpes	extant	0.07	0.1394	Grotta Schiacciata
-Phyllonycteris_poeyi	extant	0.1118	0.1385	Patton s Fissure
-Brachyphylla_nana	extant	0.1118	0.1385	Patton s Fissure
-Macrotus_waterhousii	extant	0.1118	0.1385	Patton s Fissure
-Erophylla_sezekorni	extant	0.1118	0.1385	Patton s Fissure
-Eptesicus_fuscus	extant	0.1118	0.1385	Patton s Fissure
+Phyllonycteris_poeyi	extant	0.1118	0.1385	Patton_s Fissure
+Brachyphylla_nana	extant	0.1118	0.1385	Patton_s Fissure
+Macrotus_waterhousii	extant	0.1118	0.1385	Patton_s Fissure
+Erophylla_sezekorni	extant	0.1118	0.1385	Patton_s Fissure
+Eptesicus_fuscus	extant	0.1118	0.1385	Patton_s Fissure
 Eptesicus_fuscus	extant	0.1118	0.1385	Peter Cave
 Macrotus_waterhousii	extant	0.1118	0.1385	Peter Cave
 Brachyphylla_nana	extant	0.1118	0.1385	Pollard Bay Cave
@@ -4737,8 +4784,6 @@ Propithecus_coquereli	extant	0.0173	0.1353	Ampasambazimba
 Varecia_variegata	extant	0.0173	0.1353	Ampasambazimba
 Hypogeomys_antimena	extant	0.0173	0.1353	Ampasambazimba
 Tenrec_ecaudatus	extant	0.0173	0.1353	Ampasambazimba
-Spilocuscus_kraemeri	extant	0.05952	0.13528	Pamwak
-Pteropus_admiralitatum	extant	0.05952	0.13528	Pamwak
 Palaeoloxodon_cypriotes	extinct	0.11	0.135	Aghia Napa (Streambed near Famagusta)
 Genetta_plesictoides	extinct	0.11	0.135	Aghia Napa (Streambed near Famagusta)
 Hippopotamus_minor	extinct	0.11	0.135	Aghia Napa (Streambed near Famagusta)
@@ -4810,7 +4855,6 @@ Genus_A_Timor	extinct	0.12666	0.13076	Bui Ceri Uato
 Melomys_large_species_Timor	extinct	0.12452	0.13076	Bui Ceri Uato
 Acerodon_mackloti	extant	0.12666	0.13076	Bui Ceri Uato
 Rousettus_amplexicaudatus	extant	0.12666	0.13076	Bui Ceri Uato
-Rattus_detentus	extant	0.04867	0.13053	Pamwak
 Pongo_pygmaeus	extant	0.08276	0.13	Jambusan
 Macaca_fascicularis	extant	0.08276	0.13	Jambusan
 Macaca_nemestrina	extant	0.08276	0.13	Jambusan
@@ -4831,26 +4875,15 @@ Lepus_nigricollis	extant	0.0757	0.13	Fa Hien Lena Cave
 Viverricula_indica	extant	0.04248	0.13	Fa Hien Lena Cave
 Dorcopsis_nov_sp_Gebe_Halmahera	extinct	0.0057	0.12962	Wetef
 Phalanger_alexandrae	extant	0.05025	0.12962	Wetef
-Melomys_matambuai	extant	0.0703	0.12927	Pamwak
+Cervus_astylodon	extinct	0.12755	0.12926	Agari-zaki
 Coryphomys_buehleri	extinct	0.12452	0.12879	Bui Ceri Uato
 Coryphomys_musseri	extinct	0.12452	0.12879	Bui Ceri Uato
 Genus_B_Timor	extinct	0.12452	0.12879	Bui Ceri Uato
 Hippopotamus_minor	extinct	0.12092	0.12791	Akrotiri Aetokremnos
 Mammuthus_exilis	extinct	0.12587	0.12785	Santa Rosa unknown 1
 Sminthopsis_virginiae	extant	0.11767	0.12782	Liang Nabulei Lisa
-Aproteles_bulmerae	extant	0.1074	0.1272	Kiowa
-Dobsonia_moluccensis	extant	0	0.1272	Kiowa
-Parahydromys_asper	extant	0.042	0.1272	Kiowa
-Anisomys_imitator	extant	0.0529	0.1272	Kiowa
-Hyomys_goliaTh	extant	0.042	0.1272	Kiowa
-Macruromys_elegans	extant	0.1074	0.1272	Kiowa
-Macruromys_major	extant	0.1074	0.1272	Kiowa
-Melomys_lutillus	extant	0.117	0.1272	Kiowa
-Phalanger_carmelitae	extant	0	0.1272	Kiowa
-Phalanger_orientalis	extant	0	0.1272	Kiowa
-Xenuromys_barbatus	extant	0.0717	0.127	Yuku
 Melonycteris_melanops	extant	0.10484	0.12637	Balof 2
-Xenothrix_mcgregori	extinct	0.01574	0.12628	Lloyd s Cave 
+Xenothrix_mcgregori	extinct	0.01574	0.12628	Lloyds Cave 
 Neocnus_comes	extinct	0.06779	0.12609	Trouing Marassa/Trujin Bridge
 Neocnus_toupiti	extinct	0.06779	0.12609	Trouing Marassa/Trujin Bridge
 Parocnus_serus	extinct	0.12536	0.12609	Trouing Marassa/Trujin Bridge
@@ -4860,6 +4893,22 @@ Canis_aureus	extant	0.0757	0.1259	Fa Hien Lena Cave
 Elephas_maximus	extant	0.0757	0.1259	Fa Hien Lena Cave
 Sus_scrofa	extant	0.0387	0.1255	Pangkalan
 Rusa_unicolor	extant	0.0387	0.1255	Pangkalan
+Aproteles_bulmerae	extant	0.5276	0.12493	Kiowa
+Dobsonia_moluccensis	extant	0	0.12493	Kiowa
+Parahydromys_asper	extant	0.0093	0.12493	Kiowa
+Hyomys_goliath	extant	0.0093	0.12493	Kiowa
+Macruromys_major	extant	0.06984	0.12493	Kiowa
+Mallomys_rothschildi	extant	0	0.12493	Kiowa
+Melomys_lutillus	extant	0.12001	0.12493	Kiowa
+Rattus_niobe	extant	0.12001	0.12493	Kiowa
+Phalanger_vestitus	extant	0	0.12493	Kiowa
+Phalanger_carmelitae	extant	0	0.12493	Kiowa
+Phalanger_gymnotis	extant	0	0.12493	Kiowa
+Pseudochirops_cupreus	extant	0	0.12493	Kiowa
+Pseudochirops_corinnae	extant	0	0.12493	Kiowa
+Pseudochirulus_forbesi	extant	0.0093	0.12493	Kiowa
+Dactylopsila_trivirgata	extant	0.0093	0.12493	Kiowa
+Dasyurus_albopunctatus	extant	0.0093	0.12493	Kiowa
 Mammuthus_exilis	extinct	0.11728	0.12486	Christy Ranch
 Acratocnus_ye	extinct	0.12041	0.12483	Trouing de la Scierie
 Urotrichus_talpoides	extant	0.0995	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
@@ -4881,36 +4930,38 @@ Sus_scrofa	extant	0	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
 Crocidura_dsinezumi	extant	0.0995	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
 Urotrichus_talpoides	extant	0.0995	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
 Chimarrogale_platycephalus	extant	0.0995	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
-Myodes_smiThii	extant	0.0995	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
+Myodes_smithii	extant	0.0995	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
 Microtus_montebelli	extant	0.0995	0.1245	Domen Cave: Taishaku kyo sites: Hiroshima Prefecture
 Dobsonia_peronii	extant	0.038	0.122	Uai Bobo 2
-Melomys_rubex	extant	0.1074	0.1211	Kiowa
-Uromys_anak	extant	0.042	0.1211	Kiowa
-Rattus_niobe	extant	0.1074	0.1211	Kiowa
 Dama_mesopotamica	extant	0.11504	0.12096	Akrotiri Aetokremnos
 Genetta_plesictoides	extinct	0.11504	0.12096	Akrotiri Aetokremnos
 Mus_cypriacus	extant	0.11504	0.12096	Akrotiri Aetokremnos
 Dorcopsis_nov_sp_Gebe_Halmahera	extinct	0.01415	0.12044	Golo Cave
 Eulemur_fulvus	extant	0.0236	0.1202	Ampasambazimba
 Eulemur_mongoz	extant	0.0236	0.1202	Ampasambazimba
+Hipposideros_diadema	extant	0.07169	0.1202	Kiowa
+Phalanger_orientalis	extant	0.0093	0.1202	Kiowa
+Dactylopsila_palpator	extant	0.06984	0.1202	Kiowa
 Sorex_ornatus	extant	0.0284	0.12	Daisy Cave (CA SMI 261)
 Spilogale_gracilis	extant	0.0284	0.12	Daisy Cave (CA SMI 261)
 Antillomys_rayi	extinct	0.01	0.12	Blanchard Cave
-Pteropus_neohibernicus	extant	0.04867	0.11993	Pamwak
 Peromyscus_nesodytes	extinct	0.11305	0.1198	Radio Point (CA SRI 26)
 Palaeoloxodon_cypriotes	extinct	0.06	0.11946	Liveras Mandres Virilas
 Hippopotamus_minor	extinct	0.06	0.11946	Liveras Mandres Virilas
 Mus_cypriacus	extant	0.06	0.11946	Liveras Mandres Virilas
+Sus_barbatus	extant	0.093	0.11938	Liang Jon
+Macaca_fascicularis	extant	0.093	0.11938	Liang Jon
+Macruromys_elegans	extant	0.10576	0.11882	Kiowa
 Nycteris_tragata	extant	0.09537	0.118	Niah Caves
 Myotragus_balearicus	extinct	0.11306	0.11743	Cova des Tancats
 Cervus_elaphus	extant	0.0961	0.117	Grotta Vascio o funno
 Cervus_elaphus	extant	0.065	0.117	Grotta Arcera
-Rhagamys_orthodon	extinct	0.08276	0.117	Tavolara (= Grotta Tamponi = Grotta dei Fiori d Arancio)
-Prolagus_sardus	extinct	0.08276	0.117	Tavolara (= Grotta Tamponi = Grotta dei Fiori d Arancio)
-Eptesicus_serotinus	extant	0.08276	0.117	Tavolara (= Grotta Tamponi = Grotta dei Fiori d Arancio)
-Tadarida_teniotis	extant	0.08276	0.117	Tavolara (= Grotta Tamponi = Grotta dei Fiori d Arancio)
+Rhagamys_orthodon	extinct	0.08276	0.117	Tavolara (Grotta Tamponi Grotta dei Fiori d Arancio)
+Prolagus_sardus	extinct	0.08276	0.117	Tavolara (Grotta Tamponi Grotta dei Fiori d Arancio)
+Eptesicus_serotinus	extant	0.08276	0.117	Tavolara (Grotta Tamponi Grotta dei Fiori d Arancio)
+Tadarida_teniotis	extant	0.08276	0.117	Tavolara (Grotta Tamponi Grotta dei Fiori d Arancio)
 Prolagus_sardus	extinct	0.025	0.117	Grotta del Campanaccio
-Cryptoprocta_spelea	extinct	0.08276	0.117	Lakaton ny akanga
+Cryptoprocta_spelea	extinct	0.08276	0.117	Lakaton_ny akanga
 Rusa_marianna	extant	0	0.117	Loboo Mountains
 Rhinolophus_creaghi	extant	0.05	0.117	Ille Cave
 Hipposideros_ater	extant	0.07	0.117	Ille Cave
@@ -4928,7 +4979,7 @@ Mydaus_marchei	extant	0.03573	0.117	Pasimbahan Cave
 Herpestes_brachyurus	extant	0.07	0.117	Pasimbahan Cave
 Paradoxurus_hermaphroditus	extant	0.03573	0.117	Pasimbahan Cave
 Sus_ahoenobarbus	extant	0.03573	0.117	Pasimbahan Cave
-Sus_sp_Masbate	extinct	0.02	0.117	Bat ongan hill
+Sus_cebifrons	extant	0.02	0.117	Bat ongan hill
 Bubalus_(Anoa)_sp_extant_anoa	extant	0.042	0.117	Bola Batu
 Babyrousa_celebensis	extant	0.042	0.117	Bola Batu
 Sus_celebensis	extant	0.042	0.117	Bola Batu
@@ -4965,9 +5016,6 @@ Sus_celebensis	extant	0	0.117	Leang Saripa
 Macaca_nigra	extant	0	0.117	Leang Saripa
 Ailurops_ursinus	extant	0	0.117	Leang Saripa
 Strigocuscus_celebensis	extant	0	0.117	Leang Saripa
-Babyrousa_celebensis	extant	0	0.117	Gua Panninge
-Sus_celebensis	extant	0	0.117	Gua Panninge
-Ailurops_ursinus	extant	0	0.117	Gua Panninge
 Rhinolophus_simplex	extant	0	0.117	Liang Bua
 Genus_A_Timor	extinct	0.0464	0.117	Asitau Kuru or Jerimalai
 Elephas_maximus	extant	0	0.117	Bau
@@ -4990,9 +5038,9 @@ Mystacina_robusta	extinct	0.01	0.117	Gould s rockshelter
 Mystacina_robusta	extinct	0.01	0.117	AR144 site: Honeycomb Hill Cave system
 Mystacina_tuberculata	extant	0	0.117	AR144 site: Honeycomb Hill Cave system
 Mammuthus_columbi	extinct	0.07	0.117	San Nicolas unknown
-Oryzomys_gorgasi	extinct	0.00451	0.117	Fissure at norTh edge of Tafelberg Santa Barbara
+Oryzomys_gorgasi	extinct	0.00451	0.117	Fissure at north edge of Tafelberg Santa Barbara
 Oryzomys_gorgasi	extinct	0.00451	0.117	Kueba di Noordkant
-Oryzomys_gorgasi	extinct	0.00451	0.117	Ser i Kura: Koraalspecht
+Oryzomys_gorgasi	extinct	0.00451	0.117	Ser_i Kura: Koraalspecht
 Oryzomys_gorgasi	extinct	0.00451	0.117	Grot van Hato
 Oryzomys_gorgasi	extinct	0.00451	0.117	Kueba di Hermanus
 Oryzomys_gorgasi	extinct	0.00451	0.117	Seroe Canashito
@@ -5004,33 +5052,33 @@ Mormoops_blainvillei	extant	0.035	0.117	Two Foot Bay
 Mormoops_megalophylla	extant	0.035	0.117	Two Foot Bay
 Antillomys_rayi	extinct	0.035	0.117	Rat Pocket
 Mus_cypriacus	extant	0.08276	0.117	Xylophagou Ayii Saranda
-Bos_javanicus	extant	0.06	0.117	Sampung cave: 0 4 m
-Bubalus_arnee	extant	0.06	0.117	Sampung cave: 1 3 m
-Cuon_alpinus_FOSSIL	extant	0.06	0.117	Sampung cave: 1 2 m
+Bos_javanicus	extant	0.06	0.117	Sampung cave
+Bubalus_arnee	extant	0.06	0.117	Sampung cave
+Cuon_alpinus_FOSSIL	extant	0.06	0.117	Sampung cave
 Macaca_fascicularis	extant	0	0.117	cave near Wajak
 Macaca_fascicularis	extant	0	0.117	Gua Kecil
-Presbytis_comata	extant	0.04	0.117	Goa Braholo: assemblage 1
+Presbytis_comata	extant	0.04	0.117	Goa Braholo
 Macaca_fascicularis	extant	0	0.117	Kediri: East Java
 Macaca_fascicularis	extant	0	0.117	Manggis: Kediri: East Java
 Trachypithecus_auratus	extant	0	0.117	Jember: East Java
-Muntiacus_muntjak	extant	0.06	0.117	Sampung cave: 0 4 m
-Rusa_timorensis	extant	0.06	0.117	Sampung cave: 0 4 m
-Elephas_maximus	extant	0.04	0.117	Goa Braholo: assemblage 1
+Muntiacus_muntjak	extant	0.06	0.117	Sampung cave
+Rusa_timorensis	extant	0.06	0.117	Sampung cave
+Elephas_maximus	extant	0.04	0.117	Goa Braholo
 Elephas_maximus	extant	0.06	0.117	Karang Bolong
-Elephas_maximus	extant	0.06	0.117	Sampung cave: 1 2 m
+Elephas_maximus	extant	0.06	0.117	Sampung cave
 Neofelis_diardi	extant	0.06	0.117	Java: unknown provenance
-Panthera_tigris_FOSSIL	extant	0.06	0.117	Sampung cave: 2 3 m
-Prionailurus_bengalensis	extant	0.06	0.117	Sampung cave: 1 2 m
+Panthera_tigris_FOSSIL	extant	0.06	0.117	Sampung cave
+Prionailurus_bengalensis	extant	0.06	0.117	Sampung cave
 Hystrix_javanica	extant	0	0.117	Cirebon
-Hystrix_javanica	extant	0.06	0.117	Sampung cave: 1 3 m
-Rattus_rattus	extant	0.06	0.117	Sampung cave: 1 2 m
-Aonyx_cinereus	extant	0.06	0.117	Sampung cave: 1 2 m
-Rhinoceros_sondaicus	extant	0.06	0.117	Sampung cave: 1 3 m
-Callosciurus_notatus	extant	0.06	0.117	Sampung cave: 1 2 m
-Petaurista_petaurista	extant	0.06	0.117	Sampung cave: 1 3 m
-Ratufa_bicolor	extant	0.06	0.117	Sampung cave: 1 2 m
-Sus_scrofa_vittatus	extant	0.06	0.117	Sampung cave: 0 4 m
-Tragulus_javanicus	extant	0.06	0.117	Sampung cave: 1 2 m
+Hystrix_javanica	extant	0.06	0.117	Sampung cave
+Rattus_rattus	extant	0.06	0.117	Sampung cave
+Aonyx_cinereus	extant	0.06	0.117	Sampung cave
+Rhinoceros_sondaicus	extant	0.06	0.117	Sampung cave
+Callosciurus_notatus	extant	0.06	0.117	Sampung cave
+Petaurista_petaurista	extant	0.06	0.117	Sampung cave
+Ratufa_bicolor	extant	0.06	0.117	Sampung cave
+Sus_scrofa_vittatus	extant	0.06	0.117	Sampung cave
+Tragulus_javanicus	extant	0.06	0.117	Sampung cave
 Arctictis_binturong	extant	0	0.117	Cirebon
 Canariomys_bravoi	extinct	0.02154	0.117	 (Cueva de) San Marcos
 Canariomys_bravoi	extinct	0.02154	0.117	 Cueva del Barranco de Santos: Santa Cruz
@@ -5263,7 +5311,7 @@ Neocnus_gliriformis	extinct	0.04584	0.117	Solapa del Silex
 Macrocapromys_acevedo	extinct	0.04584	0.117	Solapa del Silex
 Nesophontes_micrus	extinct	0.04584	0.117	Solapa del Silex
 Rhinolophus_euryale	extant	0.03344	0.117	Avenc de Es Pouas
-Rhinolophys_mehelyi	extant	0.03344	0.117	Avenc de Es Pouas
+Rhinolophus_mehelyi	extant	0.03344	0.117	Avenc de Es Pouas
 Myotragus_balearicus	extinct	0.05714	0.117	Cova Murada
 Hypnomys_morpheus	extinct	0.06637	0.117	Cova Murada
 Hypnomys_morpheus	extinct	0.06637	0.117	Cova de sa Bassa Blanca
@@ -5293,8 +5341,8 @@ Myotragus_balearicus	extinct	0.04417	0.117	Cova des Calo
 Myotragus_balearicus	extinct	0.04417	0.117	Cova de ses Quarterades
 Myotragus_balearicus	extinct	0.04417	0.117	Cova de la Base
 Hypnomys_morpheus	extinct	0.06637	0.117	Cova de la Base
-Myotragus_balearicus	extinct	0.04417	0.117	Cova de s Abisament
-Hypnomys_morpheus	extinct	0.06637	0.117	Cova de s Abisament
+Myotragus_balearicus	extinct	0.04417	0.117	Cova de s_Abisament
+Hypnomys_morpheus	extinct	0.06637	0.117	Cova de s_Abisament
 Myotragus_balearicus	extinct	0.04417	0.117	Avenc de l Hospital
 Hypnomys_morpheus	extinct	0.06637	0.117	Avenc de l Hospital
 Nesiotites_hidalgo	extinct	0.048	0.117	Avenc de l Hospital
@@ -5311,12 +5359,12 @@ Murina_leucogaster	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiros
 Miniopterus_schreibersii	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Petaurista_leucogenys	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Microtus_montebelli	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
-Myodes_smiThii	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
+Myodes_smithii	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Apodemus_speciosus	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Apodemus_argenteus	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Glirulus_japonicus	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Nyctereutes_viverrinus	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
-Ursus_Thibetanus	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
+Ursus_thibetanus	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Mustela_erminea	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Martes_melampus	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Lutra_lutra	extant	0.08276	0.117	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
@@ -5328,46 +5376,49 @@ Sus_scrofa	extant	0.08276	0.117	Suse Quarry: Yumaki: Suse City: Toyohashi: Aichi
 Canis_lupus	extant	0.08276	0.117	Sasagatoge Cave: Oda City: Ohnogahara: Kamiukena district: Ehime Prefecture
 Canis_lupus	extant	0.08276	0.117	Akiyoshi City: Iwanaga: Iwanagadai: Obaga ana: Mine district: Yamaguchi Prefecture
 Canis_lupus	extant	0.08276	0.117	Yayamadake no Tateana: Ochiai: Izumi mura: Yatsushiro shi City: Kumamoto Prefecture
-Cervus_elaphus	extant	0.0713	0.117	Grotta dell Uzzo
-Arvicola_amphibius	extant	0.0713	0.117	Grotta dell Uzzo
+Cervus_elaphus	extant	0.0713	0.117	Grotta dell_Uzzo
+Arvicola_amphibius	extant	0.0713	0.117	Grotta dell_Uzzo
 Capreolus_capreolus	extant	0.08276	0.117	Riparo della Sperlinga di San Basilio
 Equus_hydruntinus	extinct	0.08276	0.117	Riparo della Sperlinga di San Basilio
 Oryctolagus_cuniculus	extant	0.08276	0.117	Grotticella di Porto Palo
 Oryctolagus_cuniculus	extant	0.08276	0.117	Grotta Corruggi
 Equus_hydruntinus	extinct	0.08276	0.117	Grotta Corruggi
 Pteropus_subniger	extinct	0.001	0.117	VGP1 near Vieux Grand Port
-Mesocricetus_raThgeberi	extinct	0.0395	0.117	Unnamed cave N of Monte de la Guardia
+Mesocricetus_rathgeberi	extinct	0.0395	0.117	Unnamed cave N of Monte de la Guardia
 Neocnus_dousman	extinct	0.1117	0.1156	Trouing Marassa/Trujin Bridge
 Dactylopsila_trivirgata	extant	0.07167	0.11553	Liang Nabulei Lisa
-Pteropus_hypomelanus	extant	0.05952	0.11274	Pamwak
 Myotragus_balearicus	extinct	0.11168	0.11258	Avenc de Fra Rafel
 Palaeoloxodon_cypriotes	extinct	0.05444	0.1125	Ayia Irini
 Hippopotamus_minor	extinct	0.05444	0.1125	Ayia Irini
-Antillothrix_bernensis	extinct	0.10492	0.1124	Trou WOch Sa Wo
-Plagiodontia_velozi	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Rhizoplagiodontia_lemkei	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Hexolobodon_phenax	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Hexolobodon_nov_sp_Hispaniola	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Nesophontes_paramicrus	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Nesophontes_hypomicrus	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Nesophontes_zamicrus	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Isolobodon_portoricensis	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Isolobodon_montanus	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Brotomys_voratus	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Solenodon_marcanoi	extinct	0.03637	0.1124	Trou WOch Sa Wo
-Solenodon_paradoxus	extant	0.03637	0.1124	Trou WOch Sa Wo
+Antillothrix_bernensis	extinct	0.10492	0.1124	Trou Woch Sa Wo
+Plagiodontia_velozi	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Rhizoplagiodontia_lemkei	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Hexolobodon_phenax	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Hexolobodon_nov_sp_Hispaniola	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Nesophontes_paramicrus	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Nesophontes_hypomicrus	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Nesophontes_zamicrus	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Isolobodon_portoricensis	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Isolobodon_montanus	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Brotomys_voratus	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Solenodon_marcanoi	extinct	0.03637	0.1124	Trou Woch Sa Wo
+Solenodon_paradoxus	extant	0.03637	0.1124	Trou Woch Sa Wo
 Genus_A_Timor	extinct	0.02721	0.11209	Lene Hara
 Cryptoprocta_spelea	extinct	0.1025	0.1117	Christmas River
 Hippopotamus_lemerlei	extinct	0.1074	0.1117	Christmas River
 Megaladapis_edwardsi	extinct	0.1025	0.1117	Christmas River
+Melomys_rubex	extant	0.10111	0.11146	Kiowa
+Uromys_anak	extant	0.0093	0.11146	Kiowa
 Crateromys_paulus	extinct	0.005	0.11	Bubog I
 Crateromys_paulus	extinct	0.005	0.11	Bubog II
 Sus_oliveri	extant	0.005	0.11	Bubog II
 Hipposideros_diadema	extant	0	0.11	Liang Bua
 Hipposideros_sumbae	extant	0	0.11	Liang Bua
+Pteropus_hypomelanus	extant	0.067	0.11	Pamwak
+Pteropus_neohibernicus	extant	0.02	0.11	Pamwak
 Crocidura_sicula_sicula_FOSSIL	extant	0.0112	0.1086	Vallone Inferno 
 Myotis_myotis	extant	0.0336	0.1086	Vallone Inferno 
-Myotis_blyThii	extant	0.0336	0.1086	Vallone Inferno 
+Myotis_blythii	extant	0.0336	0.1086	Vallone Inferno 
 Miniopterus_schreibersii	extant	0.1054	0.1086	Vallone Inferno 
 Microtus_(Terricola)_ex_gr_Microtus_savii	extinct	0.0112	0.1086	Vallone Inferno 
 Apodemus_sylvaticus	extant	0.0112	0.1086	Vallone Inferno 
@@ -5388,6 +5439,8 @@ Cervus_elaphus	extant	0.09308	0.10705	Grotta di Cala Mancina
 Bos_primigenius	extinct	0.09308	0.10705	Grotta di Cala Mancina
 Vulpes_vulpes	extant	0.09308	0.10705	Grotta di Cala Mancina
 Erinaceus_europaeus	extant	0.09308	0.10705	Grotta di Cala Mancina
+Uromys_caudimaculatus	extant	0.0093	0.1069	Kiowa
+Thylacinus_cynocephalus	extinct	0.09136	0.1069	Kiowa
 Rusa_marianna	extant	0.0232	0.1065	Musang cave
 Sus_philippensis	extant	0.0232	0.1065	Musang cave
 Bullimus_luzonicus	extant	0.0232	0.1065	Musang cave
@@ -5405,6 +5458,7 @@ Lutra_lutra	extant	0.08029	0.10512	Kitulgala Beli lena
 Sus_scrofa	extant	0.08029	0.10512	Kitulgala Beli lena
 Cynocephalus_volans	extant	0	0.105	Sohotan Cave
 Rusa_marianna	extant	0	0.105	Sohotan Cave
+Sus_philippensis	extant	0	0.105	Sohotan Cave
 Panthera_tigris	extant	0.03	0.105	Madai 
 Rhinoceros_sondaicus	extant	0.06	0.105	Madai 
 Sus_barbatus	extant	0.03	0.105	Madai 
@@ -5425,13 +5479,10 @@ Synemporion_keana	extinct	0.014	0.104	Pu u Naio Cave
 Parahydromys_asper	extant	0.0006	0.103	Nombe
 Dactylopsila_trivirgata	extant	0.01574	0.10242	Liang Lemdubu
 Lepilemur_mustelinus	extant	0.0977	0.1024	Ampasambazimba
-Hyomys_goliaTh	extant	0	0.102	Kafiayawa
+Hyomys_goliath	extant	0	0.102	Kafiayawa
 Cervus_elaphus	extant	0.09397	0.10181	Perriere Sottano 
 Bos_primigenius	extinct	0.09397	0.10181	Perriere Sottano 
 Sus_scrofa	extant	0.09397	0.10181	Perriere Sottano 
-Uromys_caudimaculatus	extant	0.042	0.1013	Kiowa
-Phalanger_gymnotis	extant	0.042	0.1013	Kiowa
-thylacinus_cynocephalus	extinct	0.0684	0.1013	Kiowa
 Triaenops_goodmani	extinct	0.01315	0.1	Anjohibe
 Hipposideros_besaoka	extinct	0.01315	0.1	Anjohibe
 Bubalus_(Anoa)_sp_extant_anoa	extant	0.08	0.1	Goa Topogaro 1
@@ -5444,6 +5495,9 @@ Malpaisomys_insularis	extinct	0.00556	0.1	 Malpais Grande
 Crocidura_canariensis	extant	0	0.1	 Malpais Grande
 Cervus_nippon	extant	0.04	0.1	Awazu shell midden site: Otsu: Shika Prefecture
 Prolemur_simus	extant	0.0278	0.0998	Ampasambazimba
+Rousettus_amplexicaudatus	extant	0.0093	0.0997	Kiowa
+Anisomys_imitator	extant	0.0093	0.0997	Kiowa
+Dendrolagus_goodfellowi	extant	0.0093	0.0997	Kiowa
 Cervus_elaphus	extant	0.092	0.09906	Fontana Nuova di Ragusa
 Bos_primigenius	extinct	0.08517	0.09906	Fontana Nuova di Ragusa
 Vulpes_vulpes	extant	0.08517	0.09906	Fontana Nuova di Ragusa
@@ -5456,12 +5510,12 @@ Arvicola_amphibius	extant	0.0774	0.0989	Grotta D Oriente
 Phalanger_ornatus	extant	0.01618	0.0986	Tanjung Pinang
 Eliomys_quercinus	extant	0.0948	0.0977	Grotta D Oriente
 Glis_glis	extant	0.0948	0.0974	Grotta D Oriente
-Rusa_sp_Tawi_Tawi	extinct	0.04974	0.09732	Balobok
+Rusa_marianna	extant	0.04974	0.09732	Balobok
 Paradoxurus_hermaphroditus	extant	0.04974	0.09732	Balobok
 Malpaisomys_insularis	extinct	0.00556	0.09687	 Cueva del Llano
 Crocidura_canariensis	extant	0	0.09687	 Cueva del Llano
 Dasyurus_albopunctatus	extant	0.0068	0.0954	Batari
-thylogale_browni	extant	0.0068	0.0954	Batari
+Thylogale_browni	extant	0.0068	0.0954	Batari
 Cercartetus_caudatus	extant	0.0865	0.0954	Batari
 Petaurus_breviceps	extant	0.0865	0.0954	Batari
 Muridae_indet_(giant_murid)_Kisar	extinct	0.0416	0.09539	Here Sorot Entapa
@@ -5491,8 +5545,18 @@ Nesophontes_paramicrus	extinct	0.0761	0.0949	Trouing Jeremie #5
 Nesophontes_zamicrus	extinct	0.0761	0.0949	Trouing Jeremie #5
 Brotomys_voratus	extinct	0.0761	0.0949	Trouing Jeremie #5
 Plagiodontia_spelaeum	extinct	0.0761	0.0949	Trouing Jeremie #5
+Ailurops_ursinus	extant	0.06649	0.09479	Ulu Leang 1
+Strigocuscus_celebensis	extant	0.06649	0.09479	Ulu Leang 1
+Macaca_maura	extant	0.06649	0.09479	Ulu Leang 1
+Sus_celebensis	extant	0.06649	0.09479	Ulu Leang 1
+Bubalus_(Anoa)_sp_extant_anoa	extant	0.06649	0.09479	Ulu Leang 1
+Babyrousa_celebensis	extant	0.06649	0.09479	Ulu Leang 1
 Geocapromys_ingrahami_FOSSIL	extant	0.08392	0.09432	Banana Hole
 Lemur_catta	extant	0	0.0941	Andrahomana
+Babyrousa_celebensis	extant	0.01404	0.09403	Leang Panninge
+Sus_celebensis	extant	0.01404	0.09403	Leang Panninge
+Ailurops_ursinus	extant	0.01404	0.09403	Leang Panninge
+Bubalus_(Anoa)_sp_extant_anoa	extant	0.01404	0.09403	Leang Panninge
 Bos_primigenius	extinct	0.0872	0.0909	Grotta Schiacciata
 Genus_B_Timor	extinct	0.016	0.09	Uai Bobo 1
 Melomys_small_species_Timor	extinct	0.02	0.09	Uai Bobo 1
@@ -5519,7 +5583,9 @@ Erophylla_sezekorni	extant	0.08459	0.08993	Cuevas Blancas
 Chilonatalus_macer	extant	0.08459	0.08993	Cuevas Blancas
 Nyctiellus_lepidus	extant	0.08459	0.08993	Cuevas Blancas
 Artibeus_jamaicensis	extant	0.08459	0.08993	Cuevas Blancas
-Mus_minotaurus	extinct	0.0873	0.0898	Knossos: NeoliThic levels
+Sus_celebensis	extant	0.0702	0.08991	Leang Batti
+Bubalus_(Anoa)_sp_extant_anoa	extant	0.0702	0.08991	Leang Batti
+Mus_minotaurus	extinct	0.0873	0.0898	Knossos: Neolithic levels
 Canis_lupus	extant	0.0295	0.0895	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Lynx_lynx	extant	0.0595	0.0895	Kannondo Cave: Taishaku kyo sites: Hiroshima Prefecture
 Hippopotamus_minor	extinct	0.052	0.089	Akanthou Arkosyko
@@ -5539,7 +5605,7 @@ Sus_scrofa	extant	0.08517	0.08597	Fontana Nuova di Ragusa
 Prolagus_sardus	extinct	0.08468	0.08596	Campu Stefanu
 Sus_scrofa	extant	0.08388	0.08558	Agari zaki
 Megaoryzomys_curioi	extinct	0.00124	0.085	Cueva de Kastdalen
-Megaoryzomys_curioi	extinct	0.0035	0.085	3 km norTh of Academy Bay
+Megaoryzomys_curioi	extinct	0.0035	0.085	3 km north of Academy Bay
 Aegialomys_galapagoensis	extant	0.005	0.085	Grieta de Gordillo
 Peromyscus_nesodytes	extinct	0.00956	0.08456	Cave of the Chimneys
 Sus_philippensis	extant	0.0134	0.0838	Nagsabaran
@@ -5576,12 +5642,6 @@ Macaca_maura	extant	0.02	0.08276	Lower Cakondo
 Lenomys_meyeri	extant	0.02	0.08276	Lower Cakondo
 Taeromys_celebensis	extant	0.02	0.08276	Panganreang Tudea
 Rattus_xanthurus	extant	0.02	0.08276	Panganreang Tudea
-Ailurops_ursinus	extant	0	0.08276	Ulu Leang 1
-Strigocuscus_celebensis	extant	0	0.08276	Ulu Leang 1
-Macaca_maura	extant	0	0.08276	Ulu Leang 1
-Sus_celebensis	extant	0	0.08276	Ulu Leang 1
-Bubalus_(Anoa)_sp_extant_anoa	extant	0	0.08276	Ulu Leang 1
-Babyrousa_celebensis	extant	0	0.08276	Ulu Leang 1
 Antillothrix_bernensis	extinct	0.042	0.08276	Padre Nuestro 
 Mesocapromys_nanus	extant	0.042	0.08276	Cueva Centenario de Lenin
 Capromys_pilorides	extant	0.042	0.08276	Cueva Centenario de Lenin
@@ -5596,7 +5656,12 @@ Brachyphylla_nana	extant	0.042	0.08276	Cueva Centenario de Lenin
 Macrotus_waterhousii	extant	0.042	0.08276	Cueva Centenario de Lenin
 Natalus_primus	extant	0.042	0.08276	Cueva Centenario de Lenin
 Peramelidae_indet_Gebe_Halmahera	extinct	0.07516	0.081	Golo Cave
-Lutra_lutra	extant	0.074	0.0805	Grotta dell Uzzo
+Macaca_maura	extant	0.0051	0.0806	Leang Jarie
+Strigocuscus_celebensis	extant	0.0051	0.0806	Leang Jarie
+Babyrousa_celebensis	extant	0.027	0.0806	Leang Jarie
+Sus_celebensis	extant	0.0051	0.0806	Leang Jarie
+Bubalus_(Anoa)_sp_extant_anoa	extant	0.0051	0.0806	Leang Jarie
+Lutra_lutra	extant	0.074	0.0805	Grotta dell_Uzzo
 Prolagus_sardus	extinct	0.05	0.08	Grotta Filiestru
 Bubalus_(Anoa)_sp_extant_anoa	extant	0.02	0.08	Leang Pattae
 Acratocnus_ye	extinct	0.02	0.08	Padre Nuestro
@@ -5651,7 +5716,6 @@ Rattus_verecundus	extant	0.0666	0.0793	Kria Cave
 Uromys_caudimaculatus	extant	0.0484	0.0793	Kria Cave
 Dobsonia_magna	extant	0.0484	0.0793	Kria Cave
 Hipposideros_diadema	extant	0.0163	0.0793	Kria Cave
-Rousettus_amplexicaudatus	extant	0	0.078	Kiowa
 Synemporion_keana	extinct	0.05259	0.07724	Makawehi Point
 Hadropithecus_stenognathus	extinct	0.0623	0.07665	Andrahomana
 Praemegaceros_cazioti	extinct	0.0753	0.0765	Juntu Cave
@@ -5671,7 +5735,7 @@ Phyllonycteris_poeyi	extant	0.0732	0.0743	Oleg s Bat Cave
 Pteronotus_macleayii	extant	0.0732	0.0743	Oleg s Bat Cave
 Pteronotus_parnellii	extant	0.0732	0.0743	Oleg s Bat Cave
 Pteronotus_quadridens	extant	0.0732	0.0743	Oleg s Bat Cave
-Phyllops_falcatus	extant	0.0732	0.0743	Oleg s Bat Cave
+Phyllops_falcatus	extant	0.0732	0.0743	Oleg_s Bat Cave
 Microtus_(Tyrrhenicola)_henseli	extinct	0.04958	0.07422	Torre d Aquila
 Rhagamys_orthodon	extinct	0.0559	0.07422	Torre d Aquila
 Prolagus_sardus	extinct	0.0559	0.07422	Torre d Aquila
@@ -5683,13 +5747,13 @@ Boromys_offella	extinct	0.00658	0.074	Canimar Abajo
 Geocapromys_columbianus	extinct	0.00658	0.074	Canimar Abajo
 Dorcopsis_nov_sp_Gebe_Halmahera	extinct	0.07028	0.0733	Um Kapat Papo
 Phalanger_alexandrae	extant	0.07028	0.0733	Um Kapat Papo
-Rattus_praetor	extant	0.0662	0.0733	Kiowa
-Rattus_steini	extant	0.0662	0.0733	Kiowa
 Hippopotamus_madagascariensis	extinct	0.01315	0.07324	Anjohibe
 Genus_A_Timor	extinct	0.05	0.073	Lie Siri
 Rousettus_amplexicaudatus	extant	0	0.073	Lie Siri
+Rattus_praetor	extant	0.06788	0.07284	Kiowa
+Rattus_steini	extant	0.07169	0.07284	Kiowa
 Megaladapis_madagascariensis	extinct	0.02422	0.0727	Amparihingidro
-Palaeopropithecus_keylus	extinct	0.02422	0.0727	Amparihingidro
+Palaeopropithecus_kelyus	extinct	0.02422	0.0727	Amparihingidro
 Pachylemur_insignis	extinct	0.02422	0.0727	Amparihingidro
 Archaeolemur_edwardsi	extinct	0.02422	0.0727	Amparihingidro
 Acratocnus_antillensis	extinct	0.07007	0.0727	Cueva Beruvides
@@ -5713,17 +5777,17 @@ Crocidura_batakorum	extant	0.05	0.07	Ille Cave
 Maxomys_panglima	extant	0.05	0.07	Ille Cave
 Axis_calamianensis	extant	0.03573	0.07	Pasimbahan Cave
 Viverra_tangalunga	extant	0.05	0.07	Pasimbahan Cave
-Ailurops_ursinus	extant	0.02	0.07	Gua Mo o hono
-Strigocuscus_celebensis	extant	0.045	0.07	Gua Mo o hono
-Rattus_hoffmanni	extant	0.02	0.07	Gua Mo o hono
-Lenomys_meyeri	extant	0.045	0.07	Gua Mo o hono
-Paruromys_dominator	extant	0.02	0.07	Gua Mo o hono
-Taeromys_punicans	extant	0.02	0.07	Gua Mo o hono
-Maxomys_musschenbroekii	extant	0.02	0.07	Gua Mo o hono
-Macrogalidia_musschenbroekii	extant	0.00338	0.07	Gua Mo o hono
-Babyrousa_celebensis	extant	0.00338	0.07	Gua Mo o hono
-Sus_celebensis	extant	0.00338	0.07	Gua Mo o hono
-Bubalus_(Anoa)_sp_extant_anoa	extant	0.00338	0.07	Gua Mo o hono
+Ailurops_ursinus	extant	0.02	0.07	Gua Mo_o hono
+Strigocuscus_celebensis	extant	0.045	0.07	Gua Mo_o hono
+Rattus_hoffmanni	extant	0.02	0.07	Gua Mo_o hono
+Lenomys_meyeri	extant	0.045	0.07	Gua Mo_o hono
+Paruromys_dominator	extant	0.02	0.07	Gua Mo_o hono
+Taeromys_punicans	extant	0.02	0.07	Gua Mo_o hono
+Maxomys_musschenbroekii	extant	0.02	0.07	Gua Mo_o hono
+Macrogalidia_musschenbroekii	extant	0.00338	0.07	Gua Mo_o hono
+Babyrousa_celebensis	extant	0.00338	0.07	Gua Mo_o hono
+Sus_celebensis	extant	0.00338	0.07	Gua Mo_o hono
+Bubalus_(Anoa)_sp_extant_anoa	extant	0.00338	0.07	Gua Mo_o hono
 Coryphomys_buehleri	extinct	0.065	0.07	Lie Siri
 Coryphomys_musseri	extinct	0.065	0.07	Lie Siri
 Hipposideros_diadema	extant	0.065	0.07	Lie Siri
@@ -5760,16 +5824,16 @@ Zaglossus_bruijni	extant	0.05907	0.06448	Mapala rockshelter
 Dasyurus_albopunctatus	extant	0.05907	0.06448	Mapala rockshelter
 Microperoryctes_longicauda	extant	0.05907	0.06448	Mapala rockshelter
 Phalanger_sericeus	extant	0.05907	0.06448	Mapala rockshelter
-thylogale_christenseni	extinct	0.05907	0.06448	Mapala rockshelter
-thylogale_sp_New_Guinea	extinct	0.05907	0.06448	Mapala rockshelter
+Thylogale_christenseni	extinct	0.05907	0.06448	Mapala rockshelter
+Thylogale_sp_New_Guinea	extinct	0.05907	0.06448	Mapala rockshelter
 Pseudochirops_cupreus	extant	0.05907	0.06448	Mapala rockshelter
 Pseudochirulus_mayeri	extant	0.05907	0.06448	Mapala rockshelter
 Mallomys_gunung	extant	0.05907	0.06448	Mapala rockshelter
 Hyomys_dammermani	extant	0.05907	0.06448	Mapala rockshelter
-Pachylemur_insignis	extinct	0.00956	0.06443	Lamboharana
-Archaeolemur_majori	extinct	0.00956	0.06443	Lamboharana
-Megaladapis_edwardsi	extinct	0.00956	0.06443	Lamboharana
-Daubentonia_robusta	extinct	0.00956	0.06443	Lamboharana
+Pachylemur_insignis	extinct	0.00926	0.06443	Lamboharana
+Archaeolemur_majori	extinct	0.00926	0.06443	Lamboharana
+Megaladapis_edwardsi	extinct	0.00926	0.06443	Lamboharana
+Daubentonia_robusta	extinct	0.00926	0.06443	Lamboharana
 Aeorestes_semotus	extant	0.05908	0.06412	Joan Aidem Mo omomi Beach
 Canariomys_bravoi	extinct	0.02154	0.06333	 Arenas 3
 Nesophontes_edithae	extinct	0.02349	0.06318	Cueva del Perro
@@ -5795,6 +5859,13 @@ Megaladapis_madagascariensis	extinct	0.01377	0.06286	Ambolisatra/Andolonomby
 Pogonomelomys_sp_A_New_Guinea	extinct	0.0591	0.0628	Toe Cave
 Megalocnus_rodens	extinct	0.05449	0.06224	Cuevas de Seboruco (including Farallones de Seboruco)
 Rattus_morotaiensis	extant	0	0.06194	Daeo Cave 2
+Mazama_sp_Pedro_Gonzalez	extant	0.0556	0.0619	Playa don Bernardo
+Dasyprocta_punctata	extant	0.0556	0.0619	Playa don Bernardo
+Proechimys_semispinosus	extant	0.0556	0.0619	Playa don Bernardo
+Cuniculus_paca	extant	0.0556	0.0619	Playa don Bernardo
+Diplomys_labilis	extant	0.0556	0.0619	Playa don Bernardo
+Cebus_capucinus	extant	0.0556	0.0619	Playa don Bernardo
+Didelphis_marsupialis	extant	0.0556	0.0619	Playa don Bernardo
 Geocapromys_ingrahami_irrectus	extinct	0.0029	0.0618	Garden Cave
 Artibeus_anthonyi	extinct	0.05773	0.06172	Cueva El Gato Jibaro
 Prolagus_sardus	extinct	0.04	0.06	Grotta via Besta
@@ -5807,8 +5878,8 @@ Megalocnus_rodens	extinct	0.015	0.06	Cueva de la Cachimba
 Solenodon_cubanus	extant	0	0.06	Cueva de la Cachimba
 Capromys_pilorides	extant	0	0.06	Cueva de la Cachimba
 Megalocnus_rodens	extinct	0.015	0.06	Cueva de La Caleta de Jauco
-Boromys_offella	extinct	0.015	0.06	El Paredon (the Big Wall) Baracoa
-Capromys_pilorides	extant	0.015	0.06	El Paredon (the Big Wall) Baracoa
+Boromys_offella	extinct	0.015	0.06	El Paredon (The Big Wall) Baracoa
+Capromys_pilorides	extant	0.015	0.06	El Paredon (The Big Wall) Baracoa
 Solenodon_cubanus	extant	0.00458	0.06	La Gloria
 Crocidura_watasei	extant	0.04	0.06	Sashiki fissure
 Myotragus_balearicus	extinct	0.0589	0.05997	Avenc des Gorg Blau
@@ -5833,8 +5904,6 @@ Asoriculus_corsicanus	extinct	0.0495	0.0595	Araguina Sennola
 Prolagus_sardus	extinct	0.0495	0.0595	Araguina Sennola
 Myotragus_balearicus	extinct	0.05714	0.05911	Pas d en Ravull Sa Penya Fosca 
 Hypogeomys_australis	extinct	0.01332	0.0584	Andrahomana
-Uromys_anak	extant	0.0479	0.0574	Yuku
-Uromys_caudimaculatus	extant	0.0479	0.0574	Yuku
 Eonycteris_spelaea	extant	0.0308	0.05692	Gua Siti Nafisah
 Rousettus_amplexicaudatus	extant	0.0308	0.05692	Gua Siti Nafisah
 Hipposideros_diadema	extant	0.01187	0.05692	Gua Siti Nafisah
@@ -5843,6 +5912,15 @@ Phalanger_ornatus	extant	0.01187	0.05692	Gua Siti Nafisah
 Rattus_morotaiensis	extant	0.0308	0.05692	Gua Siti Nafisah
 Dorcopsis_nov_sp_Gebe_Halmahera	extinct	0.01268	0.05692	Gua Siti Nafisah
 Peramelidae_indet_Gebe_Halmahera	extinct	0.025	0.05692	Gua Siti Nafisah
+Melomys_rubex	extant	0	0.05663	Yuku
+Melomys_leucogaster	extant	0	0.05663	Yuku
+Rattus_verecundus	extant	0	0.05663	Yuku
+Rattus_praetor	extant	0	0.05663	Yuku
+Hyomys_goliath	extant	0	0.05663	Yuku
+Dendrolagus_goodfellowi	extant	0	0.05663	Yuku
+Dendrolagus_dorianus	extant	0	0.05663	Yuku
+Dactylopsila_trivirgata	extant	0	0.05663	Yuku
+Dasyurus_albopunctatus	extant	0	0.05663	Yuku
 Palaeopropithecus_maximus	extinct	0.0415	0.0565	Ampasambazimba
 Trachypithecus_cristatus	extant	0.05081	0.05637	Lubang Payau
 Hylobates_muelleri	extant	0.05081	0.05637	Lubang Payau
@@ -5865,7 +5943,6 @@ Crateromys_ballik	extinct	0	0.05464	Minori cave
 Carpomys_dakal	extinct	0.045	0.05464	Minori cave
 Bullimus_luzonicus	extant	0	0.05464	Minori cave
 Rattus_everetti	extant	0	0.05464	Minori cave
-Paradoxurus_philippinensis	extant	0	0.05464	Minori cave
 Indri_indri	extant	0.0488	0.0543	Ankarana
 Daubentonia_madagascariensis	extant	0.0488	0.0543	Ankarana
 Eulemur_coronatus	extant	0.0488	0.0543	Ankarana
@@ -5909,7 +5986,7 @@ Pseudochirulus_forbesi	extant	0	0.053	Kamapuk
 Pseudochirulus_mayeri	extant	0	0.053	Kamapuk
 Parahydromys_asper	extant	0.0243	0.053	Kamapuk
 Anisomys_imitator	extant	0	0.053	Kamapuk
-Hyomys_goliaTh	extant	0	0.053	Kamapuk
+Hyomys_goliath	extant	0	0.053	Kamapuk
 Uromys_anak	extant	0	0.053	Kamapuk
 Neocnus_comes	extinct	0.0497	0.053	Trouing Deron #1
 Neocnus_dousman	extinct	0.0497	0.053	Trouing Deron #1
@@ -5921,6 +5998,7 @@ Hippopotamus_madagascariensis	extinct	0.01312	0.05295	Masinandraina
 Babakotia_radofilai	extinct	0.0482	0.0527	Ankarana
 Neocnus_comes	extinct	0.0484	0.0526	Trouing Ismays
 Acratocnus_ye	extinct	0.0484	0.0526	Trouing Ismays
+Hippopotamus_lemerlei	extinct	0.02722	0.0503	Ankatoke1
 Arctictis_binturong	extant	0	0.05	Ille Cave
 Viverra_tangalunga	extant	0	0.05	Ille Cave
 Hylopetes_nigripes	extant	0.03573	0.05	Pasimbahan Cave
@@ -5936,7 +6014,7 @@ Aeorestes_semotus	extant	0.01	0.05	Makauwahi Cave
 Synemporion_keana	extinct	0.01	0.05	Makauwahi Cave
 Synemporion_keana	extinct	0.03	0.05	Kahuku Ranch Cave
 Synemporion_keana	extinct	0.03	0.05	?mi i Manu Cave
-Melomys_roThschildii	extant	0	0.05	Palandraku Cave
+Melomys_bougainville	extant	0	0.05	Palandraku Cave
 Dobsonia_moluccensis	extant	0	0.05	Palandraku Cave
 Pteropus_neohibernicus	extant	0	0.05	Palandraku Cave
 Mystacina_robusta	extinct	0.01	0.05	Braeburn Stn: Ledge 3
@@ -5950,7 +6028,6 @@ Sus_scrofa	extant	0.04	0.05	Hisshogo Cave
 Tokudaia_osimensis	extant	0.04	0.05	Hisshogo Cave
 Cervus_nippon	extant	0.02	0.05	Morinomiya site: Higashi ku: Osaka
 Cervus_nippon	extant	0.025	0.05	Kainohana shell mound site: Matsudo: Chiba Prefecture
-Hipposideros_maggietaylorae	extant	0	0.04867	Pamwak
 Mysateles_melanurus	extant	0.04517	0.04865	Abra del Cacoyuguin IV
 Eptesicus_fuscus	extant	0.0128	0.0486	Garden Cave
 Macrotus_waterhousii	extant	0.0128	0.0486	Garden Cave
@@ -5962,40 +6039,45 @@ Heteropsomys_insulans	extinct	0.02445	0.0484	Maruca
 Natalus_stramineus	extant	0.0316	0.04835	Cadet 3
 Artibeus_jamaicensis	extant	0.0316	0.04835	Cadet 3
 Melomys_small_species_Timor	extinct	0.04535	0.04827	Here Sorot Entapa
+Hippopotamus_lemerlei	extinct	0.01896	0.04814	Nosy Ve
+Archaeolemur_majori	extinct	0.0099	0.04814	Nosy Ve
 Pachylemur_insignis	extinct	0.0072	0.048	Tsimanampetsotsa
 Megaladapis_madagascariensis	extinct	0.0072	0.048	Tsimanampetsotsa
 Megaladapis_edwardsi	extinct	0.0416	0.048	Mitoho Cave
 Hypogeomys_antimena	extant	0.0416	0.048	Mitoho Cave
-Cryptoprocta_spelea	extinct	0.0416	0.048	Mitoho Cave
-Cryptoprocta_sp_new	extinct	0.0416	0.048	Mitoho Cave
 Echymipera_kalubu	extant	0.0276	0.048	Kamapuk
 Peroryctes_raffrayana	extant	0.0112	0.048	Kamapuk
 Dorcopsulus_vanheurni	extant	0.0112	0.048	Kamapuk
-thylogale_browni	extant	0.0112	0.048	Kamapuk
+Thylogale_browni	extant	0.0112	0.048	Kamapuk
 Phalanger_gymnotis	extant	0	0.048	Kamapuk
 Distoechurus_pennatus	extant	0.0276	0.048	Kamapuk
 Dactylopsila_palpator	extant	0.0243	0.048	Kamapuk
 Pseudochirops_corinnae	extant	0	0.048	Kamapuk
 Pogonomelomys_sp_A_New_Guinea	extinct	0.0243	0.048	Kamapuk
 Xenuromys_barbatus	extant	0.0276	0.048	Kamapuk
-Melomys_rubex	extant	0	0.0479	Yuku
-Mallomys_roThschildi	extant	0	0.0479	Yuku
-Rattus_verecundus	extant	0	0.0479	Yuku
 Heteropsomys_insulans	extinct	0.01036	0.04746	Nesophontes II Cave
 Nesophontes_edithae	extinct	0.01036	0.04746	Nesophontes II Cave
 Pennatomys_nivalis	extinct	0.0095	0.0473	Sugar Factory Pier
 Pennatomys_nivalis	extinct	0.00835	0.0473	Road cut midden near Stone fort
+Rhinolophus_sp_Minami_Daito	extant	0.0005	0.0464	Cave A
+Miniopterus_sp_Minami_Daito	extant	0.0005	0.0464	Cave A
+Rhinolophus_sp_Minami_Daito	extant	0.0005	0.0464	Hoshino Cave
 Megalocnus_rodens	extinct	0.03568	0.04624	Cueva de la Masanga
 Parocnus_browni	extinct	0.03568	0.04624	Cueva de la Masanga
 Neocnus_gliriformis	extinct	0.03568	0.04624	Cueva de la Masanga
 Boromys_offella	extinct	0.03568	0.04624	Cueva de la Masanga
 Geocapromys_columbianus	extinct	0.03568	0.04624	Cueva de la Masanga
 Antillothrix_bernensis	extinct	0.03871	0.04621	Cueva de Berna
-Parocnus_serus	extinct	0.03637	0.04584	Trou WOch Sa Wo
-Acratocnus_ye	extinct	0.03637	0.04584	Trou WOch Sa Wo
-Neocnus_comes	extinct	0.03637	0.04584	Trou WOch Sa Wo
-Neocnus_dousman	extinct	0.03637	0.04584	Trou WOch Sa Wo
-Neocnus_toupiti	extinct	0.03637	0.04584	Trou WOch Sa Wo
+Parocnus_serus	extinct	0.03637	0.04584	Trou Woch Sa Wo
+Acratocnus_ye	extinct	0.03637	0.04584	Trou Woch Sa Wo
+Neocnus_comes	extinct	0.03637	0.04584	Trou Woch Sa Wo
+Neocnus_dousman	extinct	0.03637	0.04584	Trou Woch Sa Wo
+Neocnus_toupiti	extinct	0.03637	0.04584	Trou Woch Sa Wo
+Palaeopropithecus_ingens	extinct	0.01106	0.04566	Itampolo be
+Archaeolemur_majori	extinct	0.01106	0.04566	Itampolo be
+Pachylemur_jullyi	extinct	0.01106	0.04566	Itampolo be
+Megaladapis_edwardsi	extinct	0.01106	0.04566	Itampolo be
+Megaladapis_madagascariensis	extinct	0.01106	0.04566	Itampolo be
 Erinaceus_europaeus	extant	0.0134	0.0455	Vallone Inferno 
 Suncus_etruscus	extant	0.0336	0.0455	Vallone Inferno 
 Arvicola_amphibius	extant	0.0336	0.0455	Vallone Inferno 
@@ -6008,7 +6090,6 @@ Pteropus_niger	extant	0.03868	0.04533	Mare aux Songes
 Taphozous_mauritianus	extant	0.03868	0.04533	Mare aux Songes
 Mormopterus_acetabulosus	extant	0.03868	0.04533	Mare aux Songes
 Archaeolemur_majori	extinct	0.0416	0.0452	Andrahomana
-Rusa_sp_Palawan	extinct	0.04	0.045	Sa gung
 Sus_ahoenobarbus	extant	0.04	0.045	Sa gung
 Bubalus_(Anoa)_sp_extant_anoa	extant	0.01	0.045	Batu Ejjaya 1 + 2
 Babyrousa_celebensis	extant	0.01	0.045	Batu Ejjaya 1 + 2
@@ -6025,20 +6106,25 @@ Taeromys_punicans	extant	0.01	0.045	Batu Ejjaya 1 + 2
 Bunomys_heinrichi	extant	0.01	0.045	Batu Ejjaya 1 + 2
 Rattus_foramineus	extant	0.01	0.045	Batu Ejjaya 1 + 2
 Rattus_hoffmanni	extant	0.01	0.045	Batu Ejjaya 1 + 2
-Rattus_facetus	extant	0.00338	0.045	Gua Mo o hono
-Bunomys_chrysocomus	extant	0.02	0.045	Gua Mo o hono
-Bunomys_andrewsi	extant	0.00338	0.045	Gua Mo o hono
-Taeromys_celebensis	extant	0.02	0.045	Gua Mo o hono
-Maxomys_hellwaldii	extant	0.02	0.045	Gua Mo o hono
+Sus_celebensis	extant	0.01	0.045	Pangnganikang
+Bubalus_(Anoa)_sp_extant_anoa	extant	0.01	0.045	Pangnganikang
+Strigocuscus_celebensis	extant	0.01	0.045	Pangnganikang
+Hipposideros_larvatus	extant	0.01	0.045	Pangnganikang
+Babyrousa_celebensis	extant	0.01	0.045	Pangnganikang
+Rattus_facetus	extant	0.00338	0.045	Gua Mo_o hono
+Bunomys_chrysocomus	extant	0.02	0.045	Gua Mo_o hono
+Bunomys_andrewsi	extant	0.00338	0.045	Gua Mo_o hono
+Taeromys_celebensis	extant	0.02	0.045	Gua Mo_o hono
+Maxomys_hellwaldii	extant	0.02	0.045	Gua Mo_o hono
 Canariomys_tamarani	extinct	0.035	0.045	 Ingenio
 Oryzomys_antillarum	extinct	0.005	0.045	Long Mile Cave
 Oryzomys_antillarum	extinct	0.005	0.045	Pen House Cave
 Oryzomys_antillarum	extinct	0.005	0.045	Swansea Cave
-thylogale_browni	extant	0	0.0445	Aibura
+Thylogale_browni	extant	0	0.0445	Aibura
 Sorex_ornatus	extant	0.03955	0.04445	Cave of the Chimneys
 Urocyon_littoralis	extant	0.04208	0.04445	Cave of the Chimneys
 Isolobodon_portoricensis	extinct	0.01995	0.04443	Angostura
-Hippopotamus_lemerlei	extinct	0.00956	0.0441	Lamboharana
+Hippopotamus_lemerlei	extinct	0.00926	0.0441	Lamboharana
 Geocapromys_ingrahami_abaconis	extinct	0.0092	0.0441	Sawmill Sink
 Mystacina_robusta	extinct	0.01996	0.044	Te Werahi
 Mystacina_tuberculata	extant	0.01996	0.044	Te Werahi
@@ -6069,7 +6155,7 @@ Suncus_madagascariensis	extant	0	0.042	Andrahomana
 Eidolon_dupreanum	extant	0	0.042	Andrahomana
 Rousettus_madagascariensis	extant	0	0.042	Andrahomana
 Pteropus_rufus	extant	0	0.042	Andrahomana
-Hipposideros_commersoni	extant	0	0.042	Andrahomana
+Macronycteris_commersoni	extant	0	0.042	Andrahomana
 Triaenops_furculus	extant	0	0.042	Andrahomana
 Miniopterus_gleni	extant	0	0.042	Andrahomana
 Mormopterus_jugularis	extant	0	0.042	Andrahomana
@@ -6080,7 +6166,7 @@ Propithecus_verreauxi	extant	0	0.042	Andrahomana
 Avahi_laniger	extant	0	0.042	Andrahomana
 Eliurus_myoxinus	extant	0	0.042	Andrahomana
 Myotis_goudoti	extant	0	0.042	Anjohibe
-Palaeopropithecus_maximus	extinct	0.01305	0.042	Foret d Orangea
+Palaeopropithecus_maximus	extinct	0.01305	0.042	Foret d_Orangea
 Prolemur_simus	extant	0	0.042	Andavakoera
 Avahi_laniger	extant	0	0.042	Andavakoera
 Propithecus_diadema	extant	0	0.042	Andavakoera
@@ -6109,7 +6195,7 @@ Mystacina_robusta	extinct	0.01	0.042	Haurangi 12
 Mystacina_robusta	extinct	0.01	0.042	Bat Site: Gordons Valley Station
 Mystacina_robusta	extinct	0.01	0.042	Rocklands: Oamaru
 Mystacina_robusta	extinct	0.01	0.042	Owl site: Fortification Hill
-Mystacina_robusta	extinct	0.01	0.042	EarThquakes #3
+Mystacina_robusta	extinct	0.01	0.042	Earthquakes #3
 Mystacina_robusta	extinct	0.01	0.042	Tokarahi
 Mystacina_robusta	extinct	0.01	0.042	Craigmore Stn: Site 1
 Mystacina_robusta	extinct	0.01	0.042	Craigmore Stn: Valley of the moa
@@ -6176,7 +6262,6 @@ Hipposideros_turpis	extant	0	0.042	Sabichi do Cave
 Canariomys_bravoi	extinct	0.0396	0.0416	 El Sobrado
 Rusa_marianna	extant	0.0211	0.0412	Pintu Cave
 Sus_philippensis	extant	0.0211	0.0412	Pintu Cave
-Macaca_fascicularis	extant	0.0211	0.0412	Pintu Cave
 Carpomys_dakal	extinct	0.0232	0.04095	Musang cave
 Papagomys_armandvillei	extant	0.03025	0.04075	Liang Toge
 Papagomys_theodorverhoeveni	extinct	0.03025	0.04075	Liang Toge
@@ -6228,12 +6313,7 @@ Capreolus_capreolus	extant	0.0335	0.0375	Castelluccio
 Natalus_primus	extant	0.0357	0.037	Ralph s Cave
 Rousettus_amplexicaudatus	extant	0.02781	0.03696	Balof 2
 Lasiurus_minor	extant	0.0356	0.0369	Ralph s Cave
-Palaeopropithecus_ingens	extinct	0.01421	0.03681	Itampolo be
-Archaeolemur_majori	extinct	0.01421	0.03681	Itampolo be
 Hippopotamus_lemerlei	extinct	0.01421	0.03681	Itampolo be
-Pachylemur_jullyi	extinct	0.01421	0.03681	Itampolo be
-Megaladapis_edwardsi	extinct	0.01421	0.03681	Itampolo be
-Megaladapis_madagascariensis	extinct	0.01421	0.03681	Itampolo be
 Hippopotamus_madagascariensis	extinct	0.0098	0.0368	Antsirabe
 Malpaisomys_insularis	extinct	0.0184	0.0364	 (Caldereta de) Tinache
 Crocidura_canariensis	extant	0	0.0364	 (Caldereta de) Tinache
@@ -6245,8 +6325,8 @@ Malpaisomys_insularis	extinct	0.00979	0.0364	 La Vegueta
 Malpaisomys_insularis	extinct	0.00979	0.0364	 Mozaga
 Malpaisomys_insularis	extinct	0.00979	0.0364	 Teguise
 Hippopotamus_minor	extinct	0.024	0.036	Kormakiti Krommyon
-thylogale_christenseni	extinct	0.03225	0.03595	Bullingeek rockshelter
-thylogale_sp_New_Guinea	extinct	0.03225	0.03595	Bullingeek rockshelter
+Thylogale_christenseni	extinct	0.03225	0.03595	Bullingeek rockshelter
+Thylogale_sp_New_Guinea	extinct	0.03225	0.03595	Bullingeek rockshelter
 Zaglossus_bruijni	extant	0.03225	0.03595	Bullingeek rockshelter
 Dendrolagus_dorianus	extant	0.03225	0.03595	Bullingeek rockshelter
 Phalanger_ornatus	extant	0.00666	0.0359	Uattamdi
@@ -6262,6 +6342,11 @@ Nesophontes_major	extinct	0.03482	0.03581	Cueva del Infierno
 Nesophontes_micrus	extinct	0.03482	0.03581	Cueva del Infierno
 Milimonggamys_juliae	extinct	0.01889	0.03507	Mahaniwa (Liang Lawuala + Liang Minabuti)
 Raksasamys_tikusbesar	extinct	0.01889	0.03507	Mahaniwa (Liang Lawuala + Liang Minabuti)
+Strigocuscus_celebensis	extant	0.03	0.035	Leang Balang Metti
+Ailurops_ursinus	extant	0.03	0.035	Leang Balang Metti
+Babyrousa_celebensis	extant	0.03	0.035	Leang Balang Metti
+Sus_celebensis	extant	0.03	0.035	Leang Balang Metti
+Bubalus_(Anoa)_sp_extant_anoa	extant	0.03	0.035	Leang Balang Metti
 Phyllonycteris_poeyi	extant	0.02487	0.03454	Caverna de Pio Domingo
 Megalocnus_rodens	extinct	0.02487	0.03454	Caverna de Pio Domingo
 Acratocnus_antillensis	extinct	0.02487	0.03454	Caverna de Pio Domingo
@@ -6277,10 +6362,11 @@ Capromys_pilorides	extant	0.02487	0.03454	Caverna de Pio Domingo
 Mesocapromys_nanus	extant	0.02487	0.03454	Caverna de Pio Domingo
 Geocapromys_columbianus	extinct	0.02487	0.03454	Caverna de Pio Domingo
 Mysateles_prehensilis	extant	0.02487	0.03454	Caverna de Pio Domingo
-Pennatomys_nivalis	extinct	0.03241	0.03381	Hichman s Shell Heap (GE 6)
+Hippopotamus_lemerlei	extinct	0.03227	0.03392	Lamboara Pool 1
+Pennatomys_nivalis	extinct	0.03241	0.03381	Hichman_s Shell Heap (GE 6)
 Parocnus_serus	extinct	0.02427	0.03377	Chinguela Constanza
 Cryptoprocta_spelea	extinct	0.01835	0.03373	Taolambiby
-Mesopropithecus_globiceps	extinct	0.00983	0.03373	Taolambiby
+Mesopropithecus_globiceps	extinct	0.00961	0.03373	Taolambiby
 Dama_dama	extant	0.0112	0.0336	Vallone Inferno 
 Cryptoprocta_spelea	extinct	0.0056	0.03354	Itampolo
 Canariomys_bravoi	extinct	0.03065	0.03345	 (Barranco de) Icod
@@ -6292,10 +6378,14 @@ Boromys_torrei	extinct	0.03009	0.03331	Solapa del Silex
 Geocapromys_columbianus	extinct	0.03009	0.03331	Solapa del Silex
 Mysateles_prehensilis	extant	0.03009	0.03331	Solapa del Silex
 Microtus_(Tyrrhenicola)_henseli	extinct	0.03075	0.03326	Grotta Su Guanu
+Hippopotamus_lemerlei	extinct	0.03005	0.03322	Lamboara Pool 3
 Megaladapis_edwardsi	extinct	0.02009	0.0332	Taolambiby
 Prolagus_sardus	extinct	0.03	0.033	Nuraghe Miuddu
 Microtus_(Tyrrhenicola)_henseli	extinct	0.029	0.033	Nuraghe Is Paras de Isili
 Prolagus_sardus	extinct	0.029	0.033	Nuraghe Is Paras de Isili
+Pachylemur_insignis	extinct	0.02002	0.0327	Vintany
+Mesopropithecus_globiceps	extinct	0.02002	0.0327	Vintany
+Cryptoprocta_spelea	extinct	0.02002	0.0327	Vintany
 Rusa_unicolor	extant	0	0.03243	Bukit Tengkorak
 Muntiacus_muntjak	extant	0	0.03243	Bukit Tengkorak
 Palaeopropithecus_ingens	extinct	0.01541	0.03233	Taolambiby
@@ -6306,56 +6396,35 @@ Pteropus_ornatus	extant	0	0.032	Me Aure Cave
 Pteropus_tonganus	extant	0	0.032	Me Aure Cave
 Hipposideros_sp_Grande_Terre	extinct	0.024	0.032	Me Aure Cave
 Antillomys_rayi	extinct	0.00924	0.0316	Cadet 3
+Hippopotamus_lemerlei	extinct	0.00961	0.03153	Taolambiby
 Pachylemur_insignis	extinct	0.00992	0.03149	Taolambiby
 Pennatomys_nivalis	extinct	0.0051	0.0314	Coconut Walk
-Hippopotamus_lemerlei	extinct	0.0099	0.0313	Taolambiby
 Nesophontes_edithae	extinct	0.0289	0.0313	Cueva Matos
 Antillomys_rayi	extinct	0.0085	0.03043	Indian Creek
 Babyrousa_celebensis	extant	0.00281	0.03	Goa Topogaro 2
 Shrew_rat_nov_sp_Flores	extinct	0	0.03	Liang Bua
 Cervus_nippon	extant	0.02	0.03	Shirahama shell mound site: Fukue (Goto shi): Nagasaki Prefecture
 Cryptoprocta_ferox	extant	0.02783	0.02998	Ampasambazimba
-Hippopotamus_lemerlei	extinct	0.01114	0.02965	Ampoza Ankazoabo
+Hippopotamus_lemerlei	extinct	0.01114	0.02965	Ampoza
 Pteropodidae_gen_et_sp_indet_extinct_Efate	extinct	0.0271	0.0296	Teouma Lapita
 Rusa_unicolor	extant	0.0195	0.0295	Gua Payung
 Sus_barbatus	extant	0.0195	0.0295	Gua Payung
 Helarctos_malayanus	extant	0.0195	0.0295	Gua Payung
-Prolagus_sardus	extinct	0.028	0.029	S. Antonio di Siligo
+Prolagus_sardus	extinct	0.028	0.029	S Antonio di Siligo
 Prolagus_sardus	extinct	0.028	0.029	Nuraghe Aeddos 
-Prolagus_sardus	extinct	0.025	0.029	S. Imbenia village
+Prolagus_sardus	extinct	0.025	0.029	S Imbenia village
 Prolagus_sardus	extinct	0.025	0.029	Genna Maria village
 Pteropus_nitendiensis	extant	0.002	0.029	All sites Tikopia
 Pteropus_tonganus	extant	0.002	0.029	All sites Tikopia
 Megaladapis_edwardsi	extinct	0.0141	0.02861	Ambolisatra/Andolonomby
 Archaeolemur_edwardsi	extinct	0.01305	0.02855	Beanka Protected Area
 Palaeopropithecus_kelyus	extinct	0.0096	0.02855	Beanka Protected Area
-Cheirogaleus_medius	extant	0.0096	0.02855	Beanka Protected Area
-Microcebus_myoxinus	extant	0.0096	0.02855	Beanka Protected Area
-Eulemur_rufus	extant	0.0096	0.02855	Beanka Protected Area
-Eulemur_mongoz	extant	0.0096	0.02855	Beanka Protected Area
-Hapalemur_griseus	extant	0.0096	0.02855	Beanka Protected Area
-Prolemur_simus	extant	0.0096	0.02855	Beanka Protected Area
-Avahi_cleesei	extant	0.0096	0.02855	Beanka Protected Area
-Propithecus_deckenii	extant	0.0096	0.02855	Beanka Protected Area
-Lepilemur_randrianasoloi	extant	0.0096	0.02855	Beanka Protected Area
-Chaerephon_leucogaster	extant	0.0096	0.02855	Beanka Protected Area
-Mormopterus_jugularis	extant	0.0096	0.02855	Beanka Protected Area
-Otomops_madagascariensis	extant	0.0096	0.02855	Beanka Protected Area
-Macronycteris_commersoni	extant	0.0096	0.02855	Beanka Protected Area
-Triaenops_menamena	extant	0.0096	0.02855	Beanka Protected Area
-Cryptoprocta_ferox	extant	0.0096	0.02855	Beanka Protected Area
 Cryptoprocta_spelea	extinct	0.0096	0.02855	Beanka Protected Area
-Galidia_elegans	extant	0.0096	0.02855	Beanka Protected Area
-Eliurus_myoxinus	extant	0.0096	0.02855	Beanka Protected Area
-Eliurus_sp_nov_BPA	extant	0.0096	0.02855	Beanka Protected Area
-Microgale_brevicaudata	extant	0.0096	0.02855	Beanka Protected Area
-Microgale_talazaci	extant	0.0096	0.02855	Beanka Protected Area
-Setifer_setosus	extant	0.0096	0.02855	Beanka Protected Area
-Tenrec_ecaudatus	extant	0.0096	0.02855	Beanka Protected Area
 Asoriculus_corsicanus	extinct	0.01972	0.0285	Monte di Tuda
 Prolagus_sardus	extinct	0.01972	0.0285	Monte di Tuda
 Rhagamys_orthodon	extinct	0.01972	0.0285	Monte di Tuda
 Microtus_(Tyrrhenicola)_henseli	extinct	0.01972	0.0285	Monte di Tuda
+Hippopotamus_lemerlei	extinct	0.01705	0.02847	Tampolove1
 Babyrousa_celebensis	extant	0.02	0.028	Leang Burung 1
 Sus_celebensis	extant	0.02	0.028	Leang Burung 1
 Ailurops_ursinus	extant	0.02	0.028	Leang Burung 1
@@ -6379,6 +6448,7 @@ Mysateles_prehensilis	extant	0.00737	0.02758	Vega del Palmar
 Archaeolemur_majori	extinct	0.00983	0.02752	Taolambiby
 Cryptoprocta_ferox	extant	0.02003	0.02746	Tsirave
 Mystacina_robusta	extinct	0.01422	0.02746	Chatto Creek
+Palaeopropithecus_ingens	extinct	0.01177	0.02741	Ambolisatra/Andolonomby
 Macrotarsomys_petteri	extant	0.0153	0.0274	Andrahomana
 Geocapromys_ingrahami_FOSSIL	extant	0.00305	0.0274	Unknown site
 Geocapromys_ingrahami_irrectus	extinct	0.0249	0.0274	Burial Cave no 1
@@ -6395,7 +6465,8 @@ Antillomys_rayi	extinct	0.00556	0.02721	Grotte des Bambous
 Malpaisomys_insularis	extinct	0.02364	0.02706	 Malpais de la Arena II
 Crocidura_canariensis	extant	0	0.02706	 Malpais de la Arena II
 Malpaisomys_insularis	extinct	0.01088	0.02706	 Montana de la Arena
-Palaeopropithecus_ingens	extinct	0.01177	0.027	Ambolisatra/Andolonomby
+Hippopotamus_lemerlei	extinct	0.00985	0.02702	Ambolisatra/Andolonomby
+Ailurops_ursinus	extant	0.0051	0.027	Leang Jarie
 Sus_celebensis	extant	0.0037	0.027	Leang Karassa
 Macaca_maura	extant	0.0037	0.027	Leang Karassa
 Paruromys_dominator	extant	0.0037	0.027	Leang Karassa
@@ -6447,8 +6518,8 @@ Molossus_molossus	extant	0.013	0.0235	Hope Estate
 Oryzomyini_undescribed_species_(St_Martin_taxon)	extinct	0.0125	0.0235	Hope Estate
 Canariomys_bravoi	extinct	0.0218	0.0235	 Barranco de las Moraditas
 Hadropithecus_stenognathus	extinct	0.0211	0.02345	Beloha Anavoha
+Palaeopropithecus_ingens	extinct	0.02138	0.02343	Ampoza
 Pachylemur_insignis	extinct	0.01745	0.02343	Andrahomana
-Palaeopropithecus_ingens	extinct	0.0072	0.0234	Ampoza Ankazoabo
 Eulemur_fulvus	extant	0.0016	0.0234	Anjohibe
 Hippopotamus_lemerlei	extinct	0.0214	0.0234	Ankilibehandry
 Megaladapis_madagascariensis	extinct	0.0119	0.0234	Bevoha
@@ -6458,7 +6529,7 @@ Palaeopropithecus_ingens	extinct	0.0119	0.0234	Bevoha
 Cryptoprocta_ferox	extant	0.0119	0.0234	Bevoha
 Hadropithecus_stenognathus	extinct	0.01999	0.02337	Tsirave
 Mystacina_robusta	extinct	0.01297	0.02333	Earnscleugh Cave
-Mystacina_robusta	extinct	0.01414	0.02329	EarThquakes #1
+Mystacina_robusta	extinct	0.01414	0.02329	Earthquakes #1
 Geocapromys_columbianus	extinct	0.00771	0.02325	Sitio Victoria 1
 Capromys_pilorides	extant	0.00771	0.02325	Sitio Victoria 1
 Plesiorycteropus_madagascariensis	extinct	0.01015	0.0232	Belo sur Mer
@@ -6467,6 +6538,7 @@ Megaladapis_madagascariensis	extinct	0.0199	0.0232	Belo sur Mer
 Cryptoprocta_spelea	extinct	0.01015	0.0232	Belo sur Mer
 Hippopotamus_lemerlei	extinct	0.01015	0.0232	Belo sur Mer
 Hippopotamus_madagascariensis	extinct	0.01015	0.0232	Belo sur Mer
+Hippopotamus_lemerlei	extinct	0.02094	0.02313	Andranobe1
 Hadropithecus_stenognathus	extinct	0.01073	0.02311	Ankilibehandry
 Malpaisomys_insularis	extinct	0.00979	0.02311	 El Bebedero
 Crocidura_canariensis	extant	0	0.02311	 El Bebedero
@@ -6475,13 +6547,21 @@ Cryptoprocta_spelea	extinct	0.0162	0.023	Bemafandry
 Archaeolemur_majori	extinct	0.0162	0.023	Bemafandry
 Megaladapis_madagascariensis	extinct	0.0162	0.023	Bemafandry
 Pachylemur_insignis	extinct	0.0162	0.023	Bemafandry
-Mesopropithecus_globiceps	extinct	0.01313	0.02295	Ampoza Ankazoabo
+Mesopropithecus_globiceps	extinct	0.01313	0.02295	Ankazoabo
 Palaeopropithecus_ingens	extinct	0.01729	0.02292	Belo sur Mer
+Microcebus_griseorufus	extant	0	0.0228	Vintany
+Setifer_setosus	extant	0	0.0228	Vintany
+Lemur_catta	extant	0	0.0228	Vintany
+Mormopterus_jugularis	extant	0	0.0228	Vintany
+Triaenops_furculus	extant	0	0.0228	Vintany
+Fossa_fossana	extant	0	0.0228	Vintany
+Mesopropithecus_globiceps	extinct	0.02149	0.0226	Soarano Cave
 Isolobodon_portoricensis	extinct	0.0045	0.0225	Vi059 Punta Carenero
 Asoriculus_corsicanus	extinct	0.01684	0.02181	Monte di Tuda
 Prolagus_sardus	extinct	0.01684	0.02181	Monte di Tuda
 Rhagamys_orthodon	extinct	0.01684	0.02181	Monte di Tuda
 Microtus_(Tyrrhenicola)_henseli	extinct	0.01684	0.02181	Monte di Tuda
+Macrotarsomys_petteri	extant	0.02044	0.02181	Vintany
 Archaeolemur_majori	extinct	0.0122	0.02165	Belo sur Mer
 Canariomys_tamarani	extinct	0.01873	0.02157	 La Aldea
 Isolobodon_portoricensis	extinct	0.01174	0.02157	Hacienda Grande
@@ -6513,24 +6593,23 @@ Propithecus_verreauxi	extant	0.01075	0.02096	Tsirave
 Isolobodon_portoricensis	extinct	0.00304	0.02069	Sorce
 Nesophontes_edithae	extinct	0.00304	0.02069	Sorce
 Heteropsomys_insulans	extinct	0.00304	0.02069	Sorce
-Hadropithecus_stenognathus	extinct	0.01424	0.02062	Ampoza Ankazoabo
-Indri_indri	extant	0.01424	0.02062	Ampoza Ankazoabo
-Lemur_catta	extant	0.01424	0.02062	Ampoza Ankazoabo
-Archaeolemur_edwardsi	extinct	0.01424	0.02062	Ampoza Ankazoabo
-Archaeolemur_majori	extinct	0.01424	0.02062	Ampoza Ankazoabo
-Pachylemur_insignis	extinct	0.01424	0.02062	Ampoza Ankazoabo
-Plesiorycteropus_madagascariensis	extinct	0.01424	0.02062	Ampoza Ankazoabo
-Megaladapis_edwardsi	extinct	0.01424	0.02062	Ampoza Ankazoabo
-Megaladapis_madagascariensis	extinct	0.01424	0.02062	Ampoza Ankazoabo
-Propithecus_verreauxi	extant	0.01424	0.02062	Ampoza Ankazoabo
-Archaeolemur_majori	extinct	0.01424	0.02062	Ampoza Ankazoabo
+Hadropithecus_stenognathus	extinct	0.01424	0.02062	Ampoza
+Indri_indri	extant	0.01424	0.02062	Ampoza
+Lemur_catta	extant	0.01424	0.02062	Ampoza
+Archaeolemur_edwardsi	extinct	0.01424	0.02062	Ampoza
+Archaeolemur_majori	extinct	0.01424	0.02062	Ampoza
+Pachylemur_insignis	extinct	0.01424	0.02062	Ampoza
+Plesiorycteropus_madagascariensis	extinct	0.01424	0.02062	Ampoza
+Megaladapis_edwardsi	extinct	0.01424	0.02062	Ampoza
+Megaladapis_madagascariensis	extinct	0.01424	0.02062	Ampoza
+Propithecus_verreauxi	extant	0.01424	0.02062	Ampoza
 Plagiodontia_aedium	extant	0.019	0.0206	Trouing Jeremie #5
 Solenodon_paradoxus	extant	0.019	0.0206	Trouing Jeremie #5
 Macrotus_waterhousii	extant	0.019	0.0206	Trouing Jeremie #5
 Megaladapis_edwardsi	extinct	0.01182	0.02056	Bevoha
 Archaeolemur_majori	extinct	0.01064	0.0205	Beloha Anavoha
 Antillomys_rayi	extinct	0.01788	0.0205	Morel le Moule
-Brachyphylla_cavernarum	extant	0.0135	0.0205	Hichman s (GE 5)
+Brachyphylla_cavernarum	extant	0.0135	0.0205	Hichman_s (GE 5)
 Pachylemur_insignis	extinct	0.01015	0.02045	Belo sur Mer
 Solenodon_cubanus	extant	0.01895	0.02045	Los Caracoles near Manzanillo
 Capromys_pilorides	extant	0.01895	0.02045	Los Caracoles near Manzanillo
@@ -6547,6 +6626,7 @@ Megaladapis_madagascariensis	extinct	0.01425	0.02	Tsiandroina
 Megaladapis_edwardsi	extinct	0.01425	0.02	Tsiandroina
 Pachylemur_insignis	extinct	0.01425	0.02	Tsiandroina
 Cryptoprocta_spelea	extinct	0.01425	0.02	Tsiandroina
+Hipposideros_maggietaylorae	extant	0	0.02	Pamwak
 Mystacina_robusta	extinct	0.01	0.02	Ardenest
 Mystacina_tuberculata	extant	0	0.02	Ardenest
 Boromys_offella	extinct	0.0111	0.02	Playita
@@ -6578,17 +6658,20 @@ Geocapromys_columbianus	extinct	0.01174	0.01944	Catunda
 Boromys_offella	extinct	0.01174	0.01944	Catunda
 Mysateles_melanurus	extant	0.01174	0.01944	Catunda
 Mesopropithecus_globiceps	extinct	0.01753	0.01942	Belo sur Mer
-Capromys_pilorides	extant	0.00915	0.01931	CorinThia 3
-Mysateles_melanurus	extant	0.00915	0.01931	CorinThia 3
+Capromys_pilorides	extant	0.00915	0.01931	Corinthia 3
+Mysateles_melanurus	extant	0.00915	0.01931	Corinthia 3
+Macronycteris_commersoni	extant	0.01782	0.01927	Vintany
+Macronycteris_commersoni	extant	0.01782	0.01927	Vintany
+Hippopotamus_lemerlei	extinct	0.01058	0.0192	Antsirafaly Soalara
 Antillomys_rayi	extinct	0.0181	0.0192	Grotte du Morne Rita
-Pennatomys_nivalis	extinct	0.01777	0.01919	Hichman s (GE 5)
+Pennatomys_nivalis	extinct	0.01777	0.01919	Hichman_s (GE 5)
 Geocapromys_brownii	extant	0.01697	0.01892	Skeleton Cave
 Isolobodon_portoricensis	extinct	0.01736	0.01891	Maria de la Cruz cave
 Isolobodon_portoricensis	extinct	0.0045	0.01885	Tutu
 Cryptoprocta_ferox	extant	0.0131	0.0188	Ambolisatra/Andolonomby
 Mesopropithecus_globiceps	extinct	0.01612	0.01878	Ankilibehandry
 Cryptoprocta_ferox	extant	0.0131	0.0187	Manombo Toliara
-Cryptoprocta_spelea	extinct	0.01618	0.01865	Ampoza Ankazoabo
+Cryptoprocta_spelea	extinct	0.01618	0.01865	Ankazoabo
 Isolobodon_portoricensis	extinct	0.0115	0.0185	Trunk Bay
 Hippopotamus_lemerlei	extinct	0.0056	0.01832	Itampolo
 Canariomys_tamarani	extinct	0.0163	0.0183	 El Hormigueiro
@@ -6608,14 +6691,14 @@ Capromys_pilorides	extant	0.01049	0.01752	Abra del Cacoyuguin I
 Boromys_offella	extinct	0.01049	0.01752	Abra del Cacoyuguin I
 Geocapromys_columbianus	extinct	0.01049	0.01752	Abra del Cacoyuguin I
 Mysateles_melanurus	extant	0.01049	0.01752	Abra del Cacoyuguin I
-Brotomys_voratus	extinct	0.01279	0.01751	Trou WOch Dadier
-Isolobodon_portoricensis	extinct	0.01279	0.01751	Trou WOch Dadier
-Nesophontes_zamicrus	extinct	0.01279	0.01751	Trou WOch Dadier
-Plagiodontia_velozi	extinct	0.01279	0.01751	Trou WOch Dadier
-Hexolobodon_phenax	extinct	0.01279	0.01751	Trou WOch Dadier
-Isolobodon_montanus	extinct	0.01279	0.01751	Trou WOch Dadier
-Nesophontes_hypomicrus	extinct	0.01279	0.01751	Trou WOch Dadier
-Nesophontes_paramicrus	extinct	0.01279	0.01751	Trou WOch Dadier
+Brotomys_voratus	extinct	0.01279	0.01751	Trou Woch Dadier
+Isolobodon_portoricensis	extinct	0.01279	0.01751	Trou Woch Dadier
+Nesophontes_zamicrus	extinct	0.01279	0.01751	Trou Woch Dadier
+Plagiodontia_velozi	extinct	0.01279	0.01751	Trou Woch Dadier
+Hexolobodon_phenax	extinct	0.01279	0.01751	Trou Woch Dadier
+Isolobodon_montanus	extinct	0.01279	0.01751	Trou Woch Dadier
+Nesophontes_hypomicrus	extinct	0.01279	0.01751	Trou Woch Dadier
+Nesophontes_paramicrus	extinct	0.01279	0.01751	Trou Woch Dadier
 Antillomys_rayi	extinct	0.01527	0.01741	Tourlourous
 Brachyphylla_cavernarum	extant	0.01527	0.01741	Tourlourous
 Antillomys_rayi	extinct	0.00691	0.01741	Stade Jose Bade
@@ -6693,12 +6776,13 @@ Brachyphylla_cavernarum	extant	0.01285	0.016	Taliseronde
 Oryzomyini_undescribed_species_(Anguilla_taxon)	extinct	0.0045	0.016	Sandy Ground
 Megalomys_camerhogne	extinct	0.003	0.0158	Pearls
 Zygodontomys_brevicauda	extant	0.003	0.0158	Pearls
+Megaladapis_edwardsi	extinct	0.01068	0.01569	Antsirafaly Soalara
 Megaladapis_edwardsi	extinct	0.01064	0.01563	Beloha Anavoha
 Capromyidae_gen_et_sp_indet_Carriacou	extinct	0.007	0.0156	Grand Bay
 Zygodontomys_brevicauda	extant	0.007	0.0156	Grand Bay
 Hadropithecus_stenognathus	extinct	0.01228	0.01556	Belo sur Mer
-Oryzomyini_undescribed_species_(Saba)	extinct	0.0056	0.0155	Kelbey s Ridge 
-Brachyphylla_cavernarum	extant	0.006	0.0155	Kelbey s Ridge
+Oryzomyini_undescribed_species_(Saba)	extinct	0.0056	0.0155	Kelbey_s Ridge 
+Brachyphylla_cavernarum	extant	0.006	0.0155	Kelbey_s Ridge
 Oryzomyini_undescribed_species_(Saba)	extinct	0.011	0.0155	Spring Bay
 Nesophontes_edithae	extinct	0.0115	0.0155	AR 39 Tanama Site 2
 Heteropsomys_insulans	extinct	0.0115	0.0155	AR 39 Tanama Site 2
@@ -6715,9 +6799,9 @@ Phyllops_vetus	extinct	0.00695	0.01548	Cueva El Gato Jibaro
 Mormoops_blainvillei	extant	0.00695	0.01548	Cueva El Gato Jibaro
 Brachyphylla_nana	extant	0.00695	0.01548	Cueva El Gato Jibaro
 Phyllonycteris_poeyi	extant	0.00695	0.01548	Cueva El Gato Jibaro
-Archaeolemur_edwardsi	extinct	0.01305	0.01545	Lakaton i Anja: Montagne des Francais
-Megaladapis_grandidieri	extinct	0.01305	0.01545	Lakaton i Anja: Montagne des Francais
-Palaeopropithecus_maximus	extinct	0.01305	0.01545	Lakaton i Anja: Montagne des Francais
+Archaeolemur_edwardsi	extinct	0.01305	0.01545	Lakaton_i Anja: Montagne des Francais
+Megaladapis_grandidieri	extinct	0.01305	0.01545	Lakaton_i Anja: Montagne des Francais
+Palaeopropithecus_maximus	extinct	0.01305	0.01545	Lakaton_i Anja: Montagne des Francais
 Mysateles_prehensilis	extant	0.01409	0.01545	Cueva de Leonel
 Macrocapromys_acevedo	extinct	0.01409	0.01545	Cueva de Leonel
 Nesophontes_micrus	extinct	0.01409	0.01545	Cueva de Leonel
@@ -6744,16 +6828,21 @@ Xenothrix_mcgregori	extinct	0.01443	0.01511	Somerville Cave
 Urocyon_littoralis	extant	0.0128	0.0151	Tecolote member
 Synemporion_keana	extinct	0.014	0.015	Ka eleku Caverns
 Isolobodon_portoricensis	extinct	0.0095	0.015	Playa Sardinera
-Pteropus_neohibernicus	extant	0	0.01496	DJW = Kura
-Dobsonia_moluccensis	extant	0	0.01496	DJW = Kura
+Pteropus_neohibernicus	extant	0	0.01496	DJW Kura
+Dobsonia_moluccensis	extant	0	0.01496	DJW Kura
 Brachyphylla_cavernarum	extant	0.0075	0.01496	Mill Reef
 Antillomys_rayi	extinct	0.0075	0.01496	Mill Reef
 Megalomys_luciae	extinct	0.01332	0.01472	Grand Anse
 Antillomys_rayi	extinct	0.0105	0.0145	Petite Anse
 Brachyphylla_cavernarum	extant	0.0015	0.01443	Pointe Gros Rempart
-Megaladapis_edwardsi	extinct	0.01315	0.01425	Antsirafaly
 Geocapromys_ingrahami_FOSSIL	extant	0.01175	0.01423	Palmetto Grove (SS 2)
 Isolobodon_portoricensis	extinct	0.0065	0.01421	Tibes
+Hippopotamus_lemerlei	extinct	0.01315	0.0142	Androka
+Cryptoprocta_ferox	extant	0	0.01409	Mitoho Cave
+Lemur_catta	extant	0	0.01409	Mitoho Cave
+Macrotarsomys_petteri	extant	0	0.01409	Mitoho Cave
+Mormopterus_jugularis	extant	0	0.01409	Mitoho Cave
+Triaenops_menamena	extant	0	0.01409	Mitoho Cave
 Geocapromys_columbianus	extinct	0.01175	0.01408	La Guira Santiago de Cuba
 Boromys_offella	extinct	0.01175	0.01408	La Guira Santiago de Cuba
 Mysateles_melanurus	extant	0.01175	0.01408	La Guira Santiago de Cuba
@@ -6764,14 +6853,14 @@ Boromys_offella	extinct	0.01244	0.014	Punta de Peque
 Mysateles_melanurus	extant	0.01244	0.014	Punta de Peque
 Molossus_molossus	extant	0.00538	0.01396	Petite Riviere
 Antillomys_rayi	extinct	0.0055	0.01383	Anse a la Gourde 
+Palaeopropithecus_ingens	extinct	0.00964	0.01361	Ankazoabo
 Geocapromys_ingrahami_FOSSIL	extant	0.00315	0.01354	Pigeon Creek
 Zygodontomys_brevicauda	extant	0.0055	0.0135	Sabazan
-Molossus_molossus	extant	0.0075	0.0135	Anse Trabaud
 Antillomys_rayi	extinct	0.0065	0.0135	Est de Mouton de Bas
-Antillomys_rayi	extinct	0.0075	0.0135	Anse a l Eau
+Antillomys_rayi	extinct	0.0075	0.0135	Anse a l_Eau
 Molossus_molossus	extant	0.0055	0.0135	Maisabel
 Isolobodon_portoricensis	extinct	0.0045	0.0135	Salt River
-Megaoryzomys_curioi	extinct	0.0091	0.01348	Cave No. 4
+Megaoryzomys_curioi	extinct	0.0091	0.01348	Cave No 4
 Nesophontes_major	extinct	0.01294	0.01348	Cueva de la Caja/Nesofontes
 Nesophontes_micrus	extinct	0.0118	0.01348	Cueva de la Caja/Nesofontes
 Mesocapromys_kraglievichi	extinct	0.01294	0.01348	Cueva de la Caja/Nesofontes
@@ -6789,7 +6878,7 @@ Mesopropithecus_pithecoides	extinct	0.0118	0.0134	Ampasambazimba
 Canis_lupus	extant	0.0112	0.0132	Vallone Inferno 
 Isolobodon_portoricensis	extinct	0.009	0.01313	Cape Wright
 Palaeopropithecus_ingens	extinct	0.0118	0.01311	Ampehabe Cave: West of Mikoboka Plateau: Cave #12
-Hypogeomys_antimena	extant	0.0107	0.0131	Ampoza Ankazoabo
+Hypogeomys_antimena	extant	0.0107	0.0131	Ampoza
 Lemur_catta	extant	0.00961	0.01305	Tsirave
 Muridae_indet_(large)_Alor	extinct	0.01187	0.01305	Jareng Bori
 Propithecus_verreauxi	extant	0.00551	0.01301	Taolambiby
@@ -6800,7 +6889,7 @@ Brachyphylla_cavernarum	extant	0.0107	0.013	Indian Castle (GE 1)
 Isolobodon_portoricensis	extinct	0.0045	0.013	La Jacanas
 Nesophontes_edithae	extinct	0.0105	0.013	La Jacanas
 Pennatomys_nivalis	extinct	0.0107	0.01292	Indian Castle (GE 1)
-Hippopotamus_lemerlei	extinct	0.01176	0.0129	Ambolisatra/Andolonomby
+Molossus_molossus	extant	0.0078	0.0129	Anse Trabaud
 Oryzomyini_undescribed_species_(St_Martin_taxon)	extinct	0.0099	0.0129	Pointe du Canonnier
 Pennatomys_nivalis	extinct	0.00835	0.0129	Bloody Point
 Malpaisomys_insularis	extinct	0.0114	0.01289	 Old Roost
@@ -6822,17 +6911,18 @@ Mesocapromys_nanus	extant	0.00722	0.01278	La Escondida de Bucuey
 Mysateles_melanurus	extant	0.00722	0.01278	La Escondida de Bucuey
 Acratocnus_odontrigonus	extinct	0.01208	0.01276	Cueva Nina
 Isolobodon_portoricensis	extinct	0.01208	0.01276	Cueva Nina
+Megaladapis_madagascariensis	extinct	0.01205	0.01275	Antsirafaly Soalara
+Archaeolemur_majori	extinct	0.00878	0.01273	Antsirafaly Soalara
 Dobsonia_crenulata	extant	0.00666	0.01269	Uattamdi
 Hippopotamus_madagascariensis	extinct	0.0108	0.01268	Antakara
 Megalomys_desmarestii	extinct	0.01062	0.01264	Clavius Marius
 Isolobodon_portoricensis	extinct	0.01197	0.01263	Cueva de la Vaca
+Hippopotamus_lemerlei	extinct	0.01062	0.01261	Andranosoa
 Heteropsomys_insulans	extinct	0.01063	0.01256	Cueva de Juan Miguel (Cag 3 site)
 Acratocnus_odontrigonus	extinct	0.01149	0.01251	Inside Out Cave
 Elasmodontomys_obliquus	extinct	0.01149	0.01251	Inside Out Cave
 Isolobodon_portoricensis	extinct	0.01149	0.01251	Inside Out Cave
 Nesophontes_edithae	extinct	0.01149	0.01251	Inside Out Cave
-Hippopotamus_lemerlei	extinct	0.0099	0.0125	Nosy Ve
-Archaeolemur_majori	extinct	0.0099	0.0125	Nosy Ve
 Megalomys_desmarestii	extinct	0.0095	0.0125	Paquemar
 Hystrix_brachyura	extant	0	0.0124	Gua Tupak
 Pongo_pygmaeus	extant	0	0.0124	Gua Tupak
@@ -6843,10 +6933,10 @@ Tragulus_napu	extant	0	0.0124	Gua Tupak
 Viverra_tangalunga	extant	0	0.0124	Gua Tupak
 Melogale_everetti	extant	0	0.0124	Gua Tupak
 Atherurus_macrourus	extant	0	0.0124	Gua Tupak
-Echinosorex_gymnurus	extant	0	0.0124	Gua Tupak
-Macaca_fascicularis	extant	0.0092	0.0122	Ambangan
+Echinosorex_gymnura	extant	0	0.0124	Gua Tupak
 Rusa_marianna	extant	0.0092	0.0122	Ambangan
 Oryzomyini_undescribed_species_(St_Martin_taxon)	extinct	0.00991	0.0122	Anse des Peres
+Hippopotamus_lemerlei	extinct	0.0978	0.01179	Manombo Toliara
 Megalomys_georginae	extinct	0.005	0.01178	Silver Sands
 Megaoryzomys_nov_sp_Isabela	extinct	0.00792	0.01177	Cueva de Macas
 Nesoryzomys_nov_sp_2	extinct	0.00792	0.01177	Cueva de Macas
@@ -6887,19 +6977,46 @@ Boromys_offella	extinct	0.00453	0.01082	Aguas Gordas
 Capromys_pilorides	extant	0.00453	0.01082	Aguas Gordas
 Antillomys_rayi	extinct	0.00935	0.0107	Ilet du Gosier
 Lemur_catta	extant	0.0082	0.01065	Taolambiby
+Lemur_catta	extant	0.00928	0.01064	Malazamanga Cave
+Megaladapis_edwardsi	extinct	0.00898	0.01064	Malazamanga Cave
+Hippopotamus_lemerlei	extinct	0.00898	0.01064	Malazamanga Cave
+Cryptoprocta_spelea	extinct	0.00898	0.01064	Malazamanga Cave
 Solenodon_cubanus	extant	0.00683	0.01064	Loma de la Forestal
 Cheirogaleus_major	extant	0.00963	0.01063	Taolambiby
 Eulemur_fulvus	extant	0.00808	0.01058	Taolambiby
 Tenrec_ecaudatus	extant	0.00654	0.01057	Taolambiby
-Melomys_roThschildii	extant	0	0.01055	DJO D = Kessa plantation (all zones pooled together)
-Pteropus_neohibernicus	extant	0	0.01055	DJO D = Kessa plantation (all zones pooled together)
-Dobsonia_moluccensis	extant	0	0.01055	DJO D = Kessa plantation (all zones pooled together)
+Cheirogaleus_medius	extant	0.00925	0.01056	Beanka Protected Area
+Microcebus_myoxinus	extant	0.00925	0.01056	Beanka Protected Area
+Eulemur_mongoz	extant	0.00925	0.01056	Beanka Protected Area
+Hapalemur_griseus	extant	0.00925	0.01056	Beanka Protected Area
+Prolemur_simus	extant	0.00925	0.01056	Beanka Protected Area
+Avahi_cleesei	extant	0.00925	0.01056	Beanka Protected Area
+Propithecus_deckenii	extant	0.00956	0.01056	Beanka Protected Area
+Lepilemur_randrianasoloi	extant	0.00925	0.01056	Beanka Protected Area
+Chaerephon_leucogaster	extant	0.00925	0.01056	Beanka Protected Area
+Mormopterus_jugularis	extant	0.00925	0.01056	Beanka Protected Area
+Otomops_madagascariensis	extant	0.00925	0.01056	Beanka Protected Area
+Macronycteris_commersoni	extant	0.00925	0.01056	Beanka Protected Area
+Triaenops_menamena	extant	0.00925	0.01056	Beanka Protected Area
+Cryptoprocta_ferox	extant	0.00925	0.01056	Beanka Protected Area
+Galidia_elegans	extant	0.00925	0.01056	Beanka Protected Area
+Eliurus_myoxinus	extant	0.00925	0.01056	Beanka Protected Area
+Eliurus_sp_nov_BPA	extant	0.00925	0.01056	Beanka Protected Area
+Microgale_brevicaudata	extant	0.00925	0.01056	Beanka Protected Area
+Microgale_talazaci	extant	0.00925	0.01056	Beanka Protected Area
+Setifer_setosus	extant	0.00925	0.01056	Beanka Protected Area
+Tenrec_ecaudatus	extant	0.00925	0.01056	Beanka Protected Area
+Melomys_bougainville	extant	0	0.01055	DJO D Kessa plantation (all zones pooled together)
+Pteropus_neohibernicus	extant	0	0.01055	DJO D Kessa plantation (all zones pooled together)
+Dobsonia_moluccensis	extant	0	0.01055	DJO D Kessa plantation (all zones pooled together)
 Daubentonia_robusta	extinct	0.008	0.0105	Beloha Anavoha
 Antillomys_rayi	extinct	0.0075	0.0105	Jumby Bay
 Pennatomys_nivalis	extinct	0.0075	0.0105	Sulphur Ghaut (JO 2)
 Isolobodon_portoricensis	extinct	0.0045	0.0105	El Bronce
 Isolobodon_portoricensis	extinct	0.0065	0.0105	Lujan midden A and B
 Nesophontes_edithae	extinct	0.0065	0.0105	Lujan midden A and B
+Oryzomys_antillarum	extinct	0.0045	0.0105	White Marl Site
+Geocapromys_brownii	extant	0.0045	0.0105	White Marl Site
 Megalomys_desmarestii	extinct	0.0069	0.0103	Anse Trabaud
 Mysateles_melanurus	extant	0.00632	0.01005	Arroyo del Palo
 Capromys_pilorides	extant	0.00632	0.01005	Arroyo del Palo
@@ -6908,17 +7025,19 @@ Mesocapromys_minimus	extinct	0.00632	0.01005	Arroyo del Palo
 Geocapromys_columbianus	extinct	0.00632	0.01005	Arroyo del Palo
 Boromys_offella	extinct	0.00632	0.01005	Arroyo del Palo
 Solenodon_cubanus	extant	0.00632	0.01005	Arroyo del Palo
+Rusa_marianna	extant	0	0.01	Anda
+Sus_philippensis	extant	0	0.01	Anda
 Pteropus_tonganus	extant	0	0.01	Hosea
 Mystacina_tuberculata	extant	0.001	0.01	Falcon site 1
 Mystacina_tuberculata	extant	0	0.01	Cave Falcon site
 Mystacina_tuberculata	extant	0	0.01	Owl site 2
 Mystacina_tuberculata	extant	0	0.01	Owl site 3
 Isolobodon_portoricensis	extinct	0.007	0.01	Paraquita
-Oryzomys_antillarum	extinct	0.005	0.01	White Marl Site
-Geocapromys_brownii	extant	0.005	0.01	White Marl Site
+Eulemur_rufus	extant	0.00925	0.00984	Beanka Protected Area
 Oryzomyini_undescribed_species_(St_Martin_taxon)	extinct	0.00926	0.0097	Baie aux Prunes
 Geocapromys_ingrahami_abaconis	extinct	0.0074	0.0097	Gilpin Point
 Solenodon_cubanus	extant	0.00737	0.00968	Vega del Palmar
+Echinops_telfairi	extant	0.00926	0.0096	Taolambiby
 Archaeolemur_edwardsi	extinct	0.0078	0.0096	Ankarana
 Pteropus_tonganus	extant	0.00766	0.0096	Uramoa
 Isolobodon_montanus	extinct	0.00498	0.0096	El Flaco
@@ -6929,6 +7048,7 @@ Emballonura_semicaudata	extant	0.0072	0.00956	Payapai cave
 Pteropus_mariannus	extant	0.0072	0.00956	Payapai cave
 Antillomys_rayi	extinct	0.00553	0.00951	Muddy Bay
 Rusa_alfredi	extant	0.0035	0.0095	Tanjay
+Sus_cebifrons	extant	0.0035	0.0095	Tanjay
 Pteropus_tonganus	extant	0.005	0.0095	Anai o
 Pteropus_tonganus	extant	0.0055	0.0095	Tangatatau
 Urocyon_littoralis	extant	0.008	0.0095	Locality SMI V 10C
@@ -6943,8 +7063,8 @@ Brachyphylla_cavernarum	extant	0.0053	0.0094	Finca de Dona Rosa
 Eptesicus_wetmori	extant	0.0053	0.0094	Finca de Dona Rosa
 Isolobodon_portoricensis	extinct	0.0053	0.0094	Finca de Dona Rosa
 Antillomys_rayi	extinct	0.0033	0.00934	Roseau
-Erophylla_sezekorni	extant	0.0031	0.00925	McKay s Bluff Cave (CR 5)
-Macrotus_waterhousii	extant	0.0031	0.00925	McKay s Bluff Cave (CR 5)
+Erophylla_sezekorni	extant	0.0031	0.00925	McKay_s Bluff Cave (CR 5)
+Macrotus_waterhousii	extant	0.0031	0.00925	McKay_s Bluff Cave (CR 5)
 Boromys_offella	extinct	0.00533	0.00925	El Mango
 Boromys_torrei	extinct	0.00533	0.00925	El Mango
 Geocapromys_columbianus	extinct	0.00533	0.00925	El Mango
@@ -6959,19 +7079,16 @@ Oryzomyini_undescribed_species_(Anguilla_taxon)	extinct	0.00725	0.00915	Shoal Ba
 Antillomys_rayi	extinct	0.00679	0.00914	A L Escalier
 Cercartetus_caudatus	extant	0	0.0091	Aibura
 Anisomys_imitator	extant	0.0062	0.0091	Aibura
-Hyomys_goliaTh	extant	0.0062	0.0091	Aibura
+Hyomys_goliath	extant	0.0062	0.0091	Aibura
 Oryzomyini_undescribed_species_(St_Martin_taxon)	extinct	0.0083	0.0091	Grand Case Flamboyant BK 76/77
 Chiroderma_improvisum	extant	0.00674	0.00906	Folle Anse
 Antillomys_rayi	extinct	0.00674	0.00906	Folle Anse
 Nesophontes_major	extinct	0.00695	0.00901	Cueva El Gato Jibaro
 Nesophontes_micrus	extinct	0.00695	0.00901	Cueva El Gato Jibaro
-Hipposideros_commersoni	extant	0.0072	0.009	Tsimanampetsotsa
+Macronycteris_commersoni	extant	0.0072	0.009	Tsimanampetsotsa
 Cryptoprocta_ferox	extant	0.0072	0.009	Tsimanampetsotsa
-Lemur_catta	extant	0.0072	0.009	Tsimanampetsotsa
 Macrotarsomys_bastardi	extant	0.0072	0.009	Tsimanampetsotsa
-Macrotarsomys_petteri	extant	0.0072	0.009	Tsimanampetsotsa
 Triaenops_furculus	extant	0.0072	0.009	Tsimanampetsotsa
-Mormopterus_jugularis	extant	0.0072	0.009	Tsimanampetsotsa
 Paremballonura_tiavato	extant	0.0072	0.009	Tsimanampetsotsa
 Propithecus_verreauxi	extant	0.0072	0.009	Tsimanampetsotsa
 Tenrec_ecaudatus	extant	0.0072	0.009	Tsimanampetsotsa
@@ -7000,13 +7117,13 @@ Brachyphylla_nana	extant	0.00375	0.0086	Dolphin Cave
 Erophylla_sezekorni	extant	0.00375	0.0086	Dolphin Cave
 Eptesicus_fuscus	extant	0.00375	0.0086	Dolphin Cave
 Macrotus_waterhousii	extant	0.00375	0.0086	Furtherland Farms Cow Well
-Macrotus_waterhousii	extant	0.00375	0.0086	Miller s Cave
-Erophylla_sezekorni	extant	0.00375	0.0086	Miller s Cave
+Macrotus_waterhousii	extant	0.00375	0.0086	Miller_s Cave
+Erophylla_sezekorni	extant	0.00375	0.0086	Miller_s Cave
 Tadarida_brasiliensis	extant	0.00375	0.0086	Old Man Cave
 Isolobodon_portoricensis	extinct	0.0045	0.0085	AR 38 Tanama Site 1
 Solenodon_cubanus	extant	0.00551	0.00835	Loma de Ochile
 Boromys_offella	extinct	0.00551	0.00835	Loma de Ochile
-Hyomys_goliaTh	extant	0.0068	0.0083	Batari
+Hyomys_goliath	extant	0.0068	0.0083	Batari
 Geocapromys_brownii	extant	0.00626	0.00798	Marta Tick Cave
 Oryzomys_antillarum	extinct	0.00626	0.00798	Marta Tick Cave
 Isolobodon_portoricensis	extinct	0.0052	0.00795	La Mineral
@@ -7104,15 +7221,18 @@ Geocapromys_ingrahami_FOSSIL	extant	0.0041	0.0063	Palmetto Junction
 Geocapromys_ingrahami_FOSSIL	extant	0.00314	0.00623	MC 6
 Cryptoprocta_ferox	extant	0.005	0.0062	Ankilitelo
 Geocapromys_ingrahami_irrectus	extinct	0.0051	0.0062	Major s Landing (CR 8)
+Sus_cebifrons	extant	0	0.006	Plaza Independencia
+Rusa_alfredi	extant	0	0.006	Plaza Independencia
 Megalomys_georginae	extinct	0.0018	0.00566	Hillcrest
 Boromys_offella	extinct	0.00472	0.00562	El Porvenir
 Geocapromys_columbianus	extinct	0.00293	0.00546	Ventas de Casanova
 Boromys_offella	extinct	0.00293	0.00546	Ventas de Casanova
 Brotomys_voratus	extinct	0.00422	0.00544	Cueva Fito Santos 
 Antillomys_rayi	extinct	0.00494	0.0054	Pointe des Chateaux
-Geocapromys_ingrahami_irrectus	extinct	0.0031	0.00524	McKay s Bluff Cave (CR 5)
+Eidolon_dupreanum	extant	0	0.00533	Vintany
+Microcebus_griseorufus	extant	0	0.00531	Andrahomana
+Geocapromys_ingrahami_irrectus	extinct	0.0031	0.00524	McKay_s Bluff Cave (CR 5)
 Geocapromys_ingrahami_abaconis	extinct	0.00441	0.00523	Ralph s Cave
-Microcebus_griseorufus	extant	0	0.00517	Andrahomana
 Isolobodon_portoricensis	extinct	0.0031	0.00513	Cueva Negra
 Capromys_pilorides_lewisi	extinct	0.00307	0.00511	Crocodile Canal
 Capromys_pilorides_lewisi	extinct	0.00326	0.0051	Pebble Cave
@@ -7122,7 +7242,7 @@ Tadarida_brasiliensis	extant	0.00428	0.0051	Conch Bar Cave
 Brachyphylla_nana	extant	0.00428	0.0051	Conch Bar Cave
 Monophyllus_redmani	extant	0.00428	0.0051	Conch Bar Cave
 Eidolon_dupreanum	extant	0.0015	0.005	Anjohibe
-Antillomys_rayi	extinct	0.00457	0.005	Anse a l Ecu
+Antillomys_rayi	extinct	0.00457	0.005	Anse a l_Ecu
 Pteronotus_portoricensis	extant	0.00457	0.005	Trou Lolo
 Geocapromys_brownii	extant	0	0.005	Portland Ridge Caves
 Geocapromys_brownii	extant	0	0.005	Seven Rivers Cave
@@ -7145,8 +7265,8 @@ Erophylla_sezekorni	extant	0.00139	0.00463	Hole in the Wall Cave
 Eptesicus_fuscus	extant	0.00139	0.00463	Hole in the Wall Cave
 Propithecus_coquereli	extant	0	0.0046	Anjohibe
 Geocapromys_ingrahami_FOSSIL	extant	0.0039	0.00458	Long Bay (SS 9)
-Macrotus_waterhousii	extant	0	0.00458	Trou WOch Dadier
-Plagiodontia_aedium	extant	0	0.00458	Trou WOch Dadier
+Macrotus_waterhousii	extant	0	0.00458	Trou Woch Dadier
+Plagiodontia_aedium	extant	0	0.00458	Trou Woch Dadier
 Artibeus_jamaicensis	extant	0	0.00458	Cueva de la Caja/Nesofontes
 Desmodus_rotundus_FOSSIL	extant	0	0.00458	Cueva de la Caja/Nesofontes
 Molossus_molossus	extant	0	0.00458	Cueva de la Caja/Nesofontes
@@ -7156,8 +7276,8 @@ Monophyllus_redmani	extant	0	0.00458	Cueva El Gato Jibaro
 Artibeus_jamaicensis	extant	0	0.00458	Cueva El Gato Jibaro
 Tadarida_brasiliensis	extant	0	0.00458	Cueva El Gato Jibaro
 Tenrec_ecaudatus	extant	0.0015	0.0045	Anjohibe
-Tadarida_brasiliensis	extant	0	0.0045	Anse a l Ecu
-Brachyphylla_cavernarum	extant	0	0.0045	Anse a l Ecu
+Tadarida_brasiliensis	extant	0	0.0045	Anse a l_Ecu
+Brachyphylla_cavernarum	extant	0	0.0045	Anse a l_Ecu
 Natalus_stramineus	extant	0	0.0045	Trou Lolo
 Brachyphylla_cavernarum	extant	0	0.0045	Trou Lolo
 Monophyllus_plethodon	extant	0	0.0045	Trou Lolo
@@ -7167,11 +7287,11 @@ Noctilio_leporinus	extant	0.0015	0.0035	Castle Bay Cave
 Megaoryzomys_curioi	extinct	0.00124	0.0035	Cueva del Cascajo
 Nesoryzomys_darwini	extinct	0.00124	0.0035	Cueva del Cascajo
 Nesoryzomys_indefessus_indefessus	extinct	0.00124	0.0035	Cueva del Cascajo
-Nesoryzomys_darwini	extinct	0.00294	0.0035	3 km norTh of Academy Bay
-Nesoryzomys_indefessus_indefessus	extinct	0.00294	0.0035	3 km norTh of Academy Bay
+Nesoryzomys_darwini	extinct	0.00294	0.0035	3 km north of Academy Bay
+Nesoryzomys_indefessus_indefessus	extinct	0.00294	0.0035	3 km north of Academy Bay
 Geocapromys_ingrahami_irrectus	extinct	0.0025	0.0035	Preacher s Cave
-Melomys_talaudium	extant	0	0.0034	Leang Mande et
-Melomys_caurinus	extant	0	0.0034	Leang Mande et
+Melomys_talaudium	extant	0	0.0034	Leang Mande_et
+Melomys_caurinus	extant	0	0.0034	Leang Mande_et
 Megaoryzomys_nov_sp_Isabela	extinct	0.00255	0.00335	Cueva Perdida
 Suncus_murinus	extant	0.00277	0.00309	Sabichi Fissure
 Pteropus_dasymallus	extant	0.00277	0.00309	Sabichi Fissure
@@ -7180,7 +7300,9 @@ Niviventer_nov_sp_Ryukyu	extinct	0.00277	0.00309	Sabichi Fissure
 Lepilemur_edwardsi	extant	0.0015	0.003	Anjohibe
 Urocyon_littoralis	extant	0	0.003	Locality SMI V 11
 Fossa_fossana	extant	0	0.0026	Andrahomana
+Macronycteris_commersoni	extant	0.00138	0.00231	Anjohibe
 Isolobodon_portoricensis	extinct	0.0017	0.0023	GN2
 Geocapromys_ingrahami_FOSSIL	extant	0.00139	0.00225	Abraham s Bay
 Mystacina_tuberculata	extant	0	0.0012	Island Cliff site 2
+Macronycteris_commersoni	extant	0	0.00076	Andranohilova Cave
 Brachyphylla_cavernarum	extant	0	0.0005	Blanchard 2
