@@ -394,7 +394,7 @@ data_ext_from_Late_Pleisto_0.05_0.1_M <- read.csv('Results/PyRate_ext_rates/Plot
 data_ext_from_Late_Pleisto_0.05_0.1_M <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_M, time_ext_Ma = time_ext/100) #Convert x axis in Ma
 
 plot_ext_from_Late_Pleisto_0.05_0.1_M <- ggplot(data_ext_from_Late_Pleisto_0.05_0.1_M, aes(x= time_ext_Ma, y = rate_ext)) +
-  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1_M, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1_M, aes(x = time_ext_Ma, y = rate_ext), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   geom_ribbon(data = data_ext_from_Late_Pleisto_0.05_0.1_M, aes(x = time_ext_Ma, ymin = minHPD_ext, ymax = maxHPD_ext), inherit.aes = FALSE, fill = "#c6392f", alpha = .1)+
   xlab("Time (Ma)") + ylab("Extinction rate")+
   scale_y_continuous(breaks=c(0,0.5,1,1.5,2))+
@@ -412,8 +412,8 @@ plot_ext_from_Late_Pleisto_0.05_0.1_M
 # Madagascar only direct dates                                         ####
 ###########################################################################
 
-bf2_Late_Pleisto_0.05_0.1_M = 0.008940946764048881
-bf6_Late_Pleisto_0.05_0.1_M = 0.062495169975149416
+bf2_Late_Pleisto_0.05_0.1_M = 0.008795171432627166
+bf6_Late_Pleisto_0.05_0.1_M = 0.06153044446769028
 
 data_ext_shift_from_Late_Pleisto_0.05_0.1_M <- read.csv('Results/PyRate_ext_rates/Plots_ext_rates/Ext_rate_shifts_from_LP_Madag_only_direct.csv')
 
@@ -438,10 +438,10 @@ plot_ext_shift_from_Late_Pleisto_0.05_0.1_M
 # Plot magnitude of extinction rate increase relative to the base value #
 #########################################################################
 
-data_ext_from_Late_Pleisto_0.05_0.1_M <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_M, ext_rate_increase = rate_ext/0.02163634)
+data_ext_from_Late_Pleisto_0.05_0.1_M <- mutate(data_ext_from_Late_Pleisto_0.05_0.1_M, ext_rate_increase = rate_ext/0.02191950)
 
 plot_ext_increase_from_Late_Pleisto_0.05_0.1_M <- ggplot(data_ext_from_Late_Pleisto_0.05_0.1_M, aes(x= time_ext_Ma, y = ext_rate_increase)) +
-  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", size = 1) +
+  geom_line(data = data_ext_from_Late_Pleisto_0.05_0.1_M, aes(x = time_ext_Ma, y = ext_rate_increase), inherit.aes = FALSE, stat = 'identity', colour = "#c6392f", linewidth = 1) +
   xlab("Time (Ma)") + ylab("Magnitude of rate increase")+
   scale_y_continuous(breaks=c(1,25,50,75))+
   scale_x_continuous(breaks=c(0,-0.025,-0.05,-0.075,-0.1,-0.125))+
