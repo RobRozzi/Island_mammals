@@ -274,7 +274,7 @@ figure_1 <- ggarrange(plot_ext_from_Mio_0.05, plot_ext_shift_from_Mio_0.05, plot
                       ncol = 1, nrow = 9)
 figure_1
 
-ggsave(figure_1, filename = "Ext_rates_from_Mio_Pl_and_LP.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 18, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(figure_1, filename = "Ext_rates_from_Mio_Pl_and_LP.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 18, device = cairo_pdf) #save the plot in pdf
 
 ################################################
 # Plot ext rate and frequency of               #
@@ -299,7 +299,7 @@ Plot_Mio <- ggplot(data_ext_from_Mio_default, aes(x= time_ext_Ma, y = rate_ext))
 
 Plot_Mio
 
-ggsave(Plot_Mio, filename = "Ext_rates_and_shifts_from_Mio.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(Plot_Mio, filename = "Ext_rates_and_shifts_from_Mio.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf
 
 ################################################
 # Plot ext rate and frequency of               #
@@ -330,7 +330,7 @@ Plot_Pleisto <- ggplot(data_ext_from_Pleisto_0.05, aes(x= time_ext_Ma, y = rate_
 
 Plot_Pleisto
 
-ggsave(Plot_Pleisto, filename = "Ext_rates_and_shifts_from_Pleisto.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(Plot_Pleisto, filename = "Ext_rates_and_shifts_from_Pleisto.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf
 
 #####################################################
 # Plot ext rate and frequency of                    #
@@ -360,7 +360,7 @@ Plot_Late_Pleisto <- ggplot(data_ext_from_Late_Pleisto_0.05_0.1, aes(x= time_ext
 
 Plot_Late_Pleisto
 
-ggsave(Plot_Late_Pleisto, filename = "Ext_rates_and_shifts_from_Late_Pleisto_min_dt_0.1.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(Plot_Late_Pleisto, filename = "Ext_rates_and_shifts_from_Late_Pleisto_min_dt_0.1.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 5, height = 2, device = cairo_pdf) #save the plot in pdf
 
 #####################################
 # Combine all 3 plots for Figure 3A #
@@ -382,7 +382,7 @@ figure_2 <- ggarrange(Plot_Mio, Plot_Pleisto, Plot_Late_Pleisto,
 
 figure_2
 
-ggsave(figure_2, filename = "Figure_3A.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 3, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(figure_2, filename = "Figure_3A.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 3, device = cairo_pdf) #save the plot in pdf
 
 ###################################################################################
 # Load data and plot ext rates from Late Pleisto; time unit = 10 ka            ####
@@ -670,6 +670,6 @@ figure_3 <- ggarrange(plot_ext_from_Late_Pleisto_0.05_0.1_M, plot_ext_shift_from
                       ncol = 1, nrow = 8)
 figure_3
 
-ggsave(figure_3, filename = "Ext_rates_from_Mio_Pl_and_LP_MAD&ANAGEN_CUT.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 16, device = cairo_pdf) #save the plot in pdf with legend and axis names with Roboto font
+ggsave(figure_3, filename = "Ext_rates_from_Mio_Pl_and_LP_MAD&ANAGEN_CUT.pdf", path = "Results/PyRate_ext_rates/Plots_ext_rates", width = 10, height = 16, device = cairo_pdf) #save the plot in pdf
 
 #End of script
