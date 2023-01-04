@@ -88,9 +88,10 @@ Magnitude_model <- ggplot(predicted_random, aes(x = x, y = predicted, group = gr
   geom_rug(data = island_species_extant[island_species_extant$Pr_threatened=="nonthreatened",], aes(x = Magnitude_body_size_change), colour = "darkgrey", alpha = .5, inherit.aes = FALSE, sides = "b")+
   geom_rug(data = island_species_extant[island_species_extant$Pr_threatened=="threatened",], aes(x = Magnitude_body_size_change), colour = "darkgrey",  alpha = .5, sides = "t", inherit.aes = FALSE)+
   labs(x = "Magnitude of body size change", y = "P(threatened)") +
-  theme(axis.title = element_text(family = "Arial", size = 16, colour = "grey40"),
-        axis.text.x = element_text(family = "Arial", size = 12),
-        axis.text.y = element_text(family = "Arial", size = 12),
+  coord_cartesian(ylim = c(0, 1))+
+  theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
+        axis.text.x = element_text(family = "Arial", size = 14),
+        axis.text.y = element_text(family = "Arial", size = 14),
         panel.grid = element_blank()) +
   geom_line(data = predicted_magnitude, aes(x = x, y = predicted), inherit.aes = FALSE, stat = 'identity', colour = "#f6c564", linetype="dotted", size = 2) +
   geom_ribbon(data = predicted_magnitude, aes(x = x, ymin = conf.low, ymax = conf.high), fill = "#f6c564", inherit.aes = FALSE, alpha = .2)
@@ -98,7 +99,7 @@ Magnitude_model <- ggplot(predicted_random, aes(x = x, y = predicted, group = gr
 Magnitude_model
 
 #Save figure in pdf
-ggsave(Magnitude_model, filename = "P(threatened)_vs_Magnitude.pdf", path = "Results/GLMMs", width = 14, height = 8.5, device = cairo_pdf)
+ggsave(Magnitude_model, filename = "P(threatened)_vs_Magnitude.pdf", path = "Results/GLMMs", width = 6, height = 6, device = cairo_pdf)
 
 #Plot single predictor model Pr_threatened ~ Magnitude: one panel for each Order
 
@@ -168,12 +169,12 @@ Body_size_classes_vs_P_threatened <- ggplot(island_species_extant, aes(x = BM_gr
   scale_colour_manual(values = c("#f0755d", "#742615"))+
   labs(x = "Body size (kg)", y = "Magnitude of body size change") +
   coord_flip(ylim = c(NA, 1.2)) +
-  theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
-        axis.text.x = element_text(family = "Arial", size = 12),
-        axis.text.y = element_text(family = "Arial", size = 12),
+  theme(axis.title = element_text(family = "Arial", size = 18, colour = "grey40"),
+        axis.text.x = element_text(family = "Arial", size = 14),
+        axis.text.y = element_text(family = "Arial", size = 14),
         panel.grid = element_blank(),
         legend.title = element_blank(),
-        legend.text = element_text(family = "Arial", size = 12, colour = "grey40"))
+        legend.text = element_text(family = "Arial", size = 14, colour = "grey40"))
 
 Body_size_classes_vs_P_threatened
 
