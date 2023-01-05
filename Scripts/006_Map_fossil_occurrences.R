@@ -12,6 +12,7 @@ library(Cairo)
 library(rnaturalearth)
 library(rnaturalearthdata)
 library(sf)
+library(forcats)
 library(Cairo)
 
 ##############################################################
