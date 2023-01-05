@@ -232,7 +232,7 @@ extrafont::loadfonts(device = "win")
 theme_set(theme_light(base_size = 12, base_family = "Arial"))
 
 Plot_phylo_signal <- ggplot(phylo_sign_estimates, aes(x = phy_sign, y = estimate, fill = trait, color = trait)) + 
-  stat_summary(fun.data=mean_sdl, fun.args = list(mult = 1), size = 1, geom="pointrange", shape = 15, position = position_dodge(0.75))+
+  stat_summary(fun.data=mean_sdl, fun.args = list(mult = 1), linewidth = 1, size = 1, geom="pointrange", shape = 15, position = position_dodge(0.75))+
   geom_jitter(size = 2.5, alpha = 0.1, position = position_jitterdodge(0.5), set.seed(123)) +
   scale_colour_manual(values = c("#52352e", "#c25234"))+
   labs(x = "", y = "Estimate") +
