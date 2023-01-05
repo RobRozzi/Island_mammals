@@ -48,8 +48,19 @@ island_pops_ext <- island_pops_ext %>%
                        "threatened"))
 
 ###################################################################
-# Plot populationss for each Order based on IUCN colours       ####
+# Plot populations for each Order based on IUCN colours       ####
 ###################################################################
+
+#Define IUCN colours
+
+island_pops_ext <- island_pops_ext %>%
+  mutate(IUCN_Category =
+           fct_relevel(IUCN_Category,
+                       "LC",
+                       "NT",
+                       "VU",
+                       "EN",
+                       "CR"))
 
 extrafont::loadfonts(device = "win")
 
