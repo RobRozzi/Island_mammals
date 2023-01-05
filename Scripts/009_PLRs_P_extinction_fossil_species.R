@@ -108,7 +108,7 @@ AICc.phyloglm<-function(mod, return.K = FALSE, second.ord = TRUE, nobs = NULL, .
 for(i in 1:length(trees_complete_TACT)) {
   currentTree <- trees_complete_TACT[[i]]
   PLR_iterated <- phyloglm(Pr_extinction_bin ~ Magnitude_body_size_change, data = db_total, phy = currentTree, method = c("logistic_MPLE"), boot = 100)
-  R2_PLR1[i] <- R2.lik(PLR_iterated)
+  R2_PLR1[i] <- R2_lik(PLR_iterated)
   AICc_PLR1[i] <- AICc.phyloglm(PLR_iterated)
 }
 
@@ -194,7 +194,7 @@ AICc_PLR2 <- list(length = trees_complete_TACT)
 for(i in 1:length(trees_complete_TACT)) {
   currentTree <- trees_complete_TACT[[i]]
   PLR_iterated <- phyloglm(Pr_extinction_bin ~ Body_mass_island_taxon, data = db_total, phy = currentTree, method = c("logistic_MPLE"), boot = 100)
-  R2_PLR2[i] <- R2.lik(PLR_iterated)
+  R2_PLR2[i] <- R2_lik(PLR_iterated)
   AICc_PLR2[i] <- AICc.phyloglm(PLR_iterated)
 }
 
