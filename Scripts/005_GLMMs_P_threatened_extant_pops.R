@@ -180,8 +180,8 @@ endemism.labs <- c("endemic taxa", "non-endemic taxa")
 names(endemism.labs) <- c("yes", "no")
 
 Magnitude_dir_end_model <- ggplot(data = island_pops_ext, aes(Magnitude_size_change, Pr_threatened, colour = Direction_body_size_change)) +
-                           scale_color_manual(values = c("#ee8c3d", "#f6c564"))+
-                           scale_fill_manual(values = c("#ee8c3d", "#f6c564"))+
+                           scale_color_manual(values = c("#edae49", "#66a182"))+
+                           scale_fill_manual(values = c("#edae49", "#66a182"))+
                            labs(x = "Magnitude of body size change", y = "P(threatened)") +
                            geom_line(data = predicted, aes(x = x, y = predicted, group = group, color = group), show.legend=FALSE, inherit.aes = FALSE, size = 2) +
                            geom_ribbon(data = predicted, aes(x = x, ymin = conf.low, ymax = conf.high, group = group, fill = group), inherit.aes = FALSE, show.legend=FALSE, alpha = .1)+
