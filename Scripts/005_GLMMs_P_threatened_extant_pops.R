@@ -160,7 +160,7 @@ ggsave(Magnitude_model_orders, filename = "P(threatened)_vs_Magnitude_orders_pop
 
 #Plot effect of interaction endemism*direction based on the model with magnitude*direction*endemism
 
-predicted <- ggpredict(glmer15, terms = c("Magnitude_body_size_change [all]", "Direction_body_size_change", "Endemism"), type = "fixed")
+predicted <- ggpredict(glmer9, terms = c("Magnitude_body_size_change [all]", "Direction_body_size_change", "Endemism"), type = "fixed")
 
 predicted
 
