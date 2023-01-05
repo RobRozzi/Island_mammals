@@ -16,6 +16,7 @@ library(caper)
 library(phytools)
 library(extrafont)
 library(ggpubr)
+library(gt)
 library(Cairo)
 
 ##############################################################
