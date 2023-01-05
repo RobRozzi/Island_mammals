@@ -102,7 +102,7 @@ AICc.phyloglm<-function(mod, return.K = FALSE, second.ord = TRUE, nobs = NULL, .
 for(i in 1:length(trees_complete)) {
   currentTree <- trees_complete[[i]]
   PLR_iterated <- phyloglm(Pr_threatened_bin ~ Magnitude_body_size_change, data = db, phy = currentTree, method = c("logistic_MPLE"), boot = 100)
-  R2_PLR1[i] <- R2.lik(PLR_iterated)
+  R2_PLR1[i] <- R2_lik(PLR_iterated)
   AICc_PLR1[i] <- AICc.phyloglm(PLR_iterated)
 }
 
@@ -188,7 +188,7 @@ AICc_PLR2 <- list(length = trees_complete)
 for(i in 1:length(trees_complete)) {
   currentTree <- trees_complete[[i]]
   PLR_iterated <- phyloglm(Pr_threatened_bin ~ Body_mass_island_taxon, data = db, phy = currentTree, method = c("logistic_MPLE"), boot = 100)
-  R2_PLR2[i] <- R2.lik(PLR_iterated)
+  R2_PLR2[i] <- R2_lik(PLR_iterated)
   AICc_PLR2[i] <- AICc.phyloglm(PLR_iterated)
 }
 
@@ -281,7 +281,7 @@ AICc_PLR3 <- list(length = trees_DNA_only)
 for(i in 1:length(trees_DNA_only)) {
   currentTree <- trees_DNA_only[[i]]
   PLR_iterated <- phyloglm(Pr_threatened_bin ~ Magnitude_body_size_change, data = db, phy = currentTree, method = c("logistic_MPLE"), boot = 100)
-  R2_PLR3[i] <- R2.lik(PLR_iterated)
+  R2_PLR3[i] <- R2_lik(PLR_iterated)
   AICc_PLR3[i] <- AICc.phyloglm(PLR_iterated)
 }
 
@@ -365,7 +365,7 @@ AICc_PLR4 <- list(length = trees_DNA_only)
 for(i in 1:length(trees_DNA_only)) {
   currentTree <- trees_DNA_only[[i]]
   PLR_iterated <- phyloglm(Pr_threatened_bin ~ Body_mass_island_taxon, data = db, phy = currentTree, method = c("logistic_MPLE"), boot = 100)
-  R2_PLR4[i] <- R2.lik(PLR_iterated)
+  R2_PLR4[i] <- R2_lik(PLR_iterated)
   AICc_PLR4[i] <- AICc.phyloglm(PLR_iterated)
 }
 
