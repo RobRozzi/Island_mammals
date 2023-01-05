@@ -216,7 +216,7 @@ island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
 # Calculate proportions and numbers of hist extinct taxa per BM class     ####
 ##############################################################################
 
-hist_extinct_subset_island_sp_mainlandvsisland <- filter(island_sp_mainlandvsisland, Pr_hist_extinction != "extant") #taglia tutte le righe in cui Pr_extinction = extant
+hist_extinct_subset_island_sp_mainlandvsisland <- filter(island_sp_mainlandvsisland, Pr_hist_extinction != "extant")
 
 #bucketing values into bins
 group_tags_hist_extinct <- cut(hist_extinct_subset_island_sp_mainlandvsisland$Body_mass, 
@@ -361,7 +361,7 @@ island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
   mutate(number_threatened_per_size_class_island_vs_mainland = length(Pr_threatened))
 
 #Create another dataset without nonthreatened data
-island_sp_mainlandvsisland_only_threatened <- filter(island_sp_mainlandvsisland, Pr_threatened != "nonthreatened") #taglia tutte le righe in cui IUCN_Category è DD
+island_sp_mainlandvsisland_only_threatened <- filter(island_sp_mainlandvsisland, Pr_threatened != "nonthreatened") 
 
 ###################################################################################################
 # Plot raw data: proportion and number of threatened taxa per BM class on islands vs mainland  ####
@@ -428,4 +428,63 @@ plot6
 #Save figure in pdf
 ggsave(plot6, filename = "P(threatened)_BM_island_vs_mainland.pdf", path = "Results/GLMMs", width = 2.5, height = 2.5, device = cairo_pdf)
 
+##############################################################
+# Fit GLMM: Pr_extinct and BM islands vs mainland         ####
+# Including only late Quaternary extinct taxa             ####
+##############################################################
+
+#Import data island species
+
+island_species_extant <- read.csv('Data/Extant_mammals_species.csv')
+island_species_extant <- select(island_species_extant, -c("Source_Body_mass_and_size_ratio", "Source_Ancestor_or_closest_mainland_relative"))
+island_species_fossil_late_Quat <- read.csv('Data/Fossil_mammals_species_only_late_Quaternary.csv')
+island_species_fossil_late_Quat <- select(island_species_fossil_late_Quat, -c("Source"))
+
+#Combine extant and fossil datasets
+
+island_species_all <- rbind(island_species_extant, island_species_fossil_late_Quat)
+island_species_all <- select(island_species_all, -c("Island","Ancestor_or_closest_mainland_relative", "Size_ratio", 
+                                                    "Log_Size_ratio","Body_mass_mainland_taxon", "Magnitude_body_size_change",
+                                                    "Direction_body_size_change", "Endemism", "Notes"))
+
+island_species_all <- rename(island_species_all, Body_mass = Body_mass_island_taxon)
+island_species_all <- mutate(island_species_all, Island_or_mainland = "island")
+
+#Import data mainland species
+mainland_species <- read.csv('Data/Mainland_species_PHYLACINE.csv')
+
+#Combine island and mainland datasets
+
+island_sp_mainlandvsisland <- rbind(island_species_all, mainland_species)
+island_sp_mainlandvsisland <- filter(island_sp_mainlandvsisland, IUCN_Category != "DD")
+island_sp_mainlandvsisland <- filter(island_sp_mainlandvsisland, Body_mass != "")
+
+#Creates extant vs extinct column
+island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
+  mutate(Pr_extinction = recode_factor(IUCN_Category,
+                                       EP = "extinct",
+                                       EW = "extinct",
+                                       EX = "extinct",
+                                       CR = "extant",
+                                       EN = "extant",
+                                       VU = "extant",
+                                       NT = "extant",
+                                       LC = "extant"))
+
+#Reorder extinct vs extant column from low to high extinction risk
+island_sp_mainlandvsisland <- island_sp_mainlandvsisland %>%
+  mutate(Pr_extinction =
+           fct_relevel(Pr_extinction,
+                       "extant",
+                       "extinct"))
+
+#Fit model
+island_sp_mainlandvsisland$Body_mass_log <- log10(island_sp_mainlandvsisland$Body_mass)
+
+glmer4 <- glmer(Pr_extinction ~ Body_mass_log * Island_or_mainland + (1|Order), data = island_sp_mainlandvsisland, family=binomial(link="logit"))
+
+#Visualize results and save table as doc file
+tab_model(glmer4, show.aicc = TRUE, file = "Results/GLMMs/Table_models_ext_only_late_Quat_main_vs_isl.doc")
+
 #End of script
+
