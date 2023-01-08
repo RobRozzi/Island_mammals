@@ -406,7 +406,7 @@ gt_tbl7 <- gt_tbl7 %>% tab_header(
 gt_tbl7
 
 #Save the table
-gtsave(gt_tbl7, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.html", path = "Results/PLRs")
+gtsave(gt_tbl7, filename = "Table_Summ_stats_PLR_P(threatened)_vs_Magnitude_phylo_intra_uncertainty_extant_pops_DNA_only_trees.html", path = "Results/PLRs")
 
 #######################################################
 # Fit model and calculate summary stats for Body mass #
