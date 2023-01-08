@@ -40,9 +40,9 @@ log_BF_6 = significance[2]
 log_BF_10 = significance[1]
 
 
-##############################################################
-# Plot effect temporal overlap with humans                ####
-##############################################################
+##########################################################################
+# Plot effect temporal overlap with pre-sapiens and modern humans     ####
+##########################################################################
 
 #Set theme and colour scheme
 
@@ -134,7 +134,7 @@ violin_BM <- ggplot(BM, aes(x = class_BM, y = value)) +
   stat_summary(fun=median, size = 2, geom="point", colour="#0d574d")+
   scale_fill_manual(values=c("#0d574d"))+
   labs(x = "Body mass (kg)", y = "relative effect on extinction") +
-  geom_hline(yintercept=1/7, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/6 because we have 7 classes of BM
+  geom_hline(yintercept=1/7, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/7 because we have 7 classes of BM
   scale_x_discrete(labels=c("very small", "small","small medium","medium", "large medium", "large", "very large"))+
   theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 12),
@@ -164,7 +164,7 @@ violin_BSC <- ggplot(BSC, aes(x = class_BSC, y = value)) +
   stat_summary(fun=median, size = 2, geom="point", colour="#004571")+
   scale_fill_manual(values=c("#004571"))+
   labs(x = "Body size change", y = "relative effect on extinction") +
-  geom_hline(yintercept=1/7, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/6 because we have 7 classes of BM
+  geom_hline(yintercept=1/7, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/7 because we have 7 classes of BSC
   scale_x_discrete(labels=c("strongly D", "moderately D","slightly D","no change", "slightly G", "moderately G", "strongly G"))+
   theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 12),
@@ -194,7 +194,7 @@ violin_endemism <- ggplot(endemism, aes(x = class_endemism, y = value)) +
   stat_summary(fun=median, size = 2, geom="point", colour="#004571")+
   scale_fill_manual(values=c("#004571"))+
   labs(x = "Endemism", y = "relative effect on extinction") +
-  geom_hline(yintercept=1/2, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/6 because we have 7 classes of BM
+  geom_hline(yintercept=1/2, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/2 because we have 2 classes of endemism
   scale_x_discrete(labels=c("non-endemic", "endemic"))+
   theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 12),
@@ -224,7 +224,7 @@ violin_island <- ggplot(island, aes(x = class_island, y = value)) +
   stat_summary(fun=median, size = 2, geom="point", colour="#004571")+
   scale_fill_manual(values=c("#004571"))+
   labs(x = "Island type", y = "relative effect on extinction") +
-  geom_hline(yintercept=1/3, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/6 because we have 7 classes of BM
+  geom_hline(yintercept=1/3, linetype="dashed", color = "grey40", size=.4)+ #value of yintercept = h=1/length(indx_trait); in this case 1/3 because we have 3 classes of island type
   scale_x_discrete(labels=c("continental", "oceanic","both"))+
   theme(axis.title = element_text(family = "Arial", size = 12, colour = "grey40"),
         axis.text.x = element_text(family = "Arial", size = 12),
