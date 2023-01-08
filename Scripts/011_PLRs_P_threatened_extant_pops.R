@@ -199,7 +199,7 @@ gt_tbl5 <- gt(stats_PLR5)
 
 gt_tbl5 <- gt_tbl5 %>% tab_header(
   title = "Model: P(threatened) ~ Magnitude of body mass change",
-  subtitle = "n_species = 384; 100 complete TACT trees")       #n_pops = 1518
+  subtitle = "n_species = 384; 100 complete TACT trees")
 
 gt_tbl5
 
@@ -297,7 +297,7 @@ gt_tbl6 <- gt(stats_PLR6)
 
 gt_tbl6 <- gt_tbl6 %>% tab_header(
   title = "Model: P(threatened) ~ Body mass",
-  subtitle = "n_species = 384; 100 complete TACT trees")  #n_pops = 1518
+  subtitle = "n_species = 384; 100 complete TACT trees")
 
 gt_tbl6
 
@@ -500,7 +500,7 @@ gt_tbl8 <- gt(stats_PLR8)
 
 gt_tbl8 <- gt_tbl8 %>% tab_header(
   title = "Model: P(threatened) ~ Body mass",
-  subtitle = "n_species = 331; 100 DNA-only trees")  #n_pops = 1518
+  subtitle = "n_species = 331; 100 DNA-only trees")
 
 gt_tbl8
 
