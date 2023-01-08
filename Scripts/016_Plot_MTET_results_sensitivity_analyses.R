@@ -159,7 +159,7 @@ log_BF_10 = significance[1]
 # Plot bars of probability of an effect on extinction     ####
 ##############################################################
 
-probs <- select(data, I_bm, I_body_size_change, I_Endemism, I_island_type, data_type) 
+probs <- select(data, I_bm, I_body_size_change, I_endemism, I_island_type, data_type) 
 
 probs <- probs%>%group_by(data_type)%>%summarise_if(is.numeric, mean)
 
@@ -264,14 +264,14 @@ ggsave(violin_BSC, filename = "Rel_effect_BSC_all_sensitivity.pdf", path = "Resu
 # Violin plot of relative effect of endemism on extinction  ####
 ################################################################
 
-endemism <- select(data, m_Endemism_0, m_Endemism_1, data_type) 
+endemism <- select(data, m_endemism_0, m_endemism_1, data_type) 
 
-endemism <- gather(endemism, class_Endemism, value, m_Endemism_0:m_Endemism_1, -c(data_type), factor_key=TRUE)
+endemism <- gather(endemism, class_endemism, value, m_endemism_0:m_endemism_1, -c(data_type), factor_key=TRUE)
 
 endemism
 
 #Plot
-violin_endemism <- ggplot(endemism, aes(x = class_Endemism, y = value)) + 
+violin_endemism <- ggplot(endemism, aes(x = class_endemism, y = value)) + 
   geom_violin(scale = "width", alpha = 0.5, fill="#004571", color=FALSE)+
   stat_summary(fun=median, size = 2, geom="point", colour="#004571")+
   scale_fill_manual(values=c("##004571"))+
