@@ -25,7 +25,7 @@ island_species_extant <- read.csv('Data/Extant_mammals_species.csv')
 
 #remove taxa with not available size ratio
 island_species_extant <- filter(island_species_extant, Size_ratio != "")
-#remove taxa that experienced no substantial size change (6)
+#remove taxa that experienced no substantial size change
 island_species_extant <- filter(island_species_extant, Direction_body_size_change != "no_change") 
                        
 #Create threatened vs nonthreatened column 
