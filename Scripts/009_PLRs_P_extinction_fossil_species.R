@@ -55,7 +55,7 @@ db_total <- db_total %>%
 #Create extant vs extinct column as a binary output 
 #0 = extant; 1 = extinct
 db_total <- db_total %>%
-  mutate(Pr_extinction_bin = recode_factor(Pr_extinction,
+  mutate(Pr_extinction_bin = recode(Pr_extinction,
                                     extant = 0L, 
                                     extinct = 1L))
 
