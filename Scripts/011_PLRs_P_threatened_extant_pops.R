@@ -214,7 +214,7 @@ PLR6 <- tree_intra_phyglm(Pr_threatened_bin ~ Body_mass_island_taxon_scaled_mean
 summary(PLR6)
 #Visualize diagnostics for interaction between phylo uncertainty and data uncertainty
 sensi_plot6 <- sensi_plot(PLR6, graphs = 3, uncer.type = "all")
-ggsave(sensi_plot6, filename = "PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.pdf", path = "Results/PLRs") 
+ggsave(sensi_plot6, filename = "PLR_P(threatened)_vs_Body_mass_phylo_intra_uncertainty_extant_pops_complete_trees_TACT.pdf", path = "Results/PLRs", width = 6, height = 6, device = cairo_pdf) 
 
 #Extract summary stats in a table
 stats_PLR6 <- PLR6$all.stats
