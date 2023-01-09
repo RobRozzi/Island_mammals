@@ -24,8 +24,7 @@ library(IUCNpalette)
 
 island_pops_ext <- read.csv('Data/Extant_mammals_populations.csv')
 
-#remove populations with not available BM and not yet assessed
-island_pops_ext <- filter(island_pops_ext, IUCN_Category != "not_assessed_yet") 
+#remove populations with not available BM
 island_pops_ext <- filter(island_pops_ext, Body_mass_island_taxon != "") 
 
 #remove populations that experienced no substantial size change
