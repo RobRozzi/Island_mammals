@@ -45,7 +45,7 @@ db <- db %>%
 #Create threatened vs nonthreatened column as a binary output 
 #0 = nonthreatened; 1 = threatened
 db <- db %>%
-  mutate(Pr_threatened_bin = recode_factor(Pr_threatened,
+  mutate(Pr_threatened_bin = recode(Pr_threatened,
                                     nonthreatened = 0L,
                                     threatened = 1L))
 
