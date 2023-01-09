@@ -21,9 +21,8 @@ library(Cairo)
 
 db <- read.csv('Data/Extant_mammals_populations_PLRs.csv')
 
-#remove taxa with not available BM and not yet assessed
+#remove taxa with not available BM
 db <- filter(db, Body_mass_island_taxon != "") 
-db <- filter(db, IUCN_Category != "not_assessed_yet")
 #remove taxa that experienced no substantial size change
 db <- filter(db, Direction_body_size_change != "no_change")
 
