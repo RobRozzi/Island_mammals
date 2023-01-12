@@ -206,8 +206,6 @@ ggsave(Magnitude_dir_end_model, filename = "Magnitude_Direction_Endemism_pops.pd
 
 island_pops_ext_no_change_included <- read.csv('Data/Extant_mammals_populations.csv')
 
-island_pops_ext_no_change_included <- filter(island_pops_ext_no_change_included, IUCN_Category != "not_assessed_yet")
-
 island_pops_ext_no_change_included <- filter(island_pops_ext_no_change_included, Size_ratio != "") 
 
 island_pops_ext_no_change_included <- filter(island_pops_ext_no_change_included, Body_mass_island_taxon != "") 
