@@ -2,7 +2,7 @@
 
 Scrips to run the analyses for the paper:
 
-Roberto Rozzi, Mark V. Lomolino, Alexandra A. E. van der Geer, Daniele Silvestro, S. Kathleen Lyons, Pere Bover, Josep A. Alcover, Ana Benítez-López, Cheng-Hsiu Tsai, Masaki Fujita, Mugino O. Kubo, Janine Ochoa, Matthew E. Scarborough, Samuel T. Turvey, Alexander Zizka, Jonathan M. Chase (2023). Dwarfism and gigantism drive human-mediated extinctions on islands. Science. www.science.org/doi/10.1126/science.add8606
+Rozzi et al. 2023. Dwarfism and gigantism drive human-mediated extinctions on islands. Science. www.science.org/doi/10.1126/science.add8606
 
 All data are available at: https://doi.org/10.6084/m9.figshare.c.6444335.v2
 
